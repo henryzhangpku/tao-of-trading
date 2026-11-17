@@ -1,5 +1,7 @@
 # Slow Is Fast: The Tao of Trading · 慢就是快：交易道德经
 
+<p align="center"><img src="cover.jpg" alt="Slow Is Fast: The Tao of Trading" width="320"></p>
+
 **Laozi's eighty-one chapters, in his order and on his subjects, read for the trader: one verse, one lesson, one story.**
 
 > **Status: in progress, written in the open.** The proposal is in [PROPOSAL.md](PROPOSAL.md); the first written chapter is [64. The Journey of a Thousand Li](en/chapter-64.md). Chapters appear here as they are finished.
