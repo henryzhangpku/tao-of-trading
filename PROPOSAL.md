@@ -1,6 +1,6 @@
 # Book proposal — Slow Is Fast: The Tao of Trading · 慢就是快：交易道德经
 
-*Henry Zhang · 张恒 — proposal draft, 15 November 2026. Private until Henry decides to publish.*
+*Henry Zhang · 张恒 — proposal draft, 15 November 2026. Public from 17 November 2026; chapters appear as they are finished.*
 
 ## In one paragraph
 

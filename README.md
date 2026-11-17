@@ -2,7 +2,7 @@
 
 **Laozi's eighty-one chapters, in his order and on his subjects, read for the trader: one verse, one lesson, one story.**
 
-> **Status: in progress, private.** The proposal is in [PROPOSAL.md](PROPOSAL.md); the first written chapter is [64. The Journey of a Thousand Li](en/chapter-64.md). Chapters appear here as they are finished.
+> **Status: in progress, written in the open.** The proposal is in [PROPOSAL.md](PROPOSAL.md); the first written chapter is [64. The Journey of a Thousand Li](en/chapter-64.md). Chapters appear here as they are finished.
 
 Two and a half thousand years ago a keeper of archives wrote eighty-one short chapters on how to act without forcing. He wrote about water, which wins by yielding; about the empty bowl, useful because it is empty; about the uncarved block, plain before it is decorated; about the man on tiptoe who cannot stand; and about knowing when to stop, which he said is the end of danger.
 
