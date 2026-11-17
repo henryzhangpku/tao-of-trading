@@ -4,7 +4,9 @@
 
 **Laozi's eighty-one chapters, in his order and on his subjects, read for the trader: one verse, one lesson, one story.**
 
-> **Status: in progress, written in the open.** The proposal is in [PROPOSAL.md](PROPOSAL.md); the first written chapter is [64. The Journey of a Thousand Li](en/chapter-64.md). Chapters appear here as they are finished.
+> **Status: in progress, written in the open.** The proposal is in [PROPOSAL.md](PROPOSAL.md). Chapters appear here as they are finished, nine at a time, English and Chinese together.
+>
+> **Progress:** prologue, chapters 1–9 and 64, in English and Chinese (11 of 82 documents; batch 1 of 9, 17 November 2026). Also on the [Henry Zhang Books app](https://apps.apple.com/app/id6792229566), from the prologue to chapter 9.
 
 Two and a half thousand years ago a keeper of archives wrote eighty-one short chapters on how to act without forcing. He wrote about water, which wins by yielding; about the empty bowl, useful because it is empty; about the uncarved block, plain before it is decorated; about the man on tiptoe who cannot stand; and about knowing when to stop, which he said is the end of danger.
 
@@ -21,8 +23,17 @@ No forecasts, no signals, no performance claims.
 | | English | 中文 |
 |---|---|---|
 | Contents | **[Start here](en/README.md)** | **[从这里开始](zh/README.md)** |
-| Prologue | [Before the First Step](en/prologue.md) | 写作中 |
-| Sample chapter | [64. The Journey of a Thousand Li](en/chapter-64.md) | 写作中 |
+| Prologue | [Before the First Step](en/prologue.md) | [序：始于足下](zh/prologue.md) |
+| 1 | [The Rule That Can Be Spoken](en/chapter-01.md) | [道可道](zh/chapter-01.md) |
+| 2 | [Long and Short Make Each Other](en/chapter-02.md) | [天下皆知美之为美](zh/chapter-02.md) |
+| 3 | [Do Not Display the Desirable](en/chapter-03.md) | [不尚贤](zh/chapter-03.md) |
+| 4 | [The Empty Vessel](en/chapter-04.md) | [道冲](zh/chapter-04.md) |
+| 5 | [Straw Dogs](en/chapter-05.md) | [天地不仁](zh/chapter-05.md) |
+| 6 | [The Valley Spirit](en/chapter-06.md) | [谷神不死](zh/chapter-06.md) |
+| 7 | [Heaven Lasts Long](en/chapter-07.md) | [天长地久](zh/chapter-07.md) |
+| 8 | [Highest Good Is Like Water](en/chapter-08.md) | [上善若水](zh/chapter-08.md) |
+| 9 | [Fill It to the Brim](en/chapter-09.md) | [持而盈之](zh/chapter-09.md) |
+| 64 | [The Journey of a Thousand Li](en/chapter-64.md) | [其安易持](zh/chapter-64.md) |
 
 Both editions are written by hand. The Chinese is not a machine translation of the English; it is the same book written twice.
 

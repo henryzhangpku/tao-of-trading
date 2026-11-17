@@ -6,6 +6,8 @@ He was not writing about markets. He was writing about water, valleys, uncarved 
 
 This book follows him chapter by chapter, in his order. Each chapter quotes one verse, in the Chinese and in English; reads it in a few numbered lines for a trader; and then tells one story from my own trading and research life — building systems that trade on written rules, freezing those rules and testing them forward, letting a model propose and the rules decide. The stories are the point. Laozi does not argue, and neither will I.
 
+I am not the first to carry this book into markets, and I owe a debt I should name at the start. Mark Spitznagel's *The Dao of Capital* (2013) reads Laozi, and the Chinese strategists who came after him, for the investor: the roundabout path, giving up a little now to gain more later, the patient route over the direct grab, measured across years and decades. I learned a great deal from it, and where its ideas meet mine I will say so. This book takes the same old text somewhere else: to the trading day. The trade not forced this morning, the loss cut at the price you named, the rule left alone until tomorrow's forward test, the model that proposes and the rule that decides. And I read the text in the original, the way I first met it as a child in China, and practise it as an engineer who builds trading systems. Slow is fast inside a single session, not only across decades.
+
 The line on the cover is mine, not his. *Slow is fast* is not in the *Tao Te Ching*. Its relatives are: 企者不立，跨者不行, "who stands on tiptoe does not stand firm; who strides does not walk" (chapter 24); 大器晚成, "the great vessel is finished late" (chapter 41); 千里之行，始于足下, "the journey of a thousand li begins with a single step" (chapter 64). The proverb 欲速则不达, "haste does not arrive," is Confucius, not Laozi. I have borrowed from all of them, and I say so here once so that I do not have to say it again.
 
 The translations are my own from the received Chinese text, unless a line is marked as James Legge's (1891), which is in the public domain.
@@ -16,4 +18,4 @@ Read one chapter a day. Eighty-one chapters is a little under three months, whic
 
 ---
 
-[Contents](README.md) · [64. The Journey of a Thousand Li →](chapter-64.md)
+[Contents](README.md) · [1. The Rule That Can Be Spoken →](chapter-01.md)

@@ -12,15 +12,15 @@
 
 The first thirty-seven chapters are about seeing the market plainly: the rule that can be spoken is not the market; the vessel is useful because it is empty; water wins by yielding; the uncarved block beats the carved one; the man on tiptoe cannot stand. They end on the line the whole book turns on — the Tao does nothing, and nothing is left undone. For a trader: the model proposes, the rules decide.
 
-1. The Rule That Can Be Spoken — 《道可道》
-2. Long and Short Make Each Other — 《天下皆知美之为美》
-3. Do Not Display the Desirable — 《不尚贤》
-4. The Empty Vessel — 《道冲》
-5. Straw Dogs — 《天地不仁》
-6. The Valley Spirit — 《谷神不死》
-7. Heaven Lasts Long — 《天长地久》
-8. Highest Good Is Like Water — 《上善若水》
-9. Fill It to the Brim — 《持而盈之》
+1. [The Rule That Can Be Spoken](chapter-01.md) — 《道可道》
+2. [Long and Short Make Each Other](chapter-02.md) — 《天下皆知美之为美》
+3. [Do Not Display the Desirable](chapter-03.md) — 《不尚贤》
+4. [The Empty Vessel](chapter-04.md) — 《道冲》
+5. [Straw Dogs](chapter-05.md) — 《天地不仁》
+6. [The Valley Spirit](chapter-06.md) — 《谷神不死》
+7. [Heaven Lasts Long](chapter-07.md) — 《天长地久》
+8. [Highest Good Is Like Water](chapter-08.md) — 《上善若水》
+9. [Fill It to the Brim](chapter-09.md) — 《持而盈之》
 10. Can You Hold the One — 《载营魄抱一》
 11. Thirty Spokes — 《三十辐共一毂》
 12. Five Colours Blind the Eye — 《五色令人目盲》

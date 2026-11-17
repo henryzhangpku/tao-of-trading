@@ -180,5 +180,6 @@ Each line: chapter · title · opening of the verse · the trading lesson · the
 - `PROPOSAL.md` — this document.
 - `README.md` — the book's front door, in the format of *The Art of Options War*.
 - `en/README.md`, `zh/README.md` — the eighty-one-chapter contents.
-- `en/prologue.md` — *Before the First Step*.
-- `en/chapter-64.md` — the sample chapter, *The Journey of a Thousand Li*.
+- `en/prologue.md`, `zh/prologue.md` — *Before the First Step* · 序：始于足下.
+- `en/chapter-01.md` … `chapter-09.md` and `zh/` the same — batch 1, the first "book of nine" (full chapters 1, 2, 4, 8; short chapters 3, 5, 6, 7, 9), written in both languages in the same week.
+- `en/chapter-64.md`, `zh/chapter-64.md` — the sample chapter, *The Journey of a Thousand Li* · 其安易持.

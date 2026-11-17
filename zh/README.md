@@ -6,21 +6,21 @@
 
 ## 目录
 
-**序：始于足下**（写作中）
+**[序：始于足下](prologue.md)**
 
 ### 第一部 道经
 
 前三十七章讲的是如何看清市场：可道之道，非常道——回测说得出来的，只是过去；器之用在其空；水善利万物而不争；朴胜于雕；企者不立。最后落在全书的枢纽一句：道常无为而无不为。对交易者而言：模型提议，规则决定。
 
-1. 道可道 — The Rule That Can Be Spoken
-2. 天下皆知美之为美 — Long and Short Make Each Other
-3. 不尚贤 — Do Not Display the Desirable
-4. 道冲 — The Empty Vessel
-5. 天地不仁 — Straw Dogs
-6. 谷神不死 — The Valley Spirit
-7. 天长地久 — Heaven Lasts Long
-8. 上善若水 — Highest Good Is Like Water
-9. 持而盈之 — Fill It to the Brim
+1. [道可道](chapter-01.md) — The Rule That Can Be Spoken
+2. [天下皆知美之为美](chapter-02.md) — Long and Short Make Each Other
+3. [不尚贤](chapter-03.md) — Do Not Display the Desirable
+4. [道冲](chapter-04.md) — The Empty Vessel
+5. [天地不仁](chapter-05.md) — Straw Dogs
+6. [谷神不死](chapter-06.md) — The Valley Spirit
+7. [天长地久](chapter-07.md) — Heaven Lasts Long
+8. [上善若水](chapter-08.md) — Highest Good Is Like Water
+9. [持而盈之](chapter-09.md) — Fill It to the Brim
 10. 载营魄抱一 — Can You Hold the One
 11. 三十辐共一毂 — Thirty Spokes
 12. 五色令人目盲 — Five Colours Blind the Eye
