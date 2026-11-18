@@ -232,4 +232,4 @@
 
 ---
 
-[目录](README.md) · [出处](../en/sources.md) · [后记](afterword.md)
+[目录](README.md) · [出处](sources.md) · [后记](afterword.md)

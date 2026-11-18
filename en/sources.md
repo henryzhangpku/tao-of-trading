@@ -25,7 +25,7 @@ The Chinese edition of this book quotes the original in full and gives a plain m
 
 ## The book this one owes a debt to
 
-**Mark Spitznagel, *The Dao of Capital: Austrian Investing in a Distorted World*** (Hoboken, NJ: Wiley, 2013). A touchstone for this book's tone and its subject: the patient, indirect route over the direct grab, 势 *shi* and 迂 the roundabout path, read for the investor across years and decades. This book credits it where the ideas meet (the prologue; the afterword, *Trading, Not Investing*; and chapters 22, 36 and 40) and quotes none of its text. Its readings are its own; the readings of Laozi here are this author's, made from the Chinese.
+**Mark Spitznagel, *The Dao of Capital: Austrian Investing in a Distorted World*** (Hoboken, NJ: Wiley, 2013). A touchstone for this book's tone and its subject: the patient, indirect route over the direct grab, 势 *shi* and 迂 the roundabout path, read for the investor across years and decades. This book credits it where the ideas meet (the prologue; the afterword, *Trading, Not Investing*; and chapters 22, 36, 40, 54, 61, 69 and 72) and quotes none of its text. Its readings are its own; the readings of Laozi here are this author's, made from the Chinese.
 
 ## The author's own books referred to
 
