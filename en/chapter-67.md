@@ -52,8 +52,6 @@ Compassion wins when it attacks and holds when it defends. When heaven means to 
 
 There is a sentence in this chapter that I did not understand as a child and still find hard as an adult: 不敢为天下先, not daring to be first under heaven. The first two treasures I could see the use of. Compassion, obviously. Frugality, any grandmother would agree. But not daring to be first sounded like a lesson in timidity, the kind of thing you say to a child who wants to raise his hand in class.
 
-It took me some years of watching opening bells to see that it is the hardest of the three, and the one I keep hardest.
-
 ---
 
 The system I trade has a rule about the open. No new entry is taken in the first minutes of the session. The rule waits until the opening range has formed, a fixed stretch of time written into the config, and only then looks at whether a name qualifies. On a quiet morning the rule costs nothing, because nothing is happening. On a loud morning it costs a great deal of feeling.
@@ -62,11 +60,7 @@ The loudest morning I remember was a name that had reported overnight. By six in
 
 Marcus had already bought it before the open. He was not being reckless by his own lights. He had a thesis, a size and a stop. He just wanted to be in before everyone else was in, because the whole point of a morning like that, as he saw it, was to be first.
 
-I looked at the board. The name was not on it yet, because nothing is on it yet in the first minutes. There was nothing for me to do except watch.
-
 ---
-
-I want to be honest about what watching felt like, because the chapter is not honest if I pretend it was calm.
 
 It felt like standing on a platform while a train leaves. The price ran in the first minutes, the way gap names do, and every tick up was a small voice saying the rule was a coward. I had built the rule. I knew why it was there: the first minutes of a session are the thinnest, widest and most emotional of the day, and an entry there is a bet on the crowd rather than on the setup. I had tested it over many mornings before I trusted it. None of that knowledge was in the room. What was in the room was the train.
 
@@ -86,17 +80,7 @@ That is not self-congratulation. It is the first treasure protecting the third. 
 
 ---
 
-The test of it came the following week, on a morning nobody was talking about. A plain name, no headline, no overnight story. The open was ordinary. The opening range formed. The rule looked, found a setup that met every condition, and the system entered at the size the rule allows, with the stop where the rule puts it.
-
-I did not hesitate. I noticed that afterwards, and it surprised me a little. I had been passed over by a train the week before, and I had not spent the days since telling myself I was too slow. So when the rule said go, there was no residue of shame in the way, and no need to make up for anything. The entry was just an entry.
-
-*Compassionate, and so able to be brave.* I had always read the brave part as being about daring. It is about not being frightened of your own rule.
-
----
-
 Frugality sits between the other two, and I see it every morning in a quieter way. The rule that waits for the open also trades less, because many names that look exciting at six in the morning do not qualify at ten. Fewer entries mean fewer spreads crossed, fewer fees, fewer small leaks. None of those is a story. Over a season they are the difference between an account that can stay in many markets and one that has spent its room on mornings like that one. *Frugal, and so able to be broad.*
-
-Marcus and I still talk most mornings. He is still first into things, and some days he is right, and he tells me about those days, which is fair. I tell him about the rule. He thinks it is too slow, and he is welcome to.
 
 The chapter says the way resembles nothing, and so nobody sees it as great. A rule that waits for the open does not resemble anything you would want to post. There is no screenshot of the train you did not board. That is the reason I trust it. If it resembled something — if it were exciting, if it were the move everyone was talking about — it would long ago have become small.
 

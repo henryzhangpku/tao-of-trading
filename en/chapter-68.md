@@ -52,8 +52,6 @@ Every part of me wanted to go back in. And the part that frightens me, looking b
 
 ---
 
-What stopped me was a rule, and the rule was not mine in the moment. It had been written months earlier, after a different morning that I would rather not tell you about, on a quiet weekend when nothing was at stake.
-
 The rule is simple. After a stop is hit, there is no new entry in that name until the next session. Not a lower size, not a better setup, not a quick scalp to win back the spread. The next session. In the system I trade with, the rule is not a note on the wall. It is a check in the code. When a stop fills, the name is marked, and until the next session begins, any entry in it is refused with a plain reason in the log.
 
 I opened the order screen anyway. I want to be truthful about that. I opened it to see whether it would really refuse me, the way you test a locked door you yourself locked. It refused me. The reason was one line, in words I had written, which is a strange thing to be told by: *cooling period after stop, next session*.
@@ -62,19 +60,13 @@ I opened the order screen anyway. I want to be truthful about that. I opened it 
 
 ---
 
-There is a second part to the story that I did not expect.
-
 The desk I work at has a language model that reads the day's activity and proposes things. It is allowed to propose anything; it is never allowed to place a trade. That afternoon, reading the same price action I had read, it proposed a re-entry in the same name. Its reasons were tidy: the stop had been taken out by a brief dip, the trend had resumed, the setup looked valid again.
 
 The model was not angry. It had no jaw to clench. Its proposal was, as far as I could tell, about as good as mine would have been, and made without any of the feeling. And the rule refused it in exactly the same words.
 
 That was the moment I understood what the rule was for. I had always thought of it as a guard against my emotion, and it is. But it is also a guard against a reason. After a loss, a good reason to go straight back in is always available, from a model or from a man, and the reason being good is not the point. The point is that the trade is being made in the shadow of the last one. The rule does not ask whether the re-entry is clever. It asks what time it is.
 
-*The one good at defeating an enemy does not engage him.*
-
 ---
-
-I closed the screen. I did something I have since made into a habit: I left the room. A walk, nothing heroic, twenty minutes along the road and back. When I came back the name was higher still, and I found that I could look at it without the feeling I had had at a quarter to twelve. It was a chart of something I did not own. That is all.
 
 The next morning, before the open, I wrote up the trade. I write up every stopped-out trade the same way: why I entered, where the stop was, whether the stop was where the plan said, whether I moved it. All four answers were clean. The entry was by the rule, the stop was by the rule, it was hit, it was honoured. As a piece of work, it was a good trade that lost.
 
@@ -85,8 +77,6 @@ Then I wrote up the trade I had not made, the one I had wanted at a quarter to t
 I would like to say that the name came back down and the rule was proved right. I do not remember what it did over the following days, and I have decided not to look. If it went higher, the rule cost me a trade I might have won. If it fell, the rule saved me from one I might have lost. Either way the rule is the same rule, and judging it by one name on one day is exactly the kind of thinking it exists to prevent.
 
 What I can say is what the rule has given me since, which is not a result but a kind of morning. A stop is hit, and the rest of the day in that name is decided. There is nothing to fight about. The anger, when it comes, has nowhere to go, and after a while it stops coming as hard.
-
-The chapter calls this matching heaven. I think of it more plainly. Heaven is not angry at anyone. The market is not angry at anyone. A trader who is not angry is, for that morning at least, matched to the thing he is trading.
 
 The next session came. The name was marked as clear. I looked at it, found that it did not meet the rule, and passed.
 

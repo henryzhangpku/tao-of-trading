@@ -48,8 +48,6 @@ The system refused it.
 
 The reason in the log was one line. The name failed the liquidity check: the average daily volume was below the floor, and the spread at the time of the check was wider than the rule allows.
 
-I want to describe what I did next, because it is the part of the chapter that is mine.
-
 I argued. Not out loud, but in the way you argue with a referee. I looked at the volume and told myself it was only a little below the floor, and that the floor was a number I had picked. I looked at the spread and told myself I could use a limit order and wait inside it. I told myself I could take a smaller size, so small that the thin book would not matter. Each of these arguments was reasonable, and I knew from experience that reasonable is the most dangerous kind.
 
 Then I went looking for the override.
@@ -60,11 +58,7 @@ There is none. I built it that way, on purpose, after an earlier year when I had
 
 ---
 
-What does a thin market actually cost? It is easy to say in the abstract. A wide spread means you pay more to get in and more to get out. Low volume means your own order moves the price. Both are true and neither is frightening.
-
 What is frightening is the exit. A chart of a thin name looks just like a chart of a liquid one. The candles have the same shapes. The line has the same slope. What the chart does not show is how many people were standing behind each price, and in a thin name the answer is sometimes nobody. You see a price on the screen and you think it is a price you could trade at. It is a price somebody traded at, once, for a small amount, and there may be no one there the next time.
-
-The stop is the part of my trading I trust most, and in a thin name it is the part I can trust least. A stop at a price is a promise to leave at that price. In a liquid market the promise is mostly kept. In a thin one, on a bad morning, the price gaps through it and you leave wherever the first buyer happens to be standing. The setup was clean. The way out was not, and the rule cares more about the way out.
 
 *Heaven's net is vast and wide; its mesh is loose, and nothing slips through.* The liquidity check is a coarse net. It is two numbers, a floor and a ceiling, applied without judgement. It throws away good trades like this one, and it will keep throwing them away. What it does not do is let through the trade in which the stop turns out to be imaginary.
 
