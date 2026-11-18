@@ -50,11 +50,9 @@ Whoever holds to this way does not wish to be full. Because he is not full, he c
 
 On the left side of my desk there is an index card held down by the base of the lamp. It has been there long enough that the ink has gone brown. It says, in my handwriting: *No new rule on the day of a loss.*
 
-Visitors sometimes read it and nod, as if it were a motto. It is not a motto. It is a procedure, and it came from a particular morning.
-
 ---
 
-I had a position in a name I had held for a little over a week. It had done nothing in particular, which is what most positions do. The stop was where the rule had put it on entry. I had not moved it. I want to say that first, because the story would be different if I had.
+I had a position in a name I had held for a little over a week. It had done nothing in particular, which is what most positions do. The stop was where the rule had put it on entry. I had not moved it.
 
 Overnight there was news, not about the company but about its industry: a regulator somewhere had said something, and every name in the group was marked down before the open. When the market opened, my name opened well below my stop. The stop did its job, which was to get me out, but it got me out at the price that was there, and the price that was there was worse than the one written on the card. The loss was larger than the trade had planned for. Not ruinous. Larger.
 
@@ -68,17 +66,11 @@ I remember how they felt, which is the reason for this chapter. They felt like c
 
 The first said: do not hold names in a group that has had news in the last month. The second said: tighten the stop on any name whose group has gapped before. The third said: cut the size of any position held over a weekend, because, I wrote, the risk of a gap is concentrated there. It had not been a weekend. I wrote it anyway.
 
-Each of the three would have kept me out of that morning, or made it smaller. That was the test I was applying, and every rule passed it. It did not occur to me that it was the only test I was applying.
-
-I had the config open. All three would have taken a few minutes.
-
 ---
 
 What stopped me was not wisdom. It was a smaller and duller thing: I had promised myself, after an earlier episode, that no rule would go into anything live without first going into the ledger and through the same plain tests as everything else. Costs, twice the costs, both halves of the history, the best month removed. That process takes days, and on that morning days felt unbearable. But the promise was older than the morning, and it held.
 
 So I did the only thing the process allowed. I wrote the three rules on a sheet of paper, put the date at the top, and put the sheet in a drawer.
-
-Then I closed the screen and went outside. I would like to tell you I meditated. I walked to get a coffee I did not need and came back.
 
 ---
 
@@ -98,13 +90,9 @@ I threw the first one away. I put the second into the ledger as a test, with its
 
 Every Chinese schoolchild knows this chapter's question, and I knew it as a line about patience, which is to say, I knew it as advice and did not use it. What I had not understood until that morning was the mechanism. Muddy water does not look muddy from the inside. If you are the water, you do not feel cloudy. You feel quick and certain. The mud is not in what you see. It is in what you cannot see, because it is in the way.
 
-And the only thing that clears it is time without stirring. Not thinking harder. Thinking harder is stirring. The rules I wrote at half past ten were stirring dressed up as engineering, and they were the most confident sentences I wrote that week.
-
 The card is the procedure that came out of it, and it has three parts, though only the first fits on the card. On the day of a loss, a new rule can be written but not adopted. It goes on paper with a date. The next day it can be read. After that, if it survives being read by a calmer version of the person who wrote it, it goes into the ledger and is tested like anything else, with its count beside it. Nothing about it is special because it came out of pain. If anything, it gets a little more suspicion.
 
 ---
-
-There is a second line in the verse, and I have come to think it matters as much. *Who can take what is at rest and, by moving it long, let it slowly come to life?* The card is not a rule against acting. It is a rule against acting from the mud. When the water is clear, the next day or the next week, the work starts again, at the size the rule says and not a fraction smaller out of fear. A trader who has learned only the stillness half of this chapter has learned how to freeze, which is not the same thing.
 
 I have taken that sheet out of the drawer a few times since. Not to use the rules. To read the handwriting. It is neater than my usual hand. That is what the mud looks like from inside: neat, fast, certain, and one morning wide.
 
