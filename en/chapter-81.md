@@ -84,4 +84,4 @@ Slow is fast. You do not have to believe me. You can count it.
 
 ---
 
-[Contents](README.md) · [← 80. A Small Country](chapter-80.md)
+[Contents](README.md) · [← 80. A Small Country](chapter-80.md) · [Afterword: Trading, Not Investing →](afterword.md)
