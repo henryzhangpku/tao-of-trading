@@ -48,8 +48,6 @@ So the sage is square but does not cut, has edges but does not wound, is straigh
 
 I keep a paper notebook beside the keyboard, and most of its pages are dull: dates, a line about what the rules did that day, a line about anything I did that the rules did not. One page is not dull. It is the page from the worst week I have had, and it is the page I have read most often since.
 
-I will not tell you what the week cost. A number would make it a story about money, and it was not a story about money. It was a story about counting.
-
 ---
 
 The week began like most weeks. The rules had put on a handful of positions over the previous fortnight, each on its own day, each in a different name, each for its own stated reason. On the screen they looked like a spread of separate bets. I remember being pleased with that, the way you are pleased when a shelf looks tidy.
@@ -61,8 +59,6 @@ Nothing broke. No single position did anything strange. Each one fell by an amou
 By Friday it was the worst week on the page.
 
 ---
-
-Friday evening I sat down with the notebook, and the first thing I noticed was what I wanted to write.
 
 I wanted to write a list. Check correlations every hour. Add an alert when two positions move together. Build a dashboard for exposure by theme. Ban that kind of name altogether. Lower every size. Look at the screen more. It came out fast, and every line on it was reasonable, and together they described a completely different system from the one I had built: a nervous one, staring at itself all day.
 
@@ -80,8 +76,6 @@ The rule that came out of it fits on one line: positions that depend on the same
 
 I did not switch it on that night. There is an older rule on my desk, that no new rule goes live on the day of a loss, because the day of a loss is when you are least able to tell a lesson from a flinch. The shared budget went through the same door as any other idea. It was written down, tested on the history, tested again at higher costs, given its own fingerprint and its own clock. It took weeks. It came out the other side mostly as I had written it on Friday, which is less common than you would think. Most of what I write on a bad Friday does not survive the Monday after.
 
-The facing page, the one marked *written by the week*, stayed in the notebook. Not one line of it was built. I still read it now and then, the way you might reread a letter you were glad you did not send.
-
 ---
 
 The second half of the chapter came months later, and it came disguised as good news.
@@ -97,16 +91,6 @@ What stopped me was the notebook, lying where it always lies. I opened it to the
 I closed the config.
 
 I do not know whether that refusal saved anything. A rule like that is not judged on the week it refuses a trade. It is judged on the week it prevents, and a week that is prevented leaves no trace on any page. *Who knows where it ends? There is nothing fixed.*
-
----
-
-There is one more thing in the last line of the chapter, and it took me the longest to see.
-
-*The sage is square but does not cut.* In the bad week itself, the rules did what they were built to do in a drawdown: they cut the size of new positions by a fixed step, and they would restore it, by a fixed step, when the account had recovered by a stated amount. That was square. It was a rule, it had an edge, and I could feel it.
-
-What I did not do was the other thing traders do in a bad week, which is to cut everything. To switch the system off, take a break, start over with something new. That is the edge that wounds. It feels like discipline, and it is a mood, and it throws away the one thing a bad week gives you: a clean record of exactly what went wrong, under rules that had not been touched.
-
-The square rule took some of the size away for a while and gave it back on schedule. The mood would have taken the lesson away for good.
 
 ---
 

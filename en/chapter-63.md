@@ -46,8 +46,6 @@ A light promise is seldom kept. Whoever finds much easy will meet much that is h
 
 Somewhere in every trading system there is a judge: the part that looks at a candidate and says yes or no. In the old days it was a person with a chart. In what I build now, part of the judging is done by a language model, which reads the candidate, the rule it came from and the morning's context, and writes back a short opinion.
 
-This chapter is about the morning I took most of that judge's powers away.
-
 ---
 
 The first version of the judge was generous. I had written it a response form with five fields: a verdict, a confidence, a suggested size, a suggested stop and a suggested target. It seemed natural. If you are going to ask something for an opinion, why not ask for the whole opinion?
@@ -64,8 +62,6 @@ I want to be fair to the model, because none of this is a defect peculiar to mac
 
 *Plan the hard while it is easy.* The hard questions in a trade are how much and where to get out. They are easy before anyone has argued for the trade, because then they are only arithmetic: the risk you allow per trade, the distance to the stop the rule defines, the size that follows from dividing one by the other. They become hard the moment there is a story. A story wants room. It asks for a slightly wider stop, so that the noise does not shake it out. It asks for a slightly larger size, because this one is better than usual.
 
-The judge had been answering the hard questions at the hardest possible moment: right after it had talked itself into the trade.
-
 ---
 
 The change I made that morning was small to look at. I deleted three fields from the response form.
@@ -78,23 +74,11 @@ I call it the bounded judge, and the bound is the whole design. A judge that can
 
 ---
 
-The temptation did not stop there, and the next version of it was subtler.
-
 A few weeks later I was reading the log again and thought: the code that sets the stop is crude. It does not know that some mornings are wilder than others. The model does know, or at least it reads the news and the context and can say so. Why not let it adjust the stop a little on wild mornings? Not size, just the stop. A small permission.
 
 *Whoever finds much easy will meet much that is hard.* It would have been easy. One field restored, one sentence in the instructions. And it would have put the advocate's pen back in the advocate's hand, on precisely the mornings when the advocate is most excited.
 
 What I did instead took longer. If wild mornings deserve a different stop, then wildness is a thing that can be measured, and a measurement can go into the formula as code, where it does the same thing every time and can be tested on the history like any other rule. I wrote it that way. It went through the ledger, with its own fingerprint and its own clock, like everything else. The judge still never touches the number. It just reads a number that now knows a little more.
-
-*So even the sage treats things as hard.* That is what treating it as hard meant: not trusting the easy permission, and doing the slow version that can be counted.
-
----
-
-There is a line in this chapter that I used to skip, because it sounds like a Sunday-school instruction: *answer resentment with virtue.*
-
-The judge made me read it differently. Some mornings the judge says no to a trade, the rule takes no position, and the name goes on to do exactly what the rule hoped. That is a resentful morning. The trade was there, and the machine said no.
-
-The answer to that morning is the same as the answer to every other one. The refusal goes into the log, with its reason, and it is counted with all the other refusals. Some of them will have been right and some wrong, and across enough of them you can see whether the veto earns its place. What you do not do is weaken the veto because of one morning you resent. That is how a check becomes an advocate again, one exception at a time.
 
 ---
 
