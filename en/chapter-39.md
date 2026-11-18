@@ -38,6 +38,56 @@ So the noble has the humble for its root, and the high has the low for its found
 
 9. Do not glitter like jade. A short list of plain rules looks poor on a page. Be plain, like stone.
 
+## The Story
+
+For most of one year I ran six forward books at once. One was the main book: the plain rule I trusted most, frozen by its fingerprint, scored every day against its random control. The other five were side books. Each had come through the gate honestly, each was frozen in the same way, and each had its own dice. On the board that meant twelve lines, every rule beside its own control.
+
+I was proud of that board. It looked like a research desk. It looked, I think, the way I wanted the work to look.
+
+---
+
+What changed it was a clock, not a result.
+
+I had started timing the morning review, for a reason I have forgotten, and the times were embarrassing. The review took the whole first hour. Most of the hour went to the side books, because they were newer and more interesting: their trades surprised me, their ideas were still fresh, and I had questions about them. The main book got a glance at the end, when the coffee was cold. The rule I trusted most was getting the least of my attention, because I trusted it.
+
+*Every rule you run needs its own share of your attention.* I had written something like that in a notebook years before. I had not noticed that attention is the one thing on the desk that does not scale.
+
+---
+
+One evening I did a plain exercise. For each of the six books I wrote one sentence: what does this rule need to be true of the market in order to work? One sentence each, in words a person who does not trade could follow.
+
+Three of the sentences, read side by side, said the same thing. They were worded differently, and the rules underneath them looked different, but each one needed the market as a whole to keep doing roughly what it had been doing. Three books, one exposure. On a calm day they would look like three separate decisions. On a hard day they would be one decision, made three times.
+
+The fourth sentence I could not write at all. I tried for some minutes and ended with a paragraph. That was my favourite of the side books, the cleverest, the one I enjoyed explaining. If it needed a paragraph to say why it should work, I did not understand it as well as I liked to think.
+
+The fifth I could write, but when I read it back I could not say why it should be true. It described something the history had done, not a reason for the history to do it again.
+
+The sixth sentence was the main book's, and it was the dullest of the lot.
+
+---
+
+Before deciding anything I did one more thing, and it is the part I would most want another trader to copy. I hid the results.
+
+The board can show the books without their scores, and I turned the scores off. If I chose which books to close by how they had done so far, I would be fitting the desk to a few months of luck, keeping whatever happened to be ahead and closing whatever happened to be behind. That is the same mistake as editing a frozen rule after a bad week, only made one level up, on the whole desk at once. So I asked three questions that do not need a score. Can I explain it in one sentence? Does it depend on something the main book does not already depend on? Would I leave it alone for a season?
+
+Only one book answered yes to all three.
+
+---
+
+Closing a forward book is not deleting it. Each of the five got a line in the ledger: the date, the fingerprint, and the reason, which I wrote the same way every time. *Closed for attention, not for result.* Their trials still count. If I ever come back to one of those families of ideas, the count of attempts will be waiting for me, and the bar will be as high as it should be. Nothing is gained by pretending they were never tried.
+
+The paragraph one was the hardest to close. I sat with the cursor on it longer than on the others. It had glittered. It was the book I would have shown a visitor. *Do not wish to glitter like jade.*
+
+---
+
+The next morning the board had two lines: the main rule and its dice.
+
+The review took a fraction of the time. With the rest of it I did something I had not done in months: I read the main book's trades one by one, and checked the fills against the costs the book assumes. It was dull work, and it found a small, dull problem in how one name's prices were being recorded, which I noted in the ledger and fixed in the data, not in the rule. *The high has the low for its foundation.* That kind of work had been there to do all year. I had been too busy with the jade to do it.
+
+*Count the parts of a carriage and you have no carriage.* I had been counting books and calling it a desk. With one book left, I knew again what the account was.
+
+I have not been tempted to open a second book since. That is not quite true. I am tempted most weeks. The temptation now goes where all proposals go, into the ledger, and it waits there like any other idea, which is usually long enough for it to pass.
+
 ---
 
 [Contents](README.md) · [← 38. High Virtue Is Not Virtuous](chapter-38.md) · [40. Returning →](chapter-40.md)
