@@ -52,8 +52,6 @@ The order filled. Within the first quarter of an hour the price drifted down to 
 
 ---
 
-What happened next took a few seconds, and I can still replay most of them.
-
 The first thought was that this was noise. It was. The opening minutes are full of it. The second thought was that the stop was only a little too tight, that a line drawn a fraction lower would have been just as reasonable that morning. That was true too. The third thought was the dangerous one, because it came dressed as experience: *you know how this name trades in the first hour; give it room.*
 
 Every one of those thoughts was reasonable. That is the trouble with them. A stop is never broken by a stupid reason. It is broken by three reasonable ones arriving at once, at the moment when acting on any of them only means doing nothing.
@@ -65,8 +63,6 @@ Then the price turned around. By lunch it was well above where I had bought. By 
 ---
 
 I want to be honest about what that felt like, because the books usually skip it. It did not feel like discipline. It felt stupid. I had been right about the idea and had a loss to show for it, and the loss was there only because I had obeyed a line I had drawn myself a few hours earlier. If I had done nothing, which is to say if I had cancelled one order, the day would have been a good one.
-
-I sat with that for a while. Then I opened the trade log and did the thing I do when I do not trust what I am feeling, which is to count.
 
 I counted the mornings like that one. Not the outcomes; the moments. Every time a trade of that rule had touched its stop in the first hour. Some had come back, as this one did. Others had not. They had touched the stop, gone through it, and kept going down the rest of the day, sometimes the rest of the week. On the screen, at the moment of touching, the two kinds looked the same. I could not tell them apart in the log afterwards, and I certainly could not have told them apart at the time, with my money in one of them and a reason to hope.
 
