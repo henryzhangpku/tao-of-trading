@@ -66,7 +66,7 @@ By eleven the market had turned. The number that had frightened everyone at twen
 
 I want to describe the next hour carefully, because it is the reason the limit exists.
 
-I did not want money that afternoon. I told myself I did, but that was not it. I wanted not to have lost. I wanted the morning undone, and a good trade in the afternoon looked like the way to undo it. That is the name in Laozi's question, set against the life. 名与身孰亲. The name was the record of the day, the wish to have been right by the close. The life was the account, and the person running it, who had just lost twice in fifteen minutes and was now looking at a screen with great intensity.
+I did not want money that afternoon. I told myself I did, but that was not it. I wanted not to have lost. I wanted the morning undone, and a good trade in the afternoon looked like the way to undo it. That is the name in Laozi's question, set against the life. 名与身孰亲. The name was the record of the day, the wish to have been right by the close. The life was the account, and the person running it, who had just lost twice in fifteen minutes and was now staring at a grey screen.
 
 I knew how to get round the limit. I built it. I could change the number in the file. But a change to that file carries a fingerprint and leaves a record, and I had arranged long before that a change takes effect at the next session, not the current one. I had locked the door in a way that would only open tomorrow, when I would no longer want it open. That arrangement was the most useful thing I did all year, and I did it on a day when nothing was happening.
 
