@@ -122,4 +122,4 @@ When I think about the sentence the children recite now, I hear the second half 
 
 ---
 
-[Contents](README.md) · [← 9. Fill It to the Brim](chapter-09.md)
+[Contents](README.md) · [← 63. Act Without Acting](chapter-63.md) · [65. The Ancients Did Not Enlighten →](chapter-65.md)

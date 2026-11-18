@@ -40,6 +40,38 @@ He keeps the people without cunning and without craving, so that the clever do n
 
 10. Act without forcing, and the screen governs itself.
 
+## The Story
+
+When I began building the screen that shows an open position, the first draft was the one every trading app has. At the top, in the largest type on the page, was the running profit and loss. It was green or red. It changed several times a second. Underneath, smaller, were the name, the size and the price paid. The stop was on a second tab.
+
+I did not design that layout. I copied it, without noticing, from every screen I had ever traded on. It took me a while to see that it was the wrong way up.
+
+---
+
+I tried an exercise that I still use. I pictured the person who would be holding the position at the worst moment of the trade. Not the moment of entry, when everything is calm and the plan is fresh. The moment when the price has gone the wrong way faster than expected: the morning after a gap, the last minutes before the close on a bad day. Then I asked what that person needs to see.
+
+They do not need the score. They already know it is bad; that is why they opened the screen. A large red number tells them only how bad, every second, and every second it asks for a decision. The decisions it asks for are the ones the verse warns about, the heart stirred by what is displayed. Close it now. Add to it, it is cheap. Move the stop, just this once.
+
+What that person needs is the plan they made when they were calm. How large the position is. Where the stop is, and that it is live. Why they entered, in one sentence written at the time. The day they said they would leave, if nothing else happens first. Those four things, at the top, in the largest type.
+
+---
+
+So I turned the screen over. The rule went to the top: size, stop, reason, exit day. The running profit and loss went to the bottom, in small grey type, updated no faster than anyone can read. It is still there. Hiding it completely would have been its own kind of lie. But it no longer shouts.
+
+Something else came off the screen too. The first draft had a row of buttons along the bottom: close, add, move stop. They were large and easy to press, the way buttons are on every app. I kept close, because an exit must never be hard. I put the other two behind a step that asks for the reason first, in a sentence, and records it. Adding to a position, or moving a stop, is a decision the calm person can make. The screen should not make it easy for the other one.
+
+---
+
+The first person I tested it on was myself. I had a position that went against me in the first hour of the day, the ordinary kind of move that is inside the plan but does not feel like it. I opened the screen, and the first thing in front of me was the sentence I had written the evening before, saying why I had entered. Below it was the stop, live, at the price I had chosen. Below that, small, a grey number I could read if I wanted to.
+
+I read the sentence. It was still true. I closed the screen.
+
+That is the whole of what the screen is for. Not to inform the holder, exactly; the information is all available somewhere. It is there to put the calm person's words in front of the anxious person, before the anxious person can do anything.
+
+---
+
+*Do not display what is desirable, and the people's hearts will not be stirred.* I used to read this as a line for rulers about luxury goods. On a trading screen it is a line about layout. What is largest gets watched, and what is watched gets traded. Build the screen for the holder at their worst moment, and the clever part of them, the part that wants to act, will not dare.
+
 ---
 
 [Contents](README.md) · [← 2. Long and Short Make Each Other](chapter-02.md) · [4. The Empty Vessel →](chapter-04.md)

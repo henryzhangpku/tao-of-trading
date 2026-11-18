@@ -50,4 +50,4 @@ The old man would say the two roads are one road. He would also say not to argue
 
 ---
 
-[Contents](README.md) · [Glossary](glossary.md) · [Sources](sources.md) · [About the Author](about-the-author.md)
+[Contents](README.md) · [← 81. True Words Are Not Beautiful](chapter-81.md) · [Glossary](glossary.md) · [Sources](sources.md) · [About the Author](about-the-author.md)
