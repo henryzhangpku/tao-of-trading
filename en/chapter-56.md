@@ -44,7 +44,7 @@ So he cannot be drawn close and cannot be pushed away. He cannot be helped and c
 
 For a while I belonged to a group chat of old classmates who traded. It was friendly and mostly harmless. Someone would post a chart in the morning, someone else would post a joke about it, and by the evening there would be a long thread of opinions on where everything was going.
 
-I posted a position once. Only once, which is why I remember it so clearly. It was a swing trade, entered by the rule, with the stop written on the card before the order went out. I posted it because a friend asked what I was looking at, and because, if I am honest, I liked the setup and wanted someone to say so. Several people did. One of them said it was the best idea he had seen all week.
+I posted a position once. Only once, which is why I remember it so clearly. It was a swing trade, entered by the rule, with the stop written on the card before the order went out. I posted it because a friend asked what I was looking at, and because, if I am honest, I liked the setup and wanted someone to say so. Several people did. One of them said it was the best idea they had seen all week.
 
 Two days later it was near the stop.
 
