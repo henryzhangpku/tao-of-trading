@@ -42,8 +42,6 @@ This is one of the chapters that Mark Spitznagel's *The Dao of Capital* lives cl
 
 The rule is a trend rule with one awkward habit. It wants to be in markets that are going up. But it will not buy one that has gone too far, too fast, from its own recent average. "Too far" is measured in the market's own recent swings, and the number was written down before the rule ever saw a live price. When a market is stretched past that line, the rule waits for it to come back toward the average. If it never comes back, the rule never buys. That is the price of the habit, and I agreed to pay it in advance.
 
-The awkward habit is easy to admire on paper. It is much harder to live with.
-
 ---
 
 There was a stretch of some weeks when one market went up nearly every day. It was the kind of rise that leaves the news and enters conversation. People who never mention markets mentioned it. The chart, by the end, looked less like a line than a wall.
@@ -72,11 +70,7 @@ It turned the way these things often turn: not on one dramatic day, but with a f
 
 Daniel was all right. I want to say that plainly, because this is not a story about a friend being ruined. But he had done what almost everyone does on the way up. His size had grown with the price, each add made at a higher level and with more confidence, so that by the top he owned far more of the thing than he had at the bottom. *What is about to be taken must first be given.* The market had handed him size on the way up as a gift. The hard week took the gift back from the people holding the most of it, and at the top that was him.
 
-He called me after the worst day. Not to ask what I thought would happen next, which I could not have told him, but to ask what I was holding. I did not say. I never do. *The sharp tools of the state must not be shown.* It was not a secret worth keeping. It is a habit worth keeping: a position you have announced is one you will want to defend, and a rule you have described to a friend is one you will be tempted to bend so that you look right in front of him.
-
 ---
-
-Here is the ending, and it is not the one people want.
 
 When the market came back toward its average, close enough for the stretch check to pass, the trend condition had broken too. So the rule did not buy. It had not bought on the way up, because the market was stretched. It did not buy on the way down, because the trend was gone. It did not sell anything short, because selling short is not what it does. From the first day of the rise to the last day of the fall, it did nothing at all.
 
@@ -91,8 +85,6 @@ Whether the habit is worth that cost is not something either page can tell me al
 ---
 
 *The soft and weak overcome the hard and strong.* For a long time I read that line as a line about character, about meekness. Watching those weeks, I read it as a description of two positions. The hard one is the large position bought at the top of the stretch, sure of itself, unable to bend without breaking. The soft one is the position not yet taken, which costs nothing to hold and can still become anything.
-
-*The fish must not leave the deep water.* The deep, for me, is the rule, the cash and the size I already had. The surface was where the light was, all those weeks. I stayed down, and it was not comfortable, and I would stay down again.
 
 ---
 
