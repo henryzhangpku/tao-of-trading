@@ -99,6 +99,6 @@ The last forty-four chapters turn over what traders believe about themselves: th
 80. [A Small Country](chapter-80.md) — 《小国寡民》
 81. [True Words Are Not Beautiful](chapter-81.md) — 《信言不美》
 
-**[Afterword: Trading, Not Investing](afterword.md)** · [Glossary](glossary.md) · [Sources](sources.md) · [About the Author](about-the-author.md)
+**[Afterword: The Same Old Way](afterword.md)** · [Glossary](glossary.md) · [Sources](sources.md) · [About the Author](about-the-author.md)
 
 The outline the book was written from is in [PROPOSAL.md](../PROPOSAL.md).

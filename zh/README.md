@@ -99,6 +99,6 @@
 80. [小国寡民](chapter-80.md) — A Small Country
 81. [信言不美](chapter-81.md) — True Words Are Not Beautiful
 
-**[后记：是交易，不是投资](afterword.md)** · [词汇表](glossary.md) · [出处](sources.md) · [作者简介](about-the-author.md)
+**[后记：老路](afterword.md)** · [词汇表](glossary.md) · [出处](sources.md) · [作者简介](about-the-author.md)
 
 中文版与英文版分别手写，不是机器翻译。全书写作所依的提纲见 [PROPOSAL.md](../PROPOSAL.md)。
