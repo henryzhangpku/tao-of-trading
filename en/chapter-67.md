@@ -26,65 +26,61 @@ Compassion wins when it attacks and holds when it defends. When heaven means to 
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. A way of trading that resembles nothing is hard to sell. It has no pattern to name, no chart to post, no hero trade. That is why it lasts. A method that looks like something has already been copied, crowded and made small.
+The market pays the brave. It is the way you were taught to get ahead in anything: go big, go first, and never apologise. When the setup is there, you take it with size, because a good idea traded small is a good idea wasted. You want to be in before the crowd and out before the crowd, the one who saw it while others were still reading. Hesitation costs more than mistakes. When you lose, you do not go easy on yourself; you shake it off and press on. Timid traders stay small forever.
 
-2. Three treasures, held and kept. They are not tools you pick up when the market is hard. They are what you carry so that the market is never hard enough to break you.
+## The Other Way
 
-3. The first is compassion, and it begins with yourself. Patience with the trader who made the mistake, so that the trader who reviews it can tell the truth.
+1. *Everyone says my way is great, and that it resembles nothing.* A way of trading that looks like nothing has no hero trade to show. That is why it is not crowded.
 
-4. Compassionate, and so able to be brave. A trader who punishes himself for every loss soon cannot pull the trigger on a good setup. Kindness after a loss is not softness. It is what keeps the next entry possible.
+2. *I have three treasures.* They are not tactics for hard days. They are what you carry so that no day is hard enough to break you.
 
-5. The second is frugality: small costs, small size, few trades. Every fee, every spread, every unnecessary entry is a little of the account given away for nothing.
+3. The first is compassion, and it begins with the trader who just lost. Speak to him the way you would speak to a friend at the next desk.
 
-6. Frugal, and so able to be broad. The account that spends little can stay in many seasons. The account that spends freely is in one season and then gone.
+4. *Compassionate, and so able to be brave.* The trader who punishes himself after every loss soon cannot take the next good setup. Kindness is what keeps the next entry possible. The soft makes the brave.
 
-7. The third is not daring to be first: never first into a crowded move, never first to trade a rule that has not been tested, never first to believe a story.
+5. The second is frugality. Small size, few trades, little attention spent on what does not matter.
 
-8. Not daring to be first, and so able to lead the vessels that last. The first one in is sometimes paid. The one still here in ten years did not need to be.
+6. *Frugal, and so able to be broad.* The capital you did not spend today is the room you have tomorrow. Spending little is what lets you stay through many seasons.
 
-9. Give up compassion and be brave anyway: courage without patience is a revenge trade. Give up frugality and be broad anyway: size without restraint is a margin call. Give up standing back and be first anyway: that is the trade you will read about.
+7. The third is not daring to be first. Let the open go. Let someone else buy the first print of the breakout. Being first is a prize, and you pay for it.
 
-10. Compassion wins when it attacks and holds when it defends. The trader who is kind to himself takes the right trade without fear and sits out the wrong one without shame.
+8. *Not daring to be first, and so able to lead the vessels that last.* The trader who comes in second, after the market has shown its hand, is still there when the first ones have gone.
+
+9. *To give up compassion and still be brave: that is death.* Bravery without kindness to yourself turns into recklessness. Breadth without frugality turns into overtrading. Being first without standing back turns into chasing.
+
+10. *When heaven means to save someone, it guards him with compassion.* On the worst day, what saves the account is not a better trade. It is how you treat the trader who has to take the next one.
 
 ## The Story
 
-There is a sentence in this chapter that I did not understand as a child and still find hard as an adult: 不敢为天下先, not daring to be first under heaven. The first two treasures I could see the use of. Compassion, obviously. Frugality, any grandmother would agree. But not daring to be first sounded like a lesson in timidity, the kind of thing you say to a child who wants to raise his hand in class.
+There is a stock everyone is watching before the bell. News overnight, up eight percent before the open, and by the time you sit down the chat is full of it. Your order is ready. You want to be in on the first print, because that is where the move is, and you want to be in with size, because this is the kind of morning the account is for.
+
+The bell rings. You buy at the market, full size, and you are filled a little higher than you meant. For two minutes it goes your way and the whole morning seems to open in front of you. Then it stops. The people who bought it last night are selling it to people like you. Ten minutes in it is below your price. Twenty minutes in it is through the low of the first bar, and you are out with a loss three times the size you usually take on one trade.
+
+Then the voice starts. *You knew better. Every time. You always chase the open.* You sit with it until lunch. In the afternoon a clean setup appears in a name you know well, the kind you trust, and you do not take it. You cannot. Your hand will not do it, because the trader who would take it has been told all morning that he is an idiot.
+
+*To give up compassion and still be brave, to give up frugality and still be broad, to give up standing back and still be first: that is death.* Not the death of the account; one morning does not get that far. Something smaller. The morning took your money and then it took your nerve, and you handed it both.
 
 ---
 
-The system I trade has a rule about the open. No new entry is taken in the first minutes of the session. The rule waits until the opening range has formed, a fixed stretch of time written into the config, and only then looks at whether a name qualifies. On a quiet morning the rule costs nothing, because nothing is happening. On a loud morning it costs a great deal of feeling.
+Same stock, same news, another morning.
 
-The loudest morning I remember was a name that had reported overnight. By six in the morning it was up sharply before the market had opened, and every place I read was talking about it. A friend I will call Marcus, who trades on his own and is better at reading a story than I am, sent me a message at twenty past six. It was one line: *this is the one*.
+You let the bell ring without you. You watch the first five minutes the way you would watch someone else's trade. The first buyers rush in, the overnight holders sell to them, and the price comes back. You are not in it, so you can see it. Twenty minutes in, it holds above the morning low and starts to lift again. You buy then, at half your usual size, with the morning low as the place you would be wrong.
 
-Marcus had already bought it before the open. He was not being reckless by his own lights. He had a thesis, a size and a stop. He just wanted to be in before everyone else was in, because the whole point of a morning like that, as he saw it, was to be first.
+You are not first. You did not buy the low. That is the cost of the third treasure, and you pay it on purpose: you buy after the market has shown you something instead of before.
 
----
+Say it fails anyway. It comes back through the low and you are out, a small loss, the size you chose. Now the first treasure. You say to yourself what you would say to a friend: that was a reasonable trade at a reasonable size, and it did not work. You write one line. You get up and get a glass of water. When the clean setup comes in the afternoon, the trader who sits down to take it has not been beaten up by his own voice, so he takes it.
 
-It felt like standing on a platform while a train leaves. The price ran in the first minutes, the way gap names do, and every tick up was a small voice saying the rule was a coward. I had built the rule. I knew why it was there: the first minutes of a session are the thinnest, widest and most emotional of the day, and an entry there is a bet on the crowd rather than on the setup. I had tested it over many mornings before I trusted it. None of that knowledge was in the room. What was in the room was the train.
-
-Then the open did what opens do. The price came back. Not all the way, and not because the story was wrong, but because the first buyers had been first, and being first means there is no one ahead of you to sell to except the people behind. By the time the opening range had formed, the name was a different shape. My rule looked at it, found it did not meet the condition, and passed.
-
-I do not know how Marcus's trade ended. I did not ask, and it does not matter here. On some of these mornings the first one in is paid, and paid well. If you trade long enough you will watch it happen and you will not be the one. That is the price of the third treasure, and it is paid in public.
+The second treasure is why he can. He spent little in the morning. He still has the money, and he still has the attention, because he did not burn either on the first print.
 
 ---
 
-The part of the chapter I understand better now is the line before it: 慈故能勇, compassionate and so able to be brave.
+None of this looks like much. There is no screenshot of it and no story to tell at dinner. That is what Laozi means when he says his way resembles nothing. Kindness makes you brave, spending little gives you room, and standing back puts you in front of the ones who rushed. From the outside, a trader who lives by the three treasures looks like a trader who is not doing very much. Most days, that is an accurate description.
 
-That evening I wrote my journal entry for the day. I have done this for years, a few lines on what the rules did and what I did. The temptation, on a day like that, is to write a verdict. *Missed the move again. Too slow. The rule is too strict.* I have written entries like that, and I know what they do. They turn a rule that worked into a rule on trial, and a rule on trial gets loosened on the next loud morning, not because a test said so but because the trader is tired of feeling left behind.
+## Try This
 
-So I wrote what happened, plainly. The rule waited, as written. The name did not qualify after the open. No trade. And one more line, which I have kept writing since: *the rule did its job, and so did I.*
-
-That is not self-congratulation. It is the first treasure protecting the third. If I had punished myself for not being first, the punishment would have come out somewhere: in a loosened rule, in a bigger size next time, in an entry in the first minute of some other morning to prove I was not a coward. The kindness was what let the waiting survive the day.
-
----
-
-Frugality sits between the other two, and I see it every morning in a quieter way. The rule that waits for the open also trades less, because many names that look exciting at six in the morning do not qualify at ten. Fewer entries mean fewer spreads crossed, fewer fees, fewer small leaks. None of those is a story. Over a season they are the difference between an account that can stay in many markets and one that has spent its room on mornings like that one. *Frugal, and so able to be broad.*
-
-The chapter says the way resembles nothing, and so nobody sees it as great. A rule that waits for the open does not resemble anything you would want to post. There is no screenshot of the train you did not board. That is the reason I trust it. If it resembled something — if it were exciting, if it were the move everyone was talking about — it would long ago have become small.
-
-*Not daring to be first, and so able to lead the vessels that last.*
+For the next week, after every losing trade, say one sentence to yourself out loud, the sentence you would say to a friend who had taken the same trade. Keep your size at half until you have said it. Notice how the next entry feels.
 
 ---
 

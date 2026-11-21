@@ -14,81 +14,61 @@ There is always one whose office it is to kill. To kill in the place of the one 
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. A stop that is not always carried out frightens no one, least of all the part of you it was written for. Why threaten with a death that does not come?
+Fear keeps you honest, and control keeps you safe. It is how most of us were raised: set hard limits, scare yourself into keeping them, stay on top of things. One more loss like that and you are done for the week; break the daily limit and you stop for a month. And when a trade turns bad, you take charge. You do not wait for a stop to tell you. You cut it the moment it feels wrong, or you move the stop when you can see it is about to be hit by noise. You run your trades, not a number you typed in this morning.
 
-2. If the exit fires every time, without exception, who would dare? The entry gets sized honestly, because it knows it will be held to the stop.
+## The Other Way
 
-3. One pardon is enough. After it, every position believes it may be the next one pardoned.
+1. *When the people do not fear death, why threaten them with death?* The threats you make to yourself stop working the moment you are losing badly enough. That is exactly when you need them.
 
-4. There is always one whose office it is to kill. In your trading it is the exit rule, written on a quiet day by someone who was holding nothing.
+2. "If I lose today, I quit" is a threat aimed at a trader who has already stopped caring about today. It changes nothing.
 
-5. You, with the position on and the screen red, are not that officer. You are the family of the accused.
+3. Fear used as a whip makes you frozen or reckless. Neither is control.
 
-6. To override the exit is to pick up the master carpenter's axe. The axe is not the difficulty. The hand holding the wood is also yours.
+4. *There is always one whose office it is to kill.* Every trade has an exit you chose when you were calm, before you were in it. That exit is the one whose office it is to close the trade.
 
-7. The override that loses costs money. The override that wins costs more: it teaches you that you cut well.
+5. The stop is neither your enemy nor your servant. It is the decision of the calmer trader you were before the trade began.
 
-8. Few fail to wound their hands. Laozi says few, not none. Do not build on the few.
+6. *To kill in the place of the one whose office it is.* Cutting a trade early because it feels bad, or pulling the stop because it is about to be hit: both are doing the exit's job by mood.
 
-9. If the executioner is wrong, retire him in open court: change the rule after the close, in writing, for the next trade. Never on the scaffold.
+7. *Cutting wood in place of the master carpenter.* The carpenter knows where the cut goes. The one who grabs the axe halfway through the job cuts in the wrong place.
 
-10. Leave yourself one freedom only: to be out sooner, or smaller, than the rule requires. Never later. Never larger.
+8. *Few fail to wound their own hands.* The cost of interfering is not only the trades you spoil. It is that you stop trusting your own exits, and then every trade is run by panic.
+
+9. Choose the exit before the entry, with care. Then leave the axe where it is. Hands off is the firmer grip.
+
+10. If an exit keeps feeling wrong, change it in the evening, for tomorrow, never while the trade is open.
 
 ## The Story
 
-Every automated exit I have built has had a button beside it. The names vary: pause, hold, cancel. It is there for good engineering reasons. Feeds break. A quote comes through wrong. A rule can have a bug in it. Somebody has to be able to stop the machine.
+You enter a trade in the morning with everything in order. You know why you are in, you know your size, and you have put the stop at the price where the trade would be wrong. You chose that price before you entered, looking at the chart with a clear head.
 
-This is about the one time I pressed it for another reason.
+Twenty minutes in, it starts to go against you. Not to the stop, not close. Just enough to feel. Your stomach tightens. You think about the last loss, and the one before it, and you think: not again. So you close it, at half the loss the stop would have cost. You feel relief, and a little pride. You took control.
 
----
+Then the stock turns, as it was always free to do, and runs up through your entry to where you meant to take profit. You watch it from outside. On the next trade you remember this. It goes against you, and this time, as it comes near the stop, you move the stop lower, because you are not going to be shaken out again. It goes through the new stop too. You move it again. By the time you close it, the loss is twice what the first stop would have been.
 
-It was years ago, on an earlier and simpler system than the one I run now. The rules were written down, the entries and exits were scheduled, and my job in the morning was mostly to read what had happened. One of the exits was a time stop: a position that had not done what it was bought to do within a set number of days was sold at the next open. The rule did not ask how the position looked. It counted days.
-
-That morning the count ran out on a name I liked.
-
-I should say what "liked" means here, because it is the whole story. I knew the name. I had read about the company the night before, for reasons that had nothing to do with the trade, and what I read was good. The position was down a little, not much. The chart, to my eye, was turning. And the rule was about to sell it at the open, into what I was sure was the end of a dull patch, for the sole reason that a counter had reached its number.
-
-The sell order was sitting in the queue. I could see it. Beside it was the button.
-
-I told myself I was not overriding the rule. I was delaying it. One hour, to let the open settle, and then I would let it go. That is how it is always put. Nobody cancels the executioner. One only asks him to wait outside.
-
-I pressed it.
+Look at the two trades side by side. In the first you killed the trade before its time. In the second you would not let it die when its time came. They feel like opposite mistakes. They are the same mistake. In both, you took the axe from the one whose office it was and swung it yourself, halfway through the job, with your stomach tight.
 
 ---
 
-The open came and went and the price did nothing, which felt like being right. At the end of the hour I looked again, and found something I had not thought about. The rule had made one decision, at one moment, and I had cancelled it. Now there was no rule. There was a position and there was me, and a fresh decision was due every minute for as long as I held it.
+*Cutting wood in place of the master carpenter: few fail to wound their own hands.* The wound is not only the money. After a few weeks of this you no longer believe in any exit you set, because you know you will overrule it. Every trade becomes a trade without an exit, run by whatever you feel at the time.
 
-The hour became the morning. The price sagged in the afternoon, and I noticed that I had started to need a level, some price at which I would admit it. I picked one. It was lower than the open I had refused. When the price got there I moved it a little, because by then selling meant taking a worse price than the one the rule had offered me for nothing, and I did not want to pay for my own interference.
-
-I sold it by hand two days later. I will not make the loss into a number. It was a small position and an ordinary loss, larger than the rule's would have been. The money was the cheap part.
+On top of that come the threats. *One more loss like that and I am done for the month.* You say it on Monday. On Wednesday you take the loss, and then another, because the threat did not keep you out of the trade. It only made the loss feel like an ending, and an ending is when traders stop caring. *When the people do not fear death, why threaten them with death?*
 
 ---
 
-The expensive part showed up that weekend, when I sat down with the records.
+The other way starts before the trade. You choose the exit with the same care as the entry, because the exit is the one whose office it is to close the trade, and you are giving it that job. Then you leave it alone.
 
-The system kept a log of every trade it made, and that log was the only reason I trusted the system. Every line in it was the rule's. Now there was a line that was not. The entry was the rule's and the exit was mine. It could not be counted with the others, and it could not honestly be left out. I had one trade in the book that belonged to nobody.
+When the trade goes against you and your stomach tightens, you notice your hand moving toward the mouse and you take it away. The stop is there. It will do its work, or it will not need to. If you cannot sit and watch, you get up and leave the room, with the stop in the market doing the job you gave it.
 
-Then I saw something worse. Suppose it had gone the other way. Suppose the name had risen that week, as names sometimes do, and I had sold it by hand, pleased with myself, well above the open. I would have had the same orphan line in the log, with a lesson attached: that I can tell which exits to stop. I would have pressed the button again. I would have pressed it on some later morning with a bigger position and a worse reason, and the log would have filled with lines that belonged to nobody, until there was no rule left to trust, only a man with a button.
+If an exit keeps feeling wrong, you take that seriously, in the evening, with the screens off. Perhaps the stops are too tight for the way the stock moves. Perhaps the size is too large, and the stomach is right. You change it there, for tomorrow, the way a carpenter would, with the wood on the bench and not halfway through the cut.
 
-Losing was the luckier result. I do not say that to sound wise. I say it because I worked out what winning would have taught me.
+And you drop the threats. You do not need to frighten yourself into stopping. We are taught that the tighter you hold on, the more control you have. Here it is the other way round: a smaller size and an exit you leave alone do the job more quietly than any grip, and they still work on the day you have stopped being afraid.
 
----
+## Try This
 
-*There is always one whose office it is to kill.* Laozi is writing about the state, and about rulers who take the killing into their own hands. I am not a ruler, and a time stop is a small thing. But the image he reaches for does not come from the court. It comes from a workshop. The master carpenter has an axe and thirty years of swinging it. You have watched him, and it looks easy. One morning you take the axe and swing it yourself, and the axe does what an axe does. The wood is in your other hand.
-
-The rule was my master carpenter, though it was four lines long. It had no skill I lacked. What it had was an office. It had been appointed, on a quiet day, by a version of me who was holding nothing and wanted nothing, to do one job without asking how the job looked that morning. I was no smarter at the open than that man had been. I was only closer to the wood.
-
----
-
-Two things changed.
-
-The button is still there, because feeds still break. But it does less than it did. I can stop the system from opening anything new. I can make it sell sooner than the rule says, or sell more. What I cannot do, from any screen I own, is hold a position past the exit the rule has given it. The hand may cut early. It may not stay the axe. If I think an exit rule is wrong, there is a place for that: I write it down after the close, it becomes a new rule with its own test, and it applies to trades that do not exist yet.
-
-The second thing is one field in the log. Every trade now carries a mark that says whose it was: the rule's, or mine. The point of the second value is that I would have to type it.
-
-*Few fail to wound their own hands.*
+For your next ten trades, set the exit before you enter and do not touch it while the trade is open, in either direction. If you want to change it, write down what you would change and why, and decide in the evening whether to use it tomorrow. Notice how many of the changes still look right by then.
 
 ---
 

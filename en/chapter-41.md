@@ -18,73 +18,67 @@ The great square has no corners. The great vessel is finished late. The great so
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Tell a room of traders that the edge is in waiting a season, and you will meet all three students. One writes it down. One nods and forgets. One laughs.
+If it works, it works fast. You give a method a few months, and if it is not paying by then, you move on to one that does. The traders worth learning from got good quickly; you can see it in their results. Time is money, and every month spent learning slowly is a month of profit you did not make. You want a path with progress you can measure: a better month than last month, a bigger account than last quarter. If you are not moving forward, you are falling behind. Everything around you says so: the young founder, the overnight success, the fast track. Real talent shows early.
 
-2. If nobody laughed, it would not be the way. A method that sounds exciting has usually been shaped to sound that way.
+## The Other Way
 
-3. The way forward seems to go back. A piece of research that runs past its plan is not behind. It is finding out what the plan did not know.
+1. *When the lowest student hears of the way, he laughs out loud.* Tell a trader that the way to grow is to slow down, and he laughs. That is how you know it is the way.
 
-4. The great vessel is finished late. A rule earns trust in seasons, not weeks, and there is no way to compress a season.
+2. *The middling student half keeps it and half loses it.* Most traders slow down for two good weeks and speed up again at the first bad one.
 
-5. Keep a holdout: a stretch of history that no test has touched. It is the only part of the past that can still surprise you.
+3. *The best of students practises it with all his strength.* Not with excitement. With all his strength, quietly, for years.
 
-6. Open it once. A holdout looked at twice is just more history.
+4. *The bright way seems dim.* The trader who is really getting better does not look like it, from outside or from inside.
 
-7. The bright way seems dim. Of two rules that pass, the one that survives is usually the duller.
+5. *The way forward seems to go back.* Cutting your size in half feels like losing a year. Often it is the year you begin.
 
-8. The great sound is faint. A real edge is quiet in the data: a slight lean, not a shout.
+6. *The level way seems rough.* The steady path has more boring weeks in it than the fast one, and boring weeks feel like failure.
 
-9. Plain truth seems to change. An honest result moves a little with the sample. A result that never moves was fitted to the sample.
+7. *Ample virtue seems lacking.* An account that grows slowly looks small next to the screenshot. Leave it small, and growing.
 
-10. The way lends, and completes. Give the work its time on credit, and collect at the end, not along the way.
+8. *The great vessel is finished late.* A trader takes years to set, like a large pot in a kiln. Take it out early and it cracks.
+
+9. *The great sound is faint.* Real progress does not announce itself. One day you notice that a loss no longer ruins your afternoon.
+
+10. *Only the way is good at lending, and at bringing things to completion.* Time lends. For a trader who stays, it is the one thing that compounds.
 
 ## The Story
 
-The plan said six weeks. I wrote it at the top of the page, because I write a plan at the top of every research campaign, and I believed it.
+Every trader has a year like this one. You have been trading long enough to know the basics. You are not new any more, but you are not making money either. Not much, anyway. Some months up, some down, roughly even after costs. Meanwhile you know people, or read about people, who seemed to work it out in a season. Their accounts doubled. Their screenshots are everywhere.
 
-The campaign was about one family of ideas: a plain rule that follows a move once it has started, and the question of whether it held across a wider set of markets than I had tested before. Before running anything, I did the thing I now do first. I cut off the most recent stretch of the history and sealed it. The code that runs tests could not see it. In the ledger I wrote what it was, why it was there, and the one condition under which it would be opened: once, at the end, against the final frozen rule, and never before.
+So you push. You trade more, because more trades mean more chances to learn and more chances to win. You size up when you feel good, because you will never grow the account trading small. Every few months you try a new method, each one promising to be the thing that finally makes it click. Every month you check whether this is the month.
 
----
-
-A friend who trades on his own, whom I will call Lin, came by in the second week and asked what I was working on. I told him, and I told him about the sealed stretch.
-
-He laughed. Not unkindly. "You have the data on your own machine and you are not allowed to look at it?"
-
-"Not until the end."
-
-"Then why have it?"
-
-It is a fair question, and the honest answer is that a holdout is not data. It is a promise. Every other piece of history on my desk has been looked at, tested against, argued with. Whatever I build has been shaped by it, whether I meant that or not. The sealed stretch is the one piece of the past that has not been allowed to shape anything. That is its whole value, and the value is spent the first time I look.
-
-Lin shook his head and told me about a trade he had put on that morning. I think he still finds the arrangement funny. Laozi would say that is as it should be.
+It is never the month. Some months are better, and you think you have arrived, and the next month takes it back. After a year you have tried four approaches and you are roughly where you started, only more tired.
 
 ---
 
-Six weeks came and went. The first problem was the data: one market's history had a stretch where prices were stored in the wrong units, and every test that touched it had to be run again. The second problem was the costs. I had been using one cost for every market, which was easy and wrong, and building a proper cost for each one took most of a month. The third problem was mine. One version of the rule passed the gate cleanly, and I was pleased for about a day, until I found that it had been allowed to see the close of a day before deciding what to do that day. It went back to the start, and so did its count.
+Then someone tells you the way forward. Trade half the size. Trade one setup. Keep it for a year before you judge it. Write down every trade. Expect nothing for twelve months.
 
-Six weeks became three months, and then most of a season.
+You laugh. Perhaps not out loud, but you laugh. A year? You do not have a year. You are already behind. Half the size means half the money, and you are barely making any. It sounds like advice for someone who has given up.
 
-The holdout pulled at me the whole time. It pulls hardest in the middle of a campaign, when you are tired and unsure whether the work is going anywhere. Just a look, I would think. Not to change anything. Only to know whether it is worth carrying on. That reasoning sounds careful, and it is the end of the holdout. Once I know what the sealed stretch says, every choice I make afterwards is made knowing it. I would be fitting to the last clean piece of the past without meaning to, and the final test would be a test of nothing.
-
-So it stayed sealed. On the worst weeks I reread the line in the ledger that said when it would be opened. It is a dull line. It helped.
+This is the lowest student, and every trader has been him. *If he did not laugh, it would not be the way.*
 
 ---
 
-*The way forward seems to go back.* That season felt like going back. Every fix made the history look a little worse than it had before, because every fix took away something that had been flattering the rule: the wrong units, the single kind cost, the peek at the close. By the end the rule's past looked plainer than it had in the second week. Lin, if he had seen the two versions side by side, would have preferred the early one. So would I, before I knew what was wrong with it.
+Look at why it sounded wrong. *The way forward seems to go back.* Everything in the advice looked like a step backwards: less size, fewer trades, less variety, less hope. You were measuring forward by the account, month by month, and by that measure the advice was a retreat. But it was not the account that was failing to grow. It was you. A trader cannot be grown in a month, any more than a large pot can be fired in an afternoon.
 
-When the work was done I froze the rule. Its fingerprint went into the ledger, with the date. Then, on an ordinary morning, with coffee, I opened the sealed stretch and ran the frozen rule against it once.
-
-The result was quiet. It leaned the same way as the rest of the history, less strongly, the way an honest result should. There was no climb of the kind I had stared at for months. *The great sound is faint.* It cleared the gate without much to spare. I did not run it a second time to see whether a small change would make it clear more easily. There was nothing left to run it on. The stretch had done its one job.
+*The great vessel is finished late.* The things that make a trader take time, and they do not show while they are forming: how you sit with a loss, how you wait, how you know your own size. A year of half-size trades gives you hundreds of repetitions of these, cheaply. A year of chasing gives you the same mistakes at higher prices.
 
 ---
 
-The rule went into a forward test, under its frozen fingerprint, and it is there now. That is the part Lin found funniest when I told him. "So after all that, it still isn't finished?"
+There is another way to spend the year.
 
-No. A season of research produces a rule that is ready to begin being trusted. The trusting takes another season, at least, of the rule trading forward on prices that did not exist when it was written. The great vessel is finished late, and later than you think, even when you have already allowed for that.
+You take the advice, more or less. You cut your size. You pick the one setup you understand best, and you trade only that. You write down every trade. It is the dullest year of your trading life. Your friends who are pushing have better months than you, and some of them tell you about it.
 
-I used to treat the date at the top of the plan as a promise I was failing to keep. Now I write it as a guess and expect to be wrong, in one direction only. 夫唯道，善贷且成. The way lends you the time. It does not hand you the result early, and it does not forget to give it to you in the end.
+You keep going. Around the sixth month you notice something small: a loss came, and you did not think about it at lunch. Around the ninth, you skipped a day that was not yours without having to argue with yourself. Your account is up a little. Not enough to post.
+
+In the second year you add size back, slowly, because now the size has something to sit on. Some of the friends who were pushing have stopped trading. You are not ahead of anyone. You are still trading.
+
+## Try This
+
+Choose a stretch long enough to feel uncomfortable, three months at least, and trade at half your usual size for all of it. Do not judge it until it is over. Once a month, write one line about something that has changed in how you behave, not in what you have made.
 
 ---
 

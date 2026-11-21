@@ -14,75 +14,61 @@ The way of heaven does not contend, and is good at winning. It does not speak, a
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. There are two kinds of courage. One enters. The other declines. Markets reward the first loudly and the second silently, so the first gets all the stories.
+Fortune favours the bold. You heard it as a child and you have seen it in the market. The big moves go to the traders willing to step in when everyone else is scared, to hold when others fold, to take the trade nobody else will. Boldness is a skill you build, and the market pays for it. The timid sit in cash and watch other people get rich. If a trade scares you, that is often the sign it is the right one. You did not take up trading to be careful.
 
-2. Courage in daring kills: the trade taken because it would be cowardly not to. Most accounts that blow up were brave on the way down.
+## The Other Way
 
-3. Courage in not daring keeps alive. The bravest trade is often the one not taken, and nobody will ever congratulate you for it.
+1. *Courage in daring kills. Courage in not daring keeps alive.* Both are courage. Only one of them gets noticed.
 
-4. Of these two, one helps and one harms, and on any single day you cannot tell which. A refused trade that would have won looks like cowardice. A refused trade that would have lost looks like nothing at all.
+2. It takes nerve to stay out of a move everyone around you is making money on. That nerve is rarer than the nerve to jump in.
 
-5. What heaven dislikes, who knows the reason? You will not always learn why a rule refuses what it refuses. You will learn, over seasons, whether the rule keeps you alive.
+3. *Of these two, one helps and one harms.* On any single day you cannot tell from the outside which is which. The daring trader often wins today.
 
-6. Even the sage finds it hard. If not daring feels easy, you have not yet met the setup that tests it.
+4. *What heaven dislikes, who knows the reason?* You will not always know why a bold trade is wrong. Not knowing is a reason to be careful, not a reason to go ahead.
 
-7. Not contending, and good at winning: the rule does not argue with the screen. It checks its conditions and says yes or no.
+5. *So even the sage finds it hard.* This is hard for everyone. Do not expect it to feel like wisdom. It feels like missing out.
 
-8. Not summoned, and comes of itself. The next good trade does not need you to go looking for it. It arrives when the rule finds it.
+6. *The way of heaven does not contend, and is good at winning.* The patient account wins by still being there.
 
-9. Slack, and good at planning. A coarse rule written calmly beats a fine judgement made in a hurry.
+7. *It is not summoned, and comes of itself.* The good trade does not have to be dragged out of a frantic market. It turns up on an ordinary day.
 
-10. Heaven's net is wide and its mesh is loose, and nothing slips through. A crude liquidity check throws away some good trades. It does not let through the one that would have trapped you.
+8. *It is slack, and is good at planning.* A slow, loose day leaves room to think. A tense day leaves room only to react.
+
+9. *Heaven's net is vast and wide; its mesh is loose.* A risky habit can go unpunished for a long time. The mesh is so loose it looks as if there is no net.
+
+10. *And nothing slips through.* A habit that has worked twenty times has not been proved twenty times. It has been lucky twenty times, and the net is still there.
 
 ## The Story
 
-The setup came on a Tuesday, and it was the cleanest I had seen in weeks.
+Every trader has seen this kind of day. One name, or a whole corner of the market, starts to move in a way that makes no sense. Up fifteen percent, then thirty. The chat is full of people who got in early and are posting their gains. Every dip is bought within minutes. Nothing on the screen gives you a reason to be in it, except that everyone else is.
 
-I say that as someone who distrusts the word. A clean setup is usually a setup you have already decided to take. But this one matched every condition on the list, and I do not mean nearly. The trend was there, measured the way the rule measures it. The pullback was the depth the rule wants. The volatility was in the band where the size works out to a sensible number. There was no report due, no event in the window. If you had asked me to draw the setup the rule was looking for, I would have drawn that chart.
+You stay out for an hour. It is a hard hour. Every time you look it is higher, and every time it is higher the hour feels more like cowardice. At last you buy. Not big; just enough to be part of it. It works for twenty minutes. Then it does what these days do, without warning, and you are out with a loss in a move everyone else had been making money on all morning.
 
-The system refused it.
+The worse version of this story is the one where it works. You buy, it keeps going, you sell higher. You learn that daring pays. You do it again on the next wild day, and the one after, a little larger each time. It pays most of the time. A habit like that can run for a long while before anything goes wrong, long enough that you forget it is a habit at all.
 
----
-
-The reason in the log was one line. The name failed the liquidity check: the average daily volume was below the floor, and the spread at the time of the check was wider than the rule allows.
-
-I argued. Not out loud, but in the way you argue with a referee. I looked at the volume and told myself it was only a little below the floor, and that the floor was a number I had picked. I looked at the spread and told myself I could use a limit order and wait inside it. I told myself I could take a smaller size, so small that the thin book would not matter. Each of these arguments was reasonable, and I knew from experience that reasonable is the most dangerous kind.
-
-Then I went looking for the override.
-
-There is none. I built it that way, on purpose, after an earlier year when I had built the same check with a button that let me skip it on special occasions. That button was used on special occasions, and every occasion turned out to be special. So in the version I trade now, the liquidity check has no switch. It can be changed only by changing the rule, and a changed rule is a new rule, with its own fingerprint and its own forward test starting at day one. I could not dare on that Tuesday even if I wanted to, unless I was willing to throw away a season of record to do it.
-
-*Courage in daring kills. Courage in not daring keeps alive.* I have come to think that the second kind of courage is mostly built in advance, by a calmer person, because the person at the screen does not have much of it.
+*Heaven's net is vast and wide; its mesh is loose, and nothing slips through.* The mesh is loose. That is why it looks as if there is no net. You can dare twenty times and slip through twenty times. The twenty-first is not a different kind of day. It is the same day, and this time the mesh holds.
 
 ---
 
-What is frightening is the exit. A chart of a thin name looks just like a chart of a liquid one. The candles have the same shapes. The line has the same slope. What the chart does not show is how many people were standing behind each price, and in a thin name the answer is sometimes nobody. You see a price on the screen and you think it is a price you could trade at. It is a price somebody traded at, once, for a small amount, and there may be no one there the next time.
+Now the other courage.
 
-*Heaven's net is vast and wide; its mesh is loose, and nothing slips through.* The liquidity check is a coarse net. It is two numbers, a floor and a ceiling, applied without judgement. It throws away good trades like this one, and it will keep throwing them away. What it does not do is let through the trade in which the stop turns out to be imaginary.
+The same wild day. You watch it go up fifteen, then thirty. You feel what everyone feels: the pull, the fear of being the one who missed it. And you stay out. Not because you know it will fail; you do not know that. You stay out because nothing about it is a trade you know how to take, and because the feeling pushing you in is the feeling of being left behind, which has never once been a reason to buy.
 
----
+*Courage in not daring keeps alive.* It does not feel like courage. It feels like sitting on your hands while the room cheers. Nobody posts a screenshot of the trade they did not take. By the close the move may still be up, and you will have nothing to show for having been right, if you were.
 
-I watched the name for the rest of the week, which I would not recommend and did anyway.
+In the evening you may find yourself doing the sum: what you would have made buying at fifteen and selling at thirty. Let the sum be what it is. It is a number from a trade that was never yours, and the trader who adds it up every night soon starts taking those trades.
 
-It went up. Not dramatically, but it did roughly what the setup said it would. By Friday the chart looked exactly like the trade I would have drawn if you had asked me on Tuesday, and I had no position in it.
-
-This is the moment the chapter means when it says even the sage finds it hard. *Of these two, one helps and one harms.* On that single week, in that single name, the courage of not daring had cost me a winning trade, and I could see it in the chart.
-
-And yet I could not quite see it. When I looked closer, the chart's rise had happened on a few days of light trading, with gaps between prints. Would I have been filled at the price on Tuesday? At what size, at what spread? Would I have been able to sell on Friday at the price the chart showed, or at a price somewhere below it, to whoever was there? I did not know, and I could not know, because the trade never existed. The winning trade I was mourning was partly a picture, and the picture was drawn by the same thin market that made it dangerous.
-
-*What heaven dislikes, who knows the reason?* I do not know whether that trade would have worked. I know the rule did not need to know either.
+*The way of heaven does not contend, and is good at winning. It is not summoned, and comes of itself.* The next day, or the next week, an ordinary setup appears in an ordinary name: one you know, at a level you understand, with a place where you would be wrong. Nobody in the chat is talking about it. You take it at your normal size. It is not exciting, and it does not need to be.
 
 ---
 
-I have kept a list since then, in the journal, of the setups the liquidity check refuses that meet every other condition. It is a short list, because the check refuses most things for many reasons at once. The ones that fail it alone, the clean ones, are rare enough that I remember several of them.
+This is the reversal. We are taught that courage means doing the frightening thing. Laozi says there is a deeper courage in not doing it, and that it is the one that keeps you alive. *So even the sage finds it hard.* It does not get easy. The wild days keep coming, and each one makes staying out feel wrong. What changes is that you learn to recognise the feeling, and to let it go past.
 
-I do not keep the list to score the rule. Scoring it on a handful of refused trades would be the same mistake as taking them. I keep it because the list is the record of the second kind of courage, and that kind leaves no other trace. A trade taken shows up in the account. A trade refused shows up nowhere, unless you write it down.
+## Try This
 
-When I read the list now, I do not see a row of missed chances. I see a row of mornings on which nothing bad could happen to me in that name, because I was not in it. *It is not summoned, and comes of itself.* The good trade in a liquid name, with a stop I could believe in, came a few days later, as they do. The rule took it without asking my opinion.
-
-The setup on that Tuesday is still the cleanest one on the list. I keep it at the top on purpose. It reminds me that the hard trade is not always the one you are afraid to take. Sometimes it is the beautiful one you are not allowed to.
+The next time a move has everyone around you excited and you feel the pull to join, write down, before you do anything, the one sentence that would make it a trade you know how to take. If you cannot write it, close the chat for the rest of the session and keep the sheet. At the end of the month, read back what you kept out of.
 
 ---
 

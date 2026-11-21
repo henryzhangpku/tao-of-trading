@@ -18,73 +18,67 @@ What others teach, I teach too. The strong and violent do not die their own deat
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. One gives birth to two, two to three. Size grows by steps too small to notice, and each step has a reason.
+More is better. More size when you are right, more trades when the market is moving, more capital as soon as you can get it. If a position is good, a bigger one is better. If it goes against you, you add, or you hedge, or you roll it out and give it time; you do something. A trader who just takes the loss is leaving money on the table. Every problem has a fix if you are willing to put more into it. Strong traders do not back down. They press and defend their positions. You were taught the same about everything: if something is not working, try harder.
 
-2. Every position carries its loss on its back and its gain in its arms. Look at both before you pick it up.
+## The Other Way
 
-3. Gained by losing: the small loss taken early is what keeps the account whole.
+1. *The way gives birth to one, one to two, two to three, and three to the ten thousand things.* One trade, then the add, then the hedge, then the roll, then the ten thousand things you are now managing.
 
-4. Lost by gaining: the size raised after a good run is the size the next bad run is measured against.
+2. Every addition is reasonable. That is how one position becomes a book you can no longer see.
 
-5. The strong and violent do not die their own death. Aggressive sizing does not end an account slowly. It ends it on one day.
+3. *The ten thousand things carry the dark on their backs and hold the light in their arms.* Every position carries its loss from the start. Adding more does not take the dark out. It makes it heavier.
 
-6. The arithmetic does not care how good you are. Lose a tenth and you need a ninth to get back. Lose half and you need to double. The deeper the hole, the steeper the climb out.
+4. *The blending of breath makes them whole.* A position is in balance when you can carry both its ends. Past that point, more is only more weight.
 
-7. The sizing rule I trade by was written in the month I watched a friend's account go in a single week. He was the better trader. He was also the larger one.
+5. *What people hate most is to be orphaned, lonely and unworthy.* What traders hate most is to be flat, small and wrong. The great ones take these as their titles.
 
-8. The blending of breath makes them whole. Size so that you can carry the dark and the light together, on any day, without putting either down.
+6. *Things are sometimes gained by losing.* Close the position at a loss, and you gain back your head, your capital and your next trade.
 
-9. What others teach, I teach too. Nothing here is new. That is why it is still true.
+7. *And sometimes lost by gaining.* The win you pressed into bigger size, the account you grew too fast: gained, and lost by the gaining.
+
+8. When in doubt, take something away. One leg, half the size, one trade from tomorrow's list.
+
+9. *The strong and violent do not die their own death.* The trader who never gives ground is not killed by the market. He is killed by his own last add.
+
+10. *I take this as the father of my teaching.* Of everything in trading, this is taught most often and learned least: do not be the one who has to win the argument.
 
 ## The Story
 
-A friend I will call Kai was the better trader. I want to say that first, because it is the point of the story and people tend to hear it the other way round.
+It starts as one trade. A good one, at your normal size, with a clear idea of where you are wrong. It goes against you a little, then more, and it comes to the price where you said you would be wrong.
 
-He had traded for years longer than I had. He read a tape the way some people read a face. He was quicker than me to see when a move was tired, and quicker to admit when he was wrong about one. When we had lunch, which we did most months, I usually came away having learned something, and he usually came away having been polite about my rules.
+You do not take the loss. Not because you have decided to break the rule, but because you have a better idea: the trade is now at an even better price. If it was good before, it is better now. You add. One becomes two.
 
----
-
-The year before the week, Kai did well. I am not going to say how well. It does not matter, and it is exactly the kind of number this book does not print. What matters is what he did with it.
-
-He raised his size. Not once. In steps. Each step came with a reason, and each reason was good. The account was larger, so the same fraction was a larger amount. He had been right for months, so the edge was surely real. His time was worth more than the small size was paying for it. A strong run was the moment to press, everyone said so. He told me about each step over lunch, as news rather than as a question, and each one sounded like the sensible next thing.
-
-*The way gives birth to one, one to two, two to three.* Nobody decides to be large. You decide to be a little larger than you were, many times.
-
-I noticed that I was a little in awe of him that year. I also noticed that I could not have told you what his size was, and I am not sure he could have either, in the way that would have mattered: what one bad week would do to it.
+It keeps going against you. Now the position is large and the loss is large, and taking it would hurt. So you protect it instead. You buy a put spread underneath, which costs a little and caps the damage, and now you have a hedge to manage as well. Two becomes three. Expiry comes closer and the hedge is not quite right, so you roll it. You sell something else against the position to pay for the roll. You open a small trade in a related name that should move the other way, as a second hedge. By the end of the week you are managing a structure you could not draw on a napkin.
 
 ---
 
-The week itself was not dramatic. That is what I remember most clearly. I went back afterwards and looked at the market for those five days, and it was an ordinary bad week, of the kind that comes round every year or so. Nothing broke. No one wrote about it later.
+Every step was more. More size, more protection, more time, more cleverness. At no point did you do anything stupid; each piece had a reason, and you could explain it. But the whole thing now takes all your attention, and you have not taken a new trade in days, because there is no room in your head or your account for anything but this. And the original idea, the one trade, was wrong a week ago. Everything since has been the effort not to say so.
 
-At Kai's old size it would have been a bad week: something to grumble about over lunch. At his new size it was the end. A position opened against him overnight, through his stop, at a price the stop could not reach. The loss was large enough that the broker asked for more margin. He met the first call. Then the market moved again, on an ordinary afternoon, and the second call was not something he could meet, and the broker began closing his positions for him, at the prices that were there, which were the worst prices of the week. By Friday the account was gone.
-
-He called me on the Saturday. He was calm, the way people are after the thing they feared has already happened. He said one sentence I have thought about many times since. *I was right about most of them.*
-
-He was. Within the month he had been right about nearly everything he had held that week. It was worth nothing. The account that would have been right no longer existed.
-
-*The strong and violent do not die their own death.* The violence was not the market's. The market had a dull week. The violence was in the size, and it had been put there one reasonable step at a time.
+When it finally breaks, it breaks all at once, every leg moving the wrong way in the same hour. The loss is many times what the first stop would have cost.
 
 ---
 
-Kai is all right. He has a job he likes and he trades again, on his own, much smaller, and he is still the better trader. I want to say that plainly too.
+Look at how it grew. *One gives birth to two, two to three, three to the ten thousand things.* None of the additions felt like a decision to risk more. Each felt like a fix. That is how more works: it does not arrive as greed. It arrives as a solution.
 
-But the sizing rule I trade by was written that month, on the train home from seeing him, in the back of a notebook. It has three parts, and none of them is clever.
+And look at what each addition was trying not to do. Take the loss. Be flat. Be wrong. *What people hate most is to be orphaned, lonely and unworthy.* You built the whole structure to avoid three words: I was wrong. *Things are sometimes gained by losing.* The first stop was the gain. It would have cost a small amount and given you back your week.
 
-The first: the risk on any trade is a small fixed slice of the account as it stands this morning. Not as it stood at its best. So after losses the size shrinks by itself, and it grows only when the account grows, by arithmetic. No one, including me, ever decides to raise it. *Things are sometimes gained by losing.*
-
-The second: the stop is an intention, not a promise. A market can open beyond it, as Kai's did. So the size has to be small enough that a gap well past the stop is a bad day and not an ending. I size for the price the stop might get, not the price it names.
-
-The third: the slice itself can only change through the slow door. A new slice is a new rule. It goes into the ledger, it is tested, and if it is adopted it starts at the next season, never in the middle of a good run, which is when I would most want to change it.
+*The strong and violent do not die their own death.* The trader who refuses to give ground does not usually lose to one bad trade. He loses to the fifth thing he added to it.
 
 ---
 
-The rule is code now. The size is computed before I have finished thinking about the idea, and I never see an edit box for it. The forward books are sized by it, and so are their random controls: the dice get exactly the same slice as the rule. Of everything on the desk, sizing is the one thing the rule and the dice share, and I have come to think that is right. Picking names is where skill might show. Size is where survival lives, and survival should not depend on skill.
+There is another way to meet the same price.
 
-Some years later a model on the desk, asked for ideas after a good stretch, proposed raising the slice. The reasons were Kai's reasons, nearly word for word: the account was larger, the edge looked real, the run was strong. It was not a foolish proposal. It was a human one. It went into the ledger like everything else, and it is waiting there.
+The trade comes to the level where you said you were wrong. You take the loss. It is small, because the size was normal. You do not add, because a better price for a wrong idea is not a better trade. You do not hedge, because there is nothing left to hedge. You are flat.
 
-*What others teach, I teach too.* Every trader has heard that size kills. I had heard it many times before that week. I took it as the father of my teaching only after I had watched it happen to someone better than me.
+For a moment it feels like losing twice: the money, and the chance to be proved right. Then the moment passes. Your screen is empty. Your head is clear. The next morning you see a setup, a clean one, and you have the capital and the attention to take it.
+
+When you are not sure what to do, you take something away. Close a leg. Halve the size. Leave a trade off tomorrow's list. You do it often enough that it stops feeling like defeat. Most weeks, nothing you removed would have helped you.
+
+## Try This
+
+This week, whenever you feel the urge to add to, hedge or roll a losing position, do the opposite once: take something away. Close a leg, cut the size, or close the trade. Write down what you removed, and at the end of the week look at what it would have done.
 
 ---
 

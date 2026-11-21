@@ -18,75 +18,65 @@ So the noble has the humble for its root, and the high has the low for its found
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Heaven attains the one and is clear. One edge, understood, is clearer than five half-understood.
+A good trader can trade anything. You build a toolkit: a setup for trend days and one for range days, something for earnings, something for the overnight session, a way to trade options and a way to trade futures. The more markets you can read, the more opportunities you can catch, and the less you depend on any one thing working. Specialists get stuck when their market goes quiet. The professional has a play for every condition. Breadth is safety, and range is skill. It is what you were told growing up: be well-rounded, keep your options open. One thing makes half a trader.
 
-2. Five strategies are not five sources of return. Often they are one exposure and four distractions.
+## The Other Way
 
-3. Every rule you run needs its own count, its own gate, its own forward test and its own share of your attention. Attention runs out first.
+1. *Of old, these attained the one.* Heaven is clear because it is one thing. A trader is clear when there is one thing he does.
 
-4. Without its one, heaven splits. The trader with many half-rules splits too, into one rule for each mood.
+2. The one is not a narrow trick. It is what makes your trading yours: the one way you see a chart, the one kind of trade your nerves can hold.
 
-5. The high has the low for its foundation. An edge rests on the dull work under it: data cleaned, costs measured, exits honoured.
+3. *Heaven without its clearness would split.* Spread into everything, and each piece is fine and the whole splits. You trade six ways, and none of them is you.
 
-6. Count the parts of a carriage and you have no carriage. Count every strategy as its own engine and you no longer know what the account is.
+4. *The valley without its fullness would run dry.* Attention spent on six markets is a valley draining six ways.
 
-7. Close the side strategies. Keep the one you can explain, test, and leave alone.
+5. *The noble has the humble for its root.* The big days stand on small things nobody admires: the loss taken without fuss, the setup skipped, the morning done the same way.
 
-8. Closing a rule is not a loss. It returns its share of attention to the rule that is left.
+6. *The high has the low for its foundation.* If the low is weak, no number of clever plays on top will hold.
 
-9. Do not glitter like jade. A short list of plain rules looks poor on a page. Be plain, like stone.
+7. *Lords and kings call themselves the orphan, the lonely, the unworthy.* The trader who does one thing looks limited. Let him.
+
+8. *Count the parts of a carriage and you have no carriage.* Break your trading into a strategy for every condition, and you no longer have a way of trading. You have a parts list.
+
+9. *Do not wish to glitter like jade.* The trader with a play for everything glitters. He is also the one who cannot say what he does.
+
+10. *Be plain, like stone.* One thing, done the same way, for years. It is not exciting. It does not crack.
 
 ## The Story
 
-For most of one year I ran six forward books at once. One was the main book: the plain rule I trusted most, frozen by its fingerprint, scored every day against its random control. The other five were side books. Each had come through the gate honestly, each was frozen in the same way, and each had its own dice. On the board that meant twelve lines, every rule beside its own control.
+It starts with one thing. Early on you found a setup that fitted you, a kind of trade you could see clearly and sit through without your stomach turning. You took it for a year, and it paid, slowly.
 
-I was proud of that board. It looked like a research desk. It looked, I think, the way I wanted the work to look.
+Then the market changed for a few months and your setup went quiet. So you learned another, for the new conditions. That worked for a while. Then you read about options and added a way to trade those. Then a friend showed you the overnight session. Then earnings. Each new piece made sense on its own. Each came with its own rules, its own screens, its own hours.
 
----
-
-What changed it was a clock, not a result.
-
-I had started timing the morning review, for a reason I have forgotten, and the times were embarrassing. The review took the whole first hour. Most of the hour went to the side books, because they were newer and more interesting: their trades surprised me, their ideas were still fresh, and I had questions about them. The main book got a glance at the end, when the coffee was cold. The rule I trusted most was getting the least of my attention, because I trusted it.
-
-*Every rule you run needs its own share of your attention.* I had written something like that in a notebook years before. I had not noticed that attention is the one thing on the desk that does not scale.
+Now it is a morning like any other, and you sit down in front of six screens. Before the open you check the futures for your overnight play, the earnings calendar for your earnings play, the option chain for a spread, and your old setup, somewhere at the bottom. The market opens and three things want you at once. You take two of them. You manage one badly, because you were watching the other. You miss your old setup entirely; it came and went while you were adjusting a spread.
 
 ---
 
-One evening I did a plain exercise. For each of the six books I wrote one sentence: what does this rule need to be true of the market in order to work? One sentence each, in words a person who does not trade could follow.
-
-Three of the sentences, read side by side, said the same thing. They were worded differently, and the rules underneath them looked different, but each one needed the market as a whole to keep doing roughly what it had been doing. Three books, one exposure. On a calm day they would look like three separate decisions. On a hard day they would be one decision, made three times.
-
-The fourth sentence I could not write at all. I tried for some minutes and ended with a paragraph. That was my favourite of the side books, the cleverest, the one I enjoyed explaining. If it needed a paragraph to say why it should work, I did not understand it as well as I liked to think.
-
-The fifth I could write, but when I read it back I could not say why it should be true. It described something the history had done, not a reason for the history to do it again.
-
-The sixth sentence was the main book's, and it was the dullest of the lot.
+By the end of the week you have a pile of small results from a pile of different things, some up and some down. You cannot tell which of your six ways is working, because none of them has had enough of your attention to work properly. In the evening you open your notes and find rules written for each one, and some of the rules contradict each other. You are no longer sure what kind of trader you are.
 
 ---
 
-Before deciding anything I did one more thing, and it is the part I would most want another trader to copy. I hid the results.
+Look at what happened to the one. *Heaven without its clearness would split.* You did not lose your setup. It is still there, at the bottom of the screen. What you lost was the thing that made it work: that it was the only thing, that you watched it with your whole attention and held it with your whole nerve. Split six ways, each piece is a little worse than it would be alone, and together they are much worse than the one was.
 
-The board can show the books without their scores, and I turned the scores off. If I chose which books to close by how they had done so far, I would be fitting the desk to a few months of luck, keeping whatever happened to be ahead and closing whatever happened to be behind. That is the same mistake as editing a frozen rule after a bad week, only made one level up, on the whole desk at once. So I asked three questions that do not need a score. Can I explain it in one sentence? Does it depend on something the main book does not already depend on? Would I leave it alone for a season?
+*Count the parts of a carriage and you have no carriage.* Each new strategy was added to cover a gap, some condition in which the old one went quiet. The result is a parts list with an answer for every condition, and no carriage. Nothing to ride.
 
-Only one book answered yes to all three.
-
----
-
-Closing a forward book is not deleting it. Each of the five got a line in the ledger: the date, the fingerprint, and the reason, which I wrote the same way every time. *Closed for attention, not for result.* Their trials still count. If I ever come back to one of those families of ideas, the count of attempts will be waiting for me, and the bar will be as high as it should be. Nothing is gained by pretending they were never tried.
-
-The paragraph one was the hardest to close. I sat with the cursor on it longer than on the others. It had glittered. It was the book I would have shown a visitor. *Do not wish to glitter like jade.*
+And look at what you stopped doing. The humble things. Taking the small loss without thinking about it. Skipping the day that is not yours. Doing the same preparation in the same way. Those were the root. *The noble has the humble for its root.* They were never written into any rule, so they were the first thing to go when the rules multiplied.
 
 ---
 
-The next morning the board had two lines: the main rule and its dice.
+There is another way to meet the quiet months.
 
-The review took a fraction of the time. With the rest of it I did something I had not done in months: I read the main book's trades one by one, and checked the fills against the costs the book assumes. It was dull work, and it found a small, dull problem in how one name's prices were being recorded, which I noted in the ledger and fixed in the data, not in the rule. *The high has the low for its foundation.* That kind of work had been there to do all year. I had been too busy with the jade to do it.
+Your setup goes quiet, and you let it. You trade less. You take the few that come, and you take them the way you always have. You do not learn the overnight session or the earnings play. To the friend who trades everything you look limited, and you let yourself look limited.
 
-*Count the parts of a carriage and you have no carriage.* I had been counting books and calling it a desk. With one book left, I knew again what the account was.
+You put the time somewhere lower down. You go over the trades you skipped, and why. You write down how you took each loss. You keep the same morning, the same notes, the same size. None of this would impress anyone.
 
-I have not been tempted to open a second book since. That is not quite true. I am tempted most weeks. The temptation now goes where all proposals go, into the ledger, and it waits there like any other idea, which is usually long enough for it to pass.
+The market changes again, as it does, and your setup comes back. You are still the trader who knows how to take it. Since the spring your friend has added two more strategies. He asks how you can stand doing the same thing every day. You tell him it is the one thing you know how to do well, and you go back to doing it.
+
+## Try This
+
+For one week, trade only the setup you would keep if you could keep just one, and leave every other screen off. Each evening, write one line about a humble thing you did well that day: a loss taken cleanly, a trade you let pass. See what a week of one thing feels like.
 
 ---
 

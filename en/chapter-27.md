@@ -18,75 +18,71 @@ So the good person is the teacher of the one who is not good, and the one who is
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. A good walker leaves no tracks. A clean trading day leaves nothing to explain. Every line in the log is what the rule said to do.
+Good work shows. You learned that at school and at your first job: the one who gets noticed is the one who did something visible. Trading is the same. Great trading is on the chart: the entry at the exact low, the exit near the high, the reversal everyone else missed. The best traders have trades people still talk about, the morning they caught the bottom with real size. If a trade was good, it was bold. And the traders who keep blowing up are a warning. You study the winners and keep your distance from the losers.
 
-2. A good speaker leaves no flaw to blame. The trade note says what happened, not what you think of yourself.
+## The Other Way
 
-3. A good counter needs no counting rods. When the counting is built in, every order and every trial written down by the system at the moment it happens, nobody has to remember to count.
+1. *A good walker leaves no tracks.* A well-traded day leaves almost nothing to look at. No hero trade, no rescue, no story.
 
-4. A good door needs no bolt. An exit that cannot be blocked does not need watching.
+2. The trades you can tell at dinner are usually the ones where something nearly went wrong.
 
-5. A good knot needs no rope. A rule kept because it is simple enough to keep holds better than a rule kept because something forces it.
+3. *A good speaker leaves no flaw to blame.* The note you write after a trade says what happened. It does not argue for you.
 
-6. Abandon no one. No losing trade is dropped from the record. The bad ones do most of the teaching.
+4. *A good counter needs no counting rods.* If you need a calculator to know whether you are in trouble, you are already in trouble. Size so that the risk is plain at a glance.
 
-7. The one who is not good is the material. The failed trial is what the next test is built from. Throw it away and the next test is built on nothing.
+5. *A good door needs no bolt.* An exit decided before the entry does not need guarding during the trade.
 
-8. Not valuing the teacher: the trader who will not open his losses is lost, however clever the rule.
+6. *A good knot needs no rope.* A habit simple enough to keep holds better than a promise you have to force.
 
-9. Following the light is not brilliance. It is the habit of keeping what happened in the order it happened.
+7. *No one is abandoned.* Do not throw away your bad trades. Not out of the log, not out of your memory. They are the part of the record that still has something to say.
 
-10. The best trading day is boring from the first log line to the last. If it has a story in it, something went wrong.
+8. *The one who is not good is the good person's material.* The trader in the chat room who just blew up is not your enemy and not your joke. He is showing you something, often something you did last month.
+
+9. *However clever, badly lost.* Contempt for the losing trader is the quickest way to become him.
+
+10. Leave no tracks, and keep the tracks of others. That is the whole of the essential subtlety for someone with an order ticket.
 
 ## The Story
 
-At the end of each trading day I write a short note under the day's log. It is not a journal. It has one job: to explain anything in the log that the rules did not do. If I touched something, the note says what and why. If something broke, the note says what broke. If the log is entirely the rules' work, there should be nothing to write.
+Every trader has one trade they still tell. The morning the stock fell apart at the open, everyone was selling, and you bought it. Not a little. You bought it hard, near the low, and it turned and ran, and you sold into the run and made in an hour what you usually make in a month. You remember the screen. You remember your heart.
 
-For a long time there was always something to write.
+You tell it often, and each time you tell it, it gets cleaner. You leave out that you had no plan for where you were wrong. You leave out that you bought more as it kept falling, before it turned. You leave out the ten minutes you could not look.
 
----
+What the story does to you is quiet. It becomes the picture of what good trading looks like. And so, without ever deciding to, you start looking for the next one. A stock collapses at the open and you feel the pull: this could be the one people talk about. You buy it hard. This time it does not turn. You buy more, because last time you bought more. By the close you have given back that famous hour and a good part of the month around it.
 
-The day I remember best from that time was not a bad day for the account. It was a bad day for the log.
-
-Some time after the open I had a doubt about one of the data feeds. A price on the board looked wrong to me, not obviously, just enough to bother me. So I paused the run to check it. The check took a while. The price turned out to be fine. I started the run again.
-
-That was all. It took perhaps a few minutes of my attention, and I thought nothing more of it until the evening, when I sat down to write the note.
-
-The log had a hole in it. For the stretch while the run was paused, nothing had been recorded. When it restarted, it had picked up where the clock was, not where it had stopped. One exit that had come due during the pause went out late, at a different price from the one it would have had. One refusal that should have been logged had never been checked at all. And the random control, which is drawn at a fixed time, had been drawn at the wrong one.
-
-None of it was large. All of it needed explaining. The note that evening ran to most of a page. I had to reconstruct what the rules would have done, separate it from what they had done, and mark which lines of the day's record could be trusted and which could not. It took me the whole evening. At the end, the day was still in the record, but it was a day with a scar, and anyone reading the forward book later would have to read my page to know what the scar meant.
-
-*A good walker leaves no ruts or tracks.* I had walked across a clean floor for a few minutes and left footprints that took an evening to describe.
+The trade that left the deepest track was the one that taught you the wrong thing.
 
 ---
 
-What I changed afterwards was not a rule. It was the place where my hands could go.
+Now think of a day nobody would ever tell.
 
-The runs no longer pause. If I doubt a feed, the doubt goes into a note, with the time, and the run carries on. If the feed really is wrong, the system has its own checks for stale or broken data, and those checks refuse entries and say so in the log, in the same plain way they refuse a thin market. An exit is never held back by any of it. A good door needs no bolt: the exit does not need me standing beside it, because nothing I could do there would make it better.
+You come in. Two setups you know show up in the first hour. You take both at your usual size, with the point you would be wrong written down. One works a little. One stops out. You take a third trade after lunch, small, and close it flat. You turn off the screen before the close. The day is up a small amount.
 
-The counting moved too. Every order, every refusal, every fill and every trial is written down by the system at the moment it happens, with the time and the fingerprint of the rule that made it. I do not keep the count. Nobody has to remember to. *A good counter needs no counting rods.* The rods are still there, of course. I just no longer hold them.
+That evening you replay it and there is almost nothing to replay. No moment where you were brilliant. No moment where you were saved. Every entry was where you meant it to be. Every exit was where you said it would be. The chart, if you marked it, would look unremarkable. Nobody would screenshot it.
 
----
-
-The boring day came a while after that. I did not notice it was special until the evening.
-
-I opened the log to write the note and read it from the top, the way I always do. The run had started on time. The data had arrived and passed its checks. The fingerprint at the top of the frozen book was the same string of characters as the day before and the day before that. The rules had looked at every name. They had taken a few, at the size they allow, each with its stop. They had refused the rest, each with a reason in one line: too thin, too wild, a report inside the holding window. Two exits had been due. Both had gone at the open and were written down in exactly the same way, whichever side of the entry they had closed on. The random control had been drawn at its time. The run had ended.
-
-That was the whole day. I scrolled back to the top to make sure I had not missed anything, and I had not.
-
-I sat for a moment with the note open and found I had nothing to put in it. Not because the day had gone well. I did not know yet whether it had, and one day says nothing anyway. Because every line in the log was the rules' work, in the order it happened, and there was no line I needed to stand beside and explain.
-
-I wrote: *Nothing to add.*
+That is the good walker. The tracks are faint because nothing was forced through the mud. Most of the real skill in trading is invisible in exactly this way: in the trades not taken, the size not added, the stop not moved. You cannot point at it on a chart. You can only see it in what did not happen to the account.
 
 ---
 
-I have written that line many times since. It is the line I am most pleased to write, and the dullest. It means the day left no tracks: no hand on the controls, no gap, no story. A trading day with a story in it is a day on which something happened that the rules did not decide, and that is almost always a day I will later have to explain.
+The second half of the verse is harder.
 
-*Abandon no one.* Every exit on that boring day is in the log on equal terms, the one that lost and the one that did not. Neither is hidden, neither is decorated. A year from now, when I or a model on the desk looks back over the forward book to ask what the rule really did, both lines will be there, plain, in their places. The bad ones do most of the teaching, and they can only teach if they were kept.
+There is a trader in the chat you follow who keeps getting it wrong. He doubles down. He posts the position, then goes quiet, then comes back angry. This week he is gone again. The room has a word for traders like him, and it is not kind. You feel the small comfort everyone feels: at least I am not that.
 
-*This is called following the light.* I used to think the light meant insight. I think now it means something closer to housekeeping: keeping what happened in the order it happened, so that nobody has to reconstruct it in the evening. The scarred day taught me more than the boring one. But it was the boring one I was trying to build.
+Laozi says the one who is not good is the good person's material. Not his enemy, not his entertainment. His material. The thing he works with.
+
+So instead of the comfort, you do something else. You go back through what that trader did, the way you would study your own worst day. He added to a loser because it had come back before. He sized up after a win. He stopped writing down where he would be wrong. Then you open your own log and look for the same things. They are there. Smaller, less often, but there. Last month, after a good week, you sized up too.
+
+*Whoever does not care for the material is badly lost, however clever.* The trader who sneers at the one who blew up has decided he has nothing to learn from him. He is the next one in line.
+
+---
+
+This is the turn Laozi asks for, and it runs against everything you were taught about getting ahead. The best day is the one with nothing to show. The worst trader in the room is your teacher. In trading as in the rest of life, the work that is truly done well tends to look like nothing happened, and the people we are quickest to look down on usually have the most to tell us.
+
+## Try This
+
+For one week, at the end of each session, write the day in three plain lines, with no adjectives. If a day needs a fourth line to explain a rescue, a hero trade or a near miss, mark it. On Friday, read the marked days next to the quiet ones, and also pick one trader you have looked down on and write one line about which of his habits you share.
 
 ---
 

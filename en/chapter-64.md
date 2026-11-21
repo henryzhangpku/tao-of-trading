@@ -22,103 +22,71 @@ So the sage wants what others do not want, and does not prize goods that are har
 
 *The Chinese is the received Wang Bi text. The translation is the author's own, except the line in italics, which is James Legge's (1891, public domain).*
 
-## The Trader
+## What You Know
 
-1. A trade is easiest to hold before it is entered. Before the order there is nothing to defend, and so everything can still be decided: the size, the stop, the day you will leave.
+You deal with problems when they show up. Planning for every disaster is a waste of time; most never happen, and the ones that do never look the way you expected. A good trader is quick on his feet: when the news hits, when the stock gaps, when the trade turns, he reacts. That is what we admire in anyone, the person who rises to the moment. And once a trade is working, the hard part is over. You found it, you entered it, it went your way. The last stretch to the target takes care of itself. The real skill is in the beginning.
 
-2. What has not yet shown a sign is easy to plan for. Write the exit while the screen is quiet. An exit written during a fall is not a plan. It is a wish holding a pen.
+## The Other Way
 
-3. A small loss is brittle. It breaks easily, at the price you named. A large loss is not brittle. It has grown roots, and you will find reasons to water it.
+1. *What is at rest is easy to hold.* Before the open, nothing is moving. That is when decisions are cheap.
 
-4. Put the account in order before it is in disorder. Sizing is the order. Everything after the fill is housekeeping.
+2. *What has not yet shown a sign is easy to plan for.* Know what you will do if it gaps against you before there is any gap.
 
-5. A tree you cannot reach around grew from a hair-tip. An edge you can trust grew from a test you were willing to run slowly.
+3. *What is brittle is easy to break.* A plan made while the price is moving is brittle. A plan made in the quiet holds.
 
-6. A tower of nine storeys rose from a heap of earth. A record — on paper or with money — rises one counted day at a time. A day skipped or rewritten is a brick pulled from the bottom.
+4. *Put it in order before it falls into disorder.* The size you choose tonight decides how calm you will be tomorrow at the open.
 
-7. Whoever forces a trade ruins it. The market does not owe you a setup because you have time this morning.
+5. *A tree you cannot reach around grew from a hair-tip.* A ruined account began as one position a little too large to sleep with.
 
-8. Whoever grips a position loses it. The hand that will not open at the stop opens later, wider, at a price it did not choose.
+6. *The journey of a thousand li commenced with a single step.* So does a long career: one ordinary, prepared morning, then another.
 
-9. Few people fail at the start. They fail when it is nearly done: the forward test in its last weeks, the rule loosened the morning before it would have been proved, the winning trade turned into a losing one by a stop moved out of greed.
+7. *Whoever forces it, ruins it; whoever grips it, loses it.* The trade nearly at its target is gripped hardest, and ruined most often.
 
-10. Be as careful at the end as at the beginning. The exit is an order like any other, and it deserves the attention you gave the entry.
+8. *People at their work most often fail when it is nearly done.* The great week is given back on Friday afternoon. The winner is given back in its last few cents.
 
-11. Want what others do not want: the boring day, the skipped trade, the test that takes a season.
+9. *Be as careful at the end as at the beginning.* Leave the trade the way you entered it: by the plan, without hurry and without hope.
 
-12. Learn what others do not learn: how to sit still. Go back to what the crowd walked past: the plain rule, written down, left alone.
-
-13. Fast is slow. Slow is fast. The trader who hurries arrives back at the beginning.
+10. *He goes back to what the crowd has walked past.* The preparation everyone skips because nothing is happening is the work.
 
 ## The Story
 
-Every child in China can finish the sentence. You say 千里之行, and a room of nine-year-olds says 始于足下 before you have taken a breath. I learned it the way you learn a multiplication table, as a thing to recite, and for most of my life I thought it was about starting. Take the first step. Get going. It is printed on posters for that reason.
+It is evening. You hold a position, and tomorrow before the open the company reports. You have known about the report for weeks. The position is a little larger than usual, because the trade has been working and it felt right to let it be large.
 
-It took me years in markets to notice that the chapter it comes from is not mostly about starting. It is about finishing. *People at their work most often fail when it is nearly done.* The first step is the easy one. The thousandth is where people turn around.
+You do not decide what you will do if the report is bad. Thinking about it feels like inviting it. You tell yourself you will see how it opens and react. You are good at reacting. You go to bed and think about it anyway.
 
----
-
-The research desk I built works in stages, and the stages are deliberately slow. An idea starts in discovery, which is a crowded room: anything can come in, from a paper, from a hunch, from a language model asked to suggest something. Most ideas die at the door. The door is a set of plain tests that do not care how good the idea sounds. Does it still work after trading costs? After twice the costs? In the first half of the history and in the second half, separately? With its single best month taken out? Every attempt goes into a ledger, failed ones included, so the bar rises with every try. An idea that has been tried forty different ways has to clear a higher bar than one tried once, because forty tries will find something by luck.
-
-A few ideas get through. That is where most people, including the younger version of me, would stop and trade them. The tests are passed. The chart is beautiful. Why wait?
-
-Because every test so far has been run on the past, and the past has been looked at. However careful you are, you have seen the data, and some of what you think is edge is your own eye. The only data you have not seen is the data that has not happened yet.
-
-So the next stage is a forward test, and the forward test has one rule above all the others: the rule being tested is frozen.
-
-Frozen means something exact. The screen is copied as it was recorded, every threshold and every filter, and the copy is pinned by its fingerprint — a hash, a short string of letters and numbers computed from the file. Change one character of the rule, one threshold from 0.30 to 0.31, and the fingerprint changes. A different fingerprint is a different rule, and a different rule is a different test, and its day count starts again at one.
-
-Then you wait. The book of frozen rules is filled each day at the prices of that day, and scored against a random control — the same number of picks, chosen by dice — so that a good market does not look like a good rule. Nobody touches it. For a season.
+In the morning the stock is down sharply before the open. Your heart is going before you have read a word. Now you have to decide everything at once: whether the gap is an overreaction, whether to sell at the open or wait for the first bounce, whether the size you hold can survive another leg down. Each question is easy in the quiet and almost impossible now, with the number on the screen growing. You sell at the open, near the worst price of the day, and then watch it recover half the gap by noon.
 
 ---
 
-I want to tell you about one of those seasons, because it is the closest I have come to watching this chapter happen to me.
+None of the decisions that morning were made at the open. The important one was made the evening before, when you decided not to decide.
 
-I was up before five, which is when the machine that runs the night's work usually finishes. The coffee and the board come up together. The frozen book had been running for some weeks. The first stretch had been quiet. Then came a bad week, not a disaster, the kind of week every rule has, but bad enough that I opened the trades one by one.
+*What is at rest is easy to hold. What has not yet shown a sign is easy to plan for.* The evening was the moment of rest. Nothing was moving. You could have looked at the position and asked the plain question: if this opens far against me, can I take it without my hands shaking? If not, the size was wrong, and the evening was the time to make it smaller, when it was easy and cost almost nothing. The slow evening is what makes the fast morning possible.
 
-One of them was a trade I would never have taken. You know the kind: the stock had a story I did not like, the chart looked tired, and the rule had bought it anyway, because the rule does not read stories or look at charts the way I do. It had gone down. It was the largest single drag on the week.
+The other evening goes like this. You look at the position and the report. You decide how large it can be if the worst opening you can imagine happens, and you trim it to that, now. You write down, in a sentence each, what you will do if it gaps down, if it gaps up, if it opens flat. You go to bed.
 
-And my hand went to the config.
-
-I want to be honest about how reasonable it felt. I was not going to do anything dramatic. I was going to add one filter, a small one, that would have kept that kind of name out. I could even justify it: the filter was sensible, it was the kind of thing I would have put in at the design stage if I had thought of it. It would take ten minutes.
-
-It would also change the fingerprint. The book would no longer be the book I froze. The weeks already run would belong to a rule that no longer existed, and the new rule would start at day one with a filter fitted to exactly one bad week — the most overfitted kind of rule there is, because it was written by a man looking at the loss it was designed to prevent.
-
-*Whoever forces it, ruins it. Whoever grips it, loses it.*
-
-I closed the file.
+In the morning, whatever happens has already happened in your notebook. You do not need to be quick on your feet. You read the sentence and do what it says. Sometimes it is the wrong sentence. Even then, a plan carried out calmly at a size you can bear leaves you able to think by noon.
 
 ---
 
-The good idea did not go away, and that is the part of this story I am proudest of, because it is the part that was built in advance rather than willed in the moment.
+The other end of a trade is harder to see, because it does not feel like danger.
 
-On the desk, a language model reads the results each morning and is allowed to propose anything. It proposed, that same week, almost exactly the filter I had wanted to add. The model proposes; the rules decide. Its proposal did not go into the frozen book. It went into the ledger as a new trial with its own fingerprint, its own forward test and its own day count starting at one. If it was a good idea, it would prove it the same slow way. If it was not, it would have cost nothing but time.
+It is Friday afternoon. It has been your best week in months. You are a little short of a number you have never reached before. There is an hour left, and you take one more trade, not because the setup is there, but because the week is nearly done and it would be a shame not to finish it.
 
-That is all slow is fast means in practice. It is not a feeling of patience. It is a mechanism that turns every urge to change something into a new beginning instead of a broken ending.
+Or a trade is a few cents from its target. You have held it patiently for days. Now you watch every tick. You move the target a little higher because it is so close. You stop thinking about where you were wrong, because it seems impossible now that you could be.
 
----
+*People at their work most often fail when it is nearly done.* The beginning of a trade is guarded by fear. The end is guarded by nothing, because the trader thinks the work is over.
 
-The other half of the chapter came near the end of the season.
-
-*Be as careful at the end as at the beginning.* In trading, the end is the exit, and the exit is where people are careless in a particular way: they spend all their attention deciding whether to get in, and then treat getting out as an afterthought, or as a negotiation with themselves.
-
-One of the rules I hold hardest, in everything I have built, is lopsided on purpose. An entry is refused if the market is thin — if the spread is wide, the volume is low, the quote is stale, if there is no one on the other side to take the position back. That is the care at the beginning. But an exit is never blocked. Not by the same checks, not by anything. If the rule says leave, the system leaves, at the best price it can find, even an ugly one.
-
-People ask why the asymmetry. If thin markets are dangerous, why let the exit go through in a thin market? Because the danger is not symmetrical. A refused entry costs you a trade you did not need. A refused exit can cost you the account. A door that opens only one way is not caution. It is a trap with good manners.
-
-Near the end of that season, one of the names in the frozen book opened on a gap, the market for it was thin, and the rule said to sell at the open. Everything in me that likes a good fill wanted to wait for the book to fill in. The rule did not wait. That is what it was for. I do not remember the fill. I remember that I did not have to decide anything, because the deciding had been done months earlier, on a quiet afternoon, when it was easy.
-
-*Act on it before it exists. Put it in order before it falls into disorder.*
+So you bring the same care to the end that you brought to the beginning. The last hour of the good week is an hour like any other: if your setup is there, you take it at normal size; if it is not, you go home. The trade near its target is still the trade you planned. The stop is where it was, the target is where it was, and you do not stare at the last few cents as though they were a different trade.
 
 ---
 
-I am not going to tell you how that frozen book did. That is not what this chapter is about, and a number here would be a performance claim, which this book does not make. What I can tell you is that when the season ended I knew exactly what it had done, because nothing in it had been touched. The record meant what it said. Every brick in the tower was the one that was laid on the day.
+*A tree you cannot reach around grew from a hair-tip.* The big losses traders remember rarely start as big decisions. They start as an evening when nothing was moving and a decision was easy and you did not make it, or as a Friday when the work seemed done. It is the same outside the market: most of what goes badly wrong in a life was easy to fix once, a long time before it looked like a problem.
 
-Most of what passes for research in trading is a tower built from the top: the conclusion first, then a history found to support it. The fingerprint, the ledger, the random control, the season of waiting — these are just ways of building from the heap of earth upward, one counted day at a time.
+The preparation in the quiet evening and the care in the last hour are both dull, and nobody sees either of them. They are where most of those losses could have been stopped.
 
-It is slower. It is the only way I have found that does not send you back to the beginning.
+## Try This
 
-When I think about the sentence the children recite now, I hear the second half of the chapter under it. The journey of a thousand li begins with a single step. It is finished by the person who does not change the map at li nine hundred.
+Before any position goes into a known event, write one sentence each for a gap against you, a gap in your favour and a flat open, and trim the size until the worst case is one you could take calmly. On the last afternoon of a good week, take only the trades you would take on a Tuesday morning. Watch what changes in the first ten minutes of those mornings.
 
 ---
 

@@ -18,71 +18,69 @@ So everyone under heaven is glad to push him forward and never tires of it. Beca
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Water runs to the lowest place, and the lowest place receives all of it. A trader who puts his opinion beneath the price receives what the price brings.
+The early bird gets the worm, and in this business it gets the move. You were raised to be first: first in class, first in line, first to the opportunity. At the screen you want to be first to see the breakout, first to buy the news, first to call the bottom before everyone else gets it. The trader who waits for confirmation pays a higher price and gets the leftovers. Leaders are out in front, and the crowd follows them. If you are always behind, you are always buying what someone smarter bought earlier.
 
-2. To be above the market, speak as one below it. Your view is one input. The price is the vote of everyone else.
+## The Other Way
 
-3. To lead, put yourself behind. Let the price move first, then follow. The one who waits a step behind is never the one standing in front of the move when it turns.
+1. *Rivers and seas are kings of the hundred valleys because they lie below them.* Price comes back down to the low place. Wait there.
 
-4. A rule that follows price rather than your opinion of price never has to argue with it. When the price changes its mind, the rule changes with it, and nobody's pride is involved.
+2. Everyone races for the first tick of a move. The first tick is where the spread is widest and the price least certain.
 
-5. The sage stands above and the people do not feel his weight. A good rule sits over the account without pressing on it: no position so large that the market can feel it, no conviction so heavy that it cannot be put down.
+3. *Whoever wants to lead must put himself behind.* Let the crowd go in front. They show you where the move is, and they pay for the showing.
 
-6. He stands in front and the people come to no harm. Following is not timid. It is how you lead without being the one the market runs over.
+4. Being early and being wrong look exactly the same for a long time.
 
-7. The market pushes forward the trader who goes with it, and never tires of it. A position that agrees with the price is carried. A position that argues with it has to be held up by hand.
+5. The pullback nobody wants is the low place. Everything that ran up passes back down through it.
 
-8. Because he does not contend, no one can contend with him. You cannot lose an argument with the market if you never told it what it should do.
+6. *Whoever wants to be above must speak as one below.* The trader who shouts his calls is out in front, alone, and tied to what he said.
+
+7. *He stands above, and the people do not feel his weight.* Standing behind, you carry no weight of having to be right first.
+
+8. *Because he does not contend, no one can contend with him.* Nobody fights you for the price nobody wants.
+
+9. Missing the first part of a move is the fee for not having to guess.
+
+10. The sea does not run up the valley to collect the water. It stays where it is, and the water arrives.
 
 ## The Story
 
-For most of one year I kept two columns in my journal.
+A stock you watch breaks above the level it has been stuck under for weeks. You see it a second after it happens. The volume jumps, the chat lights up, and the price is already a little higher than when you first looked.
 
-The left-hand column was what a rule did that day. The rule reads nothing but price. When a market has been rising by its own measure, it buys; when the rise stops, by the same measure, it sells; in between it holds and says nothing. It does not know what the market is, who owns it, or what anyone has written about it. It was in a forward book at the time, frozen and fingerprinted, so it could not have learned those things even if I had wanted to teach it.
+You want to be in it now, before everyone else. You send a market order. It fills at the top of the first minute, a good way above the level that broke, because everyone else who saw it sent the same order at the same time.
 
-The right-hand column was what I thought. One line each morning, before the open: where I believed the market was going, and why. I never let that column trade. I kept it to find out what my opinion was worth when it had to sit next to something that had none.
+The first rush lasts about as long as it takes for all those orders to fill. Then there is nobody left to buy at that price, and the stock drifts back. You are down within five minutes of being right. You hold it for a while, telling yourself the breakout is real. It comes all the way back to the old level, and you sell there, because now it looks like a failed breakout.
 
----
-
-For a while the two columns agreed often enough that I did not learn much. Then came a market I had a strong view on.
-
-I will not name it, because the name would make this a story about being right or wrong about a market, and it is not. What matters is that I had done the reading. Weeks of it. Every argument I trusted said the price had run too far ahead of anything underneath it. I wrote that in the right-hand column on a Monday, in a full sentence, with some pride: *too high; the next move is down.*
-
-On the Wednesday the price rose through the level the rule watches, and the rule bought.
-
-My column that morning: *the rule is wrong this time. Last push.*
+An hour later, from that same level, it moves for real, slowly, without fuss, and goes higher than the first rush ever did. You are not in it. You were first, and then you were gone.
 
 ---
 
-I want to describe the next few weeks honestly, because the shape of them is the chapter.
+Being first feels like skill. You saw it, you acted, you were in before the crowd. But the first tick of any move is where everyone who wants to be first arrives at once. The spread is wide, the price is jumping, and nobody yet knows whether the move is real. You pay the highest price for the least information.
 
-The price kept rising, not fast, but on most days. The rule held. Its column said the same word each morning, *hold*, which is the dullest word a column can say. Mine never said the same thing twice. *Still too high; the fall will come later.* Then: *the delay will make the fall sharper.* Then: *the market is ignoring what is obvious.* Then a line I am a little embarrassed by: *everyone else is wrong.*
-
-Each line took more effort to write than the one before. I noticed after a while that I was reading the price each morning to find out whether I was right, which meant that every day the price and I had an argument, and every day I had to win it again in writing. The rule read the same price to find out what to do. It had no argument to win. It had never told the price what it ought to do, so the price could not contradict it.
-
-*Whoever wants to be above the people must speak as one below them.* My column spoke from above. It knew what the market should do and was waiting, with less patience each week, for the market to agree. The rule spoke from below. It asked the price each morning and did what it heard.
+Laozi says rivers and seas are kings of the hundred valleys because they lie below them. They do not run uphill to meet the water. They stay low, and the water comes to them. Being behind is how they come to be first.
 
 ---
 
-Then the price turned. Not dramatically. It stopped rising, wandered, and slipped below the level the rule uses to say a rise has ended. The rule sold that morning, at its exit, with one line in the log.
+The other way is to stand behind.
 
-My column that morning said *told you.*
+The stock breaks the level. You see it, and you let it go. You watch the first rush do what first rushes do: fill everyone who had to be first, and then run out of buyers. You do not mind that it goes up without you. You have not lost anything.
 
-I sat with that line for some time, because it was true and it was worthless, and it took me a while to see how it could be both.
+The price drifts back toward the level it broke. Now nobody is excited. The chat has moved on. The people who bought the first minute are uneasy, and some of them are selling. This is the low place, where the move comes back down to rest. You put your bid there, near the old level, with the place you would be wrong just under it.
 
-It was true in the sense that the fall I had predicted for weeks had begun. It was worthless because a view that is right after weeks of being wrong is a view no one can hold. If my column had been allowed to trade, it would have stood in front of the rise the whole way up, holding the position up by hand, adding a reason to it every morning the way you add props to a leaning wall. Whether it would still have been standing on the day it was proved right, I do not know. I know how it felt to write the column, and that was only ink.
+Sometimes it fills, and you own the stock at a better price than nearly everyone who was first. Sometimes the price never comes back, and the move goes on without you. That is the cost of standing behind, and it is the whole cost: you missed something you were never sure of. You did not pay for it.
 
-The rule had been in front of the move and never once in its way. It went in behind the price and came out behind it. Nobody's pride was involved, because the rule has none, and so there was nothing to defend and nothing to celebrate.
-
-*He stands in front, and the people come to no harm.*
+When it does fill and the move comes, you did not have to guess. You acted after the stock showed you what it would do. *He stands above, and the people do not feel his weight.* There is no weight on you. You do not need to be right first. You only need to be there when it comes back.
 
 ---
 
-I stopped keeping the right-hand column not long after. Not because opinions are useless. Mine still arrive every morning, uninvited, the way weather does. I stopped because the column had shown me what they were for, and it was not trading. An opinion of price is a story I tell over the price. The price is the vote of everyone who actually traded. When the two disagree, only one of them is a fact.
+The same is true at a bottom. After a fall, every trader wants to be the one who bought the low. They step in early, one after another, and the price walks down through all of them. The trader who waits for the selling to stop, and for a first low to be tested and to hold, buys above the bottom. He usually buys below the average of those who tried to catch it.
 
-Rivers and seas are kings of the hundred valleys because they lie below them. Everything runs down to them. I think of the rule that way now. It receives whatever the price brings, because it has put nothing of its own above it.
+Most of us were taught that whoever gets there first wins, and so we spend our lives in a hurry to be in front. *Because he does not contend, no one under heaven can contend with him.* At the screen that is very concrete. Nobody fights you for the price nobody wants. The race for the first tick goes on without you, and comes back down to where you are waiting.
+
+## Try This
+
+For the next two weeks, when something you watch breaks out or breaks down, do not act in the first five minutes. Write down the price of the first rush, then wait to see whether it comes back to the level it left. Whether or not you trade it, compare where you would have been filled in the rush with where the price was half an hour later.
 
 ---
 

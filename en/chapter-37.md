@@ -18,81 +18,67 @@ The nameless uncarved block: with it there is no desire. Without desire there is
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Doing nothing is not idleness. It is arranging the work so that it gets done without your hand on it.
+You get paid for what you do. A trader who sits on his hands all day has earned nothing, and a day without a trade is a day wasted. The market rewards the people who show up, work the screens and take their shots. If nothing is setting up, you look harder, or you look somewhere else. Opportunity does not knock; you go and get it. The traders at the top of the leaderboard are the ones who are always in something. Activity is how you learn, how you stay sharp, and how you make money. You were raised on it: hard work pays, and idle hands earn nothing.
 
-2. A rule that has been written, sized and given its exit works while you sleep. You did the acting earlier, when acting was easy.
+## The Other Way
 
-3. The model proposes. The rules decide. Neither of them is you at nine-thirty in the morning with an idea.
+1. *The way never acts, and nothing is left undone.* The money in a trade is made by the market moving, not by you moving.
 
-4. An opinion costs nothing to produce, which is why there are so many. A model can produce a hundred before breakfast. So can you.
+2. Your work is done before the open: what you will take, how much, where you are wrong. After that, almost everything you add is undoing.
 
-5. A system is an opinion that has been made to wait: written down, counted, tested, and only then allowed near money.
+3. A day without a trade is not a day without work. It is a day the work said no.
 
-6. Hold to that and things change of themselves. Bad ideas die at the gate without an argument. Good ones arrive late and stay.
+4. *The ten thousand things would change of themselves.* Setups form in their own time. Pushing on the day does not make it ripen.
 
-7. Desire stirs after every change: after a win, after a loss, after a clever suggestion. Settle it with the plain rule, not with a better argument.
+5. *If, having changed, they stir with desire.* Desire stirs exactly when something changes: a sudden spike, a late move, a new name on the scanner. That is the moment to be still.
 
-8. The uncarved block has no name. It has no thesis, no story and no view on the week. It says how much, where out, and on what day.
+6. *Settle them with the nameless uncarved block.* When the urge comes, go back to the plain thing: the one setup you know, unnamed and unimproved. Ask only whether this is it.
 
-9. Give the part with opinions no hands. Give the part with hands no opinions.
+7. Most of the time it is not. Then you are done.
 
-10. Then be still. The account settles itself, one ordinary day at a time.
+8. *Without desire there is stillness.* The urge to trade passes in a few minutes if you do not feed it.
+
+9. *The world settles itself.* On the afternoon you did nothing, your account was not hurt, your attention was not spent, and the setup you are waiting for is still on its way.
+
+10. Nothing left undone does not mean everything got traded. It means nothing that needed doing was missed.
 
 ## The Story
 
-A friend from my university years, whom I will call Wen, came through town one spring and asked to see the AI that trades. He had read about such things and expected, I think, a screen with a face on it. I showed him a text file.
+It is a slow day. Every trader knows the kind. The open was nothing, the morning drifted, and by lunch the index has moved less than it moves in a normal half hour. Your setup has not appeared. Nothing on your watchlist has done anything worth watching.
 
-It was that morning's list. Every night, after the runs finish, a language model on my research desk reads the day's results: what passed the gate, what failed and on which question, what the forward books did. Then it writes down what it would try next. That morning there were eleven suggestions. Most were dull. Two were clever. One was the kind of idea I would have been pleased to have had myself.
+You feel it by eleven. You have been at the desk since before the open and you have nothing to show for it. Somewhere, someone is making money. You start to scroll: a different timeframe, a different list, a sector you do not usually trade. Each one has something that could be a trade if you looked at it the right way.
 
-Wen read down the page. "Which one are you going to trade?"
-
-"None of them."
-
-He looked at me the way you look at a man who has bought a piano and locked the lid.
+At two in the afternoon something finally moves. A name you half know jumps on volume, two percent in a minute. Your heart jumps with it. This is the moment you were sitting there for. You buy.
 
 ---
 
-So I showed him where the eleven go. Each one becomes an entry in the ledger: a test, written down before it runs, counted against every earlier attempt on the same family of ideas. Most fail the gate that afternoon. The few that pass go into a forward test under a frozen rule and wait a season. Nothing on the list can become an order. I did not forbid it. I never built the door.
+It is not your setup. You know that while you are clicking. But you have been there all day, and a day like this ought to pay you something. The spike fades in ten minutes. You hold, because it moved once and might move again. It does move again, the wrong way, and you take the loss at three. Then, because the day is now negative, you take one more trade to get it back, and that one loses too.
 
-The orders come from somewhere else: a small, dull piece of code that reads a rule which has already earned its place, and does what the rule says. This size. This stop. Out on this day. It has never read a headline and it has no view on anything. The part of the desk that has opinions has no hands, and the part that has hands has no opinions.
-
-Wen thought about it. "So the clever thing is not allowed to do anything, and the thing that does everything is not clever."
-
-"Yes."
-
-"That seems a waste of the clever thing."
-
-It is not a waste. The model does everything a proposer can do, and does it better than I can. It does not tire. It is not hurt when its ideas die, so it does not defend them. It offers the eleventh with the same calm as the first. What it cannot do is tell me which of the eleven is true. Neither can I. Only the slow part of the desk can, and the slow part has no shortcut built into it for anyone.
+At the close you have two losses and a tired head. The slow day did not cost you anything. You did.
 
 ---
 
-There was one morning when the arrangement was tested, and it was not the model that was tested.
+Look at when the desire stirred. *If, having changed, they stir with desire.* Not in the dead middle of the day. It came at the moment something changed: the spike at two. Stillness is easy when nothing happens. The test is the first thing that moves after hours of nothing, when all the waiting suddenly feels as if it was waiting for this.
 
-The night's note had an extra paragraph in it. One of the forward books was holding a position, and there had been news on the name overnight. The model had read the news, as it reads everything, and it made a case: the position should leave now, ahead of the day its rule had set. The paragraph was good. It was better written than my own notes usually are. It had three reasons, and I could not fault any of them at five in the morning with half a cup of coffee.
-
-I felt the stir that Laozi names in this chapter. 化而欲作: things change, and desire rises. It did not feel like desire. It felt like diligence. A careful person, shown a careful argument, acts on it. What kind of trader has a good reason in front of him and does nothing?
-
-The kind who has learned what a good reason is worth. One well-argued paragraph about one position is an opinion, and I have a ledger full of well-argued opinions that failed the gate. The paragraph might have been right that morning. That is not the point. If I act on the arguments that persuade me, I am no longer testing a rule. I am testing my own persuadability, and I already know the result of that test.
-
-So the suggestion went where suggestions go. "Leave early on that kind of news" was written into the ledger as a new test, with its own count and its own clock. The position left on its day, by its rule. I am not going to tell you which exit would have been better. One case cannot say, and that is exactly why one case was not allowed to decide.
+And look at what you thought you were owed. You had put in the hours. Somewhere in you was a time clock, and it said the day owed you a trade. The market has no such clock. The money in trading is not paid by the hour. It is paid when the price moves in the direction of a position you hold, and you cannot make it move by sitting longer.
 
 ---
 
-For a long time I thought "the model proposes, the rules decide" was a rule about the machine. It was sold to me that way, by my own caution: do not let the AI near the money. But the model has no desire. Nothing in it stirs. I am the one who wakes up wanting something from the day.
+There is another way through the same day.
 
-So the desk treats me exactly as it treats the model. My ideas go on the same list. They get the same count and wait at the same gate, and they fail at about the same rate, which was instructive to learn. I can still reach the files, of course. I built them. But a frozen rule carries a fingerprint, and the fingerprint means I cannot reach in without leaving a record that I did. On my own desk I am a proposer too.
+The open is nothing and the morning drifts. Your setup does not appear. You check the list once an hour and do something else in between: you read, you walk, you tidy your notes. At lunch you are not bored, because you are not waiting for the day to give you anything.
 
-Read the verse again and notice who is being told to hold still. It is not the ten thousand things. They change of themselves; they are fine. It is the lords and kings. The one with the power to interfere is the one Laozi wants settled, and he wants him settled with something plain: the nameless uncarved block, the rule with no story attached to it.
+At two o'clock the name spikes. Your heart jumps with it; that part does not change. You notice the jump in yourself and go back to the plain thing. Is this the setup? You do not dress the question up. You do not ask whether it could be a version of the setup, or a new setup, or a trade for a slow day. It is not the setup. The urge is strong for about four minutes, and then it is not.
 
----
+At the close you have no trades. You turn off the screens and the day is finished. Nothing was lost, and nothing was missed.
 
-Wen stayed for dinner. At the door he asked the question people always ask in the end. "If the model proposes and the rules decide, what do you do all day?"
+Two days later your setup comes, early in the session, clean. You take it with a rested head and the full size you meant to use, and it does what it does. That week you trade twice. Most of what you did that week was nothing, and the week's work is done.
 
-I told him the truth, which is that I read the list, I count, and I wait. He laughed, and I did not mind. It is a strange job to describe. Most of it consists of things that were arranged months ago so that nothing would need doing this morning.
+## Try This
 
-道常无为而无不为. This is where the first half of Laozi's book ends: with a world that settles itself once the person in charge stops reaching into it. The second half is about what it takes to be that person.
+On your next slow day, set a rule for your attention rather than your entries: look at the screen once an hour and leave the desk in between. When something suddenly moves, wait four minutes before you touch the mouse, and ask only whether it is your setup. At the end of the week, count how many of the skipped trades you actually want back.
 
 ---
 

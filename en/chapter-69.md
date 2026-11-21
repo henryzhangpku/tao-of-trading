@@ -18,71 +18,63 @@ There is no disaster greater than underrating the enemy. Underrating the enemy n
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Every trade has someone on the other side. Before every entry, ask: who is selling this to me, and why?
+Take the initiative. In trading, as in business, the one who moves first sets the terms. Good traders do not wait for the market to tell them what to do; they decide, they act, and they make the market come to them. When a trade goes against you, you stand your ground, and if you believe in it you add, because the price is better than it was. Retreat is for people without conviction. And the other side of your trade is usually wrong: late, scared or uninformed. If you have done the work, you know more than they do.
 
-2. Sometimes the answer is dull: a fund rebalancing, a holder who needs the cash. Sometimes it is someone who knows more than you, faster than you, with more at stake. You will not always find out which. Asking is enough to change your size.
+## The Other Way
 
-3. I would rather be the guest than the host. Do not start the battle. Let the market come to your price; do not run after it to make the fight happen.
+1. *I dare not be the host; I would rather be the guest.* The host sets the terms. The guest arrives, looks at the room, and adapts. In the market, the market is the host whether you like it or not.
 
-4. Rather retreat a foot than advance an inch. When the entry runs away from you, let it go. The inch you chase is paid for with the foot of slippage, and of judgement.
+2. Act second. Let the price move first, and answer what it did, not what you decided it would do.
 
-5. Marching without ranks, holding no weapon. The strongest posture is the one nobody can see: a small position, a written stop, nothing on display for anyone to lean against.
+3. *I dare not advance an inch; I would rather retreat a foot.* When a trade goes wrong, the instinct is to add an inch to defend it. Give a foot instead: cut the size, step back, look again.
 
-6. No disaster greater than underrating the enemy. The other side is not stupid because it disagrees with you. It may be right.
+4. Retreating a foot is not running away. A smaller position is one you can still think about. The step back is what lets you step forward again.
 
-7. Underrating the enemy nearly cost me my treasures: patience, frugality, not being first. Contempt for the other side spends all three at once, because a trader who thinks the other side is a fool trades bigger, sooner and more often.
+5. *Marching without ranks.* No battle plan you are obliged to defend. A plan you cannot leave is a trap you built for yourself.
 
-8. When armies of equal strength meet, the one that grieves wins. Grieving is not fear. It is taking every loss seriously, entering soberly, and knowing what a defeat would cost before you risk one.
+6. *Holding no weapon.* The less you are carrying, the less there is to lose when you are wrong.
+
+7. *There is no disaster greater than underrating the enemy.* On the other side of every order is someone who chose that price. Some of them know more than you.
+
+8. Contempt for the other side is the most expensive feeling in trading. "Who would sell here?" Possibly someone who knows something.
+
+9. *Underrating the enemy nearly cost me my treasures.* The treasures of the chapter before: compassion, frugality, not being first. Contempt spends all three at once.
+
+10. *When armies of equal strength meet, the one that grieves will win.* The trader who takes every loss seriously, soberly, without bravado, outlasts the one who swaggers.
 
 ## The Story
 
-The trade card I fill in before an order goes out has a line on it that most people would not think to put there. It comes after the size, the stop and the day I will leave if nothing happens. It says: *Other side.*
+You have a view on a stock: it is going higher, and you have reasons. So you buy before it breaks out, ahead of the level, because waiting for the breakout means a worse price and you already know where this is going. You are the host. You have decided what the market will do and arrived early to set the table.
 
-The line asks a plain question. Someone is selling me this. Who, and why?
+The level does not break. The stock touches it twice and backs off. Someone is selling there, steadily, in size. You look at the tape and think: who sells this here? Whoever it is, they are wrong. They do not know what you know.
 
-I added it years ago, after reading this chapter, and for a long while I filled it in the way you fill in a form in a waiting room: quickly, with whatever came to hand. I did not notice what I was writing until one winter weekend, when I read a season of cards in one sitting.
+So you advance an inch. You buy more, lower, because the price is better and the reasons have not changed. It drifts lower. You hold your ground. Conviction means not being pushed around by a seller who does not understand the stock. By the end of the day the seller is still there, and you are carrying twice the size at a loss, defending a position you took before the market had agreed to anything.
 
----
+Notice too what the extra size did. Before it, you could have shrugged and left. After it, you could not afford to be wrong, so you stopped watching the seller and started arguing with him. Every inch you advanced made it harder to see the room.
 
-The answers were nearly all the same, and they were nearly all insults.
-
-*Panic.* *Weak hands.* *Someone who can't read a chart.* *Forced seller.* *Late to the news.* Card after card, the person on the other side of my trade was frightened, slow, careless or stupid. Not once in a whole season had I written that the other side might know something I did not.
-
-I sat with the stack for a while. It is an odd feeling, reading a season of your own contempt in your own handwriting. The trades themselves were not the problem; they had been taken by rule, at the rule's size. What bothered me was what the line was for. I had put it there to make me respect the other side, and I had used it every morning to reassure myself that there was nothing on the other side worth respecting.
-
-*There is no disaster greater than underrating the enemy.* I had been underrating him in writing, daily, and filing it.
+You may learn later who the seller was and why. You may never learn. Either way, they were not a fool. They had a reason to sell size at that price, and their reason was better than yours, or at least larger.
 
 ---
 
-So I changed the line. It still says *Other side*, but the way of filling it in is different. I must write at least one reason the other side could be right. Not the likeliest reason; any reason that would make them sensible rather than foolish. If I cannot think of one, I write *I don't know who this is*, which is allowed, and is not an insult.
+*There is no disaster greater than underrating the enemy.* The trader in that story did not lose because his view was wrong. He may have been right about the company. He lost because he treated the person on the other side as someone to be beaten instead of someone to be respected.
 
-The new line was slower to fill in. The first weeks were awkward. Then it began to show me things.
+Now the guest's way. You have the same view. You do not buy ahead of the level. You wait to see whether the market lets the price through. It touches the level and backs off, and you notice: someone is selling there, and they are not small. You do not decide they are wrong. You note that they exist.
 
----
+If the stock breaks through later and holds, you buy then, at a worse price, because the seller is done or has been absorbed and the market has shown you something. You are late. You are the guest, arriving after the host has laid the table, and you take what is offered.
 
-The morning I remember was a name that had fallen hard the previous afternoon and opened lower again. One of the rules I trade likes names that have fallen too far, too fast; it bets on a little of the fall coming back. The setup was there. The rule's entry, as always, was a limit order resting below the market, at a price the market would have to come down to. *I dare not be the host; I would rather be the guest.* The rule does not chase. It waits to be invited.
+If you were already in and it starts backing off the level, you retreat a foot. You sell half. Not because you are sure you are wrong, but because something you did not expect has appeared, and a smaller position lets you watch it with a clear head. If the seller goes away, you can come back. If the seller keeps going, you have already given ground, and cheaply.
 
-I filled in the card. When I reached *Other side*, I did what the new line asks and went to look.
-
-What I found was not panic. Panic is ragged: large prints, then nothing, then a lurch. This was even. Sale after sale through the morning, of similar size, at every price, and each time the price lifted a little there was more selling waiting for it. It looked like someone with a great deal to sell, in no hurry, and nowhere near done. Someone who knew exactly how much was left.
-
-I wrote: *patient seller, not finished, may know something.* That was the reason they might be right.
+*When armies of equal strength meet, the one that grieves will win.* Grief here is not despair. It is the seriousness of someone who knows a loss is real money and a real mistake, and does not need to defend himself from it. That trader sells half without making a speech. The one who does not grieve stays, adds, and calls it conviction.
 
 ---
 
-The line on the card does not decide anything. It cannot. The rule decides, and I do not override it; that is another chapter, and a rule of its own. The order stayed where the rule had put it. The price drifted around it all morning without coming down to it. I did not move it up. *I dare not advance an inch; I would rather retreat a foot.* At the close the order expired unfilled, and the card went into the stack with its line filled in and no trade beneath it.
+This is the reversal. The trader who insists on leading ends up being dragged. The one who follows, and gives a foot when he must, ends the day still in the market, with a small position and room to move either way.
 
-I do not know what the seller knew. I did not look further, and it does not matter here. What mattered was that for the first time the line had described a person instead of a cartoon.
+## Try This
 
-What came next is the part of the desk I trust. Something I notice is not a rule. It is a proposal, the same as anything the model suggests. So over the following months, when *patient seller* began to appear on the cards often enough to look like a pattern, I wrote it up as a trial in the ledger: a way of measuring that evenness of selling, tested as a filter on the rule, with its own fingerprint and its own forward clock. It is being judged the slow way, like everything else. The card noticed it. The rules will decide whether it means anything.
-
----
-
-There is an idea near the centre of Mark Spitznagel's *The Dao of Capital* that lives close to this chapter: the roundabout path, stepping back in order to go forward, giving up the near thing for a better position later. He reads it at the scale of capital and years. Mine is smaller: one resting order, left where it was, on one morning.
-
-*When armies of equal strength meet, the one that grieves will win.* I used to think grieving was an odd word to use about a battle. I read it now as the opposite of that first stack of cards. The one who grieves takes the other side seriously before the fight, because he knows what losing would cost. Contempt is cheaper to write. It is only more expensive to hold.
+Before you add to any losing position this week, say out loud, in one sentence, who you think is on the other side and why they are wrong. If you cannot say it, or all you can say is that they are stupid, cut the position in half instead of adding. Notice how often that happens.
 
 ---
 

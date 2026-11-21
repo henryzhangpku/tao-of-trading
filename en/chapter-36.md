@@ -14,77 +14,67 @@ The soft and weak overcome the hard and strong. The fish must not leave the deep
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. What is about to shrink is first stretched. The move that looks strongest is often near its end. Often, not always: that word is the whole difficulty.
+Strength begets strength. A stock that is going up is going up for a reason, and the people buying it know something. You do not try to pick tops; that is how traders get run over. You buy what is working and sell what is not. When a name is ripping, the right question is not whether it has gone too far but how to get on board. New highs lead to more new highs. The best trades of the year always look too expensive at the moment you should be buying them. Fear of heights is for people who miss moves. It is what you were taught about everything: success breeds success, so back the winner.
 
-2. A stretch can be seen. Its end cannot. Do not trade the end. Refuse to pay for the stretch.
+## The Other Way
 
-3. Strength is what weakness looks like just before. On the chart they are the same picture, so do not size as if you could tell them apart.
+1. *What is about to shrink must first be stretched.* The move that looks strongest is often the move that is finishing. Stretching is how a thing gets ready to shrink.
 
-4. What is about to be taken is first given. The easy weeks give you size. The hard week takes it back, all at once, from whoever accepted it.
+2. Nothing falls hard from a low place. The steepest drops start from the steepest climbs.
 
-5. The subtle light: the signs are faint, and they are statistical. You see them across a hundred cases, never in this one.
+3. *What is about to be taken must first be given.* The market gives before it takes. It gives the latecomer three green days so that he will be there for the red one.
 
-6. Seeing the stretch is not a reason to bet against it. A stretched market can stretch further than your account.
+4. It gives to your account, too. A run of easy wins is a gift, and gifts make you reach.
 
-7. The soft overcomes the hard. The small position that waits outlasts the large one that is sure.
+5. This is called the subtle light. It is not a signal to sell. It is only seeing the stretch as a stretch while everyone else sees strength.
 
-8. The fish must not leave the deep. Your deep water is the process, the cash and the size. Leap for the bright surface and you land on the bank.
+6. Euphoria is not evidence. When everyone you know owns it, there is nobody left to buy it from you.
 
-9. Do not show the sharp tools. A rule, a size or a position kept to yourself cannot be leaned on, by others or by your own wish to be seen right.
+7. The soft and weak overcome the hard and strong. The quiet name nobody is talking about still has room to stretch. The loud one has used its room.
+
+8. The fish must not leave the deep water. Your deep water is the size you can live with. The ripping stock pulls you into the shallows, where you can be seen and taken.
+
+9. The sharp tools must not be shown. When you are right, keep it to yourself. Announcing a winner is the first step to defending it.
+
+10. You do not have to bet against the stretch. You only have to stop chasing it.
 
 ## The Story
 
-This is one of the chapters that Mark Spitznagel's *The Dao of Capital* lives close to. He reads Laozi's reversal at the scale of whole economies: a long stretch built up over years, and an investor willing to give up the easy gain while it lasts so that he is still standing when it breaks. I learned a great deal from that reading. What follows is the same shape at a far smaller scale: one market, a few weeks, one rule, and a friend's phone.
+There is a stock everyone is talking about. It has gone up five days in a row, each day a little faster than the last. On the fifth day it gaps up at the open and does not look back. It is on every scanner you own. Someone in a chat you follow has posted a screenshot of a gain larger than your month.
+
+You did not own it on the first day, because it was nothing then. You did not buy it on the third, because it already seemed too high. Now, on the fifth day, it seems obvious. Strength like this does not happen by accident. Somebody big is buying. The chart is so clean it looks like a ramp.
+
+On the sixth morning it gaps up again, and you buy in the first minute. You buy more than usual, because the move is large and a small position would feel like a waste. For forty minutes it keeps going, and you feel the relief of finally being on the train.
 
 ---
 
-The rule is a trend rule with one awkward habit. It wants to be in markets that are going up. But it will not buy one that has gone too far, too fast, from its own recent average. "Too far" is measured in the market's own recent swings, and the number was written down before the rule ever saw a live price. When a market is stretched past that line, the rule waits for it to come back toward the average. If it never comes back, the rule never buys. That is the price of the habit, and I agreed to pay it in advance.
+At half past ten it stops. At eleven it is below where you bought. It is not a crash yet, only a pause, and stocks like this pause. You hold. At one o'clock it breaks the morning low on the heaviest volume of the whole run, all of it selling. By the close it has given back two days of gains. The chat goes quiet. The screenshot is gone.
+
+You sell at the close, or you hold overnight and hope, which is worse. Either way, you bought the last of the stretch. The market had been preparing for you for six days.
 
 ---
 
-There was a stretch of some weeks when one market went up nearly every day. It was the kind of rise that leaves the news and enters conversation. People who never mention markets mentioned it. The chart, by the end, looked less like a line than a wall.
+Look at the shape of it. *What is about to shrink must first be stretched.* The five days of strength were not the opposite of the fall. They were the beginning of it. Every day of buying pulled in more people who would need to sell later. Every new high made the next drop longer. A thing cannot fall far unless it first goes high.
 
-Each morning the rule had the same two answers. *Trend: yes. Entry: no, stretched.* I read those two lines on the screen at five in the morning for weeks. Every day the market went a little further without me, and every day the line held.
+*What is about to be taken must first be given.* The market gave you something before it took. It gave you five days of watching other people get rich, which is the most persuasive gift there is. It gave you forty good minutes. It always gives first. That is not cruelty. It is only how a stretched thing behaves.
 
-A friend I will call Daniel was in it. He had bought early, before it was stretched, which was good trading, and then he had kept buying as it rose, which was the part he enjoyed telling me about. He sent me pictures of the chart. Some of them came with a single line: *Still waiting?*
-
-I was still waiting.
+Laozi calls this the subtle light. It is not a forecast. You could not have known it would turn on the sixth day and not the tenth. Stretched things can keep stretching. The subtle light is only this: seeing that the strongest-looking moment is also the most fragile, and letting that change what you do.
 
 ---
 
-I want to be honest about the two temptations, because only one of them looked like a temptation.
+There is another way to sit through the sixth morning.
 
-The first was the plain one: switch off the stretch check, just this once, and get in. Trend rules exist to catch moves like this one, I told myself, and here was the move, and here was my rule refusing it on a technicality. I recognised that voice by then. I had read it in my own cards, the year before, in the trades that began with *obviously*.
+The stock gaps up again. You look at it and see what it is: a thing stretched very far, very fast, with everyone you know already inside. You do not tell yourself it must fall. You only notice that if you buy here, you are buying from people who bought lower, and that you would have no idea where you were wrong, except somewhere far below.
 
-The second temptation was cleverer, and it came dressed as Laozi. *What is about to shrink must first be stretched.* The market was plainly stretched. So it was about to shrink. So I should be betting on it to fall.
+So you do not buy it. You go back to your own list, the quiet names, the ones nobody has posted about. One of them is sitting at a level it has held for weeks. You take that trade at your usual size. It does very little all day. You stay in the deep water.
 
-That reading is wrong, and it is wrong in an expensive way. Laozi is describing a shape, not a calendar. A stretch is the condition before a reversal; it is not the moment of one. Everything that breaks was first stretched, but plenty of stretched things keep stretching, for longer than anyone short of them can stay solvent or stay calm. *This is called the subtle light.* Subtle is the key word. The signal is faint. You can see it in the count of a hundred stretched markets. You cannot see it in this one, on this Tuesday.
+The stretched stock turns at eleven, or it runs another four days and then turns. You watch either way. If something you hold works, you do not post the screenshot. You close it where you meant to close it, and you do not mention it.
 
-So I did neither. I wrote on the card, each morning, *stretched; waited*, and closed the screen.
+## Try This
 
----
-
-It turned the way these things often turn: not on one dramatic day, but with a few days that went nowhere, and then one that went down hard, and then a week in which every bounce was sold.
-
-Daniel was all right. I want to say that plainly, because this is not a story about a friend being ruined. But he had done what almost everyone does on the way up. His size had grown with the price, each add made at a higher level and with more confidence, so that by the top he owned far more of the thing than he had at the bottom. *What is about to be taken must first be given.* The market had handed him size on the way up as a gift. The hard week took the gift back from the people holding the most of it, and at the top that was him.
-
----
-
-When the market came back toward its average, close enough for the stretch check to pass, the trend condition had broken too. So the rule did not buy. It had not bought on the way up, because the market was stretched. It did not buy on the way down, because the trend was gone. It did not sell anything short, because selling short is not what it does. From the first day of the rise to the last day of the fall, it did nothing at all.
-
-That is the most common ending for a rule like this. It is also the least interesting thing you can say at dinner. Nobody wants to hear about the trade you did not make in a market everyone was talking about. But that nothing is the whole point. The rule did not win by forecasting the turn. Nobody can do that reliably, and I do not trust anyone who says they can. It came through simply by refusing to pay the stretched price.
-
----
-
-I keep a page for the other kind of ending too, and I should tell you about it, or this story would be a beautiful backtest. On that page are the markets that stretched, made the rule wait, and never came back. The rule missed all of each of those moves. Some of them were large. The page is not short, and I look at it on purpose, because it is the honest cost of the habit.
-
-Whether the habit is worth that cost is not something either page can tell me alone. It is something only the count can tell me: every stretched entry the rule refused, set against every stretched entry it would have taken, over seasons, with costs. That is where the subtle light is. Not in Daniel's week, and not in any single week.
-
----
-
-*The soft and weak overcome the hard and strong.* For a long time I read that line as a line about character, about meekness. Watching those weeks, I read it as a description of two positions. The hard one is the large position bought at the top of the stretch, sure of itself, unable to bend without breaking. The soft one is the position not yet taken, which costs nothing to hold and can still become anything.
+For the next week, whenever a stock you do not own makes you feel left behind, write its name down and do nothing with it for one day. When your own account has had three easy days in a row, trade your normal size the next morning, not more. Watch what the feeling of being left behind has become by the second day.
 
 ---
 

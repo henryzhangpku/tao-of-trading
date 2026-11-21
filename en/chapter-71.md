@@ -14,71 +14,61 @@ Only by treating the sickness as a sickness are you free of it. The sage is not 
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. To know that you do not know is best. Every test should end with a list of what it cannot tell you.
+You have to know where it is going. Nobody gets paid for shrugging. At school the one with the answer got the marks, and at work the one who sounds sure gets the job; trading is the same. A trader is someone who has done the work and reached a conclusion: this level holds, this name goes higher, this report is already in the price. You trade with conviction because you know. The traders who say they do not know are hedging, or lazy, or not good enough yet. Get to where you know, and then act like it.
 
-2. Not knowing and thinking you know is the sickness. A backtest that reports a result and no limits is sick, however good the result looks.
+## The Other Way
 
-3. Write the limits down before you look at the result: this history has no long bear market in it; these names are the ones that survived; these trades are too few to say anything; the costs are estimated, not paid. Written afterwards, the list gets shorter.
+1. *To know that you do not know is best.* Not "know nothing". Know where your knowing ends.
 
-4. On my research desk, the dataset checks run before any test. Their job is not to say whether an idea works. Their job is to say what the data cannot support, so that no result is asked to carry more than it can hold.
+2. Every trade has a part you know (your entry, your size, your exit if you are wrong) and a part you do not (the next price). Keep them in separate drawers.
 
-5. A language model is the most fluent not-knower ever built. It will answer every question in the same confident voice, whether it has the facts or not. So the rule on the desk is that a proposal must say what it does not know, and a claim with no source is marked as a guess.
+3. *Not to know, and to think you know, is a sickness.* Certainty is not a kind of knowledge. It is a feeling, and you can have it about anything.
 
-6. The model proposes; the rules decide. Part of what the rules decide is which of the model's sentences are knowledge and which are only well written.
+4. The sickness has symptoms. You skip the stop because the trade is obvious. You size up because it is a sure thing. You stop reading anything that disagrees.
 
-7. Only by treating the sickness as a sickness are you free of it. You will never stop wanting to believe your best backtest. You can stop letting the wanting go unlabelled.
+5. *Only by treating the sickness as a sickness are you free of it.* You cannot stop feeling certain. You can learn to treat the feeling as a warning light instead of a go signal.
 
-8. The sage is not sick because he names the sickness first. The trader who writes "I do not know" on the ticket is the one least surprised by the market.
+6. When you hear yourself say "this can't go lower", that is the moment to cut the size, not add to it.
+
+7. The trader who knows he does not know is not timid. He trades. He just sizes for being wrong.
+
+8. *Treating the sickness as a sickness.* Dislike your own certainty the way you dislike a fever: not as a disaster, but as a sign that something is off.
+
+9. *The sage is not sick.* Not because he is never certain. Because he catches it early.
+
+10. "I don't know" costs nothing to say. Said at the right moment, it is worth more than the analysis that came before it.
 
 ## The Story
 
-The first report on a new dataset is the one I least want to read and most need to.
+There is a level on the chart you have watched for months. Every time the stock has come down to it, buyers have shown up. You have seen it hold four times. This morning it is coming down to it again, and you know, the way you know your own address, that it will hold.
 
-This was a body of data I had spent the better part of a month putting together: daily records for a wider set of names than my desk had looked at before, going back further than anything I had used. It was plain work. Downloading, cleaning, lining up dates, reconciling the places where two sources disagreed. By the end I was fond of it, the way you become fond of anything you have scrubbed by hand. I was looking forward to the first ideas.
+Because you know, you do several things you would not usually do. You buy before it gets there, so as not to miss it. You buy more than usual, because this is the surest trade on your screen. You do not put the stop where you normally would, just under the level, because it is not going to go under the level; a stop there would only be hit by noise. You will watch it instead.
 
-On the desk, nothing is tested on new data until the checks have run over it. They are not tests of ideas. They are tests of the data, and what they produce is a short document I think of as the corpus report. It is the least exciting thing the desk makes. It says what the data contains, and then, under a plain heading, what the data cannot support.
+It reaches the level and pauses. Then it goes through, and not by a little. You watch it, as you said you would. You watch it go a percent through, then two. You tell yourself it is a shakeout, the kind that comes just before the turn. You know this level. By the time you sell, the loss is four times what a stop under the level would have cost, and the level is just a line on the chart where something used to happen.
 
----
+Nothing about the level was wrong. It held four times. What was wrong was one word in your sentence: *will*. You did not know it would hold. You knew it had held. The step from one to the other is where the sickness lives.
 
-I read it before five, with coffee, the way I read the night's results.
-
-The first part was what I expected: the span of years, how many names on each date, the gaps, the days where a price had obviously been mistyped and was flagged rather than fixed. Then came the section under the plain heading. It was longer than I wanted.
-
-The names that had stopped trading partway through the history were mostly missing. The sources had kept the companies still alive and quietly dropped many of the ones that were not. The report said so in its own dry words: any result on this data is a result about survivors, and cannot be read as a result about the market.
-
-The span of years held no long falling market. There were sharp drops, but nothing that lasted. The report said: no claim about how a rule behaves in a prolonged decline can be supported by this data.
-
-For one kind of event I had particularly wanted to study, there were too few independent cases. Many of the events were really one event appearing in several names on the same day. The report counted them the way they should be counted, as one, and said there were too few to tell an idea from luck.
-
-I read the section twice. A month of scrubbing had produced a dataset that could answer fewer questions than I had planned to ask it.
+And notice what the certainty did to the evidence. When the stock paused at the level, that was information. When it went through, that was information. You saw both, and you filed both under the story you already had. Certainty does not only make you size up. It hides the very thing that would have told you to size down.
 
 ---
 
-The same night, before the checks ran, I had asked the language model on the desk to read a sample of the data and write a short summary of what it was good for. I do this with new data. It is useful to see what a fluent reader makes of it.
+*Not to know, and to think you know, is a sickness.* What makes it a sickness and not just a mistake is that it does not feel like anything. From the inside, certainty feels exactly like knowledge. No alarm goes off. You have to build the alarm yourself.
 
-Its summary was very good. It was clear, well organised and confident. And its third paragraph explained, in the same even voice as the rest, how names in this dataset had tended to behave during prolonged market declines.
+So the other morning begins with the same feeling. The stock is coming down to the level and you know it will hold. This time you hear the word. *Know.* You treat it the way you would treat a slight fever: not as an emergency, but as a sign that something in you is not working properly.
 
-There were no prolonged declines in the data. The corpus report said so, one page earlier.
+You do what the sick do. You slow down. You let it reach the level before you buy. You buy your normal size, not more, and you put the stop where you always do, just under the level, because the stop is not for the case you expect. It is for the case you are sure will not happen.
 
-The model was not lying. It does not know how to lie, any more than it knows how to know. It had written the paragraph that a summary of such a dataset would usually contain, in the voice of someone who had looked. *Not to know, and to think you know, is a sickness.* I have never seen the sickness described as exactly as in that paragraph, because it had no symptoms. It read just like the paragraphs on either side of it, and they were true.
-
----
-
-The rule on the desk for this is plain, and I wrote it after earlier mornings like that one. Every claim in a proposal must point to where it comes from. A claim that points nowhere is marked as a guess, in the text itself, where anyone reading will see the mark. The model is allowed to guess. It is not allowed to guess in the same typeface as knowing.
-
-So the paragraph was marked. Then I did the other thing the desk does: I attached the corpus report to every trial that will ever run on that data. Every result from it will carry, beside its numbers, the list of what the data cannot say. Survivors only. No long decline. Too few of the events I wanted. Whoever reads a result, including me on a good morning, reads the limits first.
-
-*Only by treating the sickness as a sickness are you free of it.* I do not think I will ever stop wanting my best backtest to mean more than it does. What I can do is make sure it never arrives at the desk without its label.
+It holds, this time, and you make money. Or it breaks, and you are out with an ordinary loss, and the level is just a line on the chart. Either way, you leave the morning the same trader who sat down.
 
 ---
 
-I was disappointed for about a day. A month of work had bought me a dataset with a long list of things it could not do.
+Here the usual lesson is turned round. We are taught that knowing is strength and not knowing is weakness. Laozi says the opposite: the one who admits he does not know is the strong one, because he is the only one still protected. You will not stop feeling certain. Every trader who watches a chart long enough feels it. The cure is not to feel less sure. It is to notice when you feel sure, and to treat that as the reason to keep the stop exactly where it belongs.
 
-Then I saw what the list had saved me. Without it, the first good idea on that data would have looked like a discovery about the market. It would really have been a discovery about the companies that survived, in years without a long fall, on too few cases to count. I would have believed it, because I had scrubbed the data myself and was fond of it.
+## Try This
 
-The data is still in use. It answers the questions it can answer, and every answer comes stamped with the questions it cannot. The sage, the chapter says, is not sick, because he treats the sickness as a sickness. The corpus report is how a desk does that. It is written before anything is tested, by a part of the system that has no idea which result I am hoping for.
+For the next two weeks, whenever you catch yourself thinking *I know*, *obviously* or *can't miss* about a trade, write the word down and trade that one at your normal size, never larger, with the stop where it always goes. At the end of the two weeks, look at how those trades did beside the rest.
 
 ---
 

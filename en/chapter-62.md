@@ -22,73 +22,69 @@ Why did the ancients prize this Tao? Is it not said that through it the seeker f
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. A process is not only for your good days. It is the refuge of your bad ones.
+When you make a stupid mistake, you need to feel it. You learned that long before you traded: the harder you are on yourself, the better you get. A trader who breaks his own rules and shrugs will break them again. So you replay the trade until it hurts, you write down everything you did wrong, and you promise yourself it will never happen again. After a bad week you cut your size in half, or step away entirely, as a penalty. The pain is the lesson. Traders who go easy on themselves stay mediocre; the good ones are their own harshest critics.
 
-2. The treasure of the good: on a clear morning the checklist feels slow and obvious. Run it anyway. You are rehearsing for a different morning.
+## The Other Way
 
-3. The refuge of the not-good: the tired morning, the distracted one, the morning after a bad night. On those days the checklist does the thinking you cannot.
+1. *The hidden shelter of the ten thousand things.* The practice is a shelter, not a court.
 
-4. A rule does not need you to be at your best. That is the whole reason to write it down.
+2. *The treasure of the good.* On good days the practice feels like a treasure. It is easy to love it then.
 
-5. Fine words can be sold. A beautiful explanation of a trade is worth exactly nothing at the stop.
+3. *The refuge of the not-good.* On bad days it is a refuge. That is when it is worth most.
 
-6. Why throw away the not-good? Do not stop trading on the days you are below par. Trade smaller, and let the process carry more of the weight.
+4. *As for people who are not good, why throw them away?* Laozi does not throw away the one who failed. Do not throw away the trader you were yesterday.
 
-7. If you cannot run the checklist today, that is your answer. No checklist, no trade.
+5. Punishment is a trade too. Halving your size as a penalty is a decision made by shame, and shame sizes badly.
 
-8. The jade disc and the team of horses: the new indicator, the paid service, the faster feed. Not as good as sitting still and running the same plain steps.
+6. Replaying a loss twenty times does not teach it twenty times. It teaches you to flinch.
 
-9. The seeker finds. A process followed every day produces a record, and a record is where answers are found.
+7. *Fine words can be sold in the market.* The grand resolution made at midnight is fine words. It sells well to yourself, and it is not kept.
 
-10. The one at fault is spared. When you make a mistake inside the process, the size and the stop were already set. The mistake stays small.
+8. *A jade disc, a team of four horses.* No offering of self-reproach is worth as much as sitting down tomorrow and doing the plain thing once.
 
-11. That is why it is prized. Not because it makes you brilliant, but because it makes your worst morning survivable.
+9. *The one at fault is spared.* What is spared is not the loss; the loss is real. What is spared is the next trade, from having to carry it.
+
+10. Start again. It looks like leniency. It is the strictest thing you can do, because it asks you to do it right tomorrow, not just to feel bad tonight.
 
 ## The Story
 
-I had come back from a long trip the night before, across enough time zones that my body had no opinion about what hour it was. I slept badly and woke before four, which is earlier than the machine that runs the night's work usually finishes. I made coffee anyway and sat in front of the board while it was still filling in.
+It was a bad day. Not unlucky; bad. You broke the rule you care about most. The trade went against you, you did not take the stop, you added to it lower because it had to come back, and you took the loss at the close, five times what you ever planned to lose. A week of work gone in an afternoon you can barely remember.
 
-I knew within a few minutes that I was not good that morning. I read the same line on the screen three times. I could not have told you, without looking, which of the frozen books was in which week of its season. If someone had asked me a hard question about any rule on the desk, I would have given them a confident and wrong answer.
-
----
-
-Inside the cover of the notebook by the keyboard there is a short list, written in pen. I go through it every morning before I touch anything. It is not clever. On a clear morning it is so obvious that it feels faintly insulting, like being handed a list that says *put on shoes before leaving the house*.
-
-Did the night's runs finish, all of them? Does each frozen book's fingerprint match the one it was pinned with? Is the daily loss limit loaded? Has the refusal log been read? Has anything the model proposed gone into the ledger as a trial, and not into a book? Was yesterday a loss, and if so, is anything new waiting to go live that should wait another day?
-
-On most mornings I go through it in a minute and I barely notice doing it. *The treasure of the good.* On a clear morning the list is rehearsal.
-
-That morning it was the only thing in the room that was thinking.
+The evening is worse than the afternoon. You replay it. You find the exact minute you should have sold and look at it again and again. You open your journal and write a page. *Stupid. Again. You know better.* You write new rules: no trading for a week. Half size for a month. No more of that setup at all. You promise. You go to bed late and do not sleep well.
 
 ---
 
-I went down it one line at a time, with my finger on the page, the way you would read instructions in a language you do not speak well. Runs finished. Loss limit loaded. Refusal log read, and dull. Then the fingerprints.
+The next morning goes one of two ways, and most traders have lived both.
 
-One of them did not match.
+In the first, you are afraid. A good setup appears, the kind you would take on any other day, and you watch it go because you are not allowed to trade, or you take it at a quarter size and sell at the first tick against you. It works without you. You feel nothing about the missed trade except that it is one more proof you cannot do this.
 
-On a better morning I think I would have felt alarm. That morning I felt nothing much, which was its own kind of luck, because it meant I did nothing quickly. The desk itself had already done the important part. A frozen book whose fingerprint does not match the pinned one is not run. It had been held, with a line in the log saying why, and it was waiting for me.
+In the second, the shame turns into something hotter. The account is down and the number sits on the screen like an accusation, and by ten o'clock you are trading to make it go away. The week off lasts until ten o'clock.
 
-It took me a while to work out what had happened, and when I did, I did not enjoy it. The night before, very late and very tired, I had opened a rule's file to try a variation: one threshold, a small change, the kind of thing I try all the time in a copy marked for trials. I had opened the wrong copy. I had changed the frozen rule, saved it and gone to bed, and I had no memory of doing any of it.
-
-If nothing had checked, that book would have run that morning under a rule nobody had frozen. Every day after would have belonged to a different test, and the weeks already run would have belonged to a rule that no longer existed. I might not have noticed until the end of the season, if ever. The record would have looked like one test and been two.
+Either way, the punishment does not hold. In a week or a month you break the same rule again, and the evening after that is the same evening, word for word. The harsh trader is not the disciplined one. He is only the one who suffers more for the same mistakes.
 
 ---
 
-*Is it not said that through it the seeker finds, and the one at fault is spared?*
+Laozi says the way is the treasure of the good and the refuge of the not-good. He does not say the way is for the good, and the rest should go away until they deserve it. *As for people who are not good, why throw them away?* The gentle hand holds what the hard one drops.
 
-The fault was mine, completely. I had made the kind of mistake that nobody makes on purpose and everybody makes eventually. The process did not prevent the mistake. It is not that kind of thing. What it did was keep the mistake small: one morning's run held, one file to put back.
+So try the other evening.
 
-I put it back from the pinned copy, and the fingerprint matched, and the book ran. The variation I had meant to try went into the ledger as its own trial, in its own copy, with its own clock, which is where it should have gone the night before. Then I did nothing else for the rest of the day. On a morning like that, I do not make any decision the rules can make without me, which is nearly all of them.
+You write three lines about the day, the way a doctor writes a chart. *Did not take the stop. Added to a loser. Loss five times the plan.* No adjectives. Then one more line: which rule you broke. You do not need a new rule. You need the old one, which was fine, and which you did not follow.
+
+You close the journal. If the loss changed the size of the account, you change your size by the same arithmetic you always use. That is not a penalty. It is the account telling you what it can carry now. Then you stop thinking about trading and spend the evening on something else.
+
+In the morning you sit down and do the plain practice, exactly as you would after a good day. The same preparation, the same size by the same rule, the stop written down before the entry. When the setup comes, you take it. When the stop is touched, you take that too, and that one small loss, taken cleanly, does more for yesterday than the page of self-accusation did.
 
 ---
 
-People sometimes ask whether a routine like that list is worth the time on days when you are sharp. I understand the question. A list like that is the opposite of a jade disc. *Though they are presented with a jade disc held in both hands, followed by a team of four horses, that is not as good as sitting still and offering this Tao.* It has never shown me anything I did not already know on a good morning. It costs a minute.
+*Though they are presented with a jade disc held in both hands, followed by a team of four horses, that is not as good as sitting still and offering this Tao.* The grand gestures after a disaster are the jade and the horses: the dramatic break, the long list of new rules, the vow. They feel like payment. They are not the practice.
 
-But it was not written for a good morning. It was written by a version of me who was awake and careful, for a version who would one day be neither. The good mornings are where you rehearse it, so that on the bad one your finger knows where to go on the page without you.
+The practice is small and the same every day, and it does not ask what you did yesterday. That is why it can take you back. Most people were taught that being forgiven means getting away with something. Here it means the opposite: you are spared the punishment so that you can be held to the work. The traders who last have usually had the bad day more than once. They are the ones who sat down the next morning and did the ordinary thing.
 
-*As for people who are not good, why throw them away?* I was not good that morning. Nothing was thrown away.
+## Try This
+
+After your next bad day, write no more than four lines about it: what happened, in plain words, and which existing rule you broke. Make no new rules and no vows that night. The next morning, trade your normal process at the size your usual rule gives you, and notice how the first clean trade of the day feels.
 
 ---
 

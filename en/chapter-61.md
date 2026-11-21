@@ -18,75 +18,71 @@ A great state wants no more than to gather and keep people. A small state wants 
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. The lower reaches of a river do not chase the water. They lie low, and the water arrives.
+When you want a position, you take it. Hesitate and the price leaves without you. Strong traders lift the offer and do not haggle over a few cents; the cents do not matter if the move is real. Size is power, in markets as in life: the one who pushes gets the deal, and the one who waits gets what is left. When you trade enough, the tape notices you, and a trader who can move a stock does not have to wait for it. The weak post bids and hope. The strong take what they want, when they want it.
 
-2. Let the trade come to you. Decide the price you will pay, and rest the order there.
+## The Other Way
 
-3. A resting order is the female in this chapter: still, low, and patient. A chasing order is the male: loud, and paying for it.
+1. *A great state is like the lower reaches of a river.* Everything flows down to the low place. Orders flow to the patient bid.
 
-4. The chaser pays the spread, then the slippage, then the price of having been in a hurry. The one who lies low is paid some of that instead.
+2. *The place where the world meets.* A market is a meeting of buyers and sellers. The one who lies low lets the other side come.
 
-5. If the price never comes down to your order, you have lost nothing but a trade. That is the cheapest loss there is.
+3. *The female always overcomes the male by stillness.* The resting order beats the chasing order more often than it looks.
 
-6. Stillness overcomes movement. The order that waits all day has done more work than the order that moved five times.
+4. When you lift offer after offer, you are not taking the market. You are telling it what you want, and it raises the price.
 
-7. Lie low to win. Do not stand above the market telling it where to go. Stand below it, at the price your rule names, and let it decide whether to come.
+5. The bigger you are in a name, the louder you are. The louder you are, the lower you must lie.
 
-8. The large account must lie lowest. The bigger the size, the more a chased fill costs, and the more the market notices you.
+6. *If a great state places itself below a small one, it wins the small state.* A trader with size wins by fitting himself to the other side's flow, not by running it over.
 
-9. Both sides want something. The seller wants out; you want in. A low, still price is often where those two wants meet.
+7. *If a small state places itself below a great one, it wins the great state.* A small trader wins by standing behind the big flow, not in front of it.
 
-10. The one exception is the exit. You rest the order to get in. When the rule says leave, you do not wait for the river.
+8. *One lies low in order to win; another lies low and so wins.* Sometimes you choose the low place. Sometimes you find yourself there, and it turns out to be the best seat.
+
+9. Missing a trade because your bid was not filled costs nothing. Being filled at the top because you chased costs a great deal.
+
+10. *For both to get what they want, the great one should lie low.* Someone wants to sell. You want to buy. Let him come to you.
 
 ## The Story
 
-When I started, I bought the way you hail a taxi in the rain: by stepping into the road. I would decide I wanted something, and I would want it now, so I took whatever the screen offered. If the price moved while I was deciding, I paid the new price. If it moved again, I paid that one too. I thought of this as decisiveness.
+You have done the work and you want the stock. It trades enough, but not a lot. You want your full size, and you want it now, before the move.
 
-It took me a long time to see that every one of those orders was the male in this chapter. Loud, in a hurry, standing above the market and telling it what to do. And paying, every time, for the privilege.
+You buy at the offer and get a piece. The offer moves up a few cents. You lift it again. Another piece. The prints are yours, and other people are watching the prints. The sellers sitting at the next level pull their orders and repost them higher. You lift again, because you have started and you do not want half a position.
 
----
+By the time you have your size, your average price is well above where you began. The stock is up nicely on the day, and some of that was you.
 
-The entries on my desk now work the other way round. When a rule finds a candidate, it does not ask what the price is. It names the price it is willing to pay, which is usually a little below where the market stands, at a level the rule defines in advance. The order is placed there and it rests. It has a window, written down with the rule. If the market comes down to it inside the window, it fills. If not, it is cancelled at the end of the window, and a line goes into a list.
+Then you stop buying, and the buyer who was holding the price up is gone. The price sags back toward where you started. You are now down on a trade whose idea has not changed at all. When you finally decide to sell, it is the same problem turned over: you hit bid after bid, and each one is a little lower.
 
-I call it the missed list. It is one of the dullest files on the desk: a date, a name, the price the rule asked for, and the words *not filled*.
-
-The paper books keep the same honesty. A resting order in a forward test is not given a fill because it would have been convenient. The market has to have come to it. Otherwise it goes on the missed list too, and the record shows a trade that did not happen.
+You took the market by force, and it charged you to come in and charged you again to go out.
 
 ---
 
-There was a morning when the missed list cost me something, or felt as if it did.
+Every trader does this, at whatever size makes his stock thin. For some it is a small company and a few thousand shares. For some it is options with wide spreads, where the market maker is very happy to see a trader who must have it now. The feeling is the same. You want something, and wanting makes you push, and pushing tells everyone on the other side exactly how much you want it.
 
-A rule had found a name the evening before, and the order was resting at its price before the open. The name opened above it and kept going. By the middle of the morning it was well away from my order and still climbing. It was exactly the move the rule had been built to catch, and my order was sitting below it, untouched, like someone waiting at a bus stop on a road the bus had decided not to take.
-
-I wanted to chase it. I want to be clear about how strong that was. The rule had been right about the name. I would only be moving the order to where the market was, which seemed less like a change of plan than an adjustment to reality. One click.
-
-That night the language model on the desk, reading the day's results, proposed nearly the same thing: when a candidate runs away from its resting order, raise the limit. The model proposes; the rules decide. Its proposal went into the ledger as a new trial, with its own fingerprint and its own clock. The resting price did not move. At the end of the window the order was cancelled and the name went on the missed list.
-
-*The female always overcomes the male by stillness.* That morning I could only see what the stillness had cost.
+Laozi says the great state should be like the lower reaches of a river. Not the mountain the water falls from. The low, wide place where all the water arrives on its own. The one who lies lowest receives the most.
 
 ---
 
-The missed list showed me the rest of it, weeks later.
+The other way begins with the price, not the order.
 
-I read it through one evening, every line, the way I read anything I want to be honest about. Some of the names on it had done exactly what that one did: run away and never come back. That is the price of resting. You will watch trades you were right about happen without you, and if you trade long enough you will watch quite a few.
+You decide what the stock is worth to you: the price at which the trade makes sense with your stop where it belongs. You put your bid there, a little below the market, for a piece of the size you want. Then you wait.
 
-But the list had something else on it, which was nothing. There were no losses on the missed list. There were no bad fills on it, no spreads paid at the worst moment, no slippage from buying into a move that was already tired. A trade that never fills is the cheapest loss there is. It is the only one that costs nothing at all.
+Sellers come. Not because you called them, but because there are always people who need to sell: someone trimming, someone stopped out, someone who is simply tired of holding. Your bid is the low place they flow down into. You get a piece. You post another, no higher. Sometimes the price drifts down into you; sometimes it pulls away and you are left with part of a position, or none.
 
-And the trades that did fill had a quality I had not expected. They were bought from someone who wanted out, at a price that person was willing to accept. *A great state wants no more than to gather and keep people. A small state wants no more than to enter and serve.* The buyer wants in and the seller wants out, and a still, low price is often where the two of them meet. The chaser never meets anyone there. The chaser just pays whoever is standing on the far side of the road.
+Being left with none is the cost of this way, and it is small. You did not lose anything. You missed something. There will be another.
 
----
-
-Mark Spitznagel's *The Dao of Capital* is built around a version of this idea at the scale of an investing life: the patient, indirect route over the direct grab, giving up the immediate thing in order to be positioned for what comes later. I learned a great deal from it. A resting order is the same shape at the scale of one morning. You give up the certainty of the fill in exchange for the price, and you accept in advance that some mornings the river will flow somewhere else.
+When you are filled, you are filled where the trade makes sense. Nobody saw you coming. The price was not lifted by your own hand, so it does not fall when your hand stops. When the time comes to sell, you do the same in reverse: offer a little above the market and let the buyers who are chasing come up to you.
 
 ---
 
-There is one exception, and it is the one I hold hardest. The exit does not rest.
+*The female always overcomes the male by stillness.* The order that sits still on the book is not weaker than the order that charges. It is receiving. On a morning of panic, when everyone needs to sell at once, the quiet bid below the market is where the whole river empties.
 
-When a rule says leave, the order does not wait at a polite price for the market to come to it. It takes what is there, even in a thin market, even on an ugly gap. I told that story in chapter 64. Entering, you may lie low and wait, because waiting can only cost you a trade. Leaving, you cannot, because waiting can cost you the account.
+This works at every size, and the bigger you are, the more it matters. A large trader who must have everything at once is the easiest customer in the market. A small trader who stands in front of a large flow is run over; one who stands behind it, buying what the large one is selling after the selling is done, is carried. Away from the screen it is the same. The person who must have the deal today pays for it. The one who can wait is the one people come to.
 
-*For both to get what they want, the great one should lie low.* On the way in, the market is the river and I am the lower reaches. On the way out, I just leave.
+## Try This
+
+The next time you catch yourself lifting the offer a second time on the same idea, stop. Cancel what is left, put a bid where you would be glad to own it, and walk away from the screen for ten minutes. Do this for a month, and keep a note of how often the price came back to you, and what your average was when it did.
 
 ---
 

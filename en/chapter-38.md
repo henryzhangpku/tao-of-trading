@@ -22,69 +22,65 @@ Foreknowledge is the flower of the way and the beginning of folly. So the grown 
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Discipline you have to announce is not discipline. The trader who keeps the rule rarely talks about keeping it.
+Discipline is the whole game, and discipline is willpower. You make the rules and then you make yourself follow them. When you want to chase, you stop yourself. When you want to move the stop, you don't. You write the rules on a sticky note and put it on the monitor. Every time you resist the urge you get stronger, and every time you give in you have to be harder on yourself next time. The best traders have iron discipline. They feel the same temptations as everyone else. They simply beat them, every day. It is what you were taught from school onward: character is gritting your teeth.
 
-2. Low virtue never lets go of virtue: the list of resolutions taped above the screen. Each line is a rule that has not yet become a habit.
+## The Other Way
 
-3. High virtue does nothing. The stop is already in the order; the size was computed before the idea was finished. There is nothing to remember, so there is nothing to forget.
+1. *High virtue is not virtuous, and so it has virtue.* The disciplined trader does not feel disciplined. Nothing in him is fighting.
 
-4. When the way is lost, rules appear. When the rules are not trusted, rituals appear. A checklist of forty items before every trade means the first item was never believed.
+2. *Low virtue never lets go of virtue, and so it has none.* If you are proud of how hard you are resisting, you are close to giving in.
 
-5. Ritual rolls up its sleeves and drags you into line. Willpower is the last resort, and it gives out late on a Friday, after a bad week.
+3. When you need willpower to follow your plan, you have already lost the trade. Willpower is what is left when the plan no longer fits you.
 
-6. Foreknowledge is the flower of the way and the beginning of folly. The forecast is the prettiest part of a trade and the part that does no work.
+4. *High ritual acts, and when no one answers it, it rolls up its sleeves.* The sticky note, the shouting at yourself, the fines for breaking your own rules: this is the sleeve rolled up. It means nothing in you is answering.
 
-7. Dwell in the fruit, not the flower: the size, the exit, the count. Not the story about where the price is going.
+5. *When the way is lost, there is virtue … when righteousness is lost, there is ritual.* Each step down is louder and weaker. A rule you have to shout is a rule you no longer believe.
 
-8. Take down the list of resolutions. Keep the one rule you would be willing to put in code, and put it in code.
+6. *Ritual is the thinning of loyalty and trust.* The harder you police yourself, the less you trust yourself, and the less you trust yourself, the harder you must police.
 
-9. Then stop talking about it. Let go of that, and take this.
+7. Arrange things so that there is nothing to resist. Trade a size that does not frighten you. Do not watch what you are not allowed to touch.
+
+8. *Foreknowledge is the flower of the way and the beginning of folly.* The confident forecast for the day is a flower. It looks like wisdom, and by noon it is what your willpower is fighting.
+
+9. *Dwell in the thick, not the thin; in the fruit, not the flower.* The fruit is the plain habit you keep without thinking. The flower is the vow.
+
+10. He lets go of that and takes this. Let go of the struggle. Keep what does not need one.
 
 ## The Story
 
-For a few years there was a sheet of paper taped to the bottom edge of my monitor. It began as an index card with three lines on it. By the time I took it down it was a printed page, folded where it had grown past the frame, and it had more than twenty lines.
+You have a note on the edge of your screen. Maybe several. DO NOT CHASE. TAKE THE STOP. NO TRADES BEFORE TEN. You wrote them after bad weeks, and each one is a scar. Every morning you read them before the open, the way some people say a prayer.
 
-Every line was a resolution. *I will not chase a gap. I will honour every stop. I will not trade in the first minutes of the session. I will not trade angry. I will have a view on the market before the open. I will stop after three losses in a row.* Each had a date in pencil beside it, and for almost every date I could have told you what had gone wrong that day. The sheet was a list of my bad days, rewritten as promises.
+This morning the market opens strong, and the name you have been watching runs away without you. You feel the pull. You look at the note. DO NOT CHASE. You grip the mouse, and you are proud of the grip. You sit through the first ten minutes, and the next ten, and the name keeps going, and each minute the effort costs more. You are no longer watching the market. You are watching yourself not trade.
 
----
-
-One Sunday in late autumn I was clearing the desk, and before I wiped away the coffee rings I read the sheet properly, top to bottom, as a document rather than as wallpaper.
-
-Then I did something less comfortable. I put it beside my journal and checked, line by line, the days on which I had broken each resolution. It was not hard to do. The journal records what I did, plainly, and the sheet recorded what I had promised. The two had never been asked to meet.
-
-Most of the lines had been broken. That was not the surprise. The surprise was when. They had been broken on ordinary weekdays, in the middle of the session, with the sheet a forearm's length from my eyes. Every one of those mornings I had been looking straight at the promise I was breaking. The sheet worked on calm days, when nothing was asking me to break it. On the days it was needed, it was paper.
+At twenty to eleven it pulls back a little, and a voice says: there, that is not chasing, that is a pullback. You buy. It is chasing, and you know it is, and you buy bigger than you should, because you have been holding back for an hour and some part of you wants to make up for it.
 
 ---
 
-The order of the lines told a story too. The early ones were about trades: the gap, the stop, the first minutes. The later ones were about me: not when tired, not after an argument, a walk at noon. And near the bottom, in a different pen, was a line about the list itself. *Read this list before the open.*
-
-That one made me laugh out loud in an empty room. A rule had been needed to make me read the rules. *When righteousness is lost, there is ritual.* I had built a small religion on a strip of paper, and it had reached the stage where the ritual needed a ritual.
+It goes against you, and here is the second note: TAKE THE STOP. You grip again. This time you take it, and you feel you have won something, because you followed a rule. Then, ten minutes later, angry at the loss and at yourself for the chase, you take another trade, a revenge trade, with no note to cover it. The evening review is a lecture. You write a new note. Your desk is getting crowded with them.
 
 ---
 
-So I asked each line one question: could this be done by the system, so that I never have to remember it?
+Look at what the notes have been doing. *High ritual acts, and when no one answers it, it rolls up its sleeves and drags them into line.* Each note is a sleeve rolled up. You wrote it because the part of you that trades did not answer the part of you that plans. The note did not make it answer. It only made the argument louder.
 
-Most could not. No code knows when I am angry. No code knows whether I slept. Those lines were honest wishes, but a wish taped to a screen does not become a rule by being looked at. A few could be turned into something countable, and those went into the ledger as tests, to earn a place or fail the way any idea does. One line I crossed out without replacing: *I will have a view on the market before the open.* I had written it in a year when I read a great deal and believed that having a view was the same as being prepared. *Foreknowledge is the flower of the way and the beginning of folly.* The view was the prettiest thing on the sheet, and it did no work.
+Look at how proud you were of the grip. *Low virtue never lets go of virtue, and so it has none.* The grip felt like discipline. It was the opposite: it measured how badly you wanted to do the thing you were not doing. Nobody grips a mouse to stop himself doing something he does not want to do.
 
-One line was different. *I will honour every stop.* Read carefully, it was not about virtue at all. It was about plumbing. If the stop lives in my head, honouring it is a test of character, taken at the worst moment, many times a year. If the stop lives with the broker from the moment the trade is filled, there is nothing to honour. It is just there.
-
-That evening I wrote it into the executor. An entry order is refused unless its exit is attached to it, the stop resting with the broker from the fill onward. A refusal is written to the refusal log with the time and the name. There is no setting to skip it for one trade.
+And look at what you walked in with: a forecast. The strong open, the name you expected to run. *Foreknowledge is the flower of the way and the beginning of folly.* You had decided in advance what the morning would be. When it went that way without you, the forecast and the rule pulled against each other, and you stood in the middle holding the rope.
 
 ---
 
-I have read that log many times since. The refusals under that rule are almost all mine. They are the quick manual orders I type in a test account, late in the day, when I am trying something and forget the stop. The rules' own orders never trip it, because the code that builds them builds the stop first. Each line in the log is a moment when I would have needed to remember, and did not, and did not need to.
+There is another way to be disciplined, and it does not feel like discipline at all.
 
-Then I took the sheet down. The frame of the monitor is bare now. There is still one card on the desk, under the lamp, but it is a procedure, not a resolution, and it belongs to another chapter.
+You take the notes down. In their place you change the things that made you need them. You trade a size that does not make your hands tense, so there is nothing to grip. You keep the names you are not allowed to chase off the main screen, and look at them after the close. You make no forecast for the open; you write down only what you will do if the price comes to you.
 
----
+The market opens strong and a name runs. It is not on your screen, so you do not see it run. Your own level comes at eleven. You take the trade, the stop is where it is, and the size is small enough that the stop is not a decision. When it is hit, it is hit. There is no lecture that evening, because there is nothing to lecture about.
 
-Not long ago someone sitting at my desk asked what my trading rules were. I think they expected a list on the wall. There was nothing to point at. The rule I keep best is one I never see, because it is a check that runs before an order leaves, and I meet it only on the days I fail it.
+A friend asks how you stay so disciplined. You are not sure what to tell him. It does not feel as if you are doing anything.
 
-*High virtue is not virtuous, and so it has virtue.* I used to read that as a riddle about humble people. Now I read it as a description of where a rule should live. The discipline you can see is the discipline that still depends on you. The discipline that works is the one that has stopped needing to be announced, even to yourself.
+## Try This
 
-Let go of that, and take this.
+Take one note off your screen this week. In its place, change one thing that made you need it: a smaller size, a name moved off the main screen, a forecast left unwritten. At the end of the week, notice which moments still needed willpower, and change those next.
 
 ---
 

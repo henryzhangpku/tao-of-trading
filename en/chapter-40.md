@@ -14,65 +14,67 @@ The ten thousand things under heaven are born from being, and being is born from
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. What goes out comes back. Not always, and not on schedule, but often enough to be counted.
+The trend is your friend. A market in motion tends to stay in motion, and the money is made by riding it, not by fighting it. Once a trend is established, you stay with it until it is clearly over. You buy strength and add to strength. Rising prices mean more buyers coming in; falling prices mean more sellers. The traders who get hurt are the ones who keep expecting a turn that never comes. The longer a trend lasts, the more it proves itself. Do not overthink it. Find the direction and go with it. Life taught you the same: keep moving forward, and never look back.
 
-2. Returning is a motion, not a promise. A price that has run far is not owed a return. It is only more likely to have one, and "more likely" is a number you have to measure.
+## The Other Way
 
-3. Reversion lives in the short and the small. Its edge is thin, and thin edges are the first thing costs eat.
+1. *Returning is the motion of the way.* Everything that goes out comes back. The trend is not the opposite of the return. It is the going-out half of it.
 
-4. Weakness is the use. The small size, the short hold, the trade that asks for little: these are what let a faint edge be used at all.
+2. The further a move runs, the more it has to give back. Age is not proof. It is distance from home.
 
-5. A large position cannot wait for the return. It is too heavy to sit through the stretch that comes before it.
+3. The trend is not your friend. It is a guest, and it will leave. Be a good host, but do not make up the spare room.
 
-6. Before you believe an edge, double the costs. If it survives, it was there. If it does not, you were measuring the spread.
+4. Your position returns too. It was born from flat, and it goes back to flat. Every trade is a round trip.
 
-7. The arithmetic is short. A trade that earns one and a half times its cost nets half a cost. Double the cost and it loses half a cost. The edge did not change. The toll did.
+5. *Weakness is the use of the way.* Enter on the pullback, when the thing looks weak, not when it looks strong.
 
-8. When an idea fails on costs, do not argue with the costs. Turn the question round: not how to make more, but how to pay less.
+6. Use weakness in yourself as well. A small position, held loosely, can stay through the return. A large one, gripped hard, gets shaken off it.
 
-9. Being is born from non-being. The trade that pays is born from the many that were not placed.
+7. By the time everyone calls a move a trend, it is already old.
 
-10. The motion that most needs to return is your own: the reach for more, turned back toward less.
+8. *Being is born from non-being.* The trade comes out of cash. Cash is not the gap between trades. It is where trades come from.
+
+9. Do not fight the trend, and do not marry it. Expect the return, and size for it.
+
+10. The trader who expects the way back is not surprised when it comes, and is still there for the next way out.
 
 ## The Story
 
-The idea was one of the oldest there is, and I knew it. A name that falls hard in the first hour of a session often gives some of the fall back before the close. Anyone who has watched a screen has seen it. A stock opens on bad news, drops further than the news seems to deserve, and by the afternoon has climbed part of the way home. I wanted to know whether that was a motion you could trade, or only one you could watch.
+You found it early. A move that started quietly, a few weeks ago, and became one of those trends that seem to have a will of their own. Every dip was bought. Every week was higher than the last. You were in from near the start, with a small position, and you have watched it grow into the best trade of your year.
 
-I wrote it into the ledger before running anything: which names, how far a drop had to go to count as hard, where to enter, the exit at the close, and the cost I assumed for each round trip. Then I ran it over the history.
+Somewhere along the way the trade changed in your head. At first it was a position. Now it is a fact. The trend is up; that is simply what the market is. You have added three times, each time higher, each time a little larger, because the trend has proved itself and it would be foolish not to press it. Your stop is far below, because you do not want to be shaken out of something this good by noise.
 
----
-
-The first result was the one you hope for. Before costs, the line climbed steadily. It had the look of something real: many small trades, each worth a little, adding up. I remember the particular pleasure of an old idea turning out to be true.
-
-Then the costs went in. Not a guess made for the occasion, but the cost I assume for every short-horizon test: the spread, the commission, and a little slippage on entry, because a stock falling hard is not a calm place to buy. The line flattened. It still rose, slowly now, a hill instead of a slope. Most of what the first run had shown me belonged to whoever sat on the other side of the spread.
-
-The gate asks the next question of every idea without exception: what happens at twice the costs? It asks because my assumed costs are a guess, and guesses about my own fills tend to be kind. At twice the costs the line turned over and went down.
-
-I sat with that chart for a long time. Ideas fail on my desk every day, and most of them I have forgotten by lunch. This one was different, because it had been right. The motion was there in the history, exactly where I had expected it. The prices did what I said they would do. I had been right about the market and wrong about the trade, and until that evening I had not known that the two could come apart so cleanly.
+People start to talk about it. It is in the news now, explained: a new cycle, a structural shift, a change that will last for years. You read the explanations and nod. They match what you already believe.
 
 ---
 
-I spent that evening doing something I am not proud of. I argued with the costs. My fills are better than that, I told myself. I would use limit orders. The slippage figure was conservative. Each argument was partly true. Together they were a request to lower the bar for this one idea because I liked it, and the bar exists so that it does not move for ideas I like.
+Then one morning the move stops. It does not reverse sharply. It just fails to make a new high, and then fails again. You hold, because trends pause. A week later it is back to where you made your last add. Two weeks later, to your second. The stop that was far below is not far below any more, and it is not a stop you want to take, because it would give back most of the year. So you move it.
 
-What I had found was not an edge. It was a motion that existed and could not be paid for. Prices did come back, often enough. But the return was a small thing, and every round trip charged a toll nearly as large.
-
----
-
-Laozi says weakness is the way's use, and I had always read the line as consolation. That night I read it as an instruction. A faint edge cannot be pushed. You cannot make it larger by wanting it, or by trading it more. Trading it more is the one thing certain to make it worse, since every trade pays the toll and only some collect.
-
-So I turned the question round. Not how to get more out of the return, but how to pay less for it. Take only the largest drops, where the return, when it comes, is wider than the toll. Take fewer names. Rest the order at a price instead of taking whatever the screen offered. Every change meant fewer trades: a smaller, weaker, quieter version of the idea.
-
-That version went into the ledger as a new entry, with the count beside it, because a changed rule is a new attempt and the count has to know about it. It went through the same gate, at the same twice the costs. I will not tell you how it has done since. That is not what this book is for, and one idea could not tell you much anyway. What I can tell you is that the second version trades far less than the first, and that this is the whole of the difference.
+By the time you are out, the best trade of your year is an ordinary one. Most of what it made has gone back where it came from. You call it bad luck. It was only the other half of the move.
 
 ---
 
-Mark Spitznagel, in *The Dao of Capital*, reads this chapter as the root of the roundabout way: you go back in order to go forward, you give up something now to have more later, and the investor who can bear the detour across years outlasts the one who grabs. I learned a great deal from that reading. On a trading desk the same chapter shows itself on a smaller clock. The price goes out and comes back inside one session. And the motion that most needs to return is mine: the reach toward more trades, more size, more of a good thing, turned back toward less.
+Look at where it went. *Returning is the motion of the way.* The move went out and came back, as moves do. Nothing about that is unusual. What was unusual was you: you had decided it would not come back. The longer it ran, the more certain you became, when the longer it ran, the further it had to return.
 
-The ten thousand things are born from being, and being from non-being. The first version of my idea was busy, and the busyness was its cost. The second is mostly absence: mornings on which a stock fell and nothing was done, because it had not fallen far enough.
+Look at when you added. Each add was larger and higher, made at a moment of strength. *Weakness is the use of the way.* You did the opposite. You used strength. You bought when the thing looked most like itself, which is when it was furthest from where it started.
 
-反者道之动. I used to think the line described the market. Now I think it describes the correction I have to keep making in myself.
+And look at what you forgot. *Being is born from non-being.* Every position is born from cash. It goes out from flat and comes back to flat, and all you choose is whether to ride it all the way back or step off part of the way. You treated the position as if it had always been there and always would be.
+
+---
+
+There is another way to hold a good trend.
+
+You are in early, and small. You take the move for what it is: a going-out that will one day turn into a coming-back. You do not know when. You do not need to.
+
+If you add, you add on the days it looks weak: the pullback, the dull morning, the day the explanations start to sound worried. You add small. Your stop follows the move up, because you know it will come back down the same road some day. When the news begins to explain the trend as permanent, you take some off. Not because you know it is over, but because when everyone calls a thing permanent, it has gone a long way out.
+
+When the turn comes, what is left is stopped out. You give back part of the move. You expected to. You go back to flat, which is where the trade came from, and you wait there for the next thing to start going out.
+
+## Try This
+
+For every position you hold this week, write down the price it started from, and look at that number before you look at your profit. Each time you add, note whether the price looked strong or weak at that moment. Notice how much of the open profit you had already decided was yours.
 
 ---
 

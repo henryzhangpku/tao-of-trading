@@ -18,77 +18,77 @@ This is called deep roots and a firm base: the way of long life and lasting sigh
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Nothing is better than frugality. Of everything that decides a trading result, costs are the one part you control completely.
+You were taught to give everything, at work and at the desk. Commissions are pennies, and a good trader does not count pennies; he counts the move. Attention works the same way: the more you watch, the more you catch, so you sit down before the open and stay until the close, because the setup you skip will be the one that runs. You can rest when the market is closed. A trader who is careful with every cent and every minute is a trader who never makes a real one. Effort spent is effort invested.
 
-2. Commissions, spreads, slippage, the fill a little worse than the screen. Each is small. None of them ever has a losing month.
+## The Other Way
 
-3. An edge is a thin thing. Costs are a sure thing. Put the sure thing against the thin thing and see what is left.
+1. *Nothing is better than frugality.* Of everything that decides a trading day, what you spend is the one part fully in your hands.
 
-4. Test every idea at the costs you expect, then at twice those costs. If it only lives at the first, it was living on the assumption.
+2. Commissions, spreads, the fill a little worse than the screen. Each is small. None of them ever has a losing month.
 
-5. Only the frugal yield early. Spending little, you can afford to give up on an idea the moment the count turns against it.
+3. Attention is spent the same way. Every chart you open draws on an account that is not refilled until you sleep.
 
-6. To yield early is to store up virtue. Every trade not taken is a cost not paid. That saving compounds as surely as any gain.
+4. Energy too. The trader who has leaned toward the screen since the open meets the afternoon's one clear setup already tired.
 
-7. Churn is the opposite of frugality. A system that trades often must be right by more than the costs every single time, and the costs never take a day off.
+5. *Only by being frugal can you yield early.* Spending little, you can let a trade go the moment it is wrong, because letting it go costs you little.
 
-8. Be frugal with attention as well as money. A screen watched all day spends something you will need at the moment that counts.
+6. *To yield early is to store up virtue again and again.* Each small loss taken early, each trade not taken, is something kept. Kept things compound.
 
-9. No one knows your limit. The account that pays little to stay in the game can stay in it longer than anyone expects.
+7. Churn is the opposite of frugality. The more often you trade, the more often you must be right by more than the cost.
 
-10. Deep roots, firm base. Low costs are the root. Everything that grows from a trading account grows from what the costs leave behind.
+8. *No one knows your limit.* A trader who spends little has more left than anyone expects, himself included, on the day it is needed.
+
+9. *Deep roots and a firm base.* The root is the capital you did not spend, the calm you did not burn, the evening you did not waste replaying.
+
+10. *Long life and lasting sight.* The point of frugality is not to save. It is to still be here, seeing clearly, years from now.
 
 ## The Story
 
-Every test on my desk has a line for costs. It is one number, set once, for each round trip: the commission, half the spread going in and half coming out, a little for slippage. For a long time I treated that line the way you treat the tax on a restaurant bill. It was there, it was small, and it was not the interesting part.
+It is an ordinary day, and you spend it the way most traders do.
 
-I told the story of one idea that died at twice the costs in chapter 40. This is the story of why the question is asked at all.
+You are at the screen before the open, coffee, six charts, the news scrolling. In the first hour you take four trades. None is a bad idea exactly. Two scratch, one loses a little, one makes a little. Each time you cross the spread, and each time the fill is a few cents worse than the price you saw. You do not notice. Nobody notices pennies.
 
----
+By late morning you have looked at forty charts. You have read three opinions about the market and formed two of your own. You are not tired, you would say. You are engaged.
 
-It started with a column in a spreadsheet.
-
-A rule had come through the gate, run forward on paper for its season, and started trading for real at beginner's size. Small trades, real fills. One evening, for no better reason than curiosity, I lined up its real trades against the paper book that had been running beside it. For each trade there were now two prices: the one the test had assumed and the one I had actually got. I put the difference in a column.
-
-No single number in that column was alarming. Most were tiny. A fill a tick worse than the quote. An order that went in as the price moved. A spread that was wider at the moment of the order than it had been on average. If you had shown me any one line I would have shrugged.
-
-What I could not shrug at was the sign. Nearly every difference went the same way. The column had good days and bad days, but it did not have a good month. It never would. A rule can win or lose on any given week. The costs only ever take.
-
-And the number in the test, the one I had set once and stopped looking at, had been chosen by the person who wanted the test to pass. I had not cheated. I had simply been reasonable, and reasonable, when you are estimating your own fills, tends to lean the friendly way.
+At lunch you stay at the desk because something might happen. Nothing does, so you take a small trade to have something happen. It loses a little.
 
 ---
 
-So the gate asks twice. Every idea is run at the costs I expect, and then at twice those costs, and it must live at both.
+At two in the afternoon the setup you actually wait for appears. The one you would describe if someone asked what you do. It is there on the screen, clean, the kind that comes once or twice a week.
 
-People sometimes take this to mean that I think my costs are double what I assume. I do not. I do not know what they are, and that is the point. The error in a cost estimate is not even-handed. It is far more likely to be too kind than too harsh, and there is no way to know in advance by how much. Doubling is not a measurement. It is a margin. If an idea lives only at the friendly number, its edge is thinner than my uncertainty about my own costs, and I cannot trade something thinner than my own ignorance of it.
+You see it late. Not by much, a minute or two, but your eyes have been sliding across charts all day and they slide past this one before they come back. When you enter, you hesitate on size, because the morning's small losses and the fees sit in your head as one number, and that number makes you careful in the wrong place. You take half your usual size. Then you take profit early, because you want the day to end green, and you no longer have the patience to sit through the pullback that comes before the move.
 
-*In governing people and serving heaven, nothing is better than frugality.* I used to read 啬 as thrift. On the desk it means something stricter: assume you will pay more than you hope, and build only what still stands after paying it.
+The setup works. You were in it for a third of it, at half size.
 
----
+In the evening you look at the day. The commissions and spreads come to more than you made on your best trade. The afternoon was the only trade that mattered, and you met it with what was left over.
 
-The second change was in the order of things, and it mattered more than I expected.
-
-I used to run the test at my assumed costs first, look at the chart, and then run it at twice the costs. The first chart I saw was the pretty one. By the time the ugly one appeared I had already spent a few minutes liking the idea, and the few minutes showed. I would find myself asking whether the doubled number was too harsh for this particular case.
-
-Now the doubled run goes first. The first chart I see is the one after the heavier cost. If the idea dies there, I never see the pretty version at all. It goes into the ledger as a failed trial, counted like every other attempt, and I have spent an afternoon on it instead of a month.
-
-*Only by being frugal can you yield early.* That line describes the procedure exactly. Because it costs so little to give an idea up at the first gate, I can give it up without a fight. The trader who has already spent a week admiring something cannot yield early. He has too much invested in the admiring.
+Nothing went wrong today. There was no disaster. You spent yourself, a little at a time, on things that did not matter, and had less for the thing that did.
 
 ---
 
-The language model on the desk taught me the third thing, without meaning to.
+Laozi's word here is 啬, which began as the word for gathering in the harvest. It is not the miser's word. The miser hoards for its own sake. The farmer keeps the seed because he means to plant again next year. The more you hold back, the more you have when it counts.
 
-It proposes variations each morning, and it is good at it. Over time I noticed a pattern in what it proposed. Asked to improve a rule, it very often made the rule faster: a shorter holding period, a tighter trigger, more signals. Before costs, faster versions often look better. There is more of them, and more of anything looks like more edge.
+Try the other day.
 
-Every one of those proposals went through the same door: the ledger, the gate, twice the costs, first. The fast ones were nearly always the first to go. Not because the model was wrong about the market. Because every extra trade is another line in that column, and the column never has a good month. The model proposes; the costs, doubled, decide.
+You sit down at the open with two charts, not six. You know what you are waiting for and roughly when it tends to come. In the first hour, the things that look like trades go by. You watch them without reaching. When one is close, you ask whether it is the trade you came for or only a trade. If it is only a trade, the cost of skipping it is nothing. The cost of taking it is the spread, the commission, and a piece of your attention.
+
+At lunch you stand up and leave the room. You walk outside. The market is open without you and does not mind.
+
+At two the setup comes. You see it the moment it forms, because you have not spent the day looking at forty other things. You take your normal size, because there are no small losses sitting in your head asking you to be careful. You let it work, because you still have patience; you have not used it up.
+
+If it fails, you take the loss at the price you wrote down. A small loss on a real setup is the cheapest thing a trader buys all week.
 
 ---
 
-I still keep the column. It is updated every evening now, automatically, for every rule that trades for real: the price assumed and the price got, side by side. I look at it less often than I look at anything else on the desk, and I trust it more. It is the only part of a trading result I could have written down in advance with certainty. Not the size of it, but its direction.
+*Only by being frugal can you yield early.* The trader who has spent nothing all day can let go of a bad trade without feeling it as one more cost on a pile. The one who has spent all day cannot. Every loss is added to the others, and the total makes him hold on.
 
-*Deep roots and a firm base.* The edge is what you hope is there. The cost is what you know is there. The roots go into the second one.
+Frugality is not only a rule about pennies, though the pennies are real, and over a year an active trader's costs can come to more than his profit without his ever seeing them as one number. It is a rule about what you keep for the moment that counts: capital, attention, steadiness, sleep. The same is true away from the desk. The people who last are rarely the ones who spent the most of themselves. They are the ones who kept something back.
+
+## Try This
+
+For one week, at the end of each session, write three numbers: trades taken, what they cost in commissions and spread, and how many of them were the trade you came to the desk for. Take one real break away from the screen in the middle of every session. At the end of the week, look at the gap between the first number and the third, and notice how you feel at two in the afternoon.
 
 ---
 

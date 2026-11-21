@@ -18,67 +18,63 @@ Those who know me are few, and those who follow me are rare and precious. So the
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. The rules of trading are easy to know. Cut the loss where you said you would. Size so that no single trade can hurt you. Do not force a trade. Write the rule down before you trade it. Leave it alone while it is being tested.
+Somewhere there is a method that works, and the reason you have not found it yet is that it is hard. We are taught that anything valuable must be difficult and rare, and trading is no different. The good traders know something you do not: a pattern, an indicator setting, a way of reading the order book. So you keep looking. You buy the course, join the room, read the book everyone recommends, try the new setup. The answer must be complicated, because if it were simple everyone would be doing it, and everyone would be rich.
 
-2. They are easy to practise, on a quiet afternoon. No one can practise them at a quarter to twelve, after a stop, with the price running back through the entry. Knowing was never the hard part.
+## The Other Way
 
-3. I have written those same few sentences in more than one book. Not because I ran out of things to say. Because they are the whole of it, and I still need to read them.
+1. *My words are very easy to know and very easy to practise.* Trade small. Take the loss where you said you would. Wait for the setup you know. Do not trade when you are upset. That is most of it.
 
-4. Words have an ancestor: every rule worth keeping traces back to one root, which is staying in the game. A rule that does not serve that root is decoration.
+2. *Yet no one under heaven can know them, and no one can practise them.* Nobody fails at this because it is hard to understand. They fail because it is hard to do every day.
 
-5. Deeds have a master. The master of a trade is the plan written before it, not the feeling during it.
+3. The search for a secret is often a way of not doing the simple thing. As long as the answer is out there, you do not have to practise the one you already have.
 
-6. People who are looking for a secret will not see the simple rule. They will walk past it to buy a more complicated one.
+4. *Words have an ancestor.* Every way of trading that lasts goes back to the same few plain things. Under the hundred systems there are perhaps five sentences.
 
-7. Those who follow the rules are rare. That is not a complaint. If everyone did the easy thing, it would no longer be worth anything to the few who do.
+5. *Deeds have a master.* What runs your trading is not the method you know. It is the habit you practise. The habit is the master.
 
-8. Coarse cloth outside, jade inside. A good system looks boring from outside: the same checks every morning, the same small size, mostly nothing. What it carries is not visible on the screen.
+6. *It is only because people do not know this that they do not know me.* If you believe the secret is in the tools, you will never see that it is in the hands.
+
+7. The easy is hard to sell. Nobody pays for "trade smaller". So trading advice is full of the difficult, and short of the easy.
+
+8. *Those who follow me are rare and precious.* The trader who does the simple things every day is rarer than the one who knows twenty strategies.
+
+9. *The sage wears coarse cloth.* A good trader's day looks plain: a few trades, a short log, an early finish.
+
+10. *And carries jade inside it.* What is valuable cannot be seen from outside: the loss cut on time, the size not used, the trade not made.
 
 ## The Story
 
-I am an engineer before I am a writer, so when I suspect something about my own books, I search them.
+It is a weeknight, after the close. You have had an ordinary bad week: a few losses bigger than they should have been, one trade you should not have taken, a good setup you missed because you were busy with the bad one.
 
-A reader had written to me. The note was polite and a little tired. They had read *The Art of Options War*, then *The Options Underwriter*, and were partway through *The Counted Trade*, and they wanted to know, more or less in those words, whether I was aware that I kept saying the same things.
+So you go looking. You find a video about a new way of reading volume. Someone in a forum swears by a combination of two indicators you have never tried. There is a course that promises to teach what the professionals do, and the trailer is very good. You spend two hours, and at the end of them you have a new setup to try and a feeling that the problem has been found. The problem was that you did not know enough.
 
-I was not sure I was. So that evening I opened the books' repositories side by side and searched them.
+On Monday you trade the new setup. It works once and fails twice. The losses that hurt you last week happen again in the same way: too big, held too long, in a trade you took because you were frustrated. The new setup did not change any of that. It could not. None of last week's losses came from not knowing about volume.
 
----
-
-The sentences were everywhere. Not word for word every time, but close enough for the search to find them. Cut the loss where you said you would. Size so that no single trade can hurt you. Do not force the trade. Write the rule down before you trade it. Leave it alone while it is being tested. Five sentences. They were in the commentary on Sun Tzu, in the chapters about running an insurance company, in the stratagems. They were in the drafts of this book, which I had thought was about something else entirely. In one chapter I found two of them in the same paragraph, in different words, as if I had repeated myself inside a single thought without noticing.
-
-My first reaction was the one the reader had hoped for. I made a list of where each sentence appeared and began planning cuts. A book should say a thing once. Repetition is what a writer does when he has run out.
-
-I got about a third of the way down the list and stopped. What stopped me was not the books. It was an afternoon a few weeks earlier.
+By Wednesday you are looking again. There is always another video, another setup, another person who seems to have found it. The search itself starts to feel like work, like progress. It fills the evenings, and it keeps you away from the one place the answer actually is: your own last ten trades.
 
 ---
 
-It had been an ordinary afternoon, the kind on which ideas arrive. I was reading the day's results and noticed something in a family of names, a small pattern I thought I could see. It was not in the ledger. It had not been through the gate. It was a hunch with a chart attached.
+Now the other evening.
 
-And I wanted to trade it small, that afternoon, just to see. Not as a test: as a trade. Tiny size. A few names. It would not touch the forward books. It would sit outside the desk entirely, which was the point. I could already hear how I would describe it to myself later: an experiment.
+The same ordinary bad week. Before you go looking for anything, you open your log and read it. It takes ten minutes. What you find is not a gap in your knowledge. It is three plain things you already knew: the big losses were trades sized larger than usual, the bad trade came straight after a loss, and you missed the good setup because you were watching the bad one.
 
-I put on my shoes to walk before deciding, which is a habit, and put on the narration of one of my own books, which is another. I listen to the narrated chapters to check them; you hear things in your own sentences when someone reads them aloud that you never see on the page. Ten minutes along the road, in a chapter I had written a year before about something else, the narrator said: *write the rule down before you trade it.*
+You write three lines on a card. *Normal size only. After a loss, wait fifteen minutes. One trade at a time.* You look at them and they are almost embarrassing. Any beginner could have written them. There is nothing here you could sell, or post, or explain at dinner and be admired for.
 
----
+*My words are very easy to know and very easy to practise. Yet no one under heaven can know them, and no one can practise them.* The three lines are easy to know. You have known them for years. Doing them is the whole difficulty, and no course can take that difficulty away, because it is not a lack of information. It is what happens in your hand at the moment of the trade.
 
-I want to be careful here, because this book does not believe in signs, and that was not one.
+So you do them. Monday is boring. On Tuesday you break the second line once, and notice. By the end of the month the card is creased and your losses are smaller. You did not find anything. You stopped doing three things you already knew not to do.
 
-It was arithmetic. I had written those five sentences into nearly everything I had made. Whatever chapter I happened to be listening to, there was a good chance one of them was close by. That is not fate. It is what repetition does. It makes a sentence likely to be in the room when you need it.
-
-I walked home and wrote the hunch into the ledger as a trial: what it was, on which names, tested how. It took a few minutes. It went into the queue behind everything else. I did not trade it that afternoon, or on any afternoon outside the desk. Whatever it was, it would be found out the slow way.
-
-*My words are very easy to know and very easy to practise.* I had known that sentence for years. I had written it. On an ordinary afternoon I had nearly walked straight past it, precisely because I already knew it. Knowing it was not the same as having it in my ear at the right minute.
+Nobody notices. The chat is still full of new methods, and you have nothing new to say. That is fine. The card was not written for anyone else.
 
 ---
 
-I deleted the list of cuts.
+This is the reversal. We look for the deep secret because we think the simple thing is beneath us. The old book says the simple thing is the deep secret, and the reason it stays secret is that so few people will do it. *The sage wears coarse cloth and carries jade inside it.* From outside, the second evening looks like nothing: no new tool, a card with three sentences a child could write. The jade is a month of trades that were the size they were meant to be.
 
-I wrote back to the reader. I said they were right, that the books do repeat the same five sentences, and that I had decided to leave them in. I said that if there was a secret in any of the books, it was those sentences, and that the reason nobody uses them is not that they are hard to understand. It is that they are easy to understand, and so people read past them, looking for the part that must be difficult.
+## Try This
 
-*Those who know me are few.* I do not think Laozi was complaining. I think he was describing the price of saying something simple. It is not interesting. It does not get repeated at dinner. A reader looking for jade glances at the coarse cloth and moves on.
-
-The books will go on saying the same things. This one more than the others, since it is eighty-one chapters long and I am writing it a few at a time, mostly in the early morning, mostly as a reminder to the person at the desk. If you have noticed already, you are reading it the way I hoped. The cloth is coarse on purpose.
+Before you buy, read or watch anything new about trading this week, read your own log for the last ten trades. Write the three plainest things it tells you on a card, and keep the card by the screen for a month. Notice how often the card says something you already knew.
 
 ---
 
