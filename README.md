@@ -12,7 +12,7 @@ Two and a half thousand years ago a keeper of archives wrote eighty-one short ch
 
 He was not writing about markets. Every trader will recognise him anyway. The trade that is forced is ruined. The position that is gripped is lost. The small size, the stop and the defined risk — the soft things — outlast every hard conviction. And the trader who hurries arrives back at the beginning. Fast is slow; slow is fast.
 
-Every chapter has four parts. **The Verse**: the Chinese original and an honest English translation. **What You Know**: the trader's common sense the verse overturns. **The Other Way**: a few numbered lines reading the verse for someone with an order ticket. **The Story**: a scene from the trading day that every trader has lived, told plainly.
+Every chapter has five parts. **The Verse**: the Chinese original and an honest English translation. **What You Know**: the trader's common sense the verse overturns. **The Other Way**: a few numbered lines reading the verse for someone with an order ticket. **The Story**: a scene from the trading day that every trader has lived, told plainly. **Try This**: one habit to carry into the next session.
 
 The companion to [The Art of Options War · 期权兵法](https://github.com/henryzhangpku/art-of-options-war). Sun Tzu tells you when to fight. Laozi tells you when not to.
 

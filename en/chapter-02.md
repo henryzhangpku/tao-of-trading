@@ -68,9 +68,9 @@ When everyone knows the good as good, there is already the not-good. Call only t
 
 The sage finishes the work and does not dwell in it. For a trader this is the plainest instruction in the chapter. When a trade closes, close it in yourself too. The win is not a credential. The loss is not a verdict. Each is one end of a stick you picked up when you entered, and you knew both ends were there.
 
-Try it for a week. After every trade, write one line: *did I do what I meant to do?* Not *did it make money*. Only that. At the end of the week, count the lines, not the dollars.
+## Try This
 
-You may find something you did not expect. The weeks with more yes lines are not always the green weeks. Over a season, they tend to become the green weeks. Not because the yes lines win more often, but because a trader who stops chasing the green line stops doing the things that turn it red.
+For one week, after every trade, write one line: *did I do what I meant to do?* Not *did it make money*. At the end of the week, count the yes lines, not the dollars, and notice which trades you are proudest of now.
 
 ---
 

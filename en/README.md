@@ -10,7 +10,7 @@
 
 ### Part I: The Way · 道经
 
-The first thirty-seven chapters are about seeing the market plainly: the rule that can be spoken is not the market; the vessel is useful because it is empty; water wins by yielding; the uncarved block beats the carved one; the man on tiptoe cannot stand. They end on the line the whole book turns on — the Tao does nothing, and nothing is left undone. For a trader: the model proposes, the rules decide.
+The first thirty-seven chapters turn over what traders believe about the market and about seeing it: that every move has a reason you must know, that a full account is a working account, that more screens and more information give an edge, that firmness is strength. Laozi answers with the empty vessel, water in the low place, muddy water left to settle, the man on tiptoe who cannot stand. They end on the line the whole book turns on: the Tao does nothing, and nothing is left undone.
 
 1. [Why It Moved](chapter-01.md) — 《道可道》
 2. [Long and Short Make Each Other](chapter-02.md) — 《天下皆知美之为美》
@@ -52,7 +52,7 @@ The first thirty-seven chapters are about seeing the market plainly: the rule th
 
 ### Part II: The Virtue · 德经
 
-The last forty-four chapters are about living with it: knowing when to stop, the soft overcoming the hard, the great vessel finished late, frugality with costs, the three treasures, the courage not to dare, and true words that are not beautiful — which is why this book makes no performance claims.
+The last forty-four chapters turn over what traders believe about themselves: that discipline is willpower, that more is always better, that courage means daring, that anger and ambition are fuel, that you should talk about your wins. Laozi answers with knowing when to stop, the soft overcoming the hard, the great vessel finished late, frugality, the three treasures, the courage not to dare, and true words that are not beautiful.
 
 38. [High Virtue Is Not Virtuous](chapter-38.md) — 《上德不德》
 39. [Attaining the One](chapter-39.md) — 《昔之得一者》

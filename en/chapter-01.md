@@ -88,6 +88,10 @@ Most readers hurry through the first chapter of the *Tao Te Ching* to get to the
 
 Watch without wanting, if you can. When you cannot, which is most days, at least know that you are wanting.
 
+## Try This
+
+For the first thirty minutes of your next five sessions, keep the news closed. When something moves hard, write down what you see in the price before you look for a reason: where it trades, where it stalls, where you would be wrong. Read the headline afterwards and notice whether it changed anything you saw.
+
 ---
 
 [Contents](README.md) · [← Prologue](prologue.md) · [2. Long and Short Make Each Other →](chapter-02.md)
