@@ -18,71 +18,69 @@ So look at a self as a self, a household as a household, a village as a village,
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. What is well planted cannot be pulled up. A practice built in the right order does not come out in the first storm.
+Keep work and home apart. Everyone is taught this sooner or later: leave the office at the office, switch off when you walk through the door, do not bring your bad day to the dinner table. A professional has compartments. Trading is the most private work of all. It is between you and your screen, and nobody else needs to know how it went. How you trade has nothing to do with the kind of person you are at home. When the platform closes, the day is over, and a bad day stays at the desk.
 
-2. The order of planting: data you trust, then a test, then the gate, then paper, then real money at small size, and only then more size. Skip a step and the next one stands on air.
+## The Other Way
 
-3. Cultivate it in yourself first: one habit, kept every day, such as writing the stop before the entry. No system can stand on a person who does not keep that.
+1. *What is well planted cannot be pulled up.* A habit is not planted at the desk or at home. It is planted in you, and you go everywhere you go.
 
-4. Then the household: the desk, the morning routine, the checklist. Then the village: the account and its limits. Then the state: the whole book of rules. Then the world: the years.
+2. *Cultivate it in yourself, and its virtue is real.* There is only one of you. The hand that chases a move at ten in the morning is the hand that reaches for the phone at dinner.
 
-5. Size comes last because size is what pulls things up by the roots. Everything planted before it is there to hold it.
+3. *Cultivate it in the household, and its virtue is more than enough.* Patience practised at the screen comes home as patience. Impatience comes home too, and it does not knock.
 
-6. Look at each thing by its own measure. Judge a trade as a trade, a rule over many trades, an account over seasons. Do not judge a rule by one trade, or a year by one week.
+4. Hiding a loss from yourself at the desk and hiding it from the people at home are one habit, practised twice.
 
-7. What is well held does not slip away. A habit is held on the easy days, not only the hard ones. The hard days are when you find out whether you held it.
+5. A promise broken to your own stop is practice for breaking a small promise at home. A small promise kept at home is practice for keeping the stop.
 
-8. The offerings go on without a break. A good routine outlives the mood that built it, and keeps going on the morning you do not feel like it.
+6. *Look at a household as a household.* If you want to know how you trade, look at how the evening goes. The kitchen tells you what the account statement leaves out.
 
-9. How do I know the world is so? By this: by the record of one small plot, kept honestly, season after season.
+7. A bad day does not stay at the desk. It comes home in your voice, the short answer, the phone checked under the table. Then it goes back to the desk in the morning, less rested than it left.
+
+8. *The village, the state, the world.* What you practise grows outward: the desk, the house, the friends, the years. It cannot be kept in one room.
+
+9. *What is well held cannot slip away.* A habit has to be held in both places, or it is not really held in either.
+
+10. *How do I know the world is so? By this.* Not by a theory. By watching one ordinary day: what you did at eleven in the morning, and what you did at seven in the evening.
 
 ## The Story
 
-The first time I built a trading system of my own, I built it from the top down, and the first thing I made was the button.
+It is Tuesday. Before the open you made yourself a promise: one trade today, at your level, with the stop written down. You say it out loud to the empty room. It feels firm.
 
-It was not literally a button, but it might as well have been. It was the piece of code that talks to the broker and sends an order. I wrote it first because it was the exciting part. Everything else in a trading system is preparation for the moment an order goes out, and I wanted to see that moment. I remember the evening it worked. A tiny order, a few shares of something, went from my machine to the market and came back filled, and I sat back in the chair as if I had built a bridge.
+At twenty past ten a name you were not watching jumps. You chase it. It is not your trade and not your level, but it is moving and you are sitting there. By eleven it has turned. You move the stop down, just this once, because it is so close to coming back. By two the loss is three times what you would have risked on the trade you planned. Your own trade, the one at your level, came and went at noon while you were busy with this.
 
-Then I wrote a rule to press the button, quickly, because the button was ready and waiting. Then, some weeks later, I started to wonder whether the rule was any good, and wrote a test. Then, later still, I found a problem in the prices the test was using, and went back to fix the data.
-
-I had planted the tree upside down. The leaves were first, and the roots came last, and at each stage I was standing on something I had not yet checked.
+At four you close the platform and tell yourself the day stays here. You said you would be at the table by half past six. At half past six you are still at the desk, reading about the name that hurt you. Five minutes, you call out. It is twenty to seven.
 
 ---
 
-Nothing terrible happened. The orders were small, and I stopped before they were anything else. What stopped me was a question I could not answer. A friend asked why a particular order had been the size it was, and I opened the code to show him, and I could not say. The size came from the rule, the rule came from a test, and the test had been run on prices I now knew were partly wrong. Every layer leaned on the one below, and I had built the one below last. I could point at the number. I could not tell him where it was rooted.
+Someone at the table asks how your day was. Fine, you say. It is the second time this week you have said fine. Your phone is face down beside your plate and you turn it over twice during dinner. A child asks you something and you answer too sharply, and you see the small flinch, and you apologise, and you do not quite mean the apology because your mind is still at ten past eleven.
 
-So I pulled it out and started again in the other order. It was the slowest month of that year, and it is the reason I am still building on the same ground.
+Later, putting the dishes away, you notice it. Just this once at eleven. Five minutes at half past six. Fine at the table. Three words, one habit. The stop that moved, the time that moved, the truth that moved. The day did not stay at the desk. It never does.
 
----
-
-The order I planted it in the second time has not changed since, and it is the order in this chapter's Trader lines.
-
-Data first. Before any idea is tested, the prices are checked for the things that make a test lie: gaps where a day is missing, splits that were never adjusted, quotes so stale they describe a market that had already moved. The checks report what a dataset cannot support, and an idea that needs what the data cannot give is set aside before it starts.
-
-Then the test, run on data I trust. Then the gate, the same plain questions every idea on my desk must answer: after costs and twice the costs, in both halves of the history, with its best month removed. Every attempt goes into the trial ledger, the failed ones too, so that the bar rises with every try.
-
-Then paper. A rule that passes the gate is frozen, pinned by its fingerprint, and run forward for a season at the day's prices, beside a random control picked by dice. Nobody touches it.
-
-Then real money, at small size. And only then, after another season, more size, one step at a time.
-
-The rule I care most about in that list is the last one, because size is what pulls things up by the roots. A rule at small size that turns out to be wrong is a lesson. The same rule at full size is an event. Everything planted before size is there to hold it in the ground when the wind comes.
+*Cultivate it in the household.* You had cultivated something, all right. You had practised it all day.
 
 ---
 
-This is one of the places where Mark Spitznagel's *The Dao of Capital* runs close to this book, and I want to say so plainly. His roundabout path, borrowed from the Austrian economists, is the producer who first spends years building tools instead of goods, and so ends up producing more than the one who rushed straight to the goods. He applies it to capital over decades. My version is smaller and more domestic. The tools are the data checks, the gate and the paper season. The goods are trades. The roundabout part is the month I spent pulling out a system that already sent orders, in order to build the parts beneath it that did not.
+Now the other Tuesday.
+
+The same promise before the open: one trade, at your level, stop written down. At twenty past ten the same name jumps. You feel the pull in your hands. You notice it, and you do not chase. That is not the promise you made.
+
+At twenty to twelve your own name reaches your level. You take it. At a quarter past one it hits the stop, and you are out for the small loss you wrote down. It stings for a minute. Then it is only a number you had already agreed to.
+
+At four you close the platform. At half past six you are at the table, and the phone is in another room. Someone asks how the day went. Lost a little on one trade, you say. Kept to the plan. It costs nothing to say, because there is nothing to hide. The child asks you something and you listen to the whole question.
+
+The next morning you make the same small promise, and it is a little easier to keep, because you kept two yesterday.
 
 ---
 
-The storm came, as it always does, some time after the second planting. It was a bad stretch across several books at once: nothing dramatic, but the kind of weeks that make you doubt everything you have built.
+*Cultivate it in yourself, and its virtue is real; cultivate it in the household, and its virtue is more than enough.* We are taught to keep our lives in separate boxes: work here, home there, the trading in a room of its own. The old book sees it the other way round. There is one self, and what grows in it grows everywhere it goes. The stop you keep at the desk and the word you keep at home are watered by the same hand.
 
-What I remember is how different it felt from the first system. Then, a bad week would have sent me looking everywhere at once, because I had no idea which layer might be rotten. This time I could walk down the tree. Was the data clean that week? The checks said yes. Were the rules the ones I froze? The fingerprints matched. Were the books doing anything their own random twins were not? That was a question for the season, not the week, and the season was not over. Was the size within its walls? It was. Each layer stood on a layer I had already checked, and so I could check them one at a time, from the root up, in an afternoon.
+The time you said you would be home and the price you said you would get out at are the same kind of promise.
 
-Nothing was pulled up. I am not going to tell you how those books did after the storm. That is not what the story is about. It is about the afternoon itself: the calm of knowing where to look.
+## Try This
 
-*Cultivate it in yourself, and its virtue is real.* Before any of the layers there is one more, and it is the one no code can hold for me: the habit of writing the stop before the entry, kept on the dull days. I had that habit before I had a system. I suspect it is why the second planting held.
-
-*How do I know the world is so? By this.* By one small plot, planted in order and kept honestly, season after season.
+For the next three weeks, choose one small promise and keep it exactly in both places. At the desk, the exit you write before entry is honoured to the cent. At home, the time you say you will be somewhere, you are there on the minute. Each evening, tick two boxes, desk and home. At the end, look at where it slipped first, and whether a slip in one place came on the same day as a slip in the other.
 
 ---
 
