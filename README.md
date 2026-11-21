@@ -2,11 +2,11 @@
 
 <p align="center"><img src="cover.jpg" alt="Slow Is Fast: The Tao of Trading" width="320"></p>
 
-**Everything you think you know about trading, turned over by Laozi's eighty-one chapters, in his order: one verse, one belief, one other way, one story.**
+**Everything you think you know about trading, turned over by Laozi's eighty-one chapters, in his order: one verse, one belief, one other way, one story, one habit to try.**
 
-> **Status: rewriting.** On 20 November 2026 the book turned from a quant-research frame to a mindset book. The prologue and chapters 1–2 are rewritten in the new direction, in English and Chinese; chapters 3–81 are still the first draft. Audio is paused until the text is final. The proposal the book was written from is in [PROPOSAL.md](PROPOSAL.md).
+> **Status: rewritten, in review.** On 20 November 2026 the book turned from a quant-research frame to a mindset book. The prologue, all 81 chapters, the afterword, the glossary and the author note are now rewritten in that direction, in English and Chinese, and every chapter ends with a habit to try. Audio is paused until the text is final. The proposal the book was written from is in [PROPOSAL.md](PROPOSAL.md).
 >
-> **Progress:** prologue, chapters 1–81, afterword, glossary, sources and about the author, in English and Chinese (all nine batches, 18 November 2026). Also on the [Henry Zhang Books app](https://apps.apple.com/app/id6792229566), from the prologue to chapter 81.
+> **Progress:** prologue, chapters 1–81, afterword, glossary, sources and about the author, in English and Chinese (mindset rewrite, 20–21 November 2026). The [Henry Zhang Books app](https://apps.apple.com/app/id6792229566) still has the first draft and will be updated when the text is final.
 
 Two and a half thousand years ago a keeper of archives wrote eighty-one short chapters on how to act without forcing. He wrote about water, which wins by yielding; about the empty bowl, useful because it is empty; about the uncarved block, plain before it is decorated; about the man on tiptoe who cannot stand; and about knowing when to stop, which he said is the end of danger.
 

@@ -48,7 +48,7 @@ The twelve central terms come first. The others are the words that the first cha
 
 **In Laozi.** Only once, chapter 51: 道生之，德畜之，物形之，势成之, "the Tao gives birth, virtue rears, things give shape, circumstance completes." The word belongs more to the strategists: Sun Tzu gives it a chapter (*The Art of War*, ch. 5, 兵势). Mark Spitznagel builds much of *The Dao of Capital* on it; I credit it to him in the afterword and to Sun Tzu here.
 
-**For the trader.** You were taught that effort and conviction make a trade work. The other way: position before force. The trade with shi is the one where the ground has already tilted, and you only need to be small and present. Shi is why you size by the waves (chapter 8) and enter where the market is deep (chapter 6): you arrange where you stand, then let the slope do the work. A trade you have to push uphill is effort spent against the ground.
+**For the trader.** You were taught that effort and conviction make a trade work. The other way: position before force. The trade with shi is the one where the ground has already tilted, and you only need to be small and present. Shi is why you trade the kind of day the market gives you, not the one you planned (chapter 8), and wait at your prepared levels for the market to come down to you (chapter 6): you arrange where you stand, then let the slope do the work. A trade you have to push uphill is effort spent against the ground.
 
 ### 迂 · yū — the roundabout way
 

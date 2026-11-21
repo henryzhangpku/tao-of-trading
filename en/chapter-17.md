@@ -18,59 +18,65 @@ Unhurried, they value their words. When the work is done and things have gone we
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. The best risk rule is one you rarely feel. It is there on every ticket and decides nothing loudly.
+Nobody gets good alone. You were taught to find a mentor: the teacher who saw something in you, the coach, the first boss who took you under his wing. Every craft passes from hand to hand. Trading is harder than most, so you need someone who has done it more than most. Join a trading room. Follow a caller with a track record. When he buys, you buy; when he sells, you sell. His years are worth more than your guesses. Pick a strong leader, someone sure of himself, and follow him closely. Following the best is not weakness. It is how you skip years of expensive mistakes.
 
-2. The next best is one you are proud of. Pride is noticing it, and noticing is the first step towards arguing with it.
+## The Other Way
 
-3. The next is one you fear: a limit so tight it hurts every day. You will find a way around it.
+1. *The best rulers: the people below barely know they exist.* The best teacher in your trading is the one you hardly notice. He was there at the start and is absent from the decisions.
 
-4. The worst is one you despise, and override, and keep on the books anyway, so that you can say you have a rule.
+2. *The next best: the people love them and praise them.* The caller you admire is only the next best. Admiration is pleasant, and it keeps your eyes on him instead of on the price.
 
-5. Where trust is not enough, there is no trust. A rule you trust most days is a rule you will break on the one day it matters.
+3. *The next: the people fear them.* Then the leader you fear: the loud voice in the room who mocks anyone who hesitates. You buy to escape his contempt, not because you saw anything.
 
-6. So build the trust before the money. Test the rule forward, on prices nobody has seen, long enough to watch it be wrong and recover. Trust comes from having seen it fail and come back.
+4. *The next: the people despise them.* Last, the one you scorn and still follow, because leaving would mean deciding on your own.
 
-7. Put the rule where your hands cannot reach it in the moment. Written down, run on a schedule, sized before the open. A rule that lives in your head will change with your mood.
+5. *Where trust is not enough, there is no trust.* The need for a leader grows out of not trusting your own eyes. Every call you follow teaches you once more that your eyes are not to be trusted.
 
-8. Unhurried, valuing words. Change the rules rarely and in writing, never on a busy morning and never by tapping a screen.
+6. A trader who follows a caller never learns his own hand. He learns the caller's timing, which reaches him a few seconds late and at a worse price.
 
-9. When the work is done, it should look as if nothing happened. The good rule leaves no story. The trader says: the day ran itself.
+7. Following someone into a trade is easy. Following him out is not, because you never knew why you were in.
+
+8. When the caller is wrong, the loss is yours and the lesson is his. You leave with the bill and nothing you can use next time.
+
+9. *Unhurried, they value their words.* A good teacher says little and leaves you to see. A caller who talks all session is teaching you to wait for him.
+
+10. *When the work is done, the people all say: it happened of itself.* The best teacher leaves you not needing him. You say "I did it myself", and he counts that as his success.
 
 ## The Story
 
-When I started building the system that would eventually trade on its own, a friend who trades from his phone asked me for one feature. He wanted to set a little loop running from the phone: watch this price, and when it crosses that level, send the order, then trail the stop up behind it. He wanted it in his pocket. Everyone does. The phone is where we are.
+It is half past nine. The trading room is open in one window and the chat is scrolling fast. The caller's voice is in your headset, easy and sure. Last night you made your own short list, two names with levels, but you are not looking at it. You are waiting for him.
 
-I built it. It took an evening, and that evening it worked beautifully. I stood in the kitchen and watched a test order go out from the phone in my hand at exactly the price I had set, and the stop follow it up, a tick at a time. It felt like the future.
-
-Then I put the phone in my pocket and walked to the shop.
+At thirteen minutes to ten he says he is taking some of a name here. You buy. You are filled a little above the price he gives, because a hundred other people heard him at the same second. It ticks up. You feel relief, and then you wait for him to tell you when to sell.
 
 ---
 
-A phone does not want to run your loop. It wants to save its battery. When the screen goes dark, the operating system starts deciding which apps may keep working and which must sleep, and it does not consult the trader. On the test account, with the phone in my pocket, the loop stopped somewhere between the front door and the corner. Not with an error. It simply was not running any more, and nothing on the screen said so. When I took the phone out at the till, the app woke, looked at the price and caught up, as if nothing had happened.
+He does not. He has moved on to another name and is talking about the market in general. Your trade drifts back. You hold, because he has not said sell, and you have no reason of your own to be in it or out of it. At half past ten he mentions in passing that he was stopped out of that one, a small loss. Small from his price. Yours is larger, and you took it later, when you finally understood.
 
-Something had. For the length of a walk to the shop, a position on the test account had had a stop that existed only as a hope. If the price had fallen through it while the phone slept, the order would not have gone out. The exit would have been blocked, not by a rule, but by a battery setting.
+Meanwhile the first name on your own list came down to your level at five past ten. You saw it. You did nothing, because he had not mentioned it. It turned and went up without you, the way you wrote down last night that it might.
 
-On the desk, exits are never blocked. Entries are refused for a long list of reasons, thin markets first among them, and I am content for an entry to be refused for any of them. But if the rule says leave, the system leaves. That asymmetry was the first thing I wrote down when I started building, and here I had built, in one evening, a way for it to fail silently in a pocket.
-
-I took the loop out the next day.
+That evening you try to explain the day to yourself and find you cannot. You do not know why you bought, why you held or why you sold. You know his voice better than you know the market. On days the room is closed you sit in front of the screen unable to move. *Where trust is not enough, there is no trust.* The room fed on how little you trusted yourself, and every morning it gave you more reason to trust yourself less.
 
 ---
 
-I could have engineered around it. People do: background permissions, keep-alive tricks, a server to nudge the phone awake. I spent an afternoon reading about them, and the more I read, the more it seemed I was trying to make a phone into something it was not, so that a trader could feel close to the orders. That closeness was the thing I did not want.
+Now the other morning. The room is closed and so is the chat. Your list from last night is on the desk: two names, levels, stops, a line each on why.
 
-What runs the rules now runs in the cloud, on a schedule, on written rules. Entries are sized before the open, from a file. Stops are placed when the trade is placed. Exits run whether or not anyone is looking, whether or not any phone is awake. The phone can see all of it. It shows what the rules did and why, and what they will do next. It can pause everything, because somebody must always be able to stop a machine. What it cannot do is write a rule or move a stop, and it cannot run an order loop of its own. A rule is changed at a desk, after the close, in writing, into the ledger.
+At half past nine the quiet is uncomfortable. Nobody is telling you anything. Twice in the first twenty minutes your hand moves towards the tab where the room lives. Each time you stop and write on a pad instead: the time, and "wanted the room". Then you look at your list again.
 
-My friend was not pleased. He said I had built a trading app that would not let him trade. That was close enough to true that I did not argue.
+At five past ten your first name comes down to your level. Nobody confirms it. You buy at your own size. It dips against you, and you hold, because you know why you are in and where you are wrong. It turns. When it reaches the place you wrote down, you sell some, and you keep the rest on the stop you set.
+
+It might just as easily have failed. If it had, you would have known why, and the lesson would have been yours along with the loss. That evening, out of curiosity, you look at the room's notes. The caller traded something else. It does not matter much either way.
 
 ---
 
-There was a second reason, and I understood it only later. The phone is where the mood lives. It is in your hand in the queue, at dinner, at three in the morning when you cannot sleep. A loop on the phone is a rule within reach of every one of those moments. You will be tempted to nudge the level while you wait for a coffee. You will tighten the stop at dinner because the chart looked tired. A rule that can be touched from anywhere will be touched from everywhere.
+*The best rulers: the people below barely know they exist.* We were taught to find a strong leader and follow him: a mentor, a room, a voice that knows. The old book sees it the other way round. The leader you praise, the one you fear and the one you scorn are all lesser grades. The best one is barely noticed, and when the work is done you say: we did it ourselves.
 
-*The best rulers: the people below barely know they exist.* A rule I can reach in the moment is a rule I feel all the time. The rules that run in the cloud I barely feel. They are on every ticket and in every exit, and on most days I find out what they did by reading about it afterwards, like news from a province that is well governed.
+A teacher worth having is one you can stop listening to. Find out whether yours is.
 
-Some evenings I open the app and read the day's log from the first line to the last. Positions entered at the size the file said. Stops placed with them. One name refused at the open because its spread was too wide. Two exits at the close, on time. Nobody pressed anything. *When the work is done, the people all say: it happened of itself.* It did not happen of itself. It happened because nobody could reach it.
+## Try This
+
+For the next two weeks, keep every trading room, chat and alert service closed during the session. Trade only from a plan you wrote yourself the evening before. Each time you reach for someone else's call, write down the time and what you would have done on your own. At the end of the two weeks, read the notes and look at what your own hand did when nobody was guiding it.
 
 ---
 
