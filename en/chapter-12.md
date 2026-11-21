@@ -14,61 +14,69 @@ So the sage works for the belly and not for the eye. He lets go of that and take
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Every colour on the screen is asking for something. Count what it asks for in a day, and you will find it is mostly a trade.
+A serious trader needs a serious setup. You were taught that good tools make the craftsman: buy the best kit, the fastest machine, every advantage money can get you. Look at any trading floor in a film: walls of monitors, numbers flashing, colour everywhere. So you build it. Three screens, then four. A heat map, the order book, time and sales scrolling past. Your live profit and loss ticking in the corner, so you always know where you stand. Every alert on and every sound on, so nothing gets past you. Colour for up, colour for down, colour for volume. The fastest feed you can pay for. The richer the screen, the more you see.
 
-2. The five colours: red and green ticks, flashing alerts, the heat map, the news ribbon, the running profit and loss. Each was added to help. Together they blind.
+## The Other Way
 
-3. One indicator tells you something. Five tell you whatever you came to hear, because one of them always agrees.
+1. *The five colours blind the eye.* Each colour was added so you would see more. Together they train the eye to follow whatever changed last, and what changed last is rarely what matters.
 
-4. Deafened by the five notes: the chat room, the feed, the commentator, the friend with a tip, the voice in your own head that narrates every tick. Turn off four.
+2. A flashing number is built to be looked at. It does not care whether it deserves your attention.
 
-5. Racing and hunting drive the heart wild. Watching every tick is a hunt. It makes a hunter of you whether there is anything to catch or not.
+3. *The five notes deafen the ear.* An alert that sounds forty times a day is not a warning. It is weather. You stop hearing it, and then you miss the one that counts.
 
-6. Goods that are hard to get: the rare setup, the one everyone is talking about. The harder it is to get in, the more carefully you should ask why you want in.
+4. *The five flavours spoil the palate.* After a month on the fastest feed, a plain chart looks dead. A slow, clear move starts to look like nothing happening.
 
-7. Work for the belly, not the eye. The belly is the account: size, stop, cost, the plain arithmetic of what you can lose. The eye is everything that moves.
+5. The live profit and loss is the brightest number on any screen. It tells you nothing about the market. It only tells you how to feel.
 
-8. Let go of that and take this. A good screen is mostly what was removed from it. When you add a panel, take one away.
+6. Watching it tick turns every position into a running score. You stop asking whether the trade is still right and start asking how it is doing this second.
 
-9. If the rule does not read it, you do not need to see it while the trade is open.
+7. *Racing and hunting drive the heart wild.* A screen full of movement puts you on a hunt. Something is always running somewhere, so there is always something to chase.
+
+8. *Goods that are hard to get lead people astray.* The fastest feed, the extra monitor, the expensive tool: because they are hard to get, they feel worth having. Ask what you will actually do with the extra millisecond.
+
+9. *The sage works for the belly and not for the eye.* The belly is what the trade needs: your level, your size, where you are wrong. Almost all of it fits on one plain chart.
+
+10. *He lets go of that and takes this.* Every item on the screen was a choice. Taking one away is also a choice, and usually the harder one.
 
 ## The Story
 
-For a few years my trading screen grew the way a garden grows when nobody is in charge of it. Each panel arrived with a good reason. A heat map, so I could see the whole market at once. A news ribbon along the bottom, because something might happen. A column of alerts. A chart with seven indicators stacked under it, each one added after a book or an article had made a case for it. A chat window with a few people I trusted. Clocks for three cities. And in the corner, the running profit and loss of every open position, ticking.
+It is a Monday and the desk is lit up. Three monitors. The heat map glows in a dozen shades. Time and sales pours down one side, each print flashing as it lands. In the corner sits the number you look at most, your profit and loss, updating with every tick. A chime sounds whenever anything on your watchlists moves more than a set amount, and something always does.
 
-It was a beautiful screen. People who came to the house stood behind my chair and looked at it the way you look at an aquarium.
+You are in one position, taken at your level before the open, with your stop and your target written down. At five past ten the price dips. The number in the corner flips from a gain to a loss and changes colour. Your stomach changes with it. The price is nowhere near your stop. You know this. You watch the number anyway.
 
----
-
-By then the research desk had been running on written rules for some time, and one morning I noticed something about it that I did not like. The rules read a handful of things: prices at fixed times, the width of the spread, the volume, the stop on each position, the day's remaining risk. That was nearly all. Everything they decided, they decided from that short list.
-
-I was reading forty things.
-
-So I did what I do with any question I cannot answer by thinking. I counted. For a fortnight I kept a sheet of paper beside the keyboard with every panel listed down the left. Each time my eyes went to a panel I made a tick. Each time something in a panel changed what I did, I made a cross. And at the end of each day I filled in a third column: of those crosses, how many were things the rule would have done anyway?
-
-The ticks ran into the hundreds a day. The heat map alone collected more glances than I would have believed. The crosses were few. The third column was almost empty, and where it was not, what I had done was usually something the rule then had to undo: a stop I had nudged, or an alert that sent me to a chart that made me want a trade the funnel later refused.
-
-The seven indicators were the most instructive. On most days at least one of them agreed with whatever I already thought. I had built a machine for finding agreement and called it analysis. *The five colours blind the eye.* I had always read that as a line about luxury. On the sheet of paper it was a line about tick marks.
+At twenty to eleven the heat map flares in one corner and the chime goes three times in a row. A name you do not know is running. You glance at it, then look again, and buy a little of it near the high, because it was moving and the screen made sure you saw.
 
 ---
 
-I took the panels down one at a time, one a day, and I made myself start with the ones I liked best. The order mattered. If I had begun with the panels I never looked at, I would have felt virtuous and changed nothing.
+Your own position slips again. The number in the corner shows the worst loss of the morning, and it is hard to look at, so you stop looking at it the only way you can: you sell. The price is still above your stop. Twenty minutes later it turns and climbs to your target without you. The name you chased drifts back to where it started.
 
-The heat map went first. For two days my eyes went to the empty place where it had been, several times an hour, the way your tongue goes to a missing tooth. Then the news ribbon. Then the chat window, after a message to the people in it, who took it well. Then six of the seven indicators; I kept the one the rule actually reads. Then the clocks for the two cities I do not trade in.
-
-I did not delete the running profit and loss that fortnight. That is an argument of its own, and I was not ready for it. I moved it off the main screen to a page I have to ask for.
-
-What was left was very little. The open positions, each with its stop and the rule's next scheduled action beside it. The day's risk used and the risk remaining. The count of names the funnel had refused that morning, with a link to the reasons. A single chart, plain, with the one line the rule reads. Most of the screen is grey now. A visitor once asked if it was broken.
+Look at what happened. Nothing about your trade changed all morning. What changed was a number in the corner and the colour around it. You sold a sound position because a figure was painful to watch. Thirty things were moving on your screens and you saw every one of them except the chart that was yours. *The five colours blind the eye.* You paid for each of those colours.
 
 ---
 
-The test I have used since is the last line of this chapter's reading, and it is blunt. If the rule does not read it, I do not need to see it while a trade is open. Before and after, I can look at anything I like. Research is the time for the heat map and the long article. During the trade, the eye has no work to do that the rule is not already doing better, and the eye is the part of me that wants things.
+Now the other Monday.
 
-*The sage works for the belly and not for the eye.* The belly is plain. It is the size, the stop, the cost, the arithmetic of what the account can lose. It does not flash. It does not need a colour. When I look at the grey screen now, what I mostly feel is that there is less in the room asking me for something.
+Before the open you turned the desk down. One screen. On it, the chart of your position and your short list, in two quiet shades. The profit and loss is hidden. You know your size and your stop, so you already know the most this trade can cost. Every sound is off except two alerts: one at your stop, one at your target.
 
-One rule came out of that fortnight, and it is the only one I made. When a panel goes on, a panel comes off. The screen has stayed the same size since. Every so often I want something new on it, and I go looking for what to remove, and usually, by the time I have found it, I no longer want the new thing.
+It feels like trading with the lights off. The room is very quiet.
+
+At five past ten the price dips. You see it on the chart as what it is: a pullback toward the level you thought might be tested. You do not know your loss to the dollar, and you find you do not need to. Your stomach stays where it is.
+
+At twenty to eleven something somewhere is running. You do not hear about it. Once you notice your hand reaching to open the heat map, and you leave it closed.
+
+The price holds above your stop. A little after noon it reaches your target, and the alert sounds, the only sound all morning. You hear it.
+
+---
+
+*The sage works for the belly and not for the eye. He lets go of that and takes this.* We are taught that better kit makes a better worker, and that more of everything, more screens, more data, more colour, is always worth having. The old book sees it the other way round. What dazzles the eye starves the judgement. A plain screen shows you less, and you see more of what is on it.
+
+The screen will look poorer. The market on it is the same.
+
+## Try This
+
+For one week, trade from a single screen. Hide the live profit and loss, turn off every sound except the alerts at your own stop and target, and take the colours down to two quiet shades. Change nothing else. At the end of each day, write down what you noticed on the plain screen that you used to miss, and anything you reached for that was not there. At the end of the week, look at which of those things you actually needed.
 
 ---
 

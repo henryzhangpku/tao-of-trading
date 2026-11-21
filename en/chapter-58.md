@@ -18,85 +18,67 @@ So the sage is square but does not cut, has edges but does not wound, is straigh
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. A quiet rule, rarely felt, keeps the account whole. A prying rule, checking everything every hour, breaks it into pieces.
+Results don't lie. You were taught to judge by outcomes: the grade on the test, the review at the end of the quarter, the number on the scale. If it is working, it shows; if it is not, it shows too, and the sooner you see it the sooner you can fix it. Trading is the plainest case there is, because the score is printed every day. So you look at the last week and the last month and they tell you where you stand. A good month means the method works and you are trading well. A bad month means the method has stopped working, or you have, and something has to change.
 
-2. After a bad week every trader wants to become a prying government: more alerts, more checks, more rules. Most of them are written by the week and fitted to it.
+## The Other Way
 
-3. Misfortune is what fortune leans on. The drawdown holds the next lesson, if you write it down before you forget what it felt like.
+1. *Misfortune: it is what fortune leans on. Fortune: it is where misfortune hides.* A good month already holds the bad one inside it, and a bad month the good. Any method that works at all wins in runs and loses in runs.
 
-4. Fortune is where misfortune hides. The run of wins is where the next mistake is being made, quietly, at a size that grew by itself.
+2. *Who knows where it ends? There is nothing fixed.* A week, even a month, is too short a stretch to tell you whether a method works. It feels like a verdict. It is weather.
 
-5. Who knows where it ends? Nobody. Do not size as if this week tells you about the next one.
+3. The last month always sounds the loudest because it is the one you remember in your body. Loud is not the same as informative.
 
-6. The straight turns back into the strange. The rule that worked all spring can look broken by autumn. Judge it by the count, not by the last week.
+4. Grading the method by the latest stretch means you will always be judging it at the top of a good run or the bottom of a bad one, the two moments it is least fair to judge.
 
-7. Write the lesson as facts, not verdicts. "Three positions depended on the same thing" can become a rule. "I was careless" can only be repeated.
+5. *The straight turns back into the strange.* The method that looked proven in spring looks broken in summer. It did not change. Your reading of it did.
 
-8. One lesson per bad week. A drawdown that produces ten new rules has not taught you anything. It has frightened you.
+6. *When the government is sharp and prying, the people are broken.* A trader who audits his method every Friday ends up with a different method every month, and never learns what any of them could do.
 
-9. Square, but do not cut. Cut the size by rule in a drawdown. Do not cut the whole system in a mood.
+7. *Dull and quiet, and the people are whole.* Decide in advance how long a method gets before you judge it, and what you will look at. Then leave it alone until then.
 
-10. Edges, but do not wound. A loss limit is there to stop you, not to punish you.
+8. Ask a smaller question each day: did I trade the method as I wrote it? That you can answer. Whether the method works, today cannot tell you.
 
-11. Straight, but not reckless. The way back is not a bigger trade.
+9. *Square but does not cut.* Hold yourself to the plan without grading your worth by the week. A trader who cuts himself after every bad month learns to hide the bad months.
 
-12. Light, but not dazzling. A good month is not news. Keep it off the screen and out of the size.
+10. *Gives light but does not dazzle.* A good month earns the same reading as a bad one: one more stretch, too short to mean much.
 
 ## The Story
 
-I keep a paper notebook beside the keyboard, and most of its pages are dull: dates, a line about what the rules did that day, a line about anything I did that the rules did not. One page is not dull. It is the page from the worst week I have had, and it is the page I have read most often since.
+It is the end of a bad month. You have lost money in three of the last four weeks. Nothing dramatic, just a slow bleed: stops hit, small winners, a few trades that went the right way the day after you left. On Sunday evening you open the month's results and look at them for a long time.
+
+It is obvious what they say. The method has stopped working. Maybe the market has changed. Maybe you were never as good as the spring made you think.
 
 ---
 
-The week began like most weeks. The rules had put on a handful of positions over the previous fortnight, each on its own day, each in a different name, each for its own stated reason. On the screen they looked like a spread of separate bets. I remember being pleased with that, the way you are pleased when a shelf looks tidy.
+So you go to work on it. You read back through the losing trades and find a pattern in nearly all of them, because you can always find a pattern in a handful of losses. You add a condition to cut out trades like those. You widen the stop, because so many of the losers were stopped and then turned. You drop the names that lost most. By Monday you have something that would have done much better last month. It feels like taking responsibility.
 
-On Tuesday morning one piece of news came out before the open, and all of them moved together, the same way, against me.
+The new version has a good first three weeks. You feel relief, then something stronger: you have fixed it. You tell yourself you understand the market better than you did. Then the fourth week goes badly, and the fifth, and the wider stop means each loss is bigger than before. By the end of the second month you are where you were, with a method you understand less, and you are opening the results on a Sunday evening again.
 
-Nothing broke. No single position did anything strange. Each one fell by an amount that would have been unremarkable on its own, and each one sat above its stop. The daily loss limit did not fire, because no single day was bad enough. That was the worst part. The damage came in five ordinary pieces, one each day, and there was never a morning on which an alarm went off and told me to stop looking.
-
-By Friday it was the worst week on the page.
+Over a season this repeats. Each month gets its verdict. Each verdict gets its rebuild. You never keep one way of trading long enough to see what it does over a stretch that means anything. You were not judging the method. You were judging the last four weeks, and the last four weeks were always going to say something different from the four before. *People have been lost in this for a very long time.*
 
 ---
 
-I wanted to write a list. Check correlations every hour. Add an alert when two positions move together. Build a dashboard for exposure by theme. Ban that kind of name altogether. Lower every size. Look at the screen more. It came out fast, and every line on it was reasonable, and together they described a completely different system from the one I had built: a nervous one, staring at itself all day.
+Now the other bad month.
 
-*When the government is sharp and prying, the people are broken and wanting.* I had read that line as politics. That night it read as a description of the system I was about to write: a rule for every fear, a check on every check, and a trader who would spend his days inspecting instead of deciding.
+Same three losing weeks out of four, same slow bleed. On Sunday evening you open the results and feel the same sinking. The same thought arrives: it has stopped working. You notice the thought and do not argue with it.
 
-So I left the list where it was, on the left-hand page, and wrote at the top of it: *written by the week*. Then I started again on the right-hand page, with a different instruction to myself. Facts only. No adjectives.
+Then you open a different page, the one you wrote when you started trading this method. On it you decided how long you would give it before judging it, and it is much longer than a month. Under that, one line for each day of the month: *traded as written* or *did not*. Most days say *traded as written*. Three say *did not*. You look at those three, and you write down what you did instead.
 
-The facts were short. Five positions were open. They had been entered on different days, under different names, for reasons written down. All five depended on the same thing. When that thing moved, they moved as one position. The rules had counted them as five, and sized each one as if it were alone.
+That is all you change: you will try to make the three into none. The method stays as it is.
 
-That was the whole lesson. It was not that I had been careless or greedy or unlucky. It was that the rules could not see that five was one.
-
----
-
-The rule that came out of it fits on one line: positions that depend on the same driver share one size budget. If the rules want a fourth name in a cluster that already has three, the fourth one gets what the budget has left, which is often nothing.
-
-I did not switch it on that night. There is an older rule on my desk, that no new rule goes live on the day of a loss, because the day of a loss is when you are least able to tell a lesson from a flinch. The shared budget went through the same door as any other idea. It was written down, tested on the history, tested again at higher costs, given its own fingerprint and its own clock. It took weeks. It came out the other side mostly as I had written it on Friday, which is less common than you would think. Most of what I write on a bad Friday does not survive the Monday after.
+The next month is better, then the one after is middling. You do not take the better month as proof any more than you took the bad one as proof. When the time you set comes round, you look at the whole stretch at once, and only then decide whether this way of trading has earned its place.
 
 ---
 
-The second half of the chapter came months later, and it came disguised as good news.
+*Misfortune is what fortune leans on; fortune is where misfortune hides. Who knows where it ends?* We were taught that results tell the truth and that the latest results tell it best. The old book sees it the other way round. Good stretches and bad stretches turn into each other, and nobody can say where either ends. Grade the method by a stretch long enough to mean something. Grade yourself by whether you did what you said you would.
 
-There was a stretch, a long one, when the market was calm and the rules did well and nothing went wrong. On good weeks I barely open the notebook. The shared budget rule was working the way it had been designed to, which in a calm market meant mostly being in the way. It kept refusing the fourth name in a cluster. Sometimes the fourth name went on to do exactly what the rule would have wanted, and I would see it on the screen as a trade I did not have.
+Most Sunday evenings, the results will tell you nothing at all. You will have to stop asking them to.
 
-One evening I opened the config to look at it. I want to be honest about my reasoning, because it was good reasoning. The rule had been written for a particular kind of week. That kind of week had not come back. The market had changed. A rule that only refuses trades, and never seems to prevent anything, looks like a cost with no benefit. I could loosen it a little. Let the cluster have a bit more room while things were quiet.
+## Try This
 
-*Fortune: it is where misfortune hides.*
-
-What stopped me was the notebook, lying where it always lies. I opened it to the Friday page and read my own handwriting. *All five depended on the same thing.* The handwriting was steadier than I remembered. It did not say anything about calm markets. It did not say the rule was for bad weeks only. It said the rules could not see that five was one, and nothing about a quiet stretch had changed that. A calm market is precisely when the cluster builds, because nothing is moving to warn you.
-
-I closed the config.
-
-I do not know whether that refusal saved anything. A rule like that is not judged on the week it refuses a trade. It is judged on the week it prevents, and a week that is prevented leaves no trace on any page. *Who knows where it ends? There is nothing fixed.*
-
----
-
-The Friday page is still in the notebook. Under it, at some point in that calm stretch, I added one more line in a different pen.
-
-*The good weeks are when I am most likely to tear this out.*
+For the next month, make no changes to your method, whatever the results. Each evening, write one line about the day that leaves out the profit and loss: *traded as written,* or *did not,* and if not, what you did instead. At the end of the month, put those lines next to the month's results. Look at whether your opinion of the method rose and fell with the latest week, and how many of the bad days were *did not*.
 
 ---
 
