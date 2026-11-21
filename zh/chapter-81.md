@@ -84,4 +84,4 @@
 
 ---
 
-[目录](README.md) · [← 第八十章 小国寡民](chapter-80.md) · [后记：是交易，不是投资 →](afterword.md)
+[目录](README.md) · [← 第八十章 小国寡民](chapter-80.md) · [后记：老路 →](afterword.md)

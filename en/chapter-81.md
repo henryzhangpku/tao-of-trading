@@ -84,4 +84,4 @@ This week, write the three plainest true things you know about your own trading,
 
 ---
 
-[Contents](README.md) · [← 80. A Small Country](chapter-80.md) · [Afterword: Trading, Not Investing →](afterword.md)
+[Contents](README.md) · [← 80. A Small Country](chapter-80.md) · [Afterword: The Same Old Way →](afterword.md)
