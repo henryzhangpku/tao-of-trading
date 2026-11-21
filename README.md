@@ -2,9 +2,9 @@
 
 <p align="center"><img src="cover.jpg" alt="Slow Is Fast: The Tao of Trading" width="320"></p>
 
-**Laozi's eighty-one chapters, in his order and on his subjects, read for the trader: one verse, one lesson, one story.**
+**Everything you think you know about trading, turned over by Laozi's eighty-one chapters, in his order: one verse, one belief, one other way, one story.**
 
-> **Status: complete.** All eighty-one chapters are written, in English and Chinese, with the prologue, the afterword, a glossary and a sources page. The proposal the book was written from is in [PROPOSAL.md](PROPOSAL.md).
+> **Status: rewriting.** On 20 November 2026 the book turned from a quant-research frame to a mindset book. The prologue and chapters 1–2 are rewritten in the new direction, in English and Chinese; chapters 3–81 are still the first draft. Audio is paused until the text is final. The proposal the book was written from is in [PROPOSAL.md](PROPOSAL.md).
 >
 > **Progress:** prologue, chapters 1–81, afterword, glossary, sources and about the author, in English and Chinese (all nine batches, 18 November 2026). Also on the [Henry Zhang Books app](https://apps.apple.com/app/id6792229566), from the prologue to chapter 81.
 
@@ -12,7 +12,7 @@ Two and a half thousand years ago a keeper of archives wrote eighty-one short ch
 
 He was not writing about markets. Every trader will recognise him anyway. The trade that is forced is ruined. The position that is gripped is lost. The small size, the stop and the defined risk — the soft things — outlast every hard conviction. And the trader who hurries arrives back at the beginning. Fast is slow; slow is fast.
 
-Every chapter has three parts. **The Verse**: the Chinese original and an honest English translation. **The Trader**: a few numbered lines reading it for someone with an order ticket. **The Story**: one story from my own trading and research life — systems that trade on written rules, rules frozen and tested forward for a season, a model that proposes and rules that decide — told as a story, not a lecture.
+Every chapter has four parts. **The Verse**: the Chinese original and an honest English translation. **What You Know**: the trader's common sense the verse overturns. **The Other Way**: a few numbered lines reading the verse for someone with an order ticket. **The Story**: a scene from the trading day that every trader has lived, told plainly.
 
 The companion to [The Art of Options War · 期权兵法](https://github.com/henryzhangpku/art-of-options-war). Sun Tzu tells you when to fight. Laozi tells you when not to.
 
@@ -24,7 +24,7 @@ No forecasts, no signals, no performance claims.
 |---|---|---|
 | Contents | **[Start here](en/README.md)** | **[从这里开始](zh/README.md)** |
 | Prologue | [Before the First Step](en/prologue.md) | [序：始于足下](zh/prologue.md) |
-| 1 | [The Rule That Can Be Spoken](en/chapter-01.md) | [道可道](zh/chapter-01.md) |
+| 1 | [Why It Moved](en/chapter-01.md) | [道可道](zh/chapter-01.md) |
 | 2 | [Long and Short Make Each Other](en/chapter-02.md) | [天下皆知美之为美](zh/chapter-02.md) |
 | 3 | [Do Not Display the Desirable](en/chapter-03.md) | [不尚贤](zh/chapter-03.md) |
 | 4 | [The Empty Vessel](en/chapter-04.md) | [道冲](zh/chapter-04.md) |

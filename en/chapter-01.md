@@ -1,4 +1,4 @@
-# 1. The Rule That Can Be Spoken
+# 1. Why It Moved
 
 *Part I: The Way · 《道可道》*
 
@@ -22,71 +22,71 @@ These two come out of the same place and are named differently. Both are called 
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. The rule that can be written down is not the market. It is a description of the market, made by you, from the part of the past you looked at.
+Every price move has a reason, and a good trader finds it. You do not buy what you do not understand. When a stock drops four percent, you find out why before you do anything: the downgrade, the guidance, the rate, the rumour. Once you know why, you know what happens next. The traders who lose are the ones who act without knowing; the ones who win have done the work and can explain their trade in a sentence.
 
-2. A backtest is the past, spoken. It is useful the way a map is useful. Nobody has drowned in a map.
+## The Other Way
 
-3. The name is not the thing. "Momentum," "reversion," "a breakout": these are names given to prices after they moved. The prices did not know their names.
+1. The reason that can be spoken is not the reason. "Stocks fell on rate fears" was written after stocks fell. The price came first; the sentence came second.
 
-4. Before the name there is only the tape. Look at it without wanting anything from it, and you see how it moves.
+2. The market does not move *because of* the headline. The headline is a name given to the move by someone who needed something to write.
 
-5. Look at it wanting something, and you see only what you came for: the outline of your own idea, drawn in someone else's prices.
+3. Before the name there is only the tape: buyers, sellers, and the price where they met. That is the nameless. It is all there ever is.
 
-6. The backtest you love is the one you looked at with desire. Be most suspicious of that one.
+4. The named is the mother of the ten thousand things. Once you name a move, you have a story, and a story wants an ending. You will trade toward the ending you named.
 
-7. Every test you ran counts, including the ones you threw away. The one that worked was found among the ones that did not, and it owes them its luck.
+5. Always with desire, you see only its edges. If you need to be long, every reason you find will be a reason to be long.
 
-8. Write the test down before you run it. A test written down after it has run is a story about a result.
+6. Always without desire, you see its subtlety. Look at the price before you have a position, a view or a hope. It is the only time you see it at all.
 
-9. The past spoken and the future lived come out of the same market. They have different names for a reason.
+7. You do not need to know why to act, and knowing why is not a reason to act. Many traders were right about the reason and wrong about the price.
 
-10. The gate is dark because the future is dark. No rule makes it bright. A good rule only lets you walk through it with a small light and a short stride.
+8. The explanation you are proudest of is the one to trust least. It feels like knowledge. It is a story you told yourself, and you believed it because you told it well.
+
+9. Name things if you must. You cannot think without names. Hold the name loosely, like a label on a jar you have not opened.
+
+10. The gate is dark. Nobody sees through it, and no reason makes it bright. Walk through with a small position and a short stride.
 
 ## The Story
 
-Everyone who builds trading rules remembers the first backtest they fell in love with. Mine was not complicated. Very few of them are. It was a handful of lines on daily prices, and the line it drew across the screen rose from left to right with the kind of calm you only ever see in the past.
+It is a few minutes after the open. The stock you watch is down four percent and still falling, and you do not know why.
 
-I remember what I did next, because it is what everyone does. I made it better. A filter to skip a bad year. A threshold nudged to avoid the worst month. A second condition that kept it out of one ugly stretch. Each change was small, each had a reason, and each made the line smoother. By the end of the evening I had a rule that knew everything that had already happened.
+You do what every trader does. You open the news. Nothing. You check the sector: a little red, not this red. You search the ticker on social media and find a dozen people as confused as you, and two who are certain. One says a large fund is selling. The other says there is a downgrade coming that nobody has seen yet. Neither of them knows. Both of them sound as if they do.
 
-It knew nothing about what happened next. Watched on new prices, it did what an ordinary rule does: some good weeks, some bad ones, and none of the calm. The smooth line had not been a property of the market. It had been a property of my evening.
-
----
-
-It took me a long time to understand what had happened, and longer to build something that would stop it happening again. The understanding is in the first line of this book. The rule that can be spoken is not the constant rule. A backtest is the past put into words, and I had kept editing the words until they matched.
-
-Every filter I added that evening was a test. I did not count them. It was more than I would have guessed, and I kept the best one and then judged it as if it were the only one I had tried. That is the mistake under almost every beautiful backtest. Try enough versions of anything on the same history and one of them will look wonderful by luck alone. The more versions you try, the more wonderful the luckiest one looks.
-
-Laozi has an eye for it. *Always with desire, you see only its edges.* I had come to the data wanting a rule, and the data obliged. It showed me the outline of my wish.
+The not-knowing is the worst part. Losing is easier to bear than not knowing. So you keep looking, and the price keeps moving while you look, and you are not watching the price at all. You are watching for a sentence.
 
 ---
 
-The desk I work at now is built around that evening, though nobody looking at it would know.
+Twenty minutes later the sentence arrives. A headline: the company's largest customer is reviewing its contract. You feel the relief in your body before you think anything. Now it makes sense. Now you can act.
 
-Before a test runs, it is written into a ledger. Not the result: the test. Which rule, on which data, over which years, with what costs. The ledger is chained, each entry fingerprinted together with the one before it, so no entry can be quietly removed later and the count of tries can never shrink. A failed test stays in the ledger for good. So does a test I abandoned halfway because I did not like where it was going. That one especially.
+And you do. The story says the bad news is out, the selling is done, and a review is not a cancellation. You buy. You feel smart buying, because you are the one who understood.
 
-The count matters because the bar is set by it. A rule that was the only thing tried has to clear an ordinary bar. A rule that was the best of forty has to clear a much higher one, because forty tries will find something pretty by accident. The ledger is how the desk knows which kind of rule it is looking at. My memory is not a reliable witness on this point. Nobody's is.
-
-Then comes the gate. It asks plain questions, the same ones every time, and it does not care how good the idea sounds. Does it still work after costs, and after twice the costs? In the first half of the history, and separately in the second half? With its single best month taken out? Most rules fail one of those questions, and most of the rules that fail are ones I liked.
+The price does not care what you understood. It goes on falling for another hour, on no new news at all, and by the afternoon a different headline has appeared to explain that: "shares extend losses as investors weigh contract risk." The same move, a second sentence. Tomorrow there will be a third.
 
 ---
 
-One morning stays with me. I was up before five, which is when the night's runs finish. The coffee and the board come up together. Overnight a language model on the desk had been asked to suggest variations on an idea that had narrowly failed the gate. It had suggested a handful, and all but one had failed again. That one had passed every question, and the line it drew on the screen was the calm kind, the kind I remembered.
+Look at what happened. Nothing in the price changed when the headline came out. What changed was you. Before the sentence you were uncertain, and uncertain traders are careful. After the sentence you were certain, and certain traders buy. The headline did not tell you anything about the next hour. It only told you a story you could act on, and you acted on the story.
 
-The old evening came back at once, not as a memory but as a feeling in the hands. I wanted it. I wanted to look at it longer. I wanted to see what one more small change would do.
+This is what Laozi means when he says the name is the mother of the ten thousand things. Once you have the name — *contract review*, *rate fears*, *rotation*, *short squeeze* — the whole world arranges itself around it. Every tick confirms it. Every chart fits. You stop seeing the price and start seeing your sentence, drawn in the price.
 
-The screen would not let me pretend. Beside the rule was its trial count: not one, not a handful, but every attempt on that family of ideas, back to the first. The number was large. The bar for that rule, raised for every try, was far higher than the plain bar it had cleared. It had passed the gate the way the luckiest of many coins passes a test for being fair.
-
-I did not delete it. That is not what the ledger is for. I wrote it down as what it was: one of many, the best of a crowd, not yet anything. It went on to the next stage with its count attached. If it was real, it would show it later, on prices nobody had seen.
-
-That is all that changed between the evening and the morning. Not my intelligence, and not my discipline. I am exactly as able to fall in love with a backtest as I was then. What changed is that the falling in love is now written down beside a count of how many times I have fallen.
+*Always with desire, you see only its edges.* You wanted an explanation so much that the first one that arrived looked like the truth.
 
 ---
 
-The first chapter of the *Tao Te Ching* is the hardest, and most readers hurry through it to get to the water and the valleys. For a trader I think it belongs first. Everything else in this book rests on it. The rule you can write down is a name. The market is the thing before the name. You will use names, because you cannot trade without them, but hold them the way you hold a map in a country you have never visited: carefully, with the pencil marks showing, ready to be wrong.
+There is another way to sit through that open.
 
-Look without wanting, if you can. When you cannot, which is most days, count how many times you looked.
+The stock is down four percent and you do not know why. You let yourself not know. You do not open the news. You watch where it trades, how it trades, and whether the selling is getting heavier or lighter. You ask the only questions the tape can answer: where are buyers showing up? Where did the last bounce fail? If you are wrong, where would you know it?
+
+If the price tells you something, you act on the price, small, with the point you would be wrong written down before you start. If it tells you nothing, you do nothing. Later, when the headline arrives, you read it the way you read a weather report for yesterday. It is interesting. It does not change what you saw.
+
+This is not ignorance. It is the oldest discipline there is: keep the thing and its name apart. The trader who needs a reason before acting is not more careful than the one who does not. He has only handed his decisions to whoever writes the headlines.
+
+---
+
+Most readers hurry through the first chapter of the *Tao Te Ching* to get to the water and the valleys. For a trader it belongs first, because every chapter after it depends on it. What you think you know about the market is a set of names. The market is the thing before the names. You will use names all your life, because you cannot trade without them. Hold them the way you hold a map in a country you have never visited: carefully, ready to be wrong.
+
+Watch without wanting, if you can. When you cannot, which is most days, at least know that you are wanting.
 
 ---
 

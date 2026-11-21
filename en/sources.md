@@ -42,7 +42,7 @@ Each row gives the chapter number, the received first line in Chinese (Wang Bi t
 
 | | First line (Wang Bi text) | This book's chapter |
 |---|---|---|
-| 1 | 道可道，非常道。 | The Rule That Can Be Spoken |
+| 1 | 道可道，非常道。 | Why It Moved |
 | 2 | 天下皆知美之为美，斯恶已。 | Long and Short Make Each Other |
 | 3 | 不尚贤，使民不争。 | Do Not Display the Desirable |
 | 4 | 道冲，而用之或不盈。 | The Empty Vessel |

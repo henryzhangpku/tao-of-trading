@@ -12,7 +12,7 @@
 
 The first thirty-seven chapters are about seeing the market plainly: the rule that can be spoken is not the market; the vessel is useful because it is empty; water wins by yielding; the uncarved block beats the carved one; the man on tiptoe cannot stand. They end on the line the whole book turns on — the Tao does nothing, and nothing is left undone. For a trader: the model proposes, the rules decide.
 
-1. [The Rule That Can Be Spoken](chapter-01.md) — 《道可道》
+1. [Why It Moved](chapter-01.md) — 《道可道》
 2. [Long and Short Make Each Other](chapter-02.md) — 《天下皆知美之为美》
 3. [Do Not Display the Desirable](chapter-03.md) — 《不尚贤》
 4. [The Empty Vessel](chapter-04.md) — 《道冲》

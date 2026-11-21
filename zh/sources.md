@@ -40,7 +40,7 @@
 
 | | 首句（王弼本） | 中文版章名 | 英文版章名 |
 |---|---|---|---|
-| 1 | 道可道，非常道。 | [道可道](chapter-01.md) | The Rule That Can Be Spoken |
+| 1 | 道可道，非常道。 | [道可道](chapter-01.md) | Why It Moved |
 | 2 | 天下皆知美之为美，斯恶已。 | [天下皆知美之为美](chapter-02.md) | Long and Short Make Each Other |
 | 3 | 不尚贤，使民不争。 | [不尚贤](chapter-03.md) | Do Not Display the Desirable |
 | 4 | 道冲，而用之或不盈。 | [道冲](chapter-04.md) | The Empty Vessel |

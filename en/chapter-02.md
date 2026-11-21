@@ -18,70 +18,60 @@ So the sage keeps to the work of not forcing and teaches without words. The ten 
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Call a strategy beautiful and you have already made its ugliness. Every win rate has a loss standing behind it.
+A winning trade is a good trade and a losing trade is a bad one. The goal is more winners and fewer losers. When you win, you did something right and should do more of it. When you lose, you made a mistake and should find it. A good day means you are trading well; a bad day means you are not. The best traders are the ones who are right most often.
 
-2. Long and short measure each other. A win is large only beside the loss. Nine wins in ten mean nothing until you have seen the tenth.
+## The Other Way
 
-3. A win rate alone is half a sentence. Write the payoff beside it, or say nothing.
+1. Call a trade good because it won, and you have already made the bad one. Winning and losing are not two kinds of trade. They are two ends of one stick.
 
-4. The breakeven win rate is arithmetic: the average loss, divided by the average win plus the average loss. Risk one to make three, and you must be right one time in four. Risk three to make one, and you must be right three times in four. Costs come on top.
+2. Having and not having give birth to each other. No trader takes the win without the loss. The loss is not a failure to win; it is part of the price of winning.
 
-5. High and low lean on each other. The rule that wins most often is often the one that loses most when it loses.
+3. A good trade is one you would take again with the same information. Some good trades lose. Some bad trades win, and those are the dangerous ones, because they teach.
 
-6. Hard and easy complete each other. The easy wins are usually paid for on a hard day you have not had yet.
+4. Long and short measure each other. A win is large or small only beside the loss. How often you are right means nothing until you know how much it costs when you are wrong.
 
-7. Change one end of the stick and the other end moves. Tighten the stop and the win rate falls; widen it and the losses grow. Nothing is free.
+5. High and low lean on each other. The best day of your month and the worst are often next to each other. The second is usually the child of the first.
 
-8. A rule that is wrong most of the time is not a bad rule if its two numbers leave a gap. It is only an unpopular one.
+6. Before and after follow each other. What you feel after a win walks into the next trade before you do.
 
-9. Teach yourself without words: put the two numbers side by side on the ticket and let them argue.
+7. Teach without words. Do not explain your losses to yourself at length. Take them, write one line, and let the size of the next trade show what you learned.
 
-10. Do not dwell in the good month. The sage finishes the work and does not live in it. Produce and do not possess: the result belongs to the rule, not to you.
+8. Finish the work and do not dwell in it. Once a trade is closed, it belongs to the past. A win you keep admiring is still open, in your head, and it is sized wrong.
+
+9. Produce and do not possess. The profit is not proof of who you are. It is what one trade paid, once.
+
+10. Because he does not dwell in it, it does not leave him. The trader who does not grip his good days keeps having them.
 
 ## The Story
 
-The first number anyone tells you about a strategy is how often it wins. It is the number in the advertisement, in the forum post, at the dinner table. *It wins eight times out of ten.* The person saying it is usually proud, the person hearing it is usually impressed, and neither of them asks the next question, because the next question is not beautiful.
+Every trader knows this morning. Yesterday was the best day of the month. Everything worked. You read the open correctly, you added at the right moment, you sold near the high. You went to sleep replaying it.
 
-The next question is: when it loses, how much?
+This morning you sit down feeling like a better trader than you were two days ago. That feeling is the most expensive thing on your desk.
 
----
+You take the first trade with more size than usual. Not much more; you would not call it reckless. It is just that yesterday proved something, and it seems wasteful not to use it. The trade goes against you. You give it a little more room than usual, too, because yesterday you were right, and someone who was right yesterday is probably right today. By lunch you have handed back most of yesterday, and you cannot say exactly when you made the mistake, because you never felt like you were making one.
 
-I used to keep trade notes the way most people do. Entry, exit, a line on why. Over the years the notes grew a header, the header grew fields, and in the end it became a card: a few lines that must be filled in before an order is allowed to go out. What the edge is supposed to be. The most this trade can lose. The stop, and the day I will leave if nothing happens. And at the bottom, a field I added late, almost as an afterthought: the breakeven win rate.
-
-It is arithmetic a child could do. Take the average loss. Divide it by the average win plus the average loss. That is how often the trade has to be right just to stand still, before costs. Nothing about the market goes into it. It is only the shape of the trade, written as a number.
-
-The first time I filled in that field for a rule I was proud of, I sat for a while looking at it.
+*High and low lean on each other.* The good day did not cause the bad one. Dwelling in it did.
 
 ---
 
-The rule was a short-horizon one, the kind that takes a small profit quickly and gives a losing trade room to come back. It won often. That was what I liked about it: open the log and most of the lines were green. It felt like competence.
+Now the other morning, the one nobody talks about.
 
-The card made me write the two numbers next to each other. Its wins were small, because it took them early. Its losses were larger, because it gave them room. So its breakeven win rate was high, far higher than I had pictured, and the win rate I was proud of sat only a little above it. The edge, if there was one, lived in the thin strip between those two numbers, and costs would take part of the strip.
+You take a trade on a setup you trust. You size it the way you always do. You write down the price where you will be wrong. The price goes there, and you take the loss without bargaining. It is a small red line in the log.
 
-*When everyone knows beauty as beauty, there is already ugliness.* The beauty of the rule was its win rate. The ugliness had been there all along, standing behind the number, in the size of the losses. I had simply never written them on the same line.
+Most traders file that morning under *bad day*. Look at it again. You did everything you meant to do. The market did not agree, and you left at the price you named, with a loss you had chosen in advance. That is a good trade. If you could take only one kind of trade for the rest of your life, it would be that kind: the kind that does not care whether it wins.
 
-Nothing about the rule had changed. It was exactly as good as it had been the evening before. It had gone from great to ordinary in the time it takes to divide one number by another.
-
----
-
-What I did next is the part I would want a younger trader to hear, because it is not what I wanted to do.
-
-What I wanted to do was fix the losses. Tighten the stop, so the average loss would shrink, so the breakeven would fall, so the beautiful number would be beautiful again. It is the obvious move, and it is wrong in a quiet way. A tighter stop changes the win rate too. Trades that would have come back are now stopped out, and become losses. Long and short measure each other. You cannot shorten one end of the stick without the other end noticing.
-
-So I did not fix it that night. I wrote the two numbers on the card, left the rule as it was, and made the tighter stop a test of its own: the same rule with the new stop, written down as a separate trial, run separately, judged separately. Whether it was better, I would find out the slow way. The point of the card was not to make me feel better about the rule. It was to stop me feeling anything about the win rate alone.
+When everyone knows the good as good, there is already the not-good. Call only the green lines good, and you will start doing whatever makes lines green: holding losers until they come back, taking profit too early, skipping the setups that lose often but pay well. Every one of those feels like trading well. Every one of them is how accounts slowly die.
 
 ---
 
-Since then every rule I look at gets its two numbers side by side before I look at anything else. It has saved me from a good many beautiful strategies. Now and then it has also rescued an ugly one: a rule that is wrong most of the time, whose log is mostly red, which looks like failure to anyone glancing at it, and whose breakeven is low enough that being wrong most of the time is exactly what it is supposed to do. Those rules are hard to live with. You sit through long runs of small losses waiting for the few trades that pay. But on the card, side by side, they are not ugly at all. They are only unpopular.
+The sage finishes the work and does not dwell in it. For a trader this is the plainest instruction in the chapter. When a trade closes, close it in yourself too. The win is not a credential. The loss is not a verdict. Each is one end of a stick you picked up when you entered, and you knew both ends were there.
 
-High and low lean on each other. A rule that wins often and a rule that wins rarely are not good and bad. They are two shapes. The only questions are whether a shape's two numbers leave a gap after costs, and whether you can live inside its particular kind of discomfort long enough for the gap to show.
+Try it for a week. After every trade, write one line: *did I do what I meant to do?* Not *did it make money*. Only that. At the end of the week, count the lines, not the dollars.
 
----
-
-The last lines of the chapter are about the sage who finishes the work and does not dwell in it. I read them now as a note about the good month. After a run of wins, the win rate is the number you want to live in. Do not live there. Put the payoff beside it. Teach yourself without words: two numbers on a card, arguing quietly, while you get on with the day.
+You may find something you did not expect. The weeks with more yes lines are not always the green weeks. Over a season, they tend to become the green weeks. Not because the yes lines win more often, but because a trader who stops chasing the green line stops doing the things that turn it red.
 
 ---
 
-[Contents](README.md) · [← 1. The Rule That Can Be Spoken](chapter-01.md) · [3. Do Not Display the Desirable →](chapter-03.md)
+[Contents](README.md) · [← 1. Why It Moved](chapter-01.md) · [3. Do Not Display the Desirable →](chapter-03.md)

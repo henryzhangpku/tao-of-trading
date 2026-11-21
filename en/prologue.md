@@ -1,21 +1,34 @@
 # Before the First Step
 
-Two and a half thousand years ago, the story goes, a keeper of archives left his post, rode west, and at the pass was asked to write down what he knew before he disappeared. He wrote about five thousand characters in eighty-one short chapters and was not seen again. The book is called the *Tao Te Ching*, the classic of the way and its virtue, and it is mostly about one thing: how to act without forcing.
+You already know how to trade. Everyone who opens this book does.
 
-He was not writing about markets. He was writing about water, valleys, uncarved wood, empty bowls, a small fish in a pan, and the man who stands on tiptoe and cannot stand. But anyone who has traded for long enough will recognise every image in it. The trader who forces a trade ruins it. The one who grips a position loses it. The soft thing that bends — the small size, the stop, the defined risk — outlasts the hard thing that is certain. And the one who knows when to stop is not in danger.
+You know you should have a view and act on it. You know you must find out why a stock moved before you touch it. You know to cut losers fast and let winners run, to work harder than the next trader, to watch more closely, read more, react sooner. You know that discipline means forcing yourself to follow the plan. You know that the point is to win.
 
-This book follows him chapter by chapter, in his order. Each chapter quotes one verse, in the Chinese and in English; reads it in a few numbered lines for a trader; and then tells one story from my own trading and research life — building systems that trade on written rules, freezing those rules and testing them forward, letting a model propose and the rules decide. The stories are the point. Laozi does not argue, and neither will I.
+This book does not tell you any of that is wrong. It tells you that you are holding all of it in the wrong hand.
 
-I am not the first to carry this book into markets, and I owe a debt I should name at the start. Mark Spitznagel's *The Dao of Capital* (2013) reads Laozi, and the Chinese strategists who came after him, for the investor: the roundabout path, giving up a little now to gain more later, the patient route over the direct grab, measured across years and decades. I learned a great deal from it, and where its ideas meet mine I will say so. This book takes the same old text somewhere else: to the trading day. The trade not forced this morning, the loss cut at the price you named, the rule left alone until tomorrow's forward test, the model that proposes and the rule that decides. And I read the text in the original, the way I first met it as a child in China, and practise it as an engineer who builds trading systems. Slow is fast inside a single session, not only across decades.
+Two and a half thousand years ago, a keeper of archives in China wrote about five thousand characters in eighty-one short chapters and, the story goes, rode out through a mountain pass and was not seen again. The book is the *Tao Te Ching*. It has almost nothing to say about doing more. It talks about water, which beats stone by giving way. About the empty bowl, useful because of the space inside it. About the man on tiptoe who cannot stand, and the man who strides and cannot walk. About knowing when you have enough, which it calls the end of danger. Its whole method is to take what everyone believes and turn it over: the soft beats the hard, the low holds the high, the one who does not contend cannot be beaten, and the way forward is often the way back.
 
-The line on the cover is mine, not his. *Slow is fast* is not in the *Tao Te Ching*. Its relatives are: 企者不立，跨者不行, "who stands on tiptoe does not stand firm; who strides does not walk" (chapter 24); 大器晚成, "the great vessel is finished late" (chapter 41); 千里之行，始于足下, "the journey of a thousand li begins with a single step" (chapter 64). The proverb 欲速则不达, "haste does not arrive," is Confucius, not Laozi. I have borrowed from all of them, and I say so here once so that I do not have to say it again.
+He was not writing about markets. Read him with an order ticket in your hand anyway, and every page argues with something you were taught. You were taught to have a view; he says the one who knows does not speak. You were taught to push; he says the one who forces fails and the one who grips loses. You were taught to be strong; he says the hard and stiff are the companions of death. You were taught to hurry, because the move is leaving without you. He says the great vessel is finished late.
+
+That is what this book is for. Not a new system, not a better indicator, not a method for beating anyone. A different mind to trade from. The same screen, the same prices, the same order ticket, and a completely different way of holding them.
+
+The book follows Laozi chapter by chapter, in his order. Each chapter has four parts:
+
+- **The Verse**: the Chinese original and my own English translation.
+- **What You Know**: the trader's common sense the verse is about to overturn, stated as you would state it yourself.
+- **The Other Way**: a few numbered lines that read the verse for someone who trades.
+- **The Story**: a scene from the trading day, the kind every trader has lived, told plainly.
+
+I read these chapters first as a child in China, in the original, long before I knew what a stop was. I came back to them as a trader, and found that the hardest lessons of the screen were already written down, in a language I grew up with, by someone who never saw a price. I am not the first to carry this book into markets. Mark Spitznagel's *The Dao of Capital* (2013) reads Laozi for the long-term investor, across years and decades, and I learned a great deal from it. This book stays inside the trading day: the trade you do not force this morning, the loss you take without a fight, the afternoon you leave the screen alone.
+
+The line on the cover is mine, not his. *Slow is fast* is not in the *Tao Te Ching*. Its relatives are: 企者不立，跨者不行, "who stands on tiptoe does not stand firm; who strides does not walk" (chapter 24); 大器晚成, "the great vessel is finished late" (chapter 41); 千里之行，始于足下, "the journey of a thousand li begins beneath your feet" (chapter 64). The proverb 欲速则不达, "haste does not arrive," is Confucius, not Laozi. I say so once here, so that I do not have to say it again.
 
 The translations are my own from the received Chinese text, unless a line is marked as James Legge's (1891), which is in the public domain.
 
-This book is education, not advice. It contains no recommendations for you personally, no signals, no forecasts and no promises. Nothing here is a performance claim: I will tell you what I did and why, never what it earned. Trading can lose money, and leverage and options can lose it faster.
+This book is education, not advice. It contains no recommendations for you personally, no signals, no forecasts and no promises. Trading can lose money, and leverage and options can lose it faster.
 
-Read one chapter a day. Eighty-one chapters is a little under three months, which is about the shortest time in which you can learn anything true about a trading rule. Then read them again. Slow is fast.
+Read one chapter a day. Do not hurry through it to get to the next. Eighty-one days is a little under three months, which is about how long it takes for a habit of mind to change. Then read them again. Slow is fast.
 
 ---
 
-[Contents](README.md) · [1. The Rule That Can Be Spoken →](chapter-01.md)
+[Contents](README.md) · [1. The Way That Can Be Spoken →](chapter-01.md)

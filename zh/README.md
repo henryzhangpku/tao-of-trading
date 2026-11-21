@@ -12,7 +12,7 @@
 
 前三十七章讲的是如何看清市场：可道之道，非常道——回测说得出来的，只是过去；器之用在其空；水善利万物而不争；朴胜于雕；企者不立。最后落在全书的枢纽一句：道常无为而无不为。对交易者而言：模型提议，规则决定。
 
-1. [道可道](chapter-01.md) — The Rule That Can Be Spoken
+1. [道可道](chapter-01.md) — Why It Moved
 2. [天下皆知美之为美](chapter-02.md) — Long and Short Make Each Other
 3. [不尚贤](chapter-03.md) — Do Not Display the Desirable
 4. [道冲](chapter-04.md) — The Empty Vessel
