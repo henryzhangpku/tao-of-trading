@@ -50,7 +50,7 @@ Every trader knows this morning. Yesterday was the best day of the month. Everyt
 
 This morning you sit down feeling like a better trader than you were two days ago. That feeling is the most expensive thing on your desk.
 
-You take the first trade with more size than usual. Not much more; you would not call it reckless. It is just that yesterday proved something, and it seems wasteful not to use it. The trade goes against you. You give it a little more room than usual, too, because yesterday you were right, and someone who was right yesterday is probably right today. By lunch you have handed back most of yesterday, and you cannot say exactly when you made the mistake, because you never felt like you were making one.
+You take the first trade with more size than usual. Not much more; you would not call it reckless. It is just that yesterday proved something, and it seems wasteful not to use it. The trade goes against you. You give it a little more room than usual, too, because yesterday you were right, and someone who was right yesterday is probably right today. By lunch you have handed back most of yesterday, and you cannot say exactly when you made the mistake, because you never felt like you were making one. I did exactly this in my own early years.
 
 *High and low lean on each other.* The good day did not cause the bad one. Dwelling in it did.
 

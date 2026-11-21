@@ -66,7 +66,7 @@ The price does not care what you understood. It goes on falling for another hour
 
 ---
 
-Look at what happened. Nothing in the price changed when the headline came out. What changed was you. Before the sentence you were uncertain, and uncertain traders are careful. After the sentence you were certain, and certain traders buy. The headline did not tell you anything about the next hour. It only told you a story you could act on, and you acted on the story.
+Look at what happened. Nothing in the price changed when the headline came out. What changed was you. Before the sentence you were uncertain, and uncertain traders are careful. After the sentence you were certain, and certain traders buy. The headline did not tell you anything about the next hour. It only told you a story you could act on, and you acted on the story. Almost every trader does this in the early years, before experience has taught them to wait.
 
 This is what Laozi means when he says the name is the mother of the ten thousand things. Once you have the name — *contract review*, *rate fears*, *rotation*, *short squeeze* — the whole world arranges itself around it. Every tick confirms it. Every chart fits. You stop seeing the price and start seeing your sentence, drawn in the price.
 

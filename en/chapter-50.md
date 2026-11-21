@@ -50,7 +50,7 @@ So you do it again, some months later, on another event. It works again, less sp
 
 Then there is a night when the news is worse than anyone expected. You are asleep. The stock does not trade through your stop. It opens far below it, as if the stop were never there, and the first price you can sell at is one you never planned for. By the time your order fills, the account is down by about half.
 
-Nothing about the trade was reckless by the usual standards. You had a view, a reason and a stop. What you also had, and never looked at, was a ground of death: a position large enough that a single gap could take most of what you had. It was there on the good mornings too. The good mornings only hid it.
+Nothing about the trade was reckless by the usual standards. You had a view, a reason and a stop. What you also had, and never looked at, was a ground of death: a position large enough that a single gap could take most of what you had. It was there on the good mornings too. The good mornings only hid it. I have had a stock gap straight through my stop overnight myself. A stop is only the price you hope to get.
 
 We are taught that boldness is how anything big gets done. No risk, no reward. Laozi says the opposite in a strange way: the one who is good at keeping his life walks through tiger country and meets no tiger. Not because he is lucky, and not because he is armoured. Because there is nowhere in him for the claw to go.
 
