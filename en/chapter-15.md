@@ -22,79 +22,65 @@ Whoever holds to this way does not wish to be full. Because he is not full, he c
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Cross the river in winter: test the ice before each step. A new day is ice you have not walked on.
+Shake it off. You were taught that on the playing field before you ever saw a chart: miss the shot, forget it, next play. Fall off the bike and get straight back on, before the fear has time to set in. Dwelling is weakness, and the people who make it are the ones with a short memory. Trading is the same, only faster. Losses are part of the business. The good traders take the stop, reset and look for the next trade. If you sit out after a loss, the fear grows, and you will sit out the very move that would have paid it back. The quicker you are back in rhythm, the quicker you are trading well again.
 
-2. Wary of the neighbours on every side. Every position you hold is next to every other one. Know who lives next door.
+## The Other Way
 
-3. Plain, like the uncarved block. On a bad day, the plain rule is the one you can still follow.
+1. *Murky, like muddy water.* The skilled ones of old were allowed to be muddy. A loss stirs you up, and there is no shame in that. The mistake is trading while the water is still brown.
 
-4. Muddy, like muddy water. The skilled trader is allowed to be muddy. He is not allowed to act while he is.
+2. Shaking it off is shaking the jar. Mud does not leave water because you are firm with it.
 
-5. You cannot clear water by stirring it. Every effort to think your way out of a bad morning is another stir.
+3. *Who can take muddy water and, by being still, let it slowly clear?* Clarity is not something you do. It is what is left when you stop doing.
 
-6. Stillness clears it, slowly. Clarity is a matter of time, not effort. Nothing you do in the next hour will make it come sooner.
+4. The minutes after a loss feel like the clearest of the day. You can see exactly what to do next. That certainty is the mud.
 
-7. The day of a loss is the muddiest day. It feels like the clearest. That feeling is the mud.
+5. A short memory usually means the memory went somewhere else: into your size, your speed, your next entry. The loss you shook off is now trading for you.
 
-8. No new rule on the day of a loss. Write it down, date it, put it away. Read it tomorrow.
+6. *Cautious, like someone crossing a river in winter.* After a loss the ice has not changed, but you are heavier. Step like someone who knows it.
 
-9. A rule written to prevent yesterday is a filter fitted to one day. It knows everything about that day and nothing about the next.
+7. *Wary, like someone who fears the neighbours on every side.* The next trade does not live alone. It lives next door to the last one and hears everything it says.
 
-10. Who can take what is at rest and bring it slowly to life? The second half of the line matters too. When the water is clear, move, and move at the size the rule says.
+8. *Slowly.* The verse says it twice. Settling keeps its own clock, it is slower than you want, and nothing you do in the next hour will move it.
 
-11. Do not wish to be full: of positions, of conviction, of plans. A full glass cannot settle. There is no room in it for the mud to fall.
+9. *By moving it long, let it slowly come to life.* Coming back is real, but it comes in steps: small first, then normal. Not normal at once.
+
+10. Getting back on the horse is fine. Getting back on while your hands are still shaking is how people get thrown twice.
 
 ## The Story
 
-On the left side of my desk there is an index card held down by the base of the lamp. It has been there long enough that the ink has gone brown. It says, in my handwriting: *No new rule on the day of a loss.*
+It is twenty to eleven and your stop has just been hit. The loss is bigger than it should have been; the price went through your level in one fast print and filled you lower. Your face is warm. Your jaw has set without asking you. You say the words you were taught: fine, it happens, next one. You mean them. Within four minutes you are scanning again, faster than usual, flicking from chart to chart.
+
+At ten to eleven you find something. It looks like your setup, mostly. The level is a little vague and the timing is early, but you tell yourself that hesitating now would be fear, and you do not trade from fear. You take it at full size. Full size is what a trader with a short memory does.
 
 ---
 
-I had a position in a name I had held for a little over a week. It had done nothing in particular, which is what most positions do. The stop was where the rule had put it on entry. I had not moved it.
+It goes against you almost at once. This time you do not take the stop where you placed it, because a second loss straight after the first would be too much to look at. You give it room. By half past eleven you are out, and the second loss is larger than the first. You skip lunch. You eat something from the drawer with one hand on the mouse.
 
-Overnight there was news, not about the company but about its industry: a regulator somewhere had said something, and every name in the group was marked down before the open. When the market opened, my name opened well below my stop. The stop did its job, which was to get me out, but it got me out at the price that was there, and the price that was there was worse than the one written on the card. The loss was larger than the trade had planned for. Not ruinous. Larger.
+In the afternoon you take a third trade, to get back to flat. You will not remember later what the reason was, only that it felt urgent and clear. It is a small loss, and by then small feels like a win.
 
-I have taken many losses, and most of them do not stay with you past lunch. This one did, for a reason I could not name at the time. It was not the size. It was that I had done everything right. The rule had done what it said. The stop had been placed and respected. And the market had simply stepped over it, the way you step over a line drawn in chalk.
-
-By half past ten I had written three new rules.
+That evening you look at the day. The first loss was ordinary. It was the kind your plan expects and can carry. The other two were not trades on the market at all. They were the first loss, still moving in the water, taking orders in your name. Each one felt like clear thinking at the time. *Murky, like muddy water.* You were, and you did not know it, because mud cannot see itself.
 
 ---
 
-I remember how they felt, which is the reason for this chapter. They felt like clarity. I was not angry. I was not flustered. I was calm and quick, and the rules came easily, one after another, each with a reason that sounded like engineering.
+Now the other day. Same stop, same bad fill, twenty to eleven.
 
-The first said: do not hold names in a group that has had news in the last month. The second said: tighten the stop on any name whose group has gapped before. The third said: cut the size of any position held over a weekend, because, I wrote, the risk of a gap is concentrated there. It had not been a weekend. I wrote it anyway.
+The warmth comes into your face just the same. You notice it. You take your hand off the mouse and write three things on a pad: the time, the loss, and one sentence about how your body feels. *Jaw tight, want to get it back.* Then you stand up, fill a glass of water and walk to the end of the room and back. You do not look at the screen while you do it.
 
----
+You sit down again a little after eleven. The chart that would have tempted you at ten to eleven is there. From here it looks plainly like what it is: not your setup, a vague level, an early guess. It drifts sideways and then down. You watch it with no feeling at all, which is how you can tell the water has cleared.
 
-What stopped me was not wisdom. It was a smaller and duller thing: I had promised myself, after an earlier episode, that no rule would go into anything live without first going into the ledger and through the same plain tests as everything else. Costs, twice the costs, both halves of the history, the best month removed. That process takes days, and on that morning days felt unbearable. But the promise was older than the morning, and it held.
-
-So I did the only thing the process allowed. I wrote the three rules on a sheet of paper, put the date at the top, and put the sheet in a drawer.
+You take no trade until after lunch. The first one back is at half your normal size, because coming back to life is slow and the verse does not pretend otherwise. It might lose. If it does, it is one small loss in a calm day. The session ends with a single ordinary loss on the books, the one your plan was built to carry.
 
 ---
 
-The next morning I took the sheet out and read it as if someone else had written it.
+*Who can take muddy water and, by being still, let it slowly clear?* We were taught to shake it off, keep a short memory and get straight back on, because stopping looks like weakness. The old book sees it the other way round. A loss stirs the water. Shaking it only stirs it more. Stillness is not giving in to the fear; it is the only thing that lets the mud fall.
 
-The first rule was a rule against one morning. Every industry has news. A month is a long time. Read plainly, it would have kept me out of a large share of the market for most of the year, and the only evidence for it was a single gap in a single group. It was not a rule. It was a bruise written in sentences.
+The water clears by itself. Your part is to stop stirring it.
 
-The second was more reasonable, and it was also the kind of rule that would have looked wonderful in a backtest, because gaps are memorable and the backtest would have been chosen to remember them. It would also have tightened the stop on a large number of names that had gapped once, years ago, and been perfectly ordinary since. Tight stops have their own cost. They get you out of trades that were working. I had not thought about that cost at all on the day, because on the day only one kind of cost was visible.
+## Try This
 
-The third I simply did not recognise. I had no idea why I had written it. The weekend was not in the story. I think now that it was the mud: a loose fear looking for something to attach to.
-
-I threw the first one away. I put the second into the ledger as a test, with its count and its date, to be run like any other idea, and in due course it went through the gate and did not pass. That was a good outcome. It was allowed to fail properly, on evidence, instead of being adopted on a feeling. The third I kept, on the sheet, because I wanted to remember what the mud looks like when it is dressed as a rule.
-
----
-
-*Who can take muddy water and, by being still, let it slowly clear?*
-
-Every Chinese schoolchild knows this chapter's question, and I knew it as a line about patience, which is to say, I knew it as advice and did not use it. What I had not understood until that morning was the mechanism. Muddy water does not look muddy from the inside. If you are the water, you do not feel cloudy. You feel quick and certain. The mud is not in what you see. It is in what you cannot see, because it is in the way.
-
-The card is the procedure that came out of it, and it has three parts, though only the first fits on the card. On the day of a loss, a new rule can be written but not adopted. It goes on paper with a date. The next day it can be read. After that, if it survives being read by a calmer version of the person who wrote it, it goes into the ledger and is tested like anything else, with its count beside it. Nothing about it is special because it came out of pain. If anything, it gets a little more suspicion.
-
----
-
-I have taken that sheet out of the drawer a few times since. Not to use the rules. To read the handwriting. It is neater than my usual hand. That is what the mud looks like from inside: neat, fast, certain, and one morning wide.
+For the next ten sessions, after every losing trade, take your hand off the mouse and write down the time, the loss and one sentence about how your body feels. Place no new order for twenty minutes, and make the next trade, when it comes, half your normal size. At the end of the ten sessions, look at the trades you took straight after losses before this, and at the ones you took after waiting.
 
 ---
 
