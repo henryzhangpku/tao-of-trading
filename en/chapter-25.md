@@ -22,73 +22,65 @@ People follow the earth. The earth follows heaven. Heaven follows the way. The w
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. The market has no name for itself. Bull, bear, risk-on, rotation: these are words we write on it afterwards.
+The market is a system, and systems can be figured out. Every move comes from something: flows, rates, earnings, positioning, the calendar. Work hard enough, watch closely enough, and you will find the pattern underneath. Every great trader has cracked some part of it. When the market surprises you, a piece is missing from your picture, and your job is to find the piece. You were brought up to believe that every problem has an answer for the one who studies it. The market is a puzzle, and puzzles are made to be solved.
 
-2. A regime is named when it is over. While you are inside it, it is formless.
+## The Other Way
 
-3. I do not know its name; I call it something. Names are fine for talking about markets. They are dangerous for trading them.
+1. *There was something formed out of chaos, born before heaven and earth.* The market was here before you and will be here after. It was not made for you to solve.
 
-4. A rule that needs the regime named before it can act is a rule that waits for the past.
+2. *It stands alone and does not change.* Its nature does not change: crowds of people, fear and want, a price where they meet.
 
-5. Build rules that answer only what can be measured this morning: how far price has been moving, how thin the market is, where the stop belongs.
+3. *It goes round everywhere and is never exhausted.* Every pattern it makes, it also unmakes.
 
-6. Size by how much it is moving, not by what it is called. A wild market gets a small size whatever its name.
+4. *I do not know its name.* Call it the trend, the cycle, the regime. These are nicknames for something you cannot hold.
 
-7. Going far means coming back. Every regime leaves and returns in a different coat. A rule that does not need the name does not need to recognise the coat.
+5. *Great means going on. Going on means going far. Going far means coming back.* It runs, it stretches, it returns. Not on your schedule.
 
-8. In the realm there are four great things, and you are not the market. You are one small thing inside it.
+6. A puzzle stays still while you work on it. The market changes because you are working on it, and so is everyone else.
 
-9. The way follows what is so of itself. The rule follows price, not the story about price.
+7. *The king is great as well.* You are one of the four, not above them. A participant, not the one who solves.
 
-10. When you catch yourself arguing about what kind of market this is, check the size, check the stop, and stop arguing.
+8. *People follow the earth.* Follow what is under your feet: the price in front of you, today.
+
+9. *The way follows what is so of itself.* Its nature is to move, to overshoot and to come back. Trade with that nature, not with your theory of it.
+
+10. A farmer does not solve the weather. He knows the seasons, plants in spring, and keeps a roof over the grain.
 
 ## The Story
 
-For a few years I began every week by naming the market.
+For three months, everything you touch works. You have noticed something. Every time the market sells off hard in the morning, it comes back by the afternoon. You have watched it a dozen times. You buy the morning low, sell into the afternoon, and the account climbs steadily.
 
-It was a habit from the time I read a great deal about markets and traded mostly by hand. On Sunday evening I wrote a short note to myself about the week ahead, and the first line of the note was a label. *Late-cycle, defensive rotation.* *Risk-on, breadth improving.* *Bear market rally, be careful.* Under the label I wrote which kinds of setups I would trust that week and which I would be wary of. The label came first because everything else followed from it. If I knew what kind of market it was, I thought, I would know how to trade it.
+Somewhere in the second month a thought arrives that every trader has had. You have figured it out. Not the whole market, perhaps, but this piece of it. You know why, too: the big funds buy the dips, the dealers are positioned a certain way, the money comes in at the same time every month. The pattern has a reason, and a pattern with a reason is a law.
 
-I was proud of those notes. They were careful and they read well. I wrote them for years, and I never read them back.
+So you size up. A law deserves size.
 
----
+In the fourth month the morning selloffs stop coming back. Not every time, but often enough. You buy the low and the low gives way. You are not worried at first. A law has exceptions. Then you start looking for the missing piece. The funds must have changed their timing. The dealers must have flipped. You read about it every evening. Each evening you find another reason, and each reason makes your picture more complicated and the next morning's trade more confident.
 
-I read them back in the end because of an argument about a name.
-
-A stretch of the market some time earlier had acquired, in the way these things do, a settled name. Everyone now agreed what it had been. It had a label in the articles, a place in the charts people drew, and a tidy story about how it began and how it ended. Someone at dinner used the name in passing, and I realised I had been trading through that stretch and had no memory of calling it that.
-
-So I went back to the Sunday notes for those months and read them in order.
-
-The labels changed almost every few weeks. That was the first thing. Each label was a description of the few weeks just past, written as if it were a forecast of the weeks to come. When the market had fallen for a while, the note said bear. When it had then risen for a while, the note said the bear was over. I had been reading the rear-view mirror and writing *road ahead* at the top of the page.
-
-The second thing was worse. Through the middle of the stretch that everyone now agreed on, my label had been the opposite of the agreed one. I had not been slightly early or slightly late. I had been confidently, carefully wrong, in good sentences, for weeks. And under each wrong label was a list of setups I would trust and setups I would avoid, so the wrong name had not stayed on the page. It had reached into the trading.
-
-*There was something formed out of chaos, born before heaven and earth.* The stretch had been formless while I was in it. The name came later, from people looking back, and it fitted perfectly, because names given afterwards always do.
+By the end of the fifth month you have given back most of the first three, and your evening replay has turned into an investigation. You are certain there is a solution. You just have not found it yet.
 
 ---
 
-Some time after that, the language model on my research desk proposed a regime filter. It was a sensible-looking idea, the kind I would once have written myself. Classify the market into a few regimes, and let the rule trade only in the ones where it had done well.
+Laozi has a word for what you were trying to solve, and he says at once that it is not its name. *I do not know its name. I call it "the way".* He knows only a few things about it. It is older than heaven and earth. It goes round everywhere and is never exhausted. It does not change, and it is never still.
 
-It went into the ledger, like everything else, and through the plain tests. I will not give the numbers. I can tell you where the difficulty lay, because I had read it in my own notes first. The regimes in the history had been labelled using the whole history, including the part after each regime ended. In the backtest, the rule always knew what kind of market it was in, because it was told by the future. In real time the labels could only be drawn from the past, and so they arrived late, and changed their minds, the way mine had on Sunday evenings. A rule that needs the regime named before it can act is a rule that waits for the past.
+That is the market. Not a machine with a hidden diagram, but something formed out of chaos: millions of people, each wanting and fearing, meeting at a price. It makes patterns because crowds make patterns. It breaks them because crowds notice the patterns and crowd into them. What worked for three months was not a key you had found. It was a season. Seasons end without asking.
 
-*I do not know its name. I call it "the way".* Laozi does not pretend to know the name. He picks one so that he can talk, and he says that is what he is doing.
-
----
-
-What I built instead was a set of rules that do not ask.
-
-They ask other things, and only things that can be measured on the morning itself. How widely has this name been swinging lately? The answer sets the size, so a wild market gets a small position whatever anyone is calling it. Is the market in it deep enough to leave? If not, the entry is refused, and the refusal goes in the log with its reason. Where does the stop belong, given the swings? That is arithmetic too. Not one of these questions needs to know whether it is a bull market, a bear market, a rotation or a pause. Each one is answered by price, and price is the only thing that is always there on the morning.
-
-*The way follows what is so of itself.* The rule follows price, and price does not know what it is called.
-
-The rules still have bad stretches, and some of those stretches are exactly the ones that will later be given names. That is not a failure of the design. A rule that never needs the name will still be wrong in a regime it does not suit. The difference is that it will be wrong at a size set by how much the market is moving, rather than by how sure I am of what the market is.
+*Great means going on. Going on means going far. Going far means coming back.* This is all Laozi will say about how it moves. It goes, it goes further than seems reasonable, and it returns. That is not a solution. You cannot trade it like a law. But you can trade inside it, like weather.
 
 ---
 
-I still write a note on Sunday evenings. The first line is gone. Where the label used to be there is nothing, and below it are the things the board will do in the week: what is due to exit, what the rules are watching, what has been refused and why.
+The other way does not begin with a smaller theory. It begins with giving up the wish to solve.
 
-Sometimes, in a loud week, I feel the old pull to write a name at the top. I have learned what it is. It is the wish to be the kind of trader who knows. The names come anyway, later, from other people, and they will fit. They always do. *Going far means coming back.* The market will leave and return in a different coat, and someone will name the coat, and the rules will go on measuring the swings, sizing the position, placing the stop, without needing to recognise it.
+When the morning pattern works, you trade it, at a size that respects that it is a season and not a law. When it stops, you do not look for the broken part. You notice the season has turned, cut back, and wait to see what the market is doing now. You trade what is in front of you: today's price, today's tone. *People follow the earth.*
+
+A farmer who has worked the same land for thirty years cannot tell you what the weather will be in June. He does not need to. He knows the shape of the year, he does not plant against it, and he keeps enough grain to get through a bad one. Nobody calls him ignorant. He is the one who is still farming.
+
+We are taught that understanding is power, and the more we understand, the more we control. Laozi turns it over. The thing you are part of is larger than you, and the one who knows that is the one who lasts in it.
+
+## Try This
+
+At the end of each day this week, write one sentence describing what the market did, the way you would describe the weather: no reason, no forecast. When something that has been working stops working, write "the season changed" before you write anything else. Watch what changes in how you trade the next morning.
 
 ---
 

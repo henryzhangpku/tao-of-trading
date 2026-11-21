@@ -18,59 +18,67 @@ When the work is done, step back. That is the way of heaven.
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Better to stop short than to fill to the brim. Full size at the top is how gains are given back.
+Never leave money on the table. You were taught to give everything, go all the way, and never settle for less than the most you can get. In trading that means pressing your winners. When a trade works, you add. When it reaches your target, you move the target, because a strong move can run much further than you planned. When you are hot, you size up, because a streak is when the money is made. The great trades are the ones somebody had the nerve to hold all the way, at full size, while everyone else took a little and went home.
 
-2. The target is written before the entry. When the price touches it, the rule takes what it said it would take.
+## The Other Way
 
-3. A target written in advance is a decision made by a calm person. A target moved during the trade is a decision made by a greedy one.
+1. *To hold it and fill it to the brim.* A full cup cannot be carried. Every step spills some.
 
-4. The trade may keep running after you leave. Let it. The rule was written for many trades, not for this one.
+2. *Is not as good as stopping in time.* Stopping in time is not timidity. It is the only way to arrive with something in the cup.
 
-5. A blade hammered too thin will not keep its edge. A size raised because the last few trades worked will not keep its gains.
+3. *Hammer a blade to its sharpest.* Each time you add to a winner, you sharpen the edge. The sharper it is, the faster it dulls on the first hard thing it meets.
 
-6. A hall full of gold cannot be guarded. A large open profit is a large open risk with a pleasant name.
+4. *It will not keep its edge for long.* A hot streak is an edge. Press it hard enough, and it is the size of your last trade that ends it.
 
-7. Wealth worn with pride brings its own ruin: the size that grows after a good month, the stop that widens because now you can afford it.
+5. *A hall full of gold and jade cannot be guarded.* A large open profit is not yours. It is a hall full of gold with the doors open, and you are the only guard.
 
-8. If the rule says to take part off, take part off. Never take it off because the number frightens you, and never keep it all because the number pleases you.
+6. The bigger the open profit, the harder it is to sell. You start guarding the number instead of reading the market.
 
-9. When the work is done, step back. The day's plan is finished; close the screen.
+7. *Wealth and rank worn with pride bring their own ruin.* A good run makes you proud, and pride sizes the next trade.
 
-10. Stopping in time is not timidity. It is what lets you come back tomorrow with the hall still yours.
+8. The money left on the table is the price of carrying the rest home.
+
+9. *When the work is done, step back.* The work is done when the plan is done. Not when the market stops paying.
+
+10. Less is more. The trader who stops at enough keeps more than the one who reaches for all of it.
 
 ## The Story
 
-The first time a target I had written fired without me, I was not at the screen. The rule had a price on the card for taking the gain, set from the size of the market's recent swings, and the position touched it in the middle of the afternoon. The executor sold, wrote a line to the log, and the name was gone from the board by the time I looked.
+The trade is working. You bought in the morning at the level you had planned, and by eleven it is up more than you expected. It hits your target. You meant to sell there. You wrote it down.
 
-I was pleased for about a day.
+But it is still going, and selling now seems foolish. The move is strong; the tape is full of buyers. You move the target up. Then, because a move this strong deserves more size, you add, at a price well above where you started. The position is now twice what you planned, and so is the profit. You feel very calm, the way a person feels just before he makes a mistake.
 
----
-
-Then the name kept going. Not dramatically; it did what strong names do, which is to keep being strong for longer than seems reasonable. Each morning it was a little higher than the price I had sold at, and each morning I did the arithmetic I had promised myself I would not do: what the position would be worth if I had simply held it.
-
-By the second week the arithmetic had turned into a proposal. The target was the problem, I decided. A fixed target caps every winner. What the rule needed was a trailing stop instead: let the winners run, and step out only when they turn. It is a respectable idea, and many good rules use one. I had the change half written before I noticed what I was doing.
-
-I was rewriting a rule because of one trade. Worse, I was rewriting it because of the one kind of trade the rewrite would have helped: the trade that keeps going. I was not thinking about the others.
+At one o'clock the buying stops. Not with news; it simply stops. The price slips back to where you added, then below it. Now the second half of your position is losing money and the first half is giving back its gain. You hold, because selling would mean admitting that the morning's profit was real and you let it go. By the close the trade that hit its target at eleven is a small loss. You sit for a while after the bell, replaying the moment at eleven, the one where you had it.
 
 ---
 
-So I went and looked at the others. Not by changing the rule, but by asking what the target had done across every trade the rule had taken in its test. The test had been run with the target in it, and frozen with it. The target was not decoration. It was part of what had been tested.
+You did not misread the market. At eleven you read it exactly right, and you wrote the right exit. What happened after was filling the cup. Every addition, every raised target, was a little more water poured into something that was already full. *To hold it and fill it to the brim is not as good as stopping in time.*
 
-What I found was not a number I am going to print, and the number does not matter. What mattered was the shape. For every name that kept running after the target, there were names that touched the target and then came back down, sometimes all the way through the entry. In those, the target had taken the gain while it was there. A trailing stop would have given part of it back while waiting to be sure. I had not been thinking about those trades, because they did not stay on my mind. A name that falls after you sell it is not interesting. You forget it by lunch.
-
-*To hold it and fill it to the brim is not as good as stopping in time.* Full size at the top is not where gains are kept. It is where they are given back, a little each day, by someone waiting for a better exit.
+And notice the hall of gold. Once the open profit was large, you were not trading any more. You were guarding. Every tick down felt like a theft. A trader standing guard over a number does not see the market. He only sees the number getting smaller.
 
 ---
 
-I did not throw the idea away. The model on the desk is allowed to propose anything, and so am I; neither of us is allowed to edit a frozen rule. The trailing stop went into the ledger as a new trial, with its own card and its own forward test, to be judged over a season against the rule it wanted to replace. That is where every good idea goes, including the good ideas I have about my own rules after a trade I did not enjoy.
+Now the same morning, the other way.
 
-The target stayed. It stayed not because I had proved it better, but because it was what had been tested, and one trade running away is not a test. If the trial ever says otherwise, the rule will change by the front door.
+The trade works and reaches the target at eleven. You sell, as you wrote. The price keeps going up. It goes up another two percent while you watch. You let yourself feel exactly how much money that is. It is real money and you do not have it. You notice the urge to buy back in, and you notice that it is the same urge that adds to a winner, only wearing different clothes.
+
+Then you do the second part, which is harder. *When the work is done, step back.* The plan for the day is complete. You close the platform, or at least the order ticket, and walk away from the desk. You go outside. You eat lunch somewhere without a screen. The rest of the day's move belongs to someone else, and so do the rest of the day's mistakes.
+
+At one o'clock the buying stops and the price slips back. You do not see it. You hear about it later, maybe, and you feel nothing in particular, because there was nothing of yours in it.
+
+On a different day the price does not slip back. It closes at the high, and you left a great deal on the table. That day comes too. You let it come. It is the price of all the afternoons that would have looked like the first one.
 
 ---
 
-*When the work is done, step back. That is the way of heaven.* The work of a trade is done when the rule says so. What the name does after that belongs to someone else. I find it easier now to let it, partly because the rule is written that way, and partly because I remember the second week, and how reasonable it all felt.
+We are raised to believe that more is always better, that stopping short is a failure of nerve. The old book says the opposite. A cup is useful when it is not full. A blade lasts when it is not sharpened to nothing. The trader who stops in time, and gets up from the desk once the work is done, arrives home with something in his hands.
+
+What is left of the day, you spend on something that is not trading.
+
+## Try This
+
+For your next ten winning trades, sell at the exit you wrote before you entered, every time, with no raised targets and no adds. On the days your plan is complete before the close, close the platform and leave the desk. Keep a note of what you left on the table and what you did with the afternoon.
 
 ---
 

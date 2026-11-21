@@ -18,75 +18,67 @@ Where trust is not enough, there is no trust.
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. A whirlwind does not last the morning. The loudest move of the day is usually early, and usually not repeated at the same speed.
+When the market moves big, it means something. A three percent gap down in the index is the start of something, and you need to be positioned for the rest of it. Panic feeds on panic; selling brings more selling. If you wait, you miss it. The biggest days are where the money is, and the trader who leans into them, who presses while everyone else is frozen, makes his month in a morning. A day like this tells you the direction. You were taught to rise to the occasion: when the moment is big, you act big.
 
-2. Do not size a trade for a move to keep going at the pace you just watched. The pace is the first thing to fade.
+## The Other Way
 
-3. Heaven and earth cannot keep it up. Neither can the buyers who chased the open.
+1. *A whirlwind does not last the morning.* The wildest part of the day is usually the part that ends first.
 
-4. To speak little is natural. The quiet tape is the normal one. The loud one is the exception, and exceptions are poor things to build a rule on.
+2. *A downpour does not last the day.* The fear you feel at a quarter to ten is not the fear you will feel at two.
 
-5. A gap chased is a price paid for someone else's urgency.
+3. *Who makes them? Heaven and earth.* You did not cause this move, and you cannot make it go on.
 
-6. If your rule does enter after a gale, it does so with a size and a stop set for the weather after the gale, not during it.
+4. *If even heaven and earth cannot make them last, how much less can people?* No crowd can sell at that speed for long. Something runs out: the sellers, or the fear.
 
-7. Watching from the side is not missing out. It is the cheapest seat in the house, and the view is the same.
+5. *To speak little is natural.* On the loudest day, the market says the most and means the least.
 
-8. Whoever follows loss becomes one with loss. Chase whirlwinds, and you join the crowd that chases them, and you share its mornings.
+6. The size of a move tells you how much has happened. It does not tell you how much more will.
 
-9. Where trust is not enough, there is no trust. The trader who does not trust his rule on a quiet day will not trust it in a storm.
+7. *Whoever follows loss becomes one with loss.* Trade inside the panic and you become part of it. Panic is glad to have you.
 
-10. Wait for the morning to end. By lunch the whirlwind will have told you what it was.
+8. You do not have to act during the storm. You only have to still be there after it.
+
+9. Shrink in the wind. On a wild day the same size carries twice the risk.
+
+10. *Where trust is not enough, there is no trust.* If you do not trust your plan on a quiet day, the loud day will find it out.
 
 ## The Story
 
-The news came overnight, and by the time I sat down the whole group had moved. Not one name; every name that did the same kind of business, all of them marked up hard before the open, as if someone had tilted the table under that corner of the market.
+You wake up and the futures are down hard. Before you are out of bed your phone has told you three times. The headlines are in the kind of words they save for days like this. By the open the index is down three percent, everything on your screen is the same colour, and the chat is moving faster than you can read it.
 
-The channels I still glance at were already loud. People posting their fills. People asking whether it was too late. People saying it was never too late on a morning like this. The word I saw most was *finally*, which is a word I have learned to treat as weather.
+It feels like the beginning of something. That is the first thing every trader feels on a morning like this. Whatever it is, it is big, and big things go on. You think of the crashes you have read about, and every one of them started with a morning like this one.
 
-The frozen rules had nothing to say about it. None of those names was on the board. The rules measure a move over weeks, and one morning, however violent, is not weeks. As far as the rules were concerned it was an ordinary day, and the entries on the board were the same dull handful they would have been if nothing had happened.
+You sell your longs in the first five minutes, at the open, because holding them feels unbearable. Then, because the selling is so violent, you short the index. It will keep going. Anyone can see it will keep going.
 
-So I watched. There was nothing else to do. That is the cheapest seat in the house, and I want to tell you what I saw from it.
+By half past ten it has stopped going. By eleven it has taken back a third of the drop. Your short is stopped out. Your longs, the ones you sold at the open, are trading above where you sold them. By the afternoon the market is quiet and a little down, the chat is talking about something else, and you have lost money twice on a day when, if you had done nothing, you would have lost a little once.
 
----
-
-I did one thing that morning that I had not done before, and I am glad I did it, because it is the reason I remember the day at all.
-
-I took a sheet of paper and wrote down, honestly, the trade I would have made if I had been trading by hand. Which name. Where I would have bought. And the size.
-
-The size is the part I want to describe, because I wrote it without thinking and only saw what I had done afterwards. I had sized for the move to keep going. Not in so many words. But I had looked at how far the name had come in the first half hour, imagined the next half hour doing the same, and picked a size that made that next half hour worth having. My stop was where the move would have to stop being a move, which in the first half hour of a gale is a long way away. A big size and a far stop: I had sized for the whirlwind as if it were the climate.
-
-Then I folded the sheet, put it under the keyboard, and went for a walk.
+That evening you replay the day. The most extreme five minutes of the week were the first five. You traded all of them.
 
 ---
 
-*A whirlwind does not last the morning, and a downpour does not last the day.*
+Laozi did not watch markets. He watched weather. *A whirlwind does not last the morning, and a downpour does not last the day.* It is not a forecast. It is an observation about violence: the more violent a thing is, the faster it spends itself. Heaven and earth can make a storm. They cannot make it last.
 
-When I came back it was nearly lunch, and the morning was over in the sense that matters. The names were still up, most of them. I am not going to tell you where they closed, and it does not matter here. What mattered was the pace. The pace was gone. The straight line of the first half hour had become a ragged sideways thing, a little up, a little down, the buyers of the open finding that there were fewer buyers behind them than there had been in front. The channels were quieter. Some of the posts had been deleted.
+A panic is a crowd selling all at once. A crowd can do that for a few minutes, for an hour, sometimes for a day. It cannot do it forever, because the sellers run out of things to sell and the frightened run out of fear. The very force of the move is what makes it short.
 
-I unfolded the sheet. The trade on it was not a disaster. That is the honest part. On that morning, in that name, it would have done something or other, depending on exactly when I got in. But the size was wrong for every minute after the first half hour. It was the size for a market that had stopped existing by ten o'clock. I would have been holding a position built for the gale, in the calm after it, with a stop placed for the gale, which is to say with a stop too far away for any loss I could have taken calmly.
-
-*Who makes them? Heaven and earth. If even heaven and earth cannot make them last, how much less can people?* The buyers at the open were people. They could not keep it up either.
+*Whoever follows loss becomes one with loss.* When you sold at the open you did not make a decision. You joined the storm, at its loudest, at its worst price. The storm was glad to have you.
 
 ---
 
-The second half of the story came weeks later, and I nearly missed it.
+The same morning, the other way.
 
-The rules size every position by how widely the market in that name has been swinging. A wild name gets a small position and a calm one a larger one, so that the same amount of risk is taken either way. On the evening of the gale, the swing measure for that whole group jumped, because the morning had been one enormous swing. Then, day after day, it came back down. Slowly. A measure like that has a memory. It does not forget a whirlwind just because the air is still.
+The futures are down hard and the phone is buzzing. You put it face down. At the open you do nothing at all for half an hour. Not because you know the market will turn; you do not. Because you know the first half hour of a day like this is the whirlwind, and nobody trades well inside a whirlwind.
 
-Some weeks later, one of those names finally did what the rules look for. It met the conditions, plainly, in the ordinary way, and the rule took it. I noticed the size on the board only because it seemed small. I looked, and the reason was there in the arithmetic: the swing measure still remembered the gale. The rule had entered after the whirlwind with a size and a stop set for the weather after it, and set by something that had watched the whirlwind without being impressed.
+You cut your size in half for the day, because the same position now swings twice as far. You look at your longs and ask one question: has the reason I own them changed, or only the price? If the reason has gone, you sell, calmly, at a time you choose. If only the price has moved, you leave them.
 
-I had not chosen that size, and I would not have. Left to myself I would have looked at a calm chart and sized it as a calm name. The rule was not wiser than me. It just did not forget as fast.
+By the afternoon the market is quiet. Perhaps you took one small trade, late, after the storm had spent itself. Perhaps you took none. The next week the day is a single long candle on the chart, already half filled in, and the panic that felt like the beginning of something is just a day that happened.
 
----
+To be still on the loud day is not to be slow. It is to be the only one who has not spent himself by noon. Most of life rewards rising to the moment. The market rewards outlasting it.
 
-I kept the sheet. It is a good document. It is the most honest record I have of what I am like on a loud morning: not reckless, not stupid, just quietly certain that the speed I am watching is the speed that will continue. Every chaser that morning was certain of the same thing. *Whoever follows loss becomes one with loss.* If I had joined them I would have shared their morning, and their lunch.
+## Try This
 
-There is a line at the end of this chapter that took me longest to understand. *Where trust is not enough, there is no trust.* I used to read it as a line about other people. I read it now as a line about the rule. On a quiet day it is easy to say I trust it. On the morning of a gale, with the channels loud and the board dull, trust is the only thing that keeps the hand off the keyboard. If I had not trusted it on the quiet days, I would not have trusted it then.
-
-The board that morning had its dull handful of entries, and nothing else. By lunch, the whirlwind had told me what it was.
+The next time the market opens with a violent move, set a rule before you look at the screen: no new trades in the first thirty minutes, and half your usual size for the rest of the day. Turn the phone face down. In the evening, note where the most extreme price of the day was printed, and watch what changes over a few such days.
 
 ---
 

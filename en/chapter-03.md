@@ -18,59 +18,73 @@ He keeps the people without cunning and without craving, so that the clever do n
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Do not display the desirable. A running profit in large green numbers is the most desirable thing on any trading screen, and the least useful.
+Money goes where the attention is. You learned that long before you traded: watch who is winning and get next to them, want what everyone wants, because that is what is worth having. In the market it is the same. The names moving most are the ones worth watching, and the traders worth following are the ones making the most. You keep the top gainers open and follow the best callers, and when a stock is the one everybody is talking about, you want in, because that is where the volume is. Scarce is valuable: the low-float name, the setup few people see, the room you had to be invited into.
 
-2. What is shown is watched, and what is watched is traded. Choose the screen before the screen chooses for you.
+## The Other Way
 
-3. Show the rule: the size, the stop, the reason, the day you will leave. Hide the running profit and loss, or make it small and grey.
+1. *Do not exalt the worthy.* The trader with the screenshot of a huge win is not your teacher. Raise him up, and you start trading against him instead of with the market.
 
-4. A number that changes every second asks for a decision every second. Almost all of those decisions are bad ones.
+2. Once someone is exalted, everyone contends. You stop asking whether the trade is good and start asking whether you are keeping up.
 
-5. Do not exalt the worthy: the trader at the top of the leaderboard, the screenshot of someone's best day. Comparison makes you contend, and contending makes you size up.
+3. *Do not prize goods that are hard to get.* The name nobody can borrow, the invite-only room, the setup only a few can see: rarity makes a thing feel valuable. It does not make it a trade.
 
-6. Do not prize what is hard to get: the perfect entry, the exact low, the last tick of the move. Chasing the rare price is how you miss the ordinary one.
+4. Prize the hard-to-get and the people steal. A trader steals from himself: from his rules, his size, his sleep, to get the thing everyone wants.
 
-7. Empty the heart and fill the belly: fewer wants, more preparation. Weaken the ambition and strengthen the bones. The bones are the rules that hold up the account when the ambition gives out.
+5. *Do not display what is desirable, and the heart is not stirred.* The list of top gainers is a shop window. It was arranged to stir you.
 
-8. Build the screen for the person holding the position at their worst moment, not their best. That person needs the stop in front of them, not the score.
+6. You cannot stop wanting by deciding to. You can stop putting the wanted thing in front of your eyes.
 
-9. A quiet screen keeps the clever part of you from daring to act. That part is the most expensive part you have.
+7. *Empty the heart, fill the belly.* Fewer wants on the screen; more of what feeds you: sleep, a plan, a setup you know in your bones.
 
-10. Act without forcing, and the screen governs itself.
+8. *Soften the ambition, strengthen the bones.* The ambition is the size of the move you dream of. The bones are the routine that holds you up on a dull day.
+
+9. *So the clever do not dare to act.* The clever part of you invents reasons to chase. Give it nothing to look at, and it goes quiet.
+
+10. See less, and you see more clearly. A watchlist with no wanting in it looks boring. That is the point.
 
 ## The Story
 
-When I began building the screen that shows an open position, the first draft was the one every trading app has. At the top, in the largest type on the page, was the running profit and loss. It was green or red. It changed several times a second. Underneath, smaller, were the name, the size and the price paid. The stop was on a second tab.
+It is the second half hour of the open. On the right of your screen is the list you always keep up: the day's biggest gainers. At the top is a name you had never heard of last week. It is up forty percent. Below it the chat is moving faster than you can read.
 
-I did not design that layout. I copied it, without noticing, from every screen I had ever traded on. It took me a while to see that it was the wrong way up.
+You did not come in to trade it. You came in with three names you know and a plan for each. None of them is doing anything yet. The name at the top of the list is doing everything.
 
----
+Then the post appears. The trader everybody follows, the one whose screenshots get passed around, says he is in. He has been right on this kind of name before; you have seen the screenshots. Under the post, a hundred replies. Some are in. Some are asking whether it is too late. Nobody is asking whether it is a good trade.
 
-I tried an exercise that I still use. I pictured the person who would be holding the position at the worst moment of the trade. Not the moment of entry, when everything is calm and the plan is fresh. The moment when the price has gone the wrong way faster than expected: the morning after a gap, the last minutes before the close on a bad day. Then I asked what that person needs to see.
-
-They do not need the score. They already know it is bad; that is why they opened the screen. A large red number tells them only how bad, every second, and every second it asks for a decision. The decisions it asks for are the ones the verse warns about, the heart stirred by what is displayed. Close it now. Add to it, it is cheap. Move the stop, just this once.
-
-What that person needs is the plan they made when they were calm. How large the position is. Where the stop is, and that it is live. Why they entered, in one sentence written at the time. The day they said they would leave, if nothing else happens first. Those four things, at the top, in the largest type.
+You feel the pull in your stomach first. It is not greed exactly. It is the feeling of standing outside a room where something is happening. You tell yourself you will take a small piece, just to be involved. You buy near the high of the last candle, because that is where it is when you finally decide.
 
 ---
 
-So I turned the screen over. The rule went to the top: size, stop, reason, exit day. The running profit and loss went to the bottom, in small grey type, updated no faster than anyone can read. It is still there. Hiding it completely would have been its own kind of lie. But it no longer shouts.
+The next twenty minutes are not trading. You watch the name and you watch the chat, and the two move together. When it ticks up, the chat celebrates and you feel clever. When it pulls back, the chat goes quiet, and you go looking for his next post to tell you what to feel. He does not post. Later you work out that he was selling into the move you bought. He did not lie. He simply never said when he would leave, and nobody asked.
 
-Something else came off the screen too. The first draft had a row of buttons along the bottom: close, add, move stop. They were large and easy to press, the way buttons are on every app. I kept close, because an exit must never be hard. I put the other two behind a step that asks for the reason first, in a sentence, and records it. Adding to a position, or moving a stop, is a decision the calm person can make. The screen should not make it easy for the other one.
+By lunch you are down on the trade, and your three names have done what you planned for them, without you. Two of them would have worked. You missed them because your eyes were on the window.
 
----
+Look at what happened. The name did not come to you through your plan. It came through a display: a list built to show you what was moving, a voice raised up so that thousands would listen. *Do not display what is desirable, and the people's hearts will not be stirred.* Your heart was stirred because something desirable was put in front of it, every few seconds, all morning.
 
-The first person I tested it on was myself. I had a position that went against me in the first hour of the day, the ordinary kind of move that is inside the plan but does not feel like it. I opened the screen, and the first thing in front of me was the sentence I had written the evening before, saying why I had entered. Below it was the stop, live, at the price I had chosen. Below that, small, a grey number I could read if I wanted to.
-
-I read the sentence. It was still true. I closed the screen.
-
-That is the whole of what the screen is for. Not to inform the holder, exactly; the information is all available somewhere. It is there to put the calm person's words in front of the anxious person, before the anxious person can do anything.
+And once one trader is exalted, everyone contends. You were not trading against the market that morning. You were trading against him, against his screenshot, against the feeling that others were getting something you were not.
 
 ---
 
-*Do not display what is desirable, and the people's hearts will not be stirred.* I used to read this as a line for rulers about luxury goods. On a trading screen it is a line about layout. What is largest gets watched, and what is watched gets traded. Build the screen for the holder at their worst moment, and the clever part of them, the part that wants to act, will not dare.
+The other way starts before the open, and it is mostly taking things away.
+
+Close the list of gainers. Not forever, and not as a punishment; just during the hours you trade. Mute the chat, or leave it in another room. Unfollow the voices whose main product is the fear of being left out. You will not be less informed. You will be less stirred.
+
+What is left on the screen is small: the few names you know, the levels where you would act, and the size you would act with. It looks dull. *Empty the heart, fill the belly.* The emptiness is the absence of wanting. The fullness is the plan, the sleep, the setup you have taken a hundred times.
+
+Now the same morning plays out. Somewhere a name is up forty percent. You do not see it, so it does not pull. One of your three names reaches its level and you take the trade, normal size, with the exit written down. It works, or it does not. Either way it was yours.
+
+In the evening you may hear about the forty percent name. Someone will mention it. You will feel a brief pinch, the old one. Notice that it tells you what was in the window that day, not what you lost. You were never going to own every move. The only question was which moves you would let choose you.
+
+---
+
+We are raised on the opposite lesson. Look at the top of the class, the richest neighbour, the loudest success, and want to be there. Laozi turns it round: the less you are shown, the less you want, and the less you want, the more clearly you see. The sage does not forbid the people from wanting. He stops putting the wanted thing in the window.
+
+You cannot argue yourself out of the pull of a hot name at ten in the morning. You can decide at seven, when nothing is moving, what you will let yourself see at ten.
+
+## Try This
+
+For your next five sessions, close the list of top gainers and mute the chat from the open until you stop for the day. Before the open, write down the few names you know and the levels that matter to you, and look only at those. At the end of the week, note which hot names you heard about afterwards and how it felt to hear. Watch what changes in the trades you did take.
 
 ---
 

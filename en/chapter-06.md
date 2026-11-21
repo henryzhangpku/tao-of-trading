@@ -10,65 +10,65 @@ The spirit of the valley does not die. It is called the mysterious female. The g
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. The valley is low, and so the water comes to it. Trade where the water still flows.
+Nobody hands you anything. You go out and get it. That is how you got your job, your clients, everything you have: you hustled while others waited. Trading rewards the same drive. The trader who scans more names finds more trades. When the market is slow you dig harder, run another screen, check another sector, because the opportunities are out there for whoever is willing to hunt. A good trader is always looking. Sitting still is how you miss the move.
 
-2. Deep markets, tight spreads, real volume, a fresh quote: these are the valley. Many people are on the other side, and one of them will take your position back.
+## The Other Way
 
-3. A thin market is a hilltop. It is easy to climb onto and hard to come down from.
+1. *The spirit of the valley does not die.* The valley does not go looking for water. It lies low, and the water comes down to it.
 
-4. Refuse the entry when the market is thin. The refusal costs you a trade you did not need.
+2. The hunter tires and the valley does not. A trader who hunts all day spends his best attention before the trade arrives.
 
-5. Never block the exit, in any market. A refused exit can cost you the account.
+3. *The mysterious female.* Receptive is not passive. A valley is shaped, deep, and ready. Your levels, your names and your size are the shape.
 
-6. The rule is lopsided on purpose. Care at the door on the way in; no door at all on the way out.
+4. What you go out and find, you have half made up. What comes to your level on its own, you can see clearly.
 
-7. The valley does not die because it never stands up. Small, low and liquid: the trader who stays there survives every season.
+5. A trade you hunted carries the effort of the hunt. You will hold it longer than it deserves, because it cost you something to find.
 
-8. Unbroken, as if barely there. The position you can leave in a moment is the one you can hold calmly.
+6. *The gate is the root of heaven and earth.* The order ticket is a gate. Let the trade come through it. Do not drag the trade in by the collar.
 
-9. Draw on it and it is never used up. A deep market does not notice your orders. A thin one remembers every one.
+7. A slow market is not asking you to work harder. It is telling you there is nothing to receive today.
 
-10. The root of heaven and earth is the low place. Before you ask how far a trade can go, ask how you will get out of it.
+8. *Unbroken, as if barely there.* The waiting trader looks idle. His attention is quiet and continuous, like a stream under the grass.
 
-11. Liquidity is not a property of a name. It belongs to a moment. A market that is deep at noon can be thin at the open and empty in a panic. Check it each time, at the time.
+9. *Draw on it and it is never used up.* Hunting burns you out in a season. Receiving can go on for a working life.
 
-12. The valley gives birth without end. A deep market keeps offering prices; your only job is to be small enough to take one.
+10. Still is quick. The one who waits at the right place is there first when it comes.
 
 ## The Story
 
-The first universe I built for a rule had everything in it. I thought that was the point. More names meant more chances, and more chances meant the rule would find its setups more often. I pulled in every listed name I had data for, down to the smallest, and ran the test.
+It is a slow Thursday. The market opened flat and has gone nowhere for an hour. The names on your list are drifting in tight little ranges, and none of them is near a level you care about.
 
-The test looked wonderful, and most of the wonder came from the bottom of the list.
+You cannot stand it. You came here to trade. So you start hunting. You run a scan for unusual volume and get thirty names. You flick through the charts one by one, and somewhere around the twelfth one you find something that could be a breakout, if you squint. You read a little about the company. You draw a line on the chart that was not there a minute ago. You buy.
 
----
-
-It took me an embarrassingly long time to see why. The smallest names had the prettiest histories. Their charts moved in clean, wide swings, the kind a rule can catch. The backtest bought them at the closing price and sold them at the closing price, as if a closing price were a place you could stand. In a deep market it nearly is. In a thin one the closing price might be a single trade between two people, and there might be no third person there the next morning.
-
-The backtest had no way to know that. It assumed that every price on the chart had a crowd behind it. In the names at the bottom of the list, many prices were a hilltop with one person on it.
-
-So I asked the question I should have asked first, and I have asked it of every universe since: on the worst morning of the year, who will take this position back from me?
+It does not break out. It drifts, like everything else today. You move on and hunt again. By two o'clock you have taken five trades on names you had not heard of at breakfast. Each one felt like a find. Together they are a small loss and a large tiredness. Your eyes ache. You have read more about five companies today than you will remember by Monday.
 
 ---
 
-In a deep market the answer is: someone, always. Many people are on the other side, for many reasons, and on a bad morning some of them are still there, because some of them were going to buy anyway. The spread widens but it does not vanish. The price drops but it does not stop printing. The water still flows in the valley when the hills are dry.
+Look at how those trades were made. Not one of them came to you. You went out and fetched each one, and the fetching changed what you saw. After forty minutes of searching, the twelfth chart looked better than it was, because you needed it to. You had paid for it with your attention, and a thing you have paid for is hard to see plainly.
 
-In a thin market, on the worst morning, the answer can be: nobody, at any price you would accept. A stop is only a promise to leave at a price. If nobody is there at that price, the promise is not kept.
-
-I redrew the map. The universe became the low places: the names with real volume, tight spreads and fresh quotes, where my orders would be a drop in the stream. The list got much shorter. The test got much plainer. The prettiest charts went away, and I let them go.
+And there is the cost no statement shows. When the market finally woke up at three, and one of your own names came down to your level the way you had planned for weeks, you were spent. You saw it, and you hesitated, and you took it at half size because the day had already gone badly. The real trade arrived to a tired trader, and a tired trader gives the real trade the same half-hearted attention he gave the five he invented.
 
 ---
 
-There was one more thing to learn, and it is the line in the Trader section I would underline if I underlined things. Liquidity is not a property of a name. It belongs to a moment. A name that is deep at noon can be thin in the first minute of the day, and nearly empty on a morning when everyone wants the same door.
+Now the same Thursday, the other way.
 
-So the floor is not checked once, when the universe is drawn. It is checked at the moment of every entry, with the numbers of that moment: the spread now, the quote now, the volume so far. If the moment is thin, the entry is refused, however good the setup. The exit is never refused, at any moment, because the exit is the reason the floor exists. Care at the door on the way in; no door at all on the way out.
+The market opens flat and goes nowhere. You look at your names, and at the levels where each would be worth acting on. None is close. You leave the screen up, get up, and refill your coffee. You do not run a scan. You come back and look once, the way you would look out of a window, then read something unrelated for a while. Every half hour you look again. Nothing is near. You do not go looking for something that is.
+
+It feels wrong, and it is meant to. Every habit you have says a professional is busy. But the valley is not idle. It has a shape. You worked on that shape before today: which names, which levels, what size, what would tell you that you are wrong. That work is done. What is left is to be there when the water comes down.
+
+At three it does. One of your names slides into its level. You are fresh. You have not spent a single decision since the open. You see it plainly and you take it at the size you planned, with the exit written down. Whether it works is up to the market. That you were ready was up to you.
 
 ---
 
-*The valley spirit never dies.* For most of my life I read the valley as an image of humility, and it is that. On the desk I read it more literally. The valley is low, so the water comes to it. It does not have to be clever or quick. It only has to be where the flow is.
+Every lesson about work you have ever had says to go out and get it. The valley teaches the reverse. It never moves, and everything flows to it. A trader who learns this is not lazy; he does the shaping before the session and the receiving during it. On a slow day, that means receiving nothing.
 
-The rule I trade is small, and it stays in the low places, and so far it has always been able to leave. That is not a boast about results. It is the only thing the valley offers. *Unbroken, as if barely there. Draw on it and it is never used up.*
+Most days are like that Thursday. You will spend a lot of your career waiting, and the waiting will look, from outside, like doing nothing.
+
+## Try This
+
+For one week, run no new scans once the session has started. Keep a tally on paper of every time you go looking for a trade you had not planned, and leave it at a tally. On a day when nothing reaches your levels, take no trade, and note at the close how fresh you feel.
 
 ---
 

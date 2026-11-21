@@ -18,73 +18,67 @@ Only because he does not contend, no one in the world can contend with him. The 
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Bend and be whole. Cut the loss, keep the account. The trade is the branch. The account is the tree.
+Do your homework, form a view and stick to it. Traders who flip-flop get chopped to pieces. If you were bullish at nine, you should still be bullish at eleven unless something real has changed, and a price move is not something real. Changing your mind because the market moved is letting it push you around. Conviction is what separates the professional from the tourist: he defends his view, adds when it gets cheaper, and is proved right in the end. You learned this long before you traded. People respect someone who stands his ground and does not back down.
 
-2. The arithmetic of the hollow is not even. Lose a tenth and you need a ninth back. Lose half and you need to double what is left. Bend early, while the way home is short.
+## The Other Way
 
-3. A stop is a bend you choose before the wind arrives. One chosen during the wind is a break.
+1. *Bend and you will be whole.* The trader who can change his mind keeps his account. The one who cannot keeps his opinion.
 
-4. Be crooked and you will be straight. The road that gives up a little now is the straight road. The one that refuses to give anything is the long way round.
+2. *Be crooked and you will be straight.* "I was wrong" at eleven is the straight road. Explaining at three why you were not is the long way round.
 
-5. Be hollow and you will be filled. After a loss the account is lighter, and a light account has room. A loss you have not taken has no room in it at all.
+3. *Have much and you will be confused.* A view with many reasons is hard to drop. Hold it for one reason, and you will know when the reason is gone.
 
-6. Be worn and you will be new. A small loss is cheap news. It tells you the idea was wrong today while there is still a today left to use.
+4. *He does not insist he is right, so he stands out.* The market does not need you to be consistent. It needs you to be current.
 
-7. Have little and you will gain. One rule, one size, one stop. Have much and you will be confused: three reasons to stay in, and none of them the plan.
+5. A view is not a promise. You did not give your word to the price.
 
-8. Hold to the one. The stop that was written is the stop. A second stop is not a refinement of the first. It is the first one broken.
+6. *Be hollow and you will be filled.* Empty out the morning view and there is room to see the afternoon.
 
-9. He does not insist he is right. Being right about the idea and wrong about the day is still being wrong today. Leave, and be right later.
+7. *Be worn and you will be new.* A view you have changed is not damaged. It is the newest one you have.
 
-10. Only because he does not contend. You cannot win an argument with a price. You can only leave it, or be carried by it.
+8. Flip-flopping and bending are different things. Flip-flopping is changing your mind for no reason. Bending is changing it because the reason you held is gone.
 
-11. Be whole, and return to it. The point of a stop is not to be out. It is to be able to come back.
+9. *Only because he does not contend, no one can contend with him.* You cannot win an argument with a price. You can only leave it.
+
+10. *Be whole, and return to it.* Out of the trade with the account intact, you can be bullish again tomorrow, at a better price, with no shame attached.
 
 ## The Story
 
-The losses I remember are mostly not the large ones. A large loss teaches one lesson, and you learn it so hard that you never have to look at it again. The one I come back to most was so small that I would not have found it on the statement without looking for it.
+You have a view this morning and you have said it out loud. Before the open you told the chat you were long, and why: the market held the low from last week, buyers stepped in twice, the next leg is up. A couple of people agreed. One asked where you would be wrong. You said under last week's low.
 
-It was an ordinary morning trade from an ordinary rule. Before the order went out I filled in the card the way I always do: the reason for the trade, the most it could lose, the stop, the day I would leave if nothing happened. The stop was where the rule said it should be. I sized from it, so that if it was hit the loss would be a set slice of the account and no more. All of that was done before the open, slowly, with coffee.
+An hour after the open, the market goes under last week's low.
 
-The order filled. Within the first quarter of an hour the price drifted down to the stop and touched it. Not through it in any real sense. It touched it the way a hand touches a hot pan: barely, and then away.
+You do not sell. You look at the low again and decide it was not really the low; the real one is a little further down. You notice the selling is on light volume. You remember the two times buyers stepped in. None of this occurred to you at nine, but all of it is true, and it gives you a reason to stay. Underneath the reasons is a simpler thing you do not look at. You said it in front of people.
 
----
+By lunch you are down more than you planned to lose on the whole day. Someone in the chat asks how the long is going. You type that it is a shakeout. You buy a little more to prove it.
 
-The first thought was that this was noise. It was. The opening minutes are full of it. The second thought was that the stop was only a little too tight, that a line drawn a fraction lower would have been just as reasonable that morning. That was true too. The third thought was the dangerous one, because it came dressed as experience: *you know how this name trades in the first hour; give it room.*
+At the close you sell, near the low of the day, because you cannot hold it overnight. The loss is not the worst part. The worst part is that you knew at ten thirty, at the price you had named yourself, and the only thing between you and the exit was having said it.
 
-Every one of those thoughts was reasonable. That is the trouble with them. A stop is never broken by a stupid reason. It is broken by three reasonable ones arriving at once, at the moment when acting on any of them only means doing nothing.
-
-I took the stop. The rule took it, to be exact. The exit was already sitting at the broker, and all I had to do was not cancel it. I watched it fill. The loss was a small, plain number, smaller than the noise of a normal day.
-
-Then the price turned around. By lunch it was well above where I had bought. By the close it had done roughly what the trade had been for.
+That evening you replay the day, and you see something you did not want to see. The market never asked you to be consistent. Nobody in the chat will remember on Friday what you said at nine. The only one holding you to the morning view was you, and you held yourself to it at the price of the whole day.
 
 ---
 
-I want to be honest about what that felt like, because the books usually skip it. It did not feel like discipline. It felt stupid. I had been right about the idea and had a loss to show for it, and the loss was there only because I had obeyed a line I had drawn myself a few hours earlier. If I had done nothing, which is to say if I had cancelled one order, the day would have been a good one.
+Laozi's line is the opposite of everything we are taught about character. *Bend and you will be whole.* We are told the tree that bends is weak and the one that stands is strong. He says the one that bends is the one still standing after the storm, with all its roots.
 
-I counted the mornings like that one. Not the outcomes; the moments. Every time a trade of that rule had touched its stop in the first hour. Some had come back, as this one did. Others had not. They had touched the stop, gone through it, and kept going down the rest of the day, sometimes the rest of the week. On the screen, at the moment of touching, the two kinds looked the same. I could not tell them apart in the log afterwards, and I certainly could not have told them apart at the time, with my money in one of them and a reason to hope.
+*He does not insist he is right, so he stands out.* In the market, insisting is expensive in a precise way. Each minute you defend the view, you are paying to keep it. The price does not argue back. It simply keeps the bill running.
 
-So the real choice that morning had never been between a small loss and a good day. It was between a small loss every time, and a policy of *giving it room* that would be right some mornings and, on the other mornings, would turn a small loss into whatever the market felt like. The first is a cost you can size for. The second cannot be sized, because nobody knows how far *room* goes.
-
----
-
-Mark Spitznagel, in *The Dao of Capital*, builds a long argument on the roundabout path: the indirect route, where you give up something now in order to stand better later. He measures it in years and in the structure of capital. I meet the same idea at a much smaller scale, inside one morning. The small stop is the roundabout path. It looks like a step backwards. It is the step that keeps the next step possible.
-
-Laozi's line is older and shorter than either of us. *Bend and you will be whole.* I used to read it as a line about humility. That morning I read it as a line about a tree in wind. The branch that bends loses some leaves. The branch that refuses to bend is fine in every wind but one.
-
-*Be worn and you will be new.* The small loss was information, and it came cheap. It told me the trade had failed to do what it was for on that morning, and it told me while I still had the whole account, a clear head and the rest of the day. Every hour I did not take it, the same information would have cost more.
+*Have much and you will be confused.* At nine you had one reason to be long: the low held. By eleven you had five, and none of them was the one you started with. That is how you know a view has become something you are defending. The reasons multiply as the first one dies.
 
 ---
 
-Why is that the stop I remember, and not one of the hundreds of others? Because it was the most expensive kind. Not in money. In money it was nearly nothing. It was expensive in being right. Most stops come with the small comfort that the trade was bad. That one came with proof that the trade was good, and it was still the right stop to take.
+Now the same morning, the other way.
 
-After that morning I added one line to the bottom of the card, under the stop. It does not say anything clever. It says: *the stop is not a forecast.* A stop does not claim the price will keep falling. It claims only that I will not find out at any size larger than this one.
+At nine you are long and you have said so. At ten thirty the market goes under last week's low. You sell. You type two words in the chat: *wrong, out.* For about a minute it feels like shame. Then it feels like nothing, which is better than it sounds. You have no view. *Be hollow and you will be filled.*
 
-The price came back without me. The rule's next trade came the following week, with the same account behind it, whole.
+An hour later, with nothing to defend, you can see what the market is actually doing. Perhaps it keeps falling, and you watch from outside, small loss already behind you. Perhaps it steadies at a lower level and starts to build, and you buy it again there, with a new stop under the new low. Twice in a day you changed your mind. Both times for a reason.
 
-*Be whole, and return to it.*
+The trader in the chat who never changes his mind is admired. He sounds sure. He is admired right up until the week his account cannot stand any longer. The one who bends is not admired. He is still there.
+
+## Try This
+
+This week, when a trade reaches the price you named as wrong, say or write two words before anything else: *wrong, out.* Then close it. Do not explain it to anyone, including yourself, until the end of the day. Watch what changes in the hour after.
 
 ---
 

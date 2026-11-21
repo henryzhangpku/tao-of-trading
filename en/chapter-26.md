@@ -18,73 +18,67 @@ How can the lord of ten thousand chariots treat himself lightly before the world
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. The heavy is the root of the light. The risk limit is the root of the trade. Write it first, before a single entry rule.
+Speed is the edge. The fastest trader gets the best fill. When the headline hits, you react in the first second, not the tenth. If you are wrong, flip; long to short in a breath, no ego. Keep every dollar of the account working and move it quickly from one chance to the next. Never be stuck, never be slow, never carry dead weight. The best traders are light on their feet, in and out, attached to nothing. Everything around you says the same: the quick get ahead, and whoever hesitates is lost.
 
-2. Three questions come before any setup: how much may the day lose, how much may the week lose, and what happens when it does.
+## The Other Way
 
-3. The arithmetic is plain. A limit of a fiftieth of the account a day, hit five days running, leaves a little over nine tenths. A limit you set after the first bad day has no such arithmetic.
+1. *The heavy is the root of the light.* Every quick trade stands on something slow: the part of the account you never risk.
 
-4. Stillness is the master of haste. The limit is set while you are calm, and enforced, while you are not, by something that does not feel haste.
+2. *Stillness is the master of haste.* The still part of you decides. The quick part only carries it out.
 
-5. Never leave the baggage wagons. The stop, the size and the limit travel with every trade. A trade without them is a sightseeing trip.
+3. *The sage travels all day and never leaves the baggage wagons.* However fast you trade, keep your base capital behind you, out of the fight.
 
-6. Splendid sights: the setup that looks too good to size small. Stay at ease, above it. It gets the same size as the dull one.
+4. The wagons are not dead weight. They are what feeds the army tomorrow.
 
-7. When the daily limit is hit, the day is over. Not reduced. Over.
+5. *Though there are splendid sights, he stays at ease.* A fast move across the screen is a splendid sight. You can watch it without riding it.
 
-8. The lord of ten thousand chariots does not treat himself lightly. One account, one life of it. Do not stake the whole of it on one morning.
+6. A trader who can react to anything is moved by everything.
 
-9. Be light and you lose the root. An entry rule with no limit behind it is a branch with no tree.
+7. *How can the lord of ten thousand chariots treat himself lightly before the world?* Your account is your whole army. Do not send all of it after one headline.
 
-10. The limit is heavy because it is boring. Keep it boring. The day it becomes interesting is the day you are about to move it.
+8. *Be light and you lose the root.* A trader who flips from long to short in a second has no position, only reflexes.
+
+9. *Be hasty and you lose the master.* Haste makes the decision, and you find out afterwards what you decided.
+
+10. Quick hands are fine. A heavy seat beneath them is what makes them safe.
 
 ## The Story
 
-When I began building the system I trade on now, the first file I wrote had no entry rule in it.
+It is a few minutes after ten when the headline hits. You see it before most people. You are fast; that has always been your pride. In two seconds you are long.
 
-I remember the evening because I had to talk myself out of the interesting part. A new system is an empty folder and a great deal of appetite, and the appetite is all for entries: the signal, the setup, the clever thing that will find trades. That is what people ask about. That is what I wanted to write. I had a notebook of ideas for it.
+The first move goes your way, and then it doesn't. Someone has read the second paragraph. The price turns. You are fast here too: you sell, and then, because it is falling hard, you go short. Then someone else decides the headline was not so bad after all, and the price turns back. You flip again.
 
-Instead I wrote a file called, plainly, risk. It had three things in it. How much the account may lose in one day. How much it may lose in one week. And what happens when either is reached. That was the whole file. It was short and dull, and it took me most of an evening, because the third line was harder than the first two.
+By half past ten you have traded the headline six times. Each trade was quick. Each was small. Each lost a little, and the commissions lost a little more. You never once sat still long enough to see what the headline actually meant to the market, because you were busy meaning something to it first.
 
----
+In the afternoon a real setup appears, the kind you wait for. You are down on the day now, and tired, and the account is smaller. So you take it at triple size, with margin you do not normally touch, money you think of as the reserve. It works for ten minutes. Then it does not.
 
-The first two lines are arithmetic, and arithmetic is easy to write when nothing is at stake. You choose a slice of the account small enough that losing it on a bad day is an ordinary event, and small enough again that losing it several days running leaves you most of what you had. You work it through on paper. You do it on an evening when you have no positions, because that is the only time you can do it honestly.
-
-The third line was where I nearly went wrong. My first draft said that when the daily limit was reached, the system would cut its size for the rest of the day. It sounded moderate. It sounded like the kind of thing a sensible person writes: not panic, just caution.
-
-I read it again the next morning and saw what it was. A rule that reduces size after a bad morning is a rule that keeps trading after a bad morning. It leaves the door open, a little, to exactly the version of me who should not be walking through it: the one who has just lost, wants it back, and has a smaller size to tell himself he is being careful with. I crossed the line out and wrote: *the day is over.* Everything open is closed. Nothing new is accepted until the next session. Not reduced. Over.
-
-*Stillness is the master of haste.* The limit was written while I was still. It would be enforced while I was not, by something that does not feel haste at all.
+That evening you look at the account. The trading part is down. The reserve, the part that was never supposed to trade, is down too. You left the wagons behind somewhere in the afternoon, and you did not notice when.
 
 ---
 
-Then I did something that still makes me smile, because it looked so backward.
+*The heavy is the root of the light. Stillness is the master of haste.* We usually read these as opposites: heavy against light, still against quick. Laozi does not set them against each other. He says one is the root of the other. The tree can move its branches in the wind because the trunk does not move.
 
-I had a limit and no strategy. The system could not yet find a single trade. But I wanted to watch the limit work before anything I cared about depended on it, so I gave the system the only strategy that needed no thought: dice. It picked names at random, at random times, at the size the risk file allowed, on paper. It was the same random control that the forward books are scored against now, but in those early weeks it had a different job. It was there to lose money on purpose so that I could see the limit catch it.
+*The sage travels all day and never leaves the baggage wagons.* An army can march fast for a day without its supplies. It cannot march the next day. The wagons are slow. They are also the reason there is a tomorrow.
 
-It did, of course. Dice have bad days. On the first one, the log said what it was built to say, everything closed, and the board stopped accepting orders. I sat and watched the board refuse to do anything else for the rest of the session, and I felt something I did not expect. Not satisfaction. Relief that it was boring. The limit did not hesitate, did not argue, did not ask whether this might be a special day. It did what one line in a short file said, and then nothing.
-
-Only after I had watched that happen a number of times did I begin on the first entry rule. By then the entries had something to stand on.
+For a trader the wagons are plain. They are the money that does not trade. Not the money that is waiting for a better setup; the money that is never put at risk at all, so that the account still exists after the worst week you will ever have. Every quick trade you make is light because that money is heavy. Use it once to catch up, and you are no longer light. You are unrooted.
 
 ---
 
-A friend who trades on their own account came by around that time and asked to see what I was building. I showed him the risk file, and the log of the dice losing money and being stopped.
+The same morning, the other way.
 
-"Where's the strategy?"
+Before the open, you set the reserve aside where you cannot reach it in a hurry, and you size the day from what is left. The headline hits at ten past ten. You see it. You do not move. You let the first minute go by, and the second.
 
-"There isn't one yet."
+In that minute, other people do the reacting. The price jumps, turns, jumps again. You watch it the way you would watch a storm through a window. *Though there are splendid sights, he stays at ease.* By the fifth minute the market has decided, roughly, what the headline means. If there is a trade in it, it is now a calmer trade, with a clearer place to be wrong. You may have missed the first move. You also missed the five that came after.
 
-I got the look you give someone who has built a car starting with the brakes. That is exactly what I had done. *The heavy is the root of the light.* The entry is the light part. It is where the attention goes, where the ideas are, where a model on the desk now proposes something new each morning. The limit is the heavy part. Nobody asks to see it. It does not change. And without it, every clever entry is a branch with no tree behind it.
+In the afternoon the real setup comes. You take it at your usual size, because the reserve is not on the table. It works or it does not. Either way, the wagons are still there in the evening.
 
-*So the sage travels all day and never leaves the baggage wagons.* The system I trade now will not accept an order that arrives without its baggage: a size worked out from the stop, a stop, and room under the day's limit. An entry that comes without them is refused before it reaches anything that could fill it. I did not add that check later. It was there before there was anything to check.
+Being slow by a minute costs you a little, now and then. Being light costs you the root. Nearly everything we are taught says hurry. Laozi says the one who sits heavy is the one who can still move tomorrow.
 
----
+## Try This
 
-I have changed many entry rules since, and every change goes into the ledger with its own fingerprint and its own test. The risk file I have changed very rarely, and never on a day when I had a reason to want it different. It is the oldest file in the system, and the most boring, and I would protect it before any of the others.
-
-*Though there are splendid sights, he stays at ease, above them.* The splendid sights are the entries: the beautiful setup, the idea that arrived this morning. The baggage wagons are a file with three lines in it, written on an evening when nothing was happening. I wrote it first so that I would never have to write it in a hurry.
+Tomorrow morning, before the open, write down the amount in your account that will not trade under any circumstances, and size the day from the rest. When news hits during the session, count slowly to sixty before you touch the order ticket. Do this for a week and watch what changes.
 
 ---
 

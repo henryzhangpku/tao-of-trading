@@ -18,61 +18,69 @@ Much talk soon runs dry. Better to hold to the centre.
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. The market does not know you are there. It is not against you, and it is not for you. Both halves are useful.
+Hard work pays. That is what school taught you, and your first job, and every story about anyone who made it: do the work and the reward follows. Trading is the same. If you read the filings, study the chart, and build a careful case, you have earned the trade. When you are right about the company, the stock should follow. When it does not, something is wrong: the market is irrational, someone is manipulating it, or you were robbed by bad luck. The market owes the trader who did the work, and sooner or later it pays.
 
-2. Straw dogs were made for a ceremony, honoured while it lasted and swept away after. Not cruelty: indifference. Your trade is honoured while it is open and forgotten when it is closed, by everyone except you.
+## The Other Way
 
-3. A perfect setup can fail for no reason you will ever find. Look in the logs once. If nothing is there, leave it there.
+1. *Heaven and earth are not kind.* The market does not know you did the work. It does not know you exist.
 
-4. Do not invent a reason. A story fitted to one loss is the first filter of the next overfitted rule.
+2. *They treat the ten thousand things as straw dogs.* A straw dog was dressed up for the ceremony and thrown away after. Your thesis is a straw dog. Honour it while you use it, and drop it when the ceremony is over.
 
-5. The market cannot prove you wrong, and it cannot owe you anything back. Nothing has to come back.
+3. Not kind is not cruel. The market did not take your money to hurt you. It took the same tick from everyone who stood where you stood.
 
-6. Being right is not a goal. There is no one to be right to.
+4. Effort earns you a better plan. It does not earn you a better outcome. Those are paid in different currencies.
 
-7. A position is not a statement. It is a shape you put on because that shape is usually paid. When the ground changes, change the shape. Nothing is conceded, because nothing was claimed.
+5. Being right about the company and being paid by the stock are two different events. Sometimes they arrive together. You do not get to choose when.
 
-8. The bellows is empty and never exhausted. The market will offer another trade tomorrow, and another after that. No single one is the last.
+6. *The sage is not kind.* Be indifferent to your own trades, too. The one you worked hardest on deserves the same stop as the one you found in five minutes.
 
-9. Much talk soon runs dry: the explanations, the post-mortems, the theory of what the market should have done. Hold to the centre: the size, the stop, the rule.
+7. *Like a bellows: empty, yet never exhausted.* The market keeps producing chances because it holds on to none of them. Neither should you.
+
+8. *The more it moves, the more comes out.* Every day brings new trades. Yesterday's injustice is not one of them.
+
+9. *Much talk soon runs dry.* The trader who explains why the market was wrong is still in the trade, arguing with it.
+
+10. *Better to hold to the centre.* Stop expecting fairness, and you stop being hurt by its absence. The less you ask of the market, the more steadily you can take what it gives.
 
 ## The Story
 
-The setup was everything the rule asks for. I remember it because there was nothing to remember about it: the conditions were met one after another, with room to spare. The market was deep, the spread was tight, there was no report due, and the size came out of the formula with nothing to argue about. The card was filled in the evening before, the stop written, the reason one plain sentence. It was the kind of trade the rule exists to take.
+You spent the weekend on this one. You read the last two years of filings, listened to the call twice, built a model of the next four quarters in a spreadsheet you are a little proud of. On Monday the case is clear in your head: the business is better than the price says. You buy before the open with more conviction than you have felt in months.
 
-It went against me from the open, and the stop filled before lunch.
+At nine forty a rival company in the same industry issues a warning. It has nothing to do with your company, which you know better than anyone in the chat. It does not matter. The whole group sells, and your stock goes with it. Down three percent, then five. The chat fills with people who have never mentioned your company before, and now have opinions about it.
 
----
-
-That is not unusual. A rule worth trading loses on a good share of its trades, and a stop that fills before lunch is a stop doing its job. What was unusual was what I did afterwards, which was to go looking for the reason.
-
-I went through the logs. The data feed had been clean. The order had gone out when it should, at the price it should. The stop had filled close to where it was written. There had been no news in the name that morning, nothing in its sector, nothing in the market as a whole that I could point to. I pulled up the chart at finer and finer scales, looking for the moment the trade had gone wrong, and there was no moment. The price had simply gone down, steadily, the way prices sometimes do, and then it had gone sideways, and by the close it had come partway back.
-
-I did not like that. A loss with a reason can be filed. A loss without one sits on the desk.
+The first thing you feel is not fear. It is indignation. *This is not fair.* You did the work. The people selling did not read a single page. They are selling because a different company had a bad quarter, and they cannot even tell the two apart.
 
 ---
 
-So I started making reasons. This is the part worth telling, because at the time it felt like diligence.
+So you argue. You post in the chat that the selling is irrational. You write a long reply to someone who says your company will warn next. You check the price after every sentence. Each time it is lower, you feel more right and more wronged at once. By noon you have written five hundred words and the stock is down seven percent.
 
-Perhaps the rule should avoid the first hour. I checked: the trade would have been entered at a slightly different price and stopped anyway. Perhaps a filter on the previous day's range. I could find one that would have excluded this trade; I could find several. Each was a sentence I could have written in the journal as a lesson, and each, if I had written it into the rule, would have been fitted to exactly one loss.
+You do not sell, because selling would be agreeing with them. You hold through your stop, because your stop was written for an ordinary loss and this one is an insult. You tell yourself the market will see the truth eventually. Maybe it will. You will not be there for it in any condition to act, because you have spent the day defending a straw dog as if it were alive.
 
-I recognised it in the end, because I had seen it on other desks: the story fitted to one trade, which becomes the filter, which becomes the next overfitted rule. The logs had nothing in them. I was putting something in.
-
----
-
-*Heaven and earth are not kind. They treat the ten thousand things as straw dogs.* The straw dogs were figures made for a ceremony, treated with care while it lasted and swept away after. Laozi is not saying heaven is cruel. He is saying it is not paying attention. The market had not done anything to me. It did not know I was there. My trade was one of thousands that morning, and it was swept away with the rest.
-
-That is hard to accept for someone who builds systems, because the whole point of a system is that things have causes. But a rule that wins on some of its trades must lose on others, and many of those losses will have no cause smaller than the market itself. The rule was never a claim that this trade would work. It was a claim about the shape of many trades. One trade cannot prove it wrong, and one trade cannot explain itself.
+*Much talk soon runs dry.* By evening there is nothing left to say, and the position is still open, larger as a share of your account than it was at the open, because everything else you might have done that day was left undone.
 
 ---
 
-I wrote the journal entry in the end, and it was short. The trade met the rule. The stop filled where it was written. The logs showed nothing wrong. No change.
+Now the other Monday.
 
-There is a column in the journal now for exactly that case. It says *no lesson*. It fills up faster than I expected, and I have come to like it. Every entry in it is a loss I did not turn into a filter. *Much talk soon runs dry. Better to hold to the centre.* The centre was the size, the stop and the rule, and all three had done what they said they would.
+You did the same weekend's work. You buy with the same case in your head and the same stop under it. At nine forty the rival warns, the group sells, and your stock falls. You feel the indignation arrive, because you are human. You notice it, and you name it: *I think I am owed.*
 
-The next morning there was another setup. The market did not remember the last one. By then, neither did I.
+Then you look at the price as if you had never read the filings. The weekend's work bought you a clear plan and a level where the plan is wrong. It did not buy you a different market. The stock reaches the level. You sell, at a loss, on a stock you still think is cheap.
+
+It hurts, and it is clean. You have not stopped believing in the company. You have only stopped asking the market to agree with you on your schedule. If the case is good, it will still be good next week, and you can buy it again from a calm place, with a fresh stop, without a grudge in the order.
+
+You close the chat without replying to anyone.
+
+---
+
+We are raised on the promise that effort is repaid in kind, and in a classroom it mostly is. *Heaven and earth are not kind* sounds cold the first time you hear it. For a trader it is a relief. Nobody is keeping score of your effort, so nobody is cheating you. The work gives you a better question to bring to the market, not a better answer from it.
+
+The straw dog is burned after the ceremony, and the next ceremony needs a new one. You go to bed with no argument left to win.
+
+## Try This
+
+The next time a trade you worked hard on goes against you, write one sentence before you do anything else: *What do I think I am owed?* Then manage the trade exactly as you would one you found in five minutes. Do not post or reply about it until the market has closed. Watch what changes.
 
 ---
 

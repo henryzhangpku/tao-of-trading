@@ -14,67 +14,67 @@ These three are ornament, and ornament is not enough. So give people something t
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. The uncarved block is the rule before you improved it: three lines you can say aloud, and a reason you can give for each.
+The market pays the trader who sees further than the next one. Anyone can draw a line under a pullback; that is already in the price. The edge belongs to whoever has done the deeper work: the second-order effect, the read-through from a supplier's earnings, the positioning, the flow, the angle nobody else has found. School taught you the same thing. The clever student gets the prize, and the more layers your answer has, the better the mark. In trading the layers are your edge. A simple idea is for beginners. The more you understand, the more you can take out of the market.
 
-2. Every filter is a cut. Each cut makes the block look more like last year. No cut has ever made it look more like next year.
+## The Other Way
 
-3. Cleverness shows in the backtest. Plainness shows out of sample. You are paid in only one of those places.
+1. *Cut off cleverness, and the people gain a hundredfold.* Not because the clever trade is always wrong. Because the clever trader cannot leave it when it is.
 
-4. A filter added while looking at a loss is a memory, not a rule. The market is not obliged to repeat your memories.
+2. A clever thesis has many parts, and each part is a place to be wrong without noticing. When one part fails, another part is still standing, and you stay.
 
-5. Cut off the sage. The guru and the forecaster are easy. The hard one is yourself, last night, with a clever idea.
+3. The plain setup fits in one breath: where you get in, where you are wrong, what you are waiting for. If it needs a paragraph, it is not a setup yet. It is an essay.
 
-6. Throw away skill and profit as things to show. A rule built to impress will be traded to impress.
+4. *These three are ornament, and ornament is not enough.* Cleverness makes a trade feel finished. It does not make it work.
 
-7. Count the parts. If each condition can be set five ways, a rule of three conditions was chosen from a hundred and twenty-five. A rule of eleven was chosen from nearly forty-nine million. The more a rule could have been, the less it means that it worked.
+5. The more you built the idea, the more it belongs to you, and the harder it is to sell when the price says no.
 
-8. Ornament is not enough. When a rule fails, do not decorate it. Go back to the plain version and ask whether that still stands.
+6. *Throw away skill.* A trade taken to prove you saw what others missed will be held to prove it.
 
-9. If the plain version does not stand, the carving was holding up nothing.
+7. Obvious setups do not stop working because they are obvious. They stop working for you when you are too proud to take them.
 
-10. Less self, fewer wants. Want the rule to be true more than you want it to be yours.
+8. *Show the plain silk.* Write the trade in words a friend who does not trade could follow. Cross out every word that is there to impress.
+
+9. *Embrace the uncarved block.* The idea before you improved it is usually the one you can still trade on a bad day.
+
+10. *Less self, fewer wants.* The trade does not have to show how much you know. It has to be one you can take, size and leave.
 
 ## The Story
 
-For one season I ran two screens side by side that were, underneath, the same idea.
+It is Sunday evening and you have a thesis. It took the whole weekend. Rates are turning, which matters for one sector more than the market has noticed. A supplier reported on Thursday, and if you read the numbers the way you read them, the larger company it sells to will beat next month. The stock has lagged its group. Short interest is high. There is a level on the chart where a lot of options sit. Each piece fits the next. You go to bed with the feeling every trader knows: you have seen something the others have not.
 
-The first was the idea as I had first written it down. Three conditions: what must be true of the market in a name, what must be true of its price, and how much to put on. I could have explained each of them to someone who does not trade.
+Monday morning you buy it, with a short in the index against it so the trade is clean. It is a good-looking position. You could explain it for twenty minutes.
 
-The second was the same screen after a winter of my attention. It had eleven conditions. I could explain each of those too, and that was the trouble. Every one had a story, and every story was a bad month. This filter kept it out of the names that fell apart one autumn. That threshold stepped around a week when everything gapped. Reading the file from top to bottom was like reading a diary of everything that had ever hurt the plain version.
+By eleven it is down two percent and the index is up. None of your pieces said that would happen. But because there are so many pieces, one of them is always still true. Rates are still turning. The supplier's numbers have not changed. The short interest is still there. You tell a friend on the phone that the market has not caught up yet. You believe it as you say it.
 
-On the past there was no contest. The carved screen's line was smoother and its bad stretches were shallower. If I had shown both curves to a room and asked which rule they wanted to trade, nobody would have picked the plain one. I would not have picked it either.
-
----
-
-What made me run both was the ledger. Every filter I had added over that winter was a recorded trial. The plain screen was the first entry in its family. The carved one was the last of a long column. I could not argue with the count, and I could not quite believe it either, because the carved screen looked so much better and I had made it.
-
-So I let the calendar decide. Both were frozen on the same afternoon, each pinned by its fingerprint, with the same start date, the same season to run and the same random control to be scored against. After that there was nothing to do, which is the hard part.
+On Wednesday you close it, for three times the loss you would have accepted on Monday, and you still think the thesis was right. Perhaps it was. It does not matter. A trade with ten reasons fails slowly, one reason at a time, and you pay for every one of them on the way down.
 
 ---
 
-About a month in there was a morning I remember. I was up before five, when the night's runs finish, and the two books were side by side on the board. Overnight the carved screen had refused a name that the plain screen took. It was refused by the seventh filter, the one I had written after that autumn.
+On the same Monday morning, on another screen, a stock in a steady uptrend pulled back to the level it had bounced from twice before. It held, and turned. You have traded that picture a hundred times. Get in near the level, get out if it breaks, wait.
 
-I felt the small satisfaction of a man watching his foresight at work. Then the name went up. Not a great deal. But the seventh filter had been built to keep out one kind of loss, and that morning it had kept out a gain of exactly the same kind. The filter could not tell them apart. Neither could I, when I wrote it. I had only ever looked at the ones that lost.
+You saw it and passed. It looked too easy. Everyone can see a pullback in an uptrend, and you had spent the weekend on something better. By Wednesday it had done what the picture usually does, nothing remarkable, a steady move in your favour if you had been in it.
 
-That is what a filter fitted to a bad month is. It is a description of the month. It removes everything that resembles the month, the good with the bad, and in the backtest you see only the bad being removed, because that is the part you were looking at when you made the cut.
-
-A plain rule is not wiser than a carved one. It has simply been told less about the past, so it has less to be wrong about when the future does not match. Three conditions can be wrong in three places. Eleven can be wrong in eleven, and in every place where one of them leans on another. The carved screen did not know more than the plain one. It remembered more, and the market was not asking it to remember.
+You were not in it, because it was beneath you.
 
 ---
 
-I am not going to give you either book's numbers. I can describe their shapes.
+Laozi says *cut off sageliness, throw away cleverness, and the people gain a hundredfold*. It sounds like an attack on thinking. It is not. It is a warning about what cleverness does to the one who owns it. The Sunday thesis was not wrong because it was clever. It was expensive because it was clever, because so much of you had gone into it that letting it go felt like admitting the weekend was wasted.
 
-By the end of the season the plain book looked like its own backtest. The same kind of good weeks, the same kind of bad ones, the rough places in roughly the proportions the past had shown. I recognised it. The carved book I did not recognise. Its smoothness was gone within weeks. What was left behaved like the plain screen with some trades missing, and the missing ones were not especially the bad ones. Eight extra conditions had bought a great deal of calm in the past and close to nothing in the present.
+*Cut off skill, throw away profit, and there are no thieves.* The thief in this trade was not the market. It was the thesis, which stole your exit three times: once when the first piece failed, once when the second did, once on the phone.
 
-There is a language model on the desk that proposes filters every morning. It is good at it, better than I am, and it does not get tired. Each proposal goes into the ledger as a trial with its own count. I used to think the count was there to restrain the model. That season I understood it was there for me. The model has no bad autumn to remember. I do.
+The plain setup has no such thief. It makes one claim. When the claim is false, you know at once, because there is nothing else for it to be right about. You take a small loss and you are free. When it is true, you have a trade you can sit in without needing to be brilliant.
 
 ---
 
-I kept the plain file. The carved one is still in the ledger, where everything stays, with its eleven conditions and its season attached. Sometimes I open it and read the filters the way you might reread old letters. Each one is a true account of something that happened to me. None of them turned out to be a fact about the market.
+None of this asks you to stop thinking on Sunday. Read, think, wonder. The work is in what you carry into Monday. Carry the block, not the carving: one setup, one level, one place where you are wrong. If the clever thesis is any good, it will show up as a plain setup on the chart sooner or later. Take it then, plainly, and leave the weekend's reasons at home.
 
-*Show the plain silk, embrace the uncarved block.* The carving was mine. The block was all the market ever gave me.
+Most of life teaches the opposite. Be smarter, add more, impress the room. In the market the room cannot be impressed, and the plain trader is the one who is still trading when the clever one has explained himself out of his account.
+
+## Try This
+
+Before each trade this week, say it aloud in one sentence: where you get in, where you are wrong. No reasons. If you cannot say it in one sentence, do not take it yet. At the end of the week, look at which trades you could leave quickly and which you could not, and watch what changes.
 
 ---
 

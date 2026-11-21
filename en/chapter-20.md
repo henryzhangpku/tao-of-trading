@@ -18,73 +18,63 @@ Ordinary people are bright; I alone am dim. Ordinary people are sharp; I alone a
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Give up learning. Not study: the morning intake. The forecast you read before the open is not knowledge. It is worry, delivered.
+The market punishes ignorance, so a good trader never stops learning. Read the classics. Take the course. Learn order flow, learn the options, learn the method the best traders in your feed are using this year. Every method is another tool, and the trader with more tools has an answer for more kinds of market. When a stretch goes badly, there is something you do not know yet, so you go and find it. It is how you were raised: the student who studies hardest gets ahead, and whoever stops learning gets left behind.
 
-2. Between yes and uh-huh, how far apart? Two forecasts that disagree are closer than they sound. Neither of them changes the stop.
+## The Other Way
 
-3. What others fear, you must fear. The risk is real. The forecast of the risk is not the risk.
+1. *Give up learning, and there is no worry.* Not giving up study. Giving up the hunt for the next method.
 
-4. The crowd is merry, as if at a feast: the morning note, the channel, the call for the year. The feast is free, and you pay for it in trades you would not otherwise have taken.
+2. *Between "yes" and "uh-huh", how far apart are they?* Two methods that seem to disagree are closer than they sound. Neither of them takes the loss for you.
 
-5. I alone give no sign. Having no view on the year is also a position, and the cheapest one to hold.
+3. *What others fear, I cannot fail to fear.* A few things must be learned: how big to trade, where you are wrong. They are short, and they do not change.
 
-6. Count last year's reading. How many forecasts changed a trade? Of those, how many helped? If you cannot say, you were reading for company.
+4. Every new method arrives with a winning streak attached. That is why you heard about it.
 
-7. Ordinary people are bright; I alone am dim. The trader who does not know what tomorrow brings, and trades as if he does not know, is the one standing on firm ground.
+5. *The crowd is merry, as if feasting at the great sacrifice.* The new course, the new indicator, the screenshot of someone's month. The feast is loud because it is new.
 
-8. Unsubscribe one at a time. Notice which one you miss. It is usually the one that agreed with you.
+6. A method half learned is worse than none. You will reach for it on exactly the days your own way is hurting.
 
-9. Calm, like the sea. The tide of news comes in and goes out. The level of the rule does not move.
+7. *I alone am still and give no sign.* Doing one thing for years looks like falling behind. It is the only way a thing is ever learned.
 
-10. Fed by the mother: price, size, stop. The rule eats prices, not opinions about prices.
+8. *Ordinary people are bright; I alone am dim.* Not knowing the latest method costs you a conversation. Switching to it costs you a year.
+
+9. *I alone am stubborn and rustic.* Be stubborn about the way you trade, never about a single trade.
+
+10. *I value being fed by the mother.* Your own trades, your own notes, the price in front of you. You already have a teacher. It does not sell courses.
 
 ## The Story
 
-For a long time my trading day began with an hour of reading. Not research. Reading. The morning notes from people who write morning notes, a few letters I paid for, a few I did not, the channels where traders I respected said what they were watching. In December the year-ahead outlooks arrived, thick ones with charts, and I read those too, because everyone did and because it felt irresponsible not to.
+Every trader has had this month. The way you trade stops working. Nothing dramatic: three weeks of small losses, setups that start well and fade, a market that will not follow through. You have been doing it the same way for two years, and for the first time you wonder if it was ever any good.
 
-I would have told you it was part of the work. It looked like work. I sat at the desk with a coffee and a pen, and by the time the market opened I had a view. That was what the hour produced: a view.
+So you go looking. Everyone in your feed is talking about a way of reading the tape you have never used, and there is a course. You buy it. You buy a book on a different approach, the one a trader you admire swears by. Someone in the chat has a new indicator, and he has posted a month of winners to show it. Your weekends fill up. You feel better at once. Learning feels like doing something about the losses.
 
-The trouble was that nothing on my desk used one.
+On Monday you sit down with three ways of seeing. On the first trade the course says yes, your old setup says wait, the indicator says no. You take the one that agrees with what you wanted to do anyway. It loses. On the second trade they argue again, and this time you go with the course, because you paid for it. By the end of the week you have lost more than in any of the bad three, and you could not say which method lost it.
 
----
-
-I noticed it on a morning when two of the letters I liked best arrived within a few minutes of each other and disagreed completely. One said the market was tired and the next leg was down. The other said the selling was exhausted and the next leg was up. Each was well argued. Each had a chart that proved it. I read both twice, and by the second reading I was leaning towards the one whose author I trusted more, which is not the same as the one that was right.
-
-Then I looked at the board. The frozen rules had already run that night. Their entries for the day were on the screen, sized, with stops attached. Nothing in either letter could change a line of it. The rules eat prices. They do not read.
-
-*Between "yes" and "uh-huh", how far apart are they?* Two forecasts pointing in opposite directions felt like a great distance that morning. On the board they were the same distance from the stop: none at all.
-
-So what had the hour been changing? I could think of only one thing on the desk that read the letters, and it was me. And the only decisions left to me were the ones I had built the desk to keep me away from: skipping a trade the rule wanted, cutting a size, leaning on an exit. Those were exactly the decisions the morning reading fed.
+In the fifth week the choppy market ends, as choppy markets do. Your old setup starts working again. You are no longer trading it cleanly. You are trading it with two other voices in your head, and you second-guess the very thing that was right.
 
 ---
 
-I did not stop all at once. I have learned to distrust any change I want to make quickly, so I made this one slowly. One subscription a week. Each Monday I picked one and unsubscribed, and wrote its name on a sheet of paper with the date beside it, the way the ledger records a trial. Then I paid attention to the week that followed.
+Laozi stands at the edge of a feast. *The crowd is merry, as if feasting at the great sacrifice, as if climbing a terrace in spring.* Everyone has something new. Everyone has more than enough. *I alone seem to have lost something.*
 
-Most of them I did not miss at all. That was the first surprise. A letter I had read every morning for years would vanish, and by Thursday I had forgotten it existed. Whatever it had been giving me, it had not been anything I needed by Thursday.
+That is the feeling of not joining. A friend asks what you think of the method everyone is using, and you say you have not tried it. He looks at you as if you have fallen behind. In the chat they are posting results, and you post nothing, because your week was ordinary. *Ordinary people are bright; I alone am dim.*
 
-One I missed badly, and it took me a while to admit why. It was not the best written, or the most often right. It was the one that agreed with me. Its author saw the market more or less the way I did, said so every morning in better sentences than mine, and I had been reading it the way you call a friend who will tell you that you are right. It was the last one on the sheet. I left it for weeks after the others were gone, and when I finally wrote its name down I sat for a moment with the pen in my hand, as if I were cancelling something more than an email.
-
-*The crowd is merry, as if feasting at the great sacrifice.* The feast had been free. I had paid for it in other ways.
+The other way through that bad month is dull. You keep trading the setup you know, at a smaller size, and you write down what the market is doing to it: the follow-through that does not come, the time of day it fades, the kind of open it hates. You do not fix it. You watch it. After three weeks you know something about your own setup you did not know before, and nobody could have sold it to you.
 
 ---
 
-What replaced the hour was not another hour of something better. That would only have been a new feast. What replaced it was the board, read slowly, and then nothing.
+By the next season the crowd has moved on. The course is old. The indicator's author has a new one. Someone is selling another way of reading the tape, and it is loud.
 
-The board is the dullest page I own. Each name the rules took, with the size and the stop. Each name they refused, with a one-line reason. What exits were due, and whether they had gone. That page tells me what will happen today. It does not tell me what the market will do, because nothing does, and it does not pretend to.
+Some of the people who bought the course in that bad month are still using it. Most are not. A few have been through three or four methods since, each one picked up in a losing stretch and dropped in the next. They know a little about many ways of trading. They are very good at the first three weeks of each.
 
-At first the nothing was hard. The open came, I had no view, and it felt like arriving at a meeting without having read the papers. *I alone am still and give no sign, like an infant that has not yet smiled.* It took me some weeks to see that the feeling was only the absence of a habit, and that underneath it I was steadier than I had been with a view. A view is something you have to defend. I had nothing to defend.
+You are still doing the one thing. You know it better than you did a year ago: how it behaves in chop and in trend, on quiet Fridays and on the morning after a big day. You did not learn that by learning more. You learned it by refusing to.
 
----
+*I alone am different from others: I value being fed by the mother.* The crowd eats at every feast. The trader who eats from one bowl, for years, is the one who is nourished.
 
-At a dinner some time later someone asked me where I thought the market was going that year. I said I did not know. The table laughed, as if I were being modest or keeping a secret. I was being neither. I had no view because I had stopped manufacturing one, and the rules had never needed it.
+## Try This
 
-*Ordinary people are bright; I alone am dim.* I used to read that as Laozi's joke at his own expense. I think now it is a description of a working arrangement. The bright ones have a view every morning. The dim one has a rule, a size and a stop, and does not need to know what tomorrow brings in order to know what to do in it.
-
-The sheet of paper is still in a drawer, a column of names and dates. I have never subscribed to any of them again. Once or twice I have been tempted, usually in a loud week, when the silence on my desk feels like being left out of something. On those mornings I open the board instead, and read what the rules will do, and that is all the reading the day requires.
-
-*I alone am different from others: I value being fed by the mother.* Price, size, stop. It is a plain diet. It is the only one the rules have ever eaten.
+The next time your way of trading has a bad stretch, make one rule for yourself: no new method, book or course until it is over. Trade your usual setup at half size, and each day write one line about what the market is doing to it. When the stretch ends, read the lines back and watch what changes.
 
 ---
 

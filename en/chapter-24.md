@@ -14,73 +14,65 @@ In the way, these are called leftover food and useless growths. Things seem to h
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Standing on tiptoe makes you taller for a moment. It also makes you easy to push over. Size taken before it is earned is height without footing.
+If you want to make more, you have to trade more. More size, more names, more hours at the screen. Every setup you pass on is money left on the table. Set a target for the day and hit it. When you are behind for the month, step up and catch up; the account grows as fast as you push it. Nobody ever got rich by sitting still. It is what you were told about everything: work harder than the next person, stretch for the goal, and the reward will come in proportion to the effort.
 
-2. Who strides does not walk far. The long step skips the ground in between, and the ground in between is the test.
+## The Other Way
 
-3. Fast is slow. A rule rushed to real money is a rule you will spend months learning to trust again.
+1. *Who stands on tiptoe does not stand firm.* A trader stretched past his size cannot stand still in a trade. Every tick moves him.
 
-4. A forward test has a length because the bad weeks need time to arrive. Ending it early does not remove them. It only means they arrive when the money is real.
+2. *Who strides does not walk far.* Making back the month in one day is the long stride. It is how the walk ends.
 
-5. Who shows himself is not seen clearly. A rule judged in its best stretch has not yet been seen.
+3. Slow is fast. The account that grows a little every month arrives before the one that leaps and falls.
 
-6. Who insists he is right does not stand out. Wanting the rule to work is not a reason it works. It is a reason to be suspicious of your reading.
+4. *Who shows himself is not seen clearly.* Trading to show a number, to a friend, a chat or yourself, is trading on tiptoe.
 
-7. Who boasts has no merit. Good early weeks are a weather report, not a record.
+5. A daily target decides how much the day must pay you before you have seen the day.
 
-8. Who praises himself does not last. The pride of an early promotion has to be defended later, at the worst moment, with real size.
+6. *Who insists he is right does not stand out.* More trades are more chances to insist.
 
-9. Leftover food and useless growths: the weeks you "saved" by promoting early. You will pay them back with interest.
+7. *Who boasts has no merit.* The big week you tell people about is usually the week before the one you do not.
 
-10. Write the promotion date down when the test begins. A date set in advance cannot be moved by a good month.
+8. *Leftover food and useless growths.* The trades after the good ones are leftovers, eaten because they are on the table.
 
-11. Both feet on the ground. The rule moves up one step, at the size it has earned, and not before.
+9. Count the trades you took to catch up. Then count what they paid.
+
+10. *One who has the way does not dwell in them.* Stand flat on your feet: your usual size, your usual setups, your usual hours.
 
 ## The Story
 
-There was a rule that I promoted too early, and I want to tell this story carefully, because the mistake was not the kind I usually make. I usually make the mistakes of impatience in the market: a trade forced on a dull morning, a stop given room it did not deserve. This one was impatience with my own process. That is a quieter mistake, and it costs more.
+It is the middle of the month and you are behind. Not badly; a few losing days, one bad trade. But you had a number in mind for this month, and now there is a gap between the number and the account, and you can see the gap every time you look.
 
-The rule was a plain one, and I liked it from the start. It had passed every test the research desk puts in front of an idea. It had been frozen, pinned by its fingerprint, and put into a forward test: filled each day at that day's prices, on paper, against a random control. The test had a length, written down on the day it began. A season. That length is not a formality. It is the time I think a rule needs for its ordinary bad weeks to turn up, so that I see them on paper before I see them in an account.
+So you decide to close it by Friday. On Monday you trade double your usual size, because at double size the gap will close twice as fast. You add a few names you do not normally watch. You stay through the lunch hour you usually skip, because the gap does not take lunch.
 
-The first weeks were better than I had hoped. Not wildly so; I would have been suspicious of that. Just steadily, quietly good, in a way that matched the backtest so closely that it felt like confirmation. Every morning at five I opened the board and the rule had done what it was supposed to do.
+You notice the change at once, though you do not name it. At double size every tick matters. A normal pullback, the kind you sit through without thinking, now costs enough to feel. So you cut a good trade early, for a small gain, because you cannot stand to give it back. On the next trade you do the opposite: it goes against you and you hold it, because taking the loss at this size would make the gap wider. You are standing on tiptoe, and on tiptoe you cannot stand still.
 
----
-
-Around the halfway mark I started doing a sum I should not have been doing. If the rule was already this good, then every week it spent on paper was a week of real trading I was not doing. Half a season of that seemed a lot to give up for the sake of a calendar.
-
-I had a good argument, too. Half a season was already a fair amount of evidence. The forward weeks matched the backtest. Nothing in the logs looked wrong. What exactly was I waiting for?
-
-I know now what I was waiting for. I was waiting for the part of the season I had not seen yet. But I did not put it that way to myself. I put it as a question of efficiency, and on efficiency the early promotion won easily. So I moved it. Small real size at first, I told myself, with room to grow.
+By Wednesday the gap is bigger. On Thursday you make the stride. One trade, large, on a setup you half like, to get it all back at once. It does not get it all back.
 
 ---
 
-The ordinary bad stretch arrived a few weeks later, exactly as the season was designed to show me. It was not a disaster. Looking back at it now, it was the kind of stretch that the backtest showed the rule going through every so often. On paper, in the second half of a forward test, I would have written it down and gone back to bed.
+*Who stands on tiptoe does not stand firm; who strides does not walk far.* Laozi is describing the body, and the body knows it before the mind does. Stand on your toes and you can see a little further for a moment. Then you wobble, and then you come down. Take one huge step and you cover more ground in that step than anyone. Then you have to stop, because you cannot take another one like it.
 
-With real money it was a different object. I did not know whether I was looking at an ordinary bad stretch or a broken rule, and I had no way to tell, because I had not seen enough of the rule's forward life to know what ordinary looked like. The evidence I had leaned on to promote it was good weeks only. A record of good weeks says nothing about bad ones.
+This is where the line on the cover of this book comes closest to Laozi. Slow is fast. Not because slowness is a virtue, but because the stretched trader is not actually going faster. He is wobbling. Everything he does at double size, he does worse: he exits too early, holds too long, chooses worse trades. The extra effort does not add to his speed. It takes away his footing.
 
-So I did the worst thing, which was neither of the two clean things. I did not stop the rule, and I did not trust it. I cut the size. I skipped a trade I did not like the look of. I cut the size again. I began reading each signal as a question rather than an instruction. Within a few weeks I was no longer trading the rule at all. I was trading my opinion of the rule, which is a different strategy, untested, with no fingerprint, and run by the most nervous version of me.
-
-*Who stands on tiptoe does not stand firm.* I had made the rule taller than it was, and the first push knocked it over. Not the rule itself; the rule was fine. What fell over was my ability to follow it.
+*In the way, these are called leftover food and useless growths.* The extra names, the lunch-hour trades, the Thursday stride: none of them were trades you would have chosen. They were there because the gap was there.
 
 ---
 
-Eventually I did the one clean thing that was left. I took it back off real money and returned it to paper. Not where it had stood when I promoted it. Day one. The weeks it had run before were spoiled for judging, because I had interfered with half of them, and I could not separate the rule's record from the record of my nerves.
+Now the same month, the other way.
 
-Then I waited the full season, and a good stretch beyond it, before it touched real money again. Counting from the morning I promoted it, the rule spent far longer getting to real money the second time than it would have taken if I had simply let the first season finish. That is the arithmetic of tiptoe. I had tried to save half a season, and it cost me more than a whole one, plus a stretch of trading that taught me nothing because it was not the rule doing the trading.
+It is the middle of the month and you are behind. You see the gap. You leave it alone. On Monday you trade your usual size, your usual names, your usual hours. On Wednesday you have a small winning day, and it does not close the gap, and you do not try to make it.
 
-*Who strides does not walk far.* The long step had skipped the ground in between, and I had to walk back and cover it.
+The month ends a little down. It is not the number you had in mind. The next month ends a little up, and the one after that a little more. You never caught up in a week. Over the year you are further along than the version of you who kept trying to.
 
----
+It is not exciting. Nobody asks how your month went, and you would not have much to tell them. On the Friday you had planned to catch up, you leave the screen at the usual time with the gap still there. You let it stay. It is only a number about the past.
 
-What I changed afterwards was not the rule. It was the gate. Now the date a rule may move to real money is written into the same file as the rule, on the day it is frozen, before a single forward week has run. It cannot be moved earlier. A good month is not a reason. Neither is a model on the desk that notices how well the rule is doing and suggests, helpfully, that it is ready. The model proposes; the date decides.
+It goes against how you were raised. We are taught to stretch, to push, to go the extra mile. In most of life it even works for a while. The market is the place it stops working fastest, because the market charges for every wobble, in money, at once.
 
-There is a second line in that file, under the date. It says what size the rule starts at, and how many weeks it must run at that size before it may be raised. One step, both feet down, then the next step.
+## Try This
 
-Laozi calls the things a hurried person adds *leftover food and useless growths*. I think of the weeks I tried to save. They were leftover food: something I had taken more of than I needed, and then could not use. The second season I ran in full. It was dull and long, and the bad stretch came in the middle of it, the way it was always going to. I wrote it down on paper and went back to bed.
-
-When the rule went live after that, I traded it without asking it questions. That was all the extra season had bought me, and it was worth more than the half a season I had tried to take.
+Next time you are behind for the week or the month, write the gap on a piece of paper and put it in a drawer. Then trade the rest of the period at your usual size or smaller, with no target. Count how many trades you take compared with a normal week, and watch what changes.
 
 ---
 

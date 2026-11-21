@@ -18,67 +18,69 @@ Only because it does not contend is it beyond reproach.
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Water does not choose the shape of the river. It takes the shape it is given. Take the shape of the market; do not argue with its weather.
+Stand your ground. You were taught that a person with a backbone does not bend to every wind, and the market is the strongest wind there is. So you come in with a plan for the day and you stick to it. If you expect a trend, you trade the trend, and you keep trying until it comes. A trader who changes his approach every hour has no approach. The ones who make it are firm: they know what they do, they do it the same way every day, and they do not let the market push them around.
 
-2. Water does not contend. You cannot lose an argument with the market that you never started.
+## The Other Way
 
-3. It settles in the low places people dislike: the quiet month, the small size, the trade that looks too dull to take.
+1. *The highest good is like water.* Water has no shape of its own. Pour it into a cup and it is a cup. Pour it into a range and it is a range.
 
-4. Good at choosing the ground: trade where the water flows, where there is depth, volume and a price you can leave at.
+2. *Good at benefiting and does not contend.* Contending with the market is not courage. It is a long argument you pay for by the tick.
 
-5. Good at depth: a stop far enough away to let the trade breathe, and a size small enough that its breathing does not frighten you.
+3. *It settles in the low places that people dislike.* The low places are the ones nobody wants: being flat, taking the small loss, trading the dull range, sitting out the session.
 
-6. Good at keeping faith: do what the rule said it would do, on the bad day as well as the good.
+4. *So it is close to the way.* The trader who can bear the low places is close to the way, because nobody else is competing for them.
 
-7. Good at timing: water moves when the ground tilts, not when it is bored.
+5. *In dwelling, good at choosing the ground.* Trade where you know the ground: the markets, the hours, the kind of day you understand. Firmness about where you stand is not the same as firmness about what the market should do.
 
-8. When the market has no direction, water lies still. Sitting out a choppy month is not missing it.
+6. *In the heart, good at depth.* Still water is deep. The surface can ripple; the bottom does not move.
 
-9. Size by the size of the waves. When the market swings wider, the same risk buys a smaller position. The vessel changes; the water does not.
+7. *In speech, good at keeping faith.* The stop you set is a promise to yourself. Water is soft about everything else and keeps that one.
 
-10. Water is soft, and nothing is harder to stop. Small, steady, defined: that is how it wears down stone.
+8. *In moving, good at timing.* Water does not hurry and does not wait. It moves when the ground tilts.
 
-11. Only because it does not contend is it beyond reproach. A rule that never fought the tape leaves nothing to regret but the plan.
+9. Firm is not strong. Stone is firm, and water wears it through.
+
+10. *Only because it does not contend is it beyond reproach.* Nothing beats the trader who has stopped fighting.
 
 ## The Story
 
-I have a soft spot for trend rules, and for one old family of them in particular: the channel breakouts that a group of novice traders were famously taught in the 1980s, and that have been written about ever since. The rule is almost embarrassingly plain. Enter when price breaks out of its range of the last few weeks. Leave when it breaks the other way, through a shorter range. Size every position by how much the market has been moving, so that a wild market gets a small position and a calm one a larger one. Put the stop a set number of those moves away.
+You came in expecting a trend day. The evening before, you read it all: the setup on the daily chart, the gap that was likely, the level that should break. You had the plan written down. Buy the break, add on the first pullback, hold into the afternoon.
 
-Some time ago I built a small tool that draws this rule on any chart, mostly because I wanted to watch it work. Each day it sorts a list of markets into three groups: long, short and flat. The flat group is the one I want to tell you about.
+The market opens and does none of it. It pushes up to your level and falls back. It pushes up again an hour later and falls back again. By eleven it is clear to anyone who is not attached to a plan that today is a range: a ceiling, a floor, and a lot of drifting in between.
 
----
+You are attached to the plan. You buy the second push through the level, because that is what you said you would do. It fails. You buy the third, because a plan is only a plan if you stick to it. It fails. You tell yourself that firm traders do not get shaken out, and you hold the last one through the floor of the range, because if the trend comes, you want to be in it.
 
-Flat is where a market goes when the rule has nothing to say about it. Price is inside its channel, rising a little and falling a little, breaking nothing. There is no trend to follow, and the rule does not pretend there is. It waits.
-
-There was a month when one of the markets I watch most closely sat in the flat group almost the whole time. It was not quiet. That is the part people misremember about choppy markets. It moved every day, sometimes a lot. It went up hard on a Tuesday and gave it all back by Thursday. Every move looked like the start of something, and every one turned around before it became anything.
-
-I watched people trade it. You know the pattern, because you have probably done it, and so have I. Buy the strong Tuesday, because it looks like a breakout. Sell on Thursday at a loss. Sell the weak Friday short, because now it looks like a breakdown. Buy it back on Monday at a loss. Each trade is reasonable on its own. Together they are someone fighting the shape of the river, one bank and then the other, and being thrown back from each.
+The trend does not come. It was never coming today. The range holds until the last hour, and in the last hour it drifts back to where it opened, as if nothing had happened, which for the market is true. By the close you have spent the day pushing against a wall and calling it discipline.
 
 ---
 
-The rule did not do that. It was not cleverer than those traders. It simply had nowhere to go. The edges of its channel were the edges of the last few weeks, and the market, for all its noise, hardly reached them. Once it did. It poked through the top on a strong afternoon, the rule bought, and two days later the trade was stopped out for a small loss. Small, because a market swinging that wildly had earned only a small position. That was the whole damage for the month: one bump against the bank.
+The plan was not wrong to make. It was wrong to keep once the day had shown its shape. You treated firmness as a virtue in itself, and so you were firm about the one thing nobody controls: what kind of day the market would give you.
 
-*Water is good at benefiting the ten thousand things and does not contend.* I used to read that line as a line about modesty. Watching that month, I read it as a description of a mechanism. Water does not decide where the river goes. It finds out, by flowing. When the ground is flat, it spreads out and lies still. When the ground tilts, it moves, all of it at once, without being told.
-
-The sizing is water too, and it is the part of the rule I admire most. Nobody decides, in the moment, how big the next position should be. The market decides, by how widely it has been swinging. The same amount of risk buys less when the waves are high and more when they are low. The position takes the shape of its container. The trader's mood is not consulted.
+*Water does not contend.* You contended all day, and you were not even arguing with a person. You were arguing with the shape of a room.
 
 ---
 
-Then the ground tilted.
+Now the other morning.
 
-I did not see it coming, and neither did the rule. That is the point. One morning the market broke through the top of its channel and kept going, and the rule went long at the size the recent swings allowed. It did not need me to believe in it. It did not need to have predicted anything during the flat month. It had not spent the month arguing with the market, so it had nothing to defend: no losses to win back, no opinion waiting to be proved right. It took the new shape of the river.
+Same evening's reading, same plan written down. The market opens and pushes to your level and falls back. You note it. An hour later it pushes again and falls back again. You note that, too, and you put the plan to one side. Not in the bin, because it may be useful tomorrow. To one side.
 
-I want to be careful here. I am not going to tell you how that trend went, and I am not telling you that trend rules make money. Plenty of breakouts fail, and some months are nothing but failed breakouts, one small stop after another. That is the shape of this kind of rule: many small losses and a few long rides. The point of the story is not the ride. It is the month before the ride, and how little that month cost the one who did not fight it.
+Today is a range. You ask the question water asks of a container: what shape is this? A ceiling, a floor, drift between them. You know how to trade that shape, or you know you do not. If you do, you trade it small, at its edges, with stops just outside. If you do not, you take the low place nobody wants and sit out the day. Either way, you are not pushing. You notice how much quieter your body is when it is not leaning against something.
+
+What you keep firm is small and exact. The size you trade. The stop you set, once it is set. The hours you work. Everything else bends. This is *in speech, good at keeping faith*: soft about the market, unbending about your word to yourself.
+
+At the close you are up a little, or flat. You did not trade the day you wanted. You traded the day you were given, and you are not tired from having fought it.
 
 ---
 
-There is a sentence I often hear about choppy markets: *it's a trader's market.* It means that a market without direction is an opportunity for anyone skilful enough to trade both sides of it. Sometimes that is true. More often it is what someone says to themselves just before they start swimming against the current in both directions.
+Everything in how we are raised says that the strong one holds his position. Water says the reverse: the soft thing wins, because it never spends itself against what it cannot move. It goes round the rock, fills the low place, waits for the ground to tilt. Over enough time it cuts through the rock anyway.
 
-The highest good is like water. It settles in the places people dislike: the flat month, the empty board, the small position in a wild market. Nobody wants to be in those places, because nothing happens there and nothing looks clever. They are also where you are standing when the ground finally tilts, rested, with your account still whole and still in the river.
+A trend may come tomorrow. If it does, you will still have the plan, and you will still have the account to trade it with.
 
-*Only because it does not contend is it beyond reproach.* At the end of that month there was nothing to regret. Not because the month had made anything. Because nothing in it had fought what it could not move.
+## Try This
+
+Tomorrow, write your plan for the day as usual, and add one line beneath it: *What would tell me this is not that kind of day?* When you see that, set the plan aside and either trade the shape you see at half size or do nothing. At the close, write down which kind of day it was and whether you fought it.
 
 ---
 

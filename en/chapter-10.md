@@ -18,67 +18,69 @@ To give life and to rear it; to give life and not possess it, to act and not lea
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Hold the one: one trade, one plan. The reason you entered is the reason you stay, and its failure is the reason you leave.
+The more you cover, the more you catch. Everyone is taught to multitask now: answer the email during the call, read the news while the kettle boils. A trader is the same, only more so. You run several screens, because one is not enough to see the market. You watch stocks and futures and a few currencies, because the move that matters may start anywhere. You trade more than one strategy, so that something is always working. The professionals have a wall of monitors for a reason. Covering more ground is how you stop missing things.
 
-2. Can you keep them from parting? The trade that was "a trade" this morning and "an investment" this afternoon has split in two. Neither half has a stop.
+## The Other Way
 
-3. A thesis is changed only by exiting. If you want to hold it for a different reason, close it and open a new one, with a new size and a new stop, as if you had never owned it.
+1. *Carrying body and spirit and holding them as one.* Your body is at the desk. Is your attention there, or on the fourth screen?
 
-4. Two plans for one position is no plan. When the price moves, each plan blames the other.
+2. *Can you keep them from parting?* Every extra market is a place for your attention to go and not come back.
 
-5. Soft as a newborn: a child does not argue with the floor when it falls. Take the stop the way a child takes the floor.
+3. *Gathering the breath until it is soft.* A trader watching six screens breathes high and short. You cannot read one chart well with that breath.
 
-6. Wash the dark mirror. Before each entry, wipe off yesterday's trade. The screen should show this one only.
+4. *Like a newborn child.* A child looking at something looks at only that. It is the oldest form of concentration there is.
 
-7. Without cleverness. The clever reason to stay is always available. It arrives exactly when the plain reason to leave does.
+5. *Washing clean the dark mirror.* The last trade leaves a mark on the mirror. Wipe it before you look at the next one.
 
-8. Give life and do not possess it. You opened the trade; it is not yours. It belongs to the plan, and the plan decides when it ends.
+6. *Without cleverness.* Running three strategies at once feels clever. It is mostly a way of never having to find out whether any of them works.
+
+7. *As the gates of heaven open and close.* The market opens, moves, pauses, closes. Meet each moment with one undivided attention, and let it come to you.
+
+8. *Seeing clearly in all four directions, can you do it without acting?* Seeing a great deal is not a reason to do a great deal.
+
+9. *To lead and not lord it.* Look after your trades without hovering over them. Attention is not the same as interference.
+
+10. One is more than many. A single quiet attention catches what a wall of screens lets slip.
 
 ## The Story
 
-Every trade I take has a card, and the first line on the card is the reason. It comes before the size and before the stop, and it is short on purpose: one sentence, written before the order goes out, saying why this position exists. The rest of the card follows from it. The stop is the price at which the reason would be wrong. The time exit is how long the reason is allowed to take. If the reason cannot be written in a sentence, the card does not get filled in, and nothing is bought.
+You have four monitors. On the left, the index futures and the bond yield. In the middle, the two stocks you are trading today, one on each side. On the right, a currency pair you have been learning, a news feed, and the chat. It took you a year to build this. Sitting in front of it feels like command. Visitors are impressed by it. You are a little impressed by it yourself.
 
-For a long time I thought of the card as paperwork. This is the story of the afternoon I found out what it was for.
+At ten fifteen one of your stocks starts to move toward your level. You lean in. At the same moment the news feed flashes a headline about a central bank, and the currency pair jumps. You glance right. The futures twitch on the left. You glance left. When you look back at the middle, your stock has gone through the level and you were not watching. You chase it. Your fill is worse than your plan.
 
----
+While you are entering that order, your other stock, the one with a position already on, slides down through your stop. You do not see it for four minutes. When you do, the loss is half again what you had allowed.
 
-The trade came from one of the short-horizon rules in a forward book. The reason line said what that rule always says, in nearly the same words: a pullback inside a trend, expected to resume within a few sessions. The stop was below the pullback. The time exit was a handful of sessions out. If nothing happened by then, the rule would leave at the close, because nothing happening is an answer too. It means the reason was wrong in the quietest possible way.
-
-Nothing happened. On the morning of the last day, the summary the model writes before the open listed it among the day's housekeeping: time exit due at the close, position near its entry price. One line among many. I read it and agreed with it.
-
-At lunch I read about the company.
-
-I did not go looking. A long piece about it turned up in the reading I do in the middle of the day, and it was good, the careful kind, about a business with a durable product and years of room in front of it. I read it twice. By two o'clock I had stopped calling the position by the name of the rule that bought it. In my head it had become *the position*, then *my position*, and somewhere around half past two, *a long-term holding*.
-
-That is the whole of the trick, and I did not see it while it was being played. The trade had not changed. The prices had not changed. The only thing that had changed was the sentence in my head, and the new sentence had no stop in it.
+By noon you have been everywhere and nowhere. You saw everything on the wall, and you did not see either of your trades.
 
 ---
 
-I opened the card. The time exit sat there, due at the close. I wanted it gone.
+Look at what the wall did. It did not give you more information about your two stocks. It gave you more places to look away from them. *Can you keep them from parting?* Your body sat at one desk all morning; your attention was spread across eleven windows, and it never came back whole.
 
-I could not simply delete it, and I am glad of that now. The book was a frozen forward test. Its trades were the rule's trades, and the rule was pinned by its fingerprint. A trade I edited by hand would no longer be the rule's trade. It would be mine, sitting inside the rule's record, and the record would stop meaning what it said. So I found the workaround every trader finds. Let the rule sell at the close, as written, and buy the same name back at the same moment in my own account, as an investment. Clean, I thought. The rule keeps its record. I keep my company.
-
-It is, as it happens, exactly what the third line of this chapter's reading says to do: if you want to hold it for a different reason, close it and open a new one, with a new size and a new stop, as if you had never owned it. I let the exit fire. Then, that evening, I sat down to do the second half properly. A new position needs a new card.
+And look at the breath. By noon your shoulders are up near your ears. You have not taken a full breath since the open. *Gathering the breath until it is soft.* Nobody reads a chart well while holding his breath.
 
 ---
 
-The first line went down easily. *A good business with years ahead of it.*
+Now the same morning, with one screen.
 
-The second line was the size, and there I stopped, because the size comes from the stop, and the stop is the price at which the reason is wrong. I tried to write one. Where is *a good business with years ahead of it* wrong? Not at any price I could name. If the stock fell, the reason would say it was cheaper. If it fell further, cheaper still. A price stop does not refute a story about years. Only news could, and I could not say in advance which news, or how I would know it when it came.
+You turn off three monitors. Not forever; for a week. On the one that is left, you put one stock: the one you most want to trade today. Its chart, its level, your order ticket. Nothing else. No feed, no chat, no futures.
 
-The time exit was worse. *Years* is not a time exit. It is a way of saying never.
+It feels like going blind. For the first half hour you keep turning your head to where the other screens were. Then something changes. You start to see the stock. Not just its price: its rhythm, how it pauses, where the selling dries up, how it behaves near your level. You have watched this stock for months and you are seeing it for the first time, because for the first time it is all you are seeing. Your breathing slows without your asking it to. Your shoulders come down.
 
-I sat with the half-filled card for a while. What I understood, slowly, was that I had not spent the afternoon holding two theses. I had spent it holding one trade whose reason had died, and a story that had grown in the place where the stop used to be. The body of the position was still on the screen. Its spirit, the reason, had left at lunchtime. *Carrying body and spirit and holding them as one, can you keep them from parting?* They had parted, and I had not noticed, because the new sentence was so much nicer than the old one.
+At ten fifteen it moves toward your level. You are already there. You take the trade at your price, and you set the stop. Then you do the hardest part: you sit with it, breathing slowly, without hovering over the order ticket. *To lead and not lord it.* You are watching it, not wrestling it.
 
-I did not buy it back. Not because the company was bad. It may have been very good. I did not buy it because I could not say what would make me leave, and a position you cannot leave is the one you hold longest.
+The central bank headline comes and goes. You do not see it. If it mattered to your stock, the stock will show you.
 
 ---
 
-*To give life and not possess it.* I opened that trade, but it was never mine. It belonged to a rule, and the rule ended it on the day it said it would. The card did not make me wise that afternoon. It did something more useful. It refused to be filled in by a reason that had no way out, and the empty line was louder than the article.
+We are raised to think that doing many things at once is a skill, and that the busy desk is the serious one. The old view says that one is greater than many: the mind held as one sees more than the mind spread thin. A newborn staring at a light has a kind of attention most traders lost years ago.
 
-Now, when I hear myself give a trade a new name, I take it for what it is. The trade is over. The only question left is whether I want to start a new one, from a blank card, as if I had never seen the name before.
+At the close you have taken one trade. You saw all of it.
+
+## Try This
+
+For the next five sessions, trade from a single screen with one instrument on it, and nothing else open while you trade. Before each order, stop and take three slow breaths with your eyes on the chart. At the end of each day, write one line about something you noticed in that instrument that you had never seen before.
 
 ---
 

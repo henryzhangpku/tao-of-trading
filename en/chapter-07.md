@@ -14,63 +14,65 @@ So the sage puts himself last and finds himself first. He puts himself outside a
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. The strategy that does not need to win today is the one still running next year.
+Look after number one. Nobody else will. You were taught to set goals and chase them, to know what you want and go and take it. A trader needs that more than anyone. You set a target for the month, and for the day, and you work until you hit it. Your P&L is the point of the whole exercise; every trade exists to make it bigger. The traders who get ahead are hungry, and they put their own gains first, because in this business the market is not going to put them first for you.
 
-2. Judge a rule over a season, not a day. A day is noise dressed as a verdict.
+## The Other Way
 
-3. Heaven and earth do not live for themselves. A rule checked every hour is living for its trader's nerves.
+1. *Heaven is lasting and earth endures.* The traders still here after twenty years are not the hungriest. They are the ones who lasted.
 
-4. Put yourself last: the account before the ego, survival before return.
+2. *Because they do not live for themselves.* A trade made for your number is made for you, not for the market. The market can tell.
 
-5. Put yourself outside. Write the rule as if someone else would run it. Then let someone else run it, even if that someone is a machine.
+3. The monthly target is a self with a deadline. When the month runs short, the self starts trading.
 
-6. The trader who must be proved right this week is living for himself. He will not last the year.
+4. *So they can live long.* Put the account's survival ahead of this month's result, and there will be many more months.
 
-7. Set the length of the judgement before the test begins: so many weeks, so many trades. Do not shorten it when it hurts, and do not lengthen it when it flatters.
+5. *The sage puts himself last.* In the order of things you consider before a trade, put what you want from it at the bottom.
 
-8. A rule that lasts gets many chances to be right. A rule fired after every bad week gets none.
+6. *And finds himself first.* The trader who does not need today's money is the one who can wait for the trade that pays.
 
-9. Lasting is not a result you chase. It is what is left when you stop chasing.
+7. *He puts himself outside.* Step outside the trade for a moment and look at it as if it were someone else's. Would you advise them to take it?
 
-10. A forward test is heaven and earth in small. It runs whether you watch it or not, and it lasts because nobody is living through it.
+8. *And finds himself kept.* A trader who is not desperate is hard to ruin.
 
-11. Measure a rule in seasons and you will meet it again next season. Measure it in days and you will meet a new rule every week, and none of them will have been tested.
+9. *Because he has no self to serve.* You still want to make money. You only stop letting that wanting hold the order ticket.
+
+10. Last is first. The one who does not grab ends up holding more.
 
 ## The Story
 
-The first forward test I ran had no end date. I did not think it needed one. The rule would run, I would watch it, and when I had seen enough I would know.
+It is the last Friday of the month, mid-afternoon. You set yourself a number at the start of the month, the way the books tell you to, and you are short of it. Not by much. One decent trade would get you there.
 
-I saw enough every day. That was the trouble.
+You notice that you are looking at charts differently. Usually you ask whether a setup is good. Today you are asking whether it is good enough to get you to the number. Those are not the same question, but they feel the same, and you do not stop to separate them. Setups you would have passed on the fifteenth of the month start to look reasonable on the thirtieth.
 
----
-
-On a good day the test was working, and I began to think about how much I would trade it with. On a bad day the test was broken, and I began to think about what to change. On a flat day I wondered whether the rule did anything at all. Each of these was a verdict, and each was overturned within the week. By the end of the first month I had reached a dozen firm conclusions, all of them different.
-
-None of that was the rule's fault. The rule did the same thing every day. What changed was me, reading a day as if it were a judgement, when a day is mostly noise dressed as a verdict.
-
-I also noticed something worse. The verdicts were not neutral. I was more likely to look on the days I was worried, and more likely to think about changing something on the days I looked. The test was being run for my nerves, not for the question.
+You find something half-decent. You take it at more than your usual size, because the gap to the number is a fixed amount of money, and a smaller position would not close it. The trade goes a little your way, then turns. You hold, because getting out now would leave you further from the number than when you started. It turns some more. At the close you are well short of the target and down on the day, and the number you set to motivate yourself has just cost you a week of work.
 
 ---
 
-So I stopped the test and started it again, with one new line on the card before the first day: the date of the verdict.
+What happened was not a bad read of the market. It was a trade made for yourself. *Heaven and earth can last because they do not live for themselves.* That Friday you were living for yourself completely: for the number, for the feeling of having hit it, for the story you wanted to tell yourself about the month. The market had nothing to do with it. It was only where you went to get what you wanted.
 
-That line does a great deal of work. The length is chosen before the rule has traded once, when nobody knows yet whether it will flatter or hurt. It is long enough to hold more than one kind of market, which in practice means a season, and it is written down where I cannot quietly change it. If the test is going badly, I do not shorten it. If it is going well, I do not lengthen it to enjoy the view, and I do not cut it short to start trading sooner. The rule gets the whole season either way.
-
-The other change was to the morning report. It used to open with the test's running result since the start. Now it opens with a line saying that the test is running, how many days are left, and whether anything broke: a missed fill, a stale feed, an order that went out late. Those are things I can act on. The running result is still recorded every day in the ledger. I just do not read it before the date.
+And the trades made for yourself are the dangerous ones, because they are sized by need. Need does not look at the chart. It looks at the gap. The bigger the gap, the bigger the size, and the bigger the size, the less you can stand to be wrong. So you hold, and the gap grows, and the need grows with it.
 
 ---
 
-*Heaven and earth can last and endure because they do not live for themselves.* I take this to mean that what lasts is what does not need to be fed. A test that has to report to its trader every morning is living for the trader. It will not last, because the trader will end it in the first bad week, or change it, which is the same thing.
+Now the other last Friday.
 
-A test with a date on it lives for the question. It runs whether I look or not, and it is still running next month because nothing in it depends on my mood.
+You are short of the number again. You notice it, and you set it to one side the way you would set down a bag you do not need to carry. The month is over in three hours. The account will still be here on Monday, and next month, and in ten years if you treat it well. Those three hours are not worth more than any other three hours.
+
+You look at the screen the way you would on the fifteenth. Is anything good? One setup is close. You take it at normal size, with the stop where it always goes. It works a little, and you take the profit at your usual exit. The month ends short of the number. You write the number down beside what you actually made and leave it there. It is a little disappointing. You notice that the disappointment is mild, and that it will be gone by Monday.
+
+*He puts himself last and finds himself first.* You did not get what you wanted this month. You kept what you need, which is the ability to trade the next one at your normal size, with a clear head and an intact account.
 
 ---
 
-People sometimes ask me how a test is going. The honest answer is that I do not know until the date, and the honest answer sounds evasive, so I have learned to say it plainly: ask me then.
+We are raised to put ourselves first: our goals, our results, our place in the line. The old view turns it round. Heaven and earth last because they want nothing for themselves from any single day. A trader who stops trading for his own number stops making the trades that break him, and so he is still at the desk when the hungry ones have gone.
 
-*He puts himself last and finds himself first.* The part of me that wants to know today goes last. The rule goes first. And when the date comes there is a verdict worth having, about a rule that was left alone long enough to deserve one.
+The month ends at four. You close the screen at four.
+
+## Try This
+
+For the next month, set no profit target, daily or monthly. Before each trade, ask once, in words: *Would I take this if I needed nothing from it?* If the honest answer is no, skip it. At the end of the month, compare how you sized your trades with how you sized them the month before.
 
 ---
 
