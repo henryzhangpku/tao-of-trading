@@ -18,75 +18,67 @@ So the sage says: I do nothing, and the people transform themselves. I love stil
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Govern the account by the straight: the size, the stop, the loss limit. These never surprise anyone, least of all you.
+Bet big when you are sure. You were taught to back yourself: put your hand up when you know the answer, go all in on the thing you believe in, save your effort for what counts. Half-hearted is how people lose. In trading it means your size should follow your conviction. When everything lines up and you can feel it, you load up. When you are not sure, you go small or stay out. A trader who sizes every idea the same is leaving his best ideas underfed. Your judgment is the edge, so let it decide how much as well as what.
 
-2. Fight by surprise only inside the trade, in the choice of what and when. Never in the choice of how much.
+## The Other Way
 
-3. Win by having nothing to do. A system with little to do each day is one that was built well before the day began.
+1. *Govern the state by the straight.* Some parts of trading should be dull and the same every time: how much you risk, where you stop, when you stop for the day. These are the government. They should never surprise you.
 
-4. The more prohibitions, the poorer the people. Each rule added after a loss refuses a few more good trades along with the bad one it was written for.
+2. *Wage war by surprise.* Judgment, flair and timing belong in the choice of what and when. They have no place in the choice of how much.
 
-5. A rulebook grows by exceptions. Every exception is a confession that the rule underneath it is not trusted.
+3. Conviction is a feeling, and feelings run hottest at the worst moments. You are most sure after three wins, after a long read, after the story clicks. None of these is the market telling you anything.
 
-6. The more sharp tools, the more confusion. Ten indicators do not give ten views. They give one view and nine arguments.
+4. When conviction sets the size, your biggest trades are the ones you felt most about. Your biggest losses come from the same place.
 
-7. The more cunning, the more strange things appear. A clever filter makes strange results, and they look like edge until you run it forward.
+5. *The more sharp tools the people have, the more confused the state becomes.* A size that can be anything is a sharp tool handed to whatever mood you are in.
 
-8. The more laws displayed, the more thieves. When rules are many, the trader starts looking for the gap between them, and the gap is where the bad trade gets in.
+6. *The more cunning and skill, the more strange things appear.* Every special case you allow yourself, a bit more here because this one is different, breeds another.
 
-9. A rule you cannot remember during a fast market is not a rule. It is a document.
+7. Fixed size is not timid. It is what lets you be bold in the choice of trades without betting the account on being right about yourself.
 
-10. Write the rules on one card. If they do not fit, the card is not too small.
+8. *I love stillness, and the people set themselves straight.* When the size does not move, the rest of the trade calms down. You stop staring at the number and start watching the market.
 
-11. I love stillness, and the people set themselves straight. Leave a good rule alone, and the record it produces will set itself straight over a season.
+9. *I have no business.* A trader with one size has one fewer decision every trade, and that decision was the one most likely to be made in heat.
 
-12. I have no wants, and the people become plain. The trader who does not need today's trade keeps the rule plain.
+10. Let the straight be boring. The surprise is worth more when it happens inside walls that do not move.
 
 ## The Story
 
-For some years I kept a document called *Rules*. It began as a page. By the time I printed it out one weekend to read it properly, it ran to about twenty pages.
+It is a Thursday, and you have had a good week. Three wins in a row, each one clean. You feel you are reading the market well. Overnight you worked through an idea in a name you have followed for months, and by morning everything about it fits: the chart, the news, the way it held up while the rest sold off. This is the one, you think. You can feel it.
 
-Nothing in it was foolish. That was what made the problem hard to see. Every line had been written after something happened, and every line was a reasonable answer to the thing that happened. No trading in the first minutes of the open, after a bad fill. No new position on the day before a holiday, after a thin afternoon. No more than so many trades in a day, after a day of too many. Then came the exceptions, which arrived later, each one after a day when the rule above it had kept me out of something good. No trading in the first minutes, unless the gap was large. No more than so many trades, unless the market was trending. The exceptions had exceptions.
-
----
-
-What made me print it was a morning when I could not remember it.
-
-The market opened fast, the kind of open where a dozen things move at once. I had a decision to make about a position. I knew there was a rule about exactly this situation somewhere in the document, and I could not remember which page or what it said. I remember the feeling precisely: not panic, but a kind of fog, the sense that I was supposed to know something and could not reach it. I made the decision by feel, which was the thing the document existed to prevent.
-
-That evening I wrote a sentence on a scrap of paper that went into this chapter almost unchanged: a rule you cannot remember during a fast market is not a rule. It is a document.
+Your normal size is a certain amount. Today you take three times that. It feels right, even responsible. Why go small on your best idea?
 
 ---
 
-When I read the printout through, with a pencil, I found something worse than length.
+At the open it moves your way, and your chest lifts. The number on the screen is bigger than usual and it moves faster. Within twenty minutes it turns. Not on anything, just turns, the way stocks do. At normal size this would be a shrug. At three times, each tick lands in your stomach. Your stop is where it always is in price, but in money it is three normal losses, and that number is suddenly too big to take.
 
-I found the gaps, and I found that I had been using them. *The more laws and orders are displayed, the more thieves and robbers there are.* One rule said no new trade after a certain number of losses in a day. A few months earlier I had added a note beside it saying that "a day" meant the day session, so a position opened in the evening session did not count. I had written that note myself, for a reason that seemed sound at the time. Reading it now, I could see exactly what it was. It was a door I had built into my own wall, so that I could go out through it on the evenings I wanted to.
+So you do not take it. You tell yourself the idea is too good to be stopped out of by noise. You watch it go through the stop. Now you are carrying something you do not want to carry and cannot bear to sell. You stop looking at anything else. A clean setup in another name comes and goes and you do not see it. By the afternoon you sell, at a loss that wipes out the whole good week and some of the week before.
 
-There were others. A size limit "per position" that did not say what happened if I opened two positions in nearly the same thing. A rule about stops that applied to "planned trades" and was silent about unplanned ones, as if there should be any. Twenty pages of law, and the thief was the man who wrote it, and he knew every gap because he had left it there.
-
----
-
-So I started removing things, and I used one test for each line. Can a machine enforce it, every time, without asking me? If yes, it goes into code. If no, it goes.
-
-The test was brutal, and it was the right one. Most of the document could not pass it, because most of it was advice to myself dressed as rules: be careful in fast markets, do not trade when tired, think twice before holidays. Advice is fine. It is just not governance. It belongs in a book like this one, where you can take it or leave it. It does not belong in the place where decisions are made.
-
-What passed was short. How much a single trade may risk. Where the stop goes, set by the rule before entry, not by me afterwards. How much the account may lose in a day before everything stops until the next session. That an entry is refused when the market is thin, and an exit is never refused for anything. That no new rule goes live on the day of a loss. That a model may propose anything and decide nothing.
-
-Those lines went into the executor, where they are enforced without my opinion. Then I wrote them out again by hand, on one card, because I wanted to be able to read them in the fog. The card is not the law. The code is the law. The card is so that I know what the law says without opening a file.
-
-*Govern the state by the straight.* That is what the card is: the straight part. It says how much, and when to stop. It never surprises anyone, least of all me.
+The idea was not bad. The size was not chosen by you; it was chosen by how you felt after three wins and a late night. *The more sharp tools the people have, the more confused the state becomes.* You gave the sharpest tool you have to a mood.
 
 ---
 
-The surprise lives somewhere else. It lives in the rules that choose what to trade and when, and those may be as clever as their tests allow, because every one of them sits inside the card. A new idea can be strange. It cannot be strange about how much it risks.
+Now the other Thursday.
 
-I expected the account to feel less protected by one card than by twenty pages. It felt more. The twenty pages had been full of rules that refused good trades and gaps that let bad ones in. The card has no gaps that I know of, because there is nothing on it to interpret. I cannot argue with a daily loss limit about whether the evening counts. The executor does the counting.
+Same good week, same three wins, same late night with the same idea. You wake up sure. You notice the sureness, and you write it down next to the trade: *conviction high.* Then you size it exactly as you size every trade. It feels small. It feels like holding back on your best idea. You let it feel that way.
 
-*I do nothing, and the people transform themselves.* On most mornings now I have nothing to do with the rules at all. They were finished before the day began.
+At the open it moves your way. The number moves at its normal speed. It turns after twenty minutes. Each tick is a tick. It goes through your stop and you are out, a normal loss, one of many you have taken. It stings a little, mostly because you were so sure.
 
-I still have the printout. Like a few other things in this book, I keep it as a record of what I was like. It is a very careful document. Every page of it was written by someone afraid of the last thing that happened.
+Then something you did not expect. You are free. There is nothing to carry. You look at the rest of the screen and there is the clean setup in the other name, and you take it, at the same size as always. It works a little. The day ends roughly flat. The good week is still a good week.
+
+That evening you look at your note: *conviction high.* Under it you write: *stopped.* You have a feeling you will see that pairing again.
+
+---
+
+*Govern the state by the straight. Wage war by surprise.* We were taught to back ourselves hardest when we feel most sure, to put the most behind what we believe most. The old book sees it the other way round. The things that keep you alive should be plain and fixed. The flair belongs in the fight, not in the treasury.
+
+Some of your best ideas will be traded at a size that feels too small. That is the cost of keeping the state straight.
+
+## Try This
+
+For the next two weeks, trade every position at one fixed risk, the same amount every time, however you feel about it. Before each entry, write a number from one to five for how sure you are. Do not let the number change the size. At the end of the two weeks, put the trades side by side and look at how your most confident trades actually did compared with the ones you felt least about.
 
 ---
 

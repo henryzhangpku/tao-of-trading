@@ -18,67 +18,67 @@ To know harmony is called the constant. To know the constant is called clarity. 
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. The newborn is not stung because it offers nothing to sting. A small position offers the market nothing to strike.
+Mind over body. You were taught to push through: stay up for the exam, play on with the sore ankle, finish the project on coffee and nerves. Tired is a feeling, and feelings do not get a vote. The ones who win are the ones who keep going when the body wants to stop. Trading is the same, only faster. The market does not care that you slept badly. So you get up early, drink the coffee, sit forward in the chair and stay locked in from the open to the close. The rush you feel when a trade moves is fuel. Use it. When you are tired, you grind.
 
-2. Soft bones, firm grip. Hold the size small and the rules tight. Most traders do the opposite: a large size, held loosely.
+## The Other Way
 
-3. Beginner's size is not a stage you pass through. It is a habit you are lucky to keep.
+1. *It cries all day and does not grow hoarse.* The newborn does not last because it is strong. It lasts because it is not straining. Strain is what wears a voice out, and a trader out.
 
-4. Read your first trades again. They were small because you were afraid. Keep the size and lose the fear, and you have most of what a trader needs.
+2. *To let the heart drive the breath is called forcing.* When the mind drives the body past what it has, the body pays later, usually in the afternoon, usually in size.
 
-5. It cries all day and does not grow hoarse. A small position can be held all day without strain. A large one shouts in your head before lunch.
+3. Your breath knows before you do. Held breath, a tight jaw, shoulders up near the ears: the body is already trading, and it is trading scared or greedy.
 
-6. To know harmony is the constant: the size at which you can still sleep. Find it once, write it down, and do not let a good month rewrite it.
+4. *Soft bones, supple sinews, yet the grip is firm.* Loose in the body, firm on the few things that matter: the size, the stop, the time you stop for the day.
 
-7. To force life to grow is ill-omened. An account pushed to grow faster than its rules allow is not growing. It is ageing.
+5. Most traders have it backwards. Rigid in the body, loose in the rules. They clench the mouse and let the stop drift.
 
-8. To let the heart drive the breath is forcing. When you feel the size before you have calculated it, you are about to force it.
+6. Adrenaline feels like clarity. It is not. It narrows the eyes to one chart and one price, which is exactly what the market asks of you just before it takes your money.
 
-9. Things grown strong grow old. A strategy that has grown too large for the market it trades in has started to die, even if this year's record does not show it yet.
+7. *Things grown strong grow old.* The morning when you feel unstoppable is the morning that ends earliest. A surge spends itself.
 
-10. Begin small. Stay small longer than feels necessary. That is not timidity. It is how the soft thing keeps its grip.
+8. *Wasps and snakes do not sting it.* Nothing in the market attacks you. The bites come from what you do while you are wound up.
+
+9. Coffee, no lunch, no window, no standing up. You would not run a machine this way and expect clean work from it.
+
+10. *To know harmony is called the constant.* The trader who can sit at the same pace at three o'clock as at nine is rarer, and more useful, than the one who was brilliant for an hour.
 
 ## The Story
 
-Clearing out a drawer one winter, I found the statements from my first trading account. Paper statements, posted to me once a month, from the years before anything I traded was decided by a rule I had written down. I nearly threw them away unopened. I am glad I did not.
+You slept five hours. That is fine, you tell yourself; you have done it before. You are at the screen by seven with the second coffee, sitting forward, the room still dark. You skipped the walk because the futures were moving.
 
-I had expected to be embarrassed, and I was, but not by what I expected. I thought I would find bad trades. There were plenty, and they did not interest me much; everybody's first trades are bad. What I had not remembered was the size. Every position on those pages was tiny. Not small in the way traders mean when they say it. Tiny. The kind of size where a bad week cost me a dinner out and a good week paid for one.
-
-And every one was nearly the same. Whatever the stock, whatever I thought of it, the amount barely changed.
-
-I remember why. I was frightened. I had read enough to know that people lose everything in markets, and I did not trust myself, so I picked an amount I could bear to lose entirely and I never moved it. I wrote down where I would get out before I got in, not because a book told me to but because I could not sleep otherwise. The stop came first because the fear came first.
+The open is fast and you are faster. You catch the first push and take it off for a good gain inside ten minutes. Your heart is going. Everything looks sharp. You feel it in the chest, that hum that says today is a day. You take another, then a third. By half past ten you are up well and you have not stood up once.
 
 ---
 
-Reading those pages, I felt something close to affection for that trader. He knew almost nothing. His entries were guesses. His reasons, scribbled in the margins, were the kind you would not say out loud now. But the account survived him. It survived him because he offered the market nothing worth striking. *Wasps, scorpions and snakes do not sting it.* A newborn is not safe because it is strong. It is safe because there is nothing on it to sting.
+By noon the hum has turned into something else. Your neck is stiff. You have not eaten. Your eyes keep going back to the same two charts, and the rest of the market has gone grey at the edges. A name you do not usually trade starts to run. You feel the pull in your stomach before you have read anything about it. You buy it. You do not notice that you are holding your breath as the order fills.
 
-Then I thought about the years in between, and I had to be honest. The fear went first, which was right. The size went with it, which was not. Somewhere along the way I had become better at choosing trades, and I had let the improvement speak for the size. Confidence grew, and size followed it up the stairs, without anyone deciding that it should. The trader with the paper statements had soft bones and a firm grip. For a while, the later one had it the other way round.
+It stalls. It dips. Your stop is close, so you move it a little lower, because you are tired of being shaken out, and because changing it is easier than thinking about it. It dips again. At two o'clock you are trading to get back to where you were at half past ten. Each trade is a little bigger than the last and a little less planned. Your jaw aches. You notice it only when you finally close the platform at four, flat for the day after being up well, and realise your teeth have been clenched for hours.
 
----
-
-What came out of that drawer was not a resolution. Resolutions do not survive a good month. It was a rule on the desk, written in code, and it applies to every new rule I let near real money.
-
-A new rule starts at beginner's size. By then it has already done everything else: written into the ledger before it ran, passed the gate, run forward on paper for a season, frozen by its fingerprint. None of that buys it size. When it first trades for real, it trades at the smallest amount the desk will place, an amount the young trader would have recognised. It stays there for a stated length of time, written down before the first trade. Then the size may step up, one step, on a schedule also written down before the first trade. The schedule does not care how the rule has been doing. A good start does not hurry it. That is the point. *To force life to grow is called ill-omened.*
-
-The first time I watched a rule I liked sit at that size, I found it hard. It had done its work on paper. It was doing its work now. It felt like keeping a grown person in a child's chair. I opened the schedule and read the date on which it would be allowed its first step, and the date was still some way off, and I closed the schedule again.
-
-What I had forgotten, and the statements reminded me, is that the small size is not only protection against the rule. It is protection against me. A rule at beginner's size can be wrong in front of me without my hand going to anything. I can read its bad weeks the way I read those old statements, with curiosity. At full size the same bad week would be shouting in my head before lunch.
+You tell yourself you need more discipline tomorrow. More focus. You will push harder. *To let the heart drive the breath is called forcing.* You forced the morning, and the afternoon sent the bill.
 
 ---
 
-There is a second limit, and it comes from the end of the chapter. *Things grown strong grow old.*
+Now the other morning.
 
-Every rule on the desk has a ceiling on its size that has nothing to do with the account. It is tied to the market the rule trades: how much changes hands in those names on an ordinary day. A rule may not grow past a small share of that, however well it does and however large the account becomes. A rule that grows bigger than its pond starts to stir the water it drinks from. Its own orders begin to show up in its own fills. It looks strong. It has started to age.
+You slept badly again. You notice it and you write one line on the pad: *tired, five hours.* You go for the walk anyway, twenty minutes, futures moving or not. At the desk you sit back in the chair, not forward. Before the open you put both feet on the floor and take three slow breaths. It feels faintly silly. You do it.
 
-I know of no better description of a strategy dying of success than the one Laozi gives of the newborn's opposite: grown strong, grown old, and soon ended.
+The first push comes and you take it. A good gain. Your heart goes; you feel the hum. This time you have a name for it. You stand up, get water, look out the window for two minutes. When you sit down the hum is still there but quieter, and the whole screen has come back.
+
+At noon you eat something away from the desk. The name you do not usually trade starts to run. You feel the pull in your stomach. You put your hand flat on the desk and check your breath. It is held. You let it out and wait for three more. By the time they are done the urge has turned back into a question: is this a trade you take? It is not. You let it run without you.
+
+At two you notice your shoulders are up near your ears. You lower them. You have one trade left in your plan for the day, and it does not come. At three you stop, because the note on the pad said *tired*, and tired traders give money back in the last hour. You are up a little less than you were at half past ten. Your jaw does not ache.
 
 ---
 
-I kept one of the statements. It lives in the desk drawer now, not in the drawer of old papers. Every so often, usually when a rule I like is waiting for its next step and I want to hurry it, I take it out and look at the sizes. That trader did not know how to choose a trade. He knew how big a trade should be, and he knew it without being taught.
+*It cries all day and does not grow hoarse.* We were taught that the will should drive the body, that the one who pushes hardest wins. The old book sees it the other way round. The newborn outlasts everyone because it does not strain, and its grip is firm because the rest of it is soft. The trader who lasts is the one who lets the breath set the pace and keeps the grip for the few things that need it.
 
-Most of what I have learned since then, I had to learn. That one I only had to keep.
+Some days you will feel the hum and do nothing with it. That is most of the work.
+
+## Try This
+
+For the next five sessions, before every order, take your hand off the mouse and take one full breath out. Notice whether you were holding it, and whether your jaw or shoulders are tight. Do not change the trade because of what you notice; just place the order after the breath. Each evening, write down how many times you caught yourself holding your breath, and at what time of day. At the end of the week, look at when the held breaths cluster, and what you traded then.
 
 ---
 
