@@ -2,7 +2,7 @@
 
 ## Direction (20 November 2026)
 
-The book is about the trader's mindset. Each chapter takes something traders already "know" and turns it over through Laozi. Sections: The Verse / What You Know / The Other Way / The Story (zh: 经文 / 你以为 / 另一条路 / 故事). Stories are universal trading-day scenes in the second person unless Henry gives a true incident of his own. Quant and AI-desk material appears at most as a passing example. See NOTES-henry.md.
+The book is about the trader's mindset. Each chapter takes something traders already "know" and turns it over through Laozi. Sections: The Verse / What You Know / The Other Way / The Story / Try This (zh: 经文 / 你以为 / 另一条路 / 故事 / 试一试). Stories are universal trading-day scenes in the second person unless Henry gives a true incident of his own. Quant and AI-desk material appears at most as a passing example. See NOTES-henry.md.
 
 ## Questions for Henry
 

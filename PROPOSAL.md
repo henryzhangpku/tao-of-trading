@@ -1,5 +1,8 @@
 # Book proposal — Slow Is Fast: The Tao of Trading · 慢就是快：交易道德经
 
+> **Superseded (20 November 2026).** This is the first proposal, which framed the book around quant research: backtests, forward tests, frozen rules and the AI desk. Henry redirected it to a mindset book: everything traders think they know, turned over by Laozi, with one habit to try per chapter. See [NOTES-henry.md](NOTES-henry.md) and the [prologue](en/prologue.md). Kept as a record.
+
+
 *Henry Zhang · 张恒 — proposal draft, 15 November 2026. Public from 17 November 2026; chapters appear as they are finished.*
 
 ## In one paragraph
