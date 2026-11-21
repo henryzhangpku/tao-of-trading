@@ -18,71 +18,69 @@ So the sage says: who takes on the dirt of the state is fit to be lord of its al
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Water does not win any single collision. It wins the count.
+You know the rules. Everybody does. Cut your losses short and let your winners run. Do not average down. Keep your size sensible. Respect your stop. You could teach a class on it. None of this is a secret; it is on the first page of every trading book ever written. What separates traders is not the basics, which are common knowledge, but the edge on top of them: the better read, the sharper timing, the thing other people have not noticed. Once you know the basics, you have them. You move on to the advanced material, because that is where the money is.
 
-2. The small position, the defined loss, the same rule on the hundredth day as on the first. None of it is impressive. All of it is still there next year.
+## The Other Way
 
-3. Nothing can take its place. Size is not a substitute for repetition. Neither is conviction, and neither is a better forecast.
+1. *Nothing under heaven is softer or weaker than water.* A small loss, taken at once, is the softest thing in trading. Nothing wears down the hard problems better.
 
-4. Everyone knows; no one can practise. Knowing is not the scarce thing. The trader beside you knows it too. The edge is in the doing, and the doing is dull.
+2. *Because nothing can take its place.* No setup, no clever entry, no better read replaces the plain act of getting out when you are wrong.
 
-5. Water has no good days. It has days. Do not ask the process to feel like winning.
+3. *Everyone under heaven knows this. No one can practise it.* Ask any trader whether to cut losses. Every one says yes. Then watch his hand when the price reaches his number.
 
-6. Take on the dirt: the small loss, the ugly fill, the trade that was right by the rule and lost anyway, the week with nothing in it. Whoever can carry these owns the account. Whoever must refuse them is renting it.
+4. Knowing lives in the head. Practising lives in the hand, in the one second when the price touches the line. They are not the same place.
 
-7. Take on the misfortune: the drawdown that is nobody's fault. Sit under it and rewrite nothing.
+5. The gap between them is not ignorance. It is pride. Taking the loss means being wrong in front of someone, even if the only one watching is you.
 
-8. The hard thing that water wears down is not the market. The market is weather, not stone. The stone is in you: the need to act, to fix, to be seen doing something.
+6. *Who takes on the dirt of the state is fit to be lord of its altars.* Losses are the dirt of this trade. The one who can carry them, without wiping them on anyone else, is the one fit to run an account.
 
-9. A process that needs you every day will fail on the day you are tired. Build the one that runs when you are not in the room.
+7. Take on the dirt whole. Not the market's fault, not the headline's, not the broker's. Your trade, your loss. The moment you share it out, you stop learning from it.
 
-10. True words seem to say the opposite. Soft beats hard. Less does more. Slow is fast.
+8. *Who takes on the misfortunes of the state is fit to be king.* The worst days belong to the account too. Treat them as yours, not as accidents that happened to you.
+
+9. Advanced material does not help the trader who cannot do the basic thing. It only gives him better reasons not to.
+
+10. *True words seem to say the opposite.* The trader with the most small losses on his record is often the one still trading. The weak, practised, beats the strong.
 
 ## The Story
 
-There is a Chinese proverb, later than Laozi and not his, that every schoolchild knows as well: 水滴石穿, dripping water goes through stone. Under the eaves of an old house you can see the proof, a row of small cups worn into the stone step, one below the edge of each roof tile. No single drop did anything. If you had stood there for a day you would have seen water landing on stone, and the stone not caring.
+You know the rule. You could recite it in your sleep. You have said it to newer traders, kindly, more than once.
 
-The cups are there anyway.
+The trade goes against you in the middle of the morning. It drifts down to the price you wrote down before you entered, the price where you said you would be wrong. It touches it. Your hand is on the mouse.
 
----
-
-For one season I ran a forward book and did not attend it.
-
-I had not planned it as an exercise. That stretch of months was crowded, the kind in which work and family between them take every hour and trading gets what is left, which was nothing. A few years earlier that would have meant stopping. This time the book had been built so that it did not need me. The rules were frozen. The runs were scheduled on a machine in the cloud that neither knows nor cares whether I am awake. The one decision I made, the week before, was that I would not open the board until the season was over. If something broke, an alert would reach me. If nothing broke, nothing would.
-
-So each night, while I was doing other things or asleep, the same short sequence ran. The day's data came in. The frozen rule asked its question of every name. The few that passed were filled on paper at that day's prices, at the size the rule allows, which is small. Exits that were due were taken at whatever the price was. The random control was drawn: the same number of picks, chosen by dice. And one line was written to the log, with the date, what was opened, what was closed, what was refused, and the fingerprint of the rule, the same string of characters every night.
-
-That is all that happened. The next night it happened again.
+And something happens that has nothing to do with knowledge. A voice says: give it a minute. It is only just through. The volume is light. It is lunchtime soon and lunchtime moves mean nothing. You drag the stop down a little, to a level that now seems more sensible. You do it calmly. It does not feel like breaking a rule. It feels like judgment.
 
 ---
 
-I would like to say I was serene about it. For the first two weeks I was not. I had the particular itch of a man who thinks he has left the stove on. Three or four times I had the laptop open and the address half typed. Once, in a week when the market was all over the news and people who knew I traded kept asking what I thought, I got as far as the login page.
+The price goes to the new level. You move it once more. By the close you are holding a loss three times the one you planned, and you tell yourself you will deal with it tomorrow. Tomorrow it opens lower.
 
-What I noticed, sitting there, was that I had nothing to do on the other side of that page. That was new. Every earlier version of my trading had needed me at the screen, so every look carried the possibility of an action, and the look was really a search for one. Here no action was available. The rule could not be changed without ending the test. The size was not mine to set. The exits did not ask permission. If I logged in and found a bad week, I could do nothing. If I found a good week, I could do nothing. I would only be bringing the weather indoors.
+That evening you are not ignorant. You know exactly what you should have done. That is the strange part. You spend an hour reading about some advanced technique you have heard others use, because surely the problem is that you do not know enough. *Everyone under heaven knows this. No one can practise it.* The problem was never what you knew. It was one second, and your hand.
 
-I closed the laptop. After the third week the itch faded, the way a habit does when it is no longer fed. For long stretches of that season I forgot, for days at a time, that anything was running at all.
-
----
-
-When the season ended I got up before five, made coffee, opened the log, and read it from the first line to the last.
-
-It is the most boring document I have ever produced, and I read it with something close to awe. Line after line, the same shape. Some nights two names were opened, some nights none. Losses were taken at the size they had been given and at the place they had been promised, one after another, small, without comment. There were weeks in the middle that had plainly been bad, and the log did not raise its voice for them. There was the loud week, the one that had sent me to the login page. In the log it was five lines like any other five. And in the last column, every night, the same fingerprint. Not one character had changed.
-
-I will not say what the lines added up to. That number belongs to the test, not to this book. What struck me was not the sum. It was that for the first time I owned a record in which I was not a variable. Nothing in it had been helped. Nothing had been rescued, or pressed, or skipped because I had a feeling. It had simply landed, night after night, on the same spot.
+This is not only a trading problem. Everyone knows to sleep, to move, to eat plainly, to say sorry first. Knowing is the easy half of almost everything that matters. We were taught that once you understand something, you have it. The old Chinese view says understanding is where the work begins.
 
 ---
 
-*Nothing under heaven is softer or weaker than water.* I have read that line since childhood as a statement about gentleness beating force. That season I read the other half: *because nothing can take its place.* You cannot get what the drip gets with one big pour. A flood moves the stone and leaves it whole. Only the small thing, repeated past the point where anyone is still watching, makes the cup.
+The other way is not more knowledge. It is less. One thing, done every time.
 
-And the stone, I think, was never the market. The market is not hard. It is weather; it wore nothing down and was not worn. The hard thing was on my side of the screen: the need to look, the need to do something about what I saw, the belief that a day on which I had not acted was a day I had not worked. Sixty-odd small, identical nights went through that, where years of resolutions had not.
+The trade goes against you. It drifts to your number. It touches it. Your hand moves before the voice has finished its first sentence. You are out. You say it under your breath: my trade, my loss. Not the market, not the light volume, not the lunch hour. You write one line and you sit still for a moment with the small dirty feeling of having been wrong.
 
-*Who takes on the dirt of the state is fit to be lord of its altars.* The book took the dirt for me. Every small loss, every dull night and every ugly exit price was accepted without a word, and because all of it was accepted, the record was whole.
+It is not pleasant. You do this three or four times a week, and every one of them is a little humiliating. Other traders talk about their big calls. You have a record full of small, plain losses. In front of them you look like the weaker trader. In some sense you are. *Nothing under heaven is softer or weaker than water.*
 
-*Everyone under heaven knows this. No one can practise it.* I do not think Laozi is scolding. I think he is reporting. I had known for years that the small repeated thing wins, and I could not practise it. In the end I did not practise it either. I built something that would, and then I stayed out of the room.
+Some weeks the small losses come in a row, four or five of them, and the voice grows louder: you are cutting too early, give the next one room. You let it finish. Then, at the next number, your hand moves first again.
 
-*True words seem to say the opposite.*
+But look at what is missing from your record: the loss three times the plan, the overnight hold you did not mean, the week spent climbing out of one bad morning. The hard problems do not get solved. They get worn away, the way water wears stone, by a soft thing that does not stop.
+
+*Who takes on the dirt of the state is fit to be lord.* You carry your own dirt. You do not pass it to the market or the news. Because it is all yours, all of it can teach you something.
+
+---
+
+You were taught that the strong win and the weak are beaten. Laozi says everyone already knows the opposite is true, and almost nobody lives by it. A trader who can be weak at the right second, every time, has something none of the advanced material can give him.
+
+## Try This
+
+Before every entry this week, write the price where you are wrong. When the price reaches it, get out at once, before you finish thinking about it, and say quietly, "my trade, my loss." Count at the end of the week how many times your hand moved first. Watch what changes.
 
 ---
 

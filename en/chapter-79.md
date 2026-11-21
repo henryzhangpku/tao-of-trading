@@ -18,71 +18,67 @@ The way of heaven has no favourites. It is always with the good.
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. After a large loss, something remains even when the money is made back. You can feel it in the next entry: a little too large, a little too soon.
+When you are wronged, you get it back. That is only fair, and it is how you were raised: stand up for yourself, collect what you are owed. When a fill is bad, you call the broker and fight for every cent. When the market takes a big piece of your account, you make it back, and you do not rest until you are at your old high again. A loss is a debt, and debts get collected. Letting things go is for people who do not keep score. Traders keep score. The high is where you belong, and every day below it is a day the market owes you.
 
-2. That remainder is the grievance. Laozi's point is that settling it does not remove it. The best grievance is the one that was never let in.
+## The Other Way
 
-3. Do not trade to settle a score with the market. The market keeps no ledger of what it owes you, so the score can never be settled.
+1. *Settle a great grievance, and some grievance is sure to remain.* Win back the big loss and you will still be angry about it. The money comes back. The grudge stays.
 
-4. Do not trade to settle a score with a name. The vow never to touch a stock again is the same grievance, turned inside out. It still lets one old loss choose your trades.
+2. *How can that be called good?* A trader trading to get even is not trading the market in front of him. He is trading last month.
 
-5. If a rule would take the trade, and you refuse it only because of what that name once did to you, the grievance is running your book.
+3. The old high is not where you belong. It is a number you once saw.
 
-6. If a rule would not take the trade, and you want it because you are owed, the grievance is running your book again.
+4. Every grievance makes a demand: the market should give it back, the broker should make it right, you should never have done it. Each demand pulls on the next trade.
 
-7. The sage holds the left half of the tally and makes no demand. Keep the record of the loss, every line of it. Collect nothing on it.
+5. *The sage holds the left half of the tally.* Keep the record. Write down what happened, plainly, once.
 
-8. One without virtue collects the levy: chases the money back, the same day, from the same place. That is the trade that turns one grievance into two.
+6. *And makes no demand on the other party.* Then ask for nothing. The market cannot repay you. It does not know it borrowed.
 
-9. Close the bad trade the way you would close any other. Write down what the rule did and what you did. Then let the next trade be only the next trade.
+7. *One who has virtue keeps the tally. One without virtue collects the levy.* The first trader learns from the debt. The second goes out every morning to collect it, and pays for the collecting.
 
-10. Heaven has no favourites. It does not punish you for the old loss and it does not owe you the next win. It is always with the one who sized it right.
+8. The grievance against yourself is the hardest to settle. Keep that tally too, and do not collect it from yourself as punishment.
+
+9. Today's account is the whole account. Start from the number you have, not the number you had.
+
+10. *The way of heaven has no favourites. It is always with the good.* The market owes nothing to the wronged. Over time it is kind only to the one who keeps trading well. Demanding nothing, you keep more.
 
 ## The Story
 
-The refusal log is the part of my desk I read most slowly. Every morning, every name that goes into the funnel comes out with a line: taken, or refused, and if refused, why. Too thin. Spread too wide. A report due. Price too erratic to size against. I built the reasons in from the start, because I do not trust anything that says no without saying why.
+It happens in a minute you did not see coming. A name you hold is halted on news. When it reopens, it is far below your stop. The stop fills, but nowhere near the price you set. In one print the account gives back most of a good month.
 
-One morning, preparing a rule for its forward test, I was reading the refusals for the history, to see the funnel's habits before I froze it, and I found a reason I did not recognise. It was not a rule. It was a list. *Refused: on exclusion list.*
+You did nothing wrong. That is what makes it unbearable. You had a stop. You had sensible size. The market went through all of it as if none of it existed.
 
-The list had one name on it.
-
----
-
-I knew the name at once, and I knew who had put it there, because it was me, years earlier, in an earlier and simpler system that this one had inherited its universe from. I had carried the file across from machine to machine without opening it, the way you carry a box of old letters from house to house.
-
-The loss behind it was not dramatic, as these things go. I had held the name through its quarterly report. My own rule said nothing is held through a report, because a report is a coin toss with a gap on the other side of it. I held it anyway. I had a view, and the view was that this report would be good. The report was good, as it turned out. The stock opened far lower all the same, on something in the guidance I had not even thought to read, and I sold it at the open at a price I did not like.
-
-That evening I did two things. I wrote the loss up in the notebook, honestly, with the line about the report rule. And I opened the config and typed the name into a new file called exclusions, with a comment beside it that I will not repeat here, except to say that it was addressed to the company.
+So you do what anyone would. You call the broker and spend most of an hour on hold, then twenty minutes arguing about how the order was handled. You read the rules on halts. You find others on the forums who were caught, and you compare fills. You draft a complaint. By the evening you have spent more hours on this one loss than on the last month of trades put together.
 
 ---
 
-Reading it again, years later, I saw what I had done more clearly than I had at the time.
+The next weeks are measured from the old high. Every morning you look at how far below it you are. The gap is the first thing you see and the last thing you think about. You size up a little, not recklessly, just enough to close it faster. When a trade works, you feel not pleasure but a payment received. When a trade fails, it feels like a second theft.
 
-The notebook entry was true. It said I had broken a rule. The exclusion said something else. It said the stock had done it to me. Of the two, the second was much easier to live with, and so it was the second that had been built into the machine. The notebook was in a drawer. The grievance was in the config, refusing a name every morning, quietly, for years, in a system that had never heard of the original trade.
+After a while you are back. The account touches the old number. And the strange thing is that nothing settles. You do not trust stops any more. You hold less than you should through news. You feel a small flare of anger whenever that name crosses the screen. *Settle a great grievance, and some grievance is sure to remain.* You collected the debt in full, and you are still carrying it.
 
-*Settle a great grievance, and some grievance is sure to remain.* I had not settled it. I had automated it.
-
-I went through the history of the refusals. The rule I was about to freeze would have taken that name, on its own terms, a handful of times over the years. Some of those trades it would have won and some it would have lost; I did not look closely, because it did not matter. What mattered was that a rule I was about to test, and trust, had a hole in it shaped like one bad evening of mine. Every one of those refusals was the old loss choosing a trade.
-
-And the random control book, the one filled each day by dice, had drawn the name more than once. The dice do not keep a list. The control had been free to buy what the rule was forbidden to buy, so the comparison between them had been tilted by my grudge, by however much one name can tilt it. That was the part that decided me. I can live with a rule that is wrong. I cannot live with a test that is not fair.
+Most of us were raised on scorekeeping. Get even. Do not let them get away with it. A great deal of life gets spent this way, on old debts nobody else remembers. We were told that settling the score ends the matter. The old Chinese view looks at the settled score and sees the grievance still sitting there.
 
 ---
 
-Removing the oath took one line, and the line was easy to delete. The procedure around it was the slow part, as it always is.
+There is another way to hold that minute.
 
-The frozen book that was already running had been pinned by its fingerprint with the exclusion list inside it. Deleting the name from that book would change its fingerprint and end its test. So I did not touch it. It runs out its season with its grudge intact, and the grudge is written down as part of what was tested. The new rule, the one I had been preparing that morning, was frozen without the list. If it wanted the name some day, it could have it, at the size it allows, with the stop it sets, the same as any other name.
+The halt happens. The fill is bad. The loss is real. That evening you sit down and keep the tally. You write a few plain lines: what you held, what happened, where the stop was, where it filled, what it cost. If there is a real error in how the order was handled, you send one clear note to the broker and let it run its course. You do not go back to it every hour.
 
-The notebook entry I kept. *The sage holds the left half of the tally and makes no demand on the other party.* The left half of the tally is the record of the debt. Laozi's sage keeps it and does not collect on it. That is the exact difference between the notebook and the exclusion file. One kept the record. The other collected, every morning, for years, on a debt the company had never owed me. The debt was mine. I had broken my own rule and I had been sent the bill.
+Then you do the harder thing. You stop measuring from the old high. You take today's number as the account. Not the account minus a debt; the account. Tomorrow's first trade is sized from that number, the same way you would size it if you had just opened the account this morning.
+
+*One who has virtue keeps the tally. One without virtue collects the levy.* You still have the record. You can read it in a year and learn what it has to teach about holding through news. What you do not have is a collector inside you who gets up every morning to go and get it back.
+
+The name comes across the screen a week later. You look at it as a chart, not as an enemy. You may trade it. You may not. It owes you nothing, and you owe it nothing.
 
 ---
 
-The exclusions file still exists on my desk, because there are real reasons to keep a name out: a market that has stopped trading, a halt that has not lifted, an instrument my broker no longer offers. But every line in it now has to carry a reason a stranger could check, and a date on which the line is reviewed. Anger is not a reason a stranger can check.
+You were taught to demand what is owed. Laozi says that demanding keeps the wound open. Hold the record and let the debt go. It sounds like losing twice. In the market, it is the way you stop losing to the same morning over and over.
 
-I have never traded that name since. The rule has not happened to want it. If it does, it will not ask me first, and I would like to think that when I see it in the morning's log I will read it as I read any other line.
+## Try This
 
-*The way of heaven has no favourites.* Nor does it hold grudges. Only I did, and I had put mine where I could not see it.
+The next time a loss feels unfair, write down what happened in three or four plain lines that evening and do not reread it for a week. From the next morning, measure the account only from that day's number, never from the old high. Watch what changes.
 
 ---
 

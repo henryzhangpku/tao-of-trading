@@ -18,65 +18,69 @@ Let them find their food sweet, their clothes fine, their homes at peace, their 
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. A small account, few names. That is not a stage you grow out of. For many traders it is the whole of the Way.
+Growth is the point, in business and in life. A bigger account, more markets, better tools. If you trade only stocks, add options. Then futures, then the overnight session, then crypto, then the foreign opens. Opportunity is everywhere, and a trader who can go anywhere can always find something moving. The serious platforms have hundreds of features for a reason; learn them. Keep a second broker for the things the first one does badly. A small trader with a few names stays small. A trader with reach, with every instrument at hand, is the one who becomes big.
 
-2. Keep a watchlist short enough to know every name on it by heart: how it usually moves, when it trades thin, what it does on a bad open.
+## The Other Way
 
-3. Have the tools and leave most of them in the drawer. A screen with forty indicators is a country with boats and nowhere to go.
+1. *A small country, few people.* An account of a few names you know well is not a starting point to grow out of. It may be the whole of a good life in the market.
 
-4. Let the people take death seriously. A small book makes each loss visible. You cannot lose a bad position in a crowd of fifty.
+2. *Let them have tools for tens and hundreds and not use them.* The platform has hundreds of features. Having them is fine. Using them is not required.
 
-5. Do not travel far. The market next door, the session at night, the instrument a friend is excited about: they are in sight, and you can hear their cocks and dogs. You do not need to go.
+3. Every tool you pick up asks for attention to keep it working. The tool you leave in the drawer asks for nothing.
 
-6. Knotted cords: keep the record simple enough that you will keep it every day. A plain log that is always filled in beats a fine one that is filled in when you feel like it.
+4. *Let them take death seriously and not travel far.* Ruin is serious. Every new market you add is a new way to meet it.
 
-7. Find your food sweet. The ordinary trade your rules give you is enough. You do not need the one on the front page.
+5. *Though they have boats and carts, they have nowhere to ride them.* Margin, leverage, the overnight session. They are there. You do not have to go anywhere in them.
 
-8. Find your home at peace. If you have to check a position from the dinner table, the country is too large.
+6. *Though they have armour and weapons, they have nowhere to array them.* The order types you have never needed, the fast tools built for someone else's game. Leave them in the cupboard.
 
-9. Contentment is not a lack of ambition. It is the condition in which you can see clearly enough to follow your own rules.
+7. *Go back to knotting cords.* A plain notebook and a pencil. A record you can read at a glance and carry in your pocket.
 
-10. Shrinking the list is the easiest improvement most traders will ever make, and the one they are least willing to try.
+8. *Let them find their food sweet, their clothes fine.* Enjoy the trading you already have. A modest gain in a name you know well is a good meal.
+
+9. *The sound of their cocks and dogs heard across the way.* You hear the other markets: the crypto chat, the overnight futures, the foreign open. Let them be heard. You do not have to cross over.
+
+10. *Grow old and die without going back and forth.* The trader who stays in his small country for twenty years knows it better than anyone alive. Small, kept well, is rich.
 
 ## The Story
 
-For a few weeks one winter the funnel was off. I was moving the research desk's data to a new store, and the night runs that sort thousands of names down to a few had to wait until the move was finished and checked. I could have stopped trading. Instead I took an index card and wrote five names on it.
+You began with one account and a handful of names. You knew how each of them moved at the open, where they tended to stall, what a normal day looked like. You were small, and you were a little ashamed of it.
 
-They were not chosen for promise. They were chosen because I already knew them. Each was a name I had watched for years, liquid all day, in a market deep enough that I never had to wonder whether someone would be there to take the position back. I wrote the card's rules under them, the same rules I always use, only applied by hand: the most it can lose, the stop, the day I leave if nothing happens. Then I put the card under the lamp and turned off every other list I had.
+So you grew. Options first, because everyone said that was where the leverage was. Then futures, for the hours before the open. Then the overnight session, because moves happened while you slept and it seemed foolish to miss them. Then a crypto account, because a friend kept sending you charts. Then a second broker with a better scanner, and a new platform with alerts for everything. Each step promised more opportunity, and each one delivered some.
 
----
-
-The first thing I noticed was how quiet it was. A watchlist of a few hundred names is a city. Something is always happening in it, and every morning there are a dozen things that look like they want you. Five names is a village. On most mornings nothing in it wanted me at all.
-
-The second thing I noticed, after a week or so, was that I was beginning to know them.
-
-I do not mean knowing their stories. I mean knowing their habits, the way you know which floorboard creaks. One of them always went thin around the middle of the day, the spread widening and the quotes thinning out for an hour, and then filled in again in the afternoon. My systems refuse thin markets on entry by measuring them. On the card I found I was refusing that hour by memory. Another one, on a bad open, liked to fall hard in the first minutes and then sit still, and the sitting still told me more than the fall. A third barely moved for days and then moved all at once, and I learned to give its stop more room and its size less.
-
-None of this was secret. It had all been in the data the whole time. But in a list of hundreds I had never stayed with one name long enough to see it. *Let them have tools for tens and hundreds and not use them.* I had the tools for hundreds. For those weeks I did not use them, and I saw more.
+Now it is Sunday evening and you are watching the futures open. Your phone buzzes at night with a price alert for a coin you bought on a whim. You have four logins and two of them you only check when something goes wrong. There are positions in one account you would have to look up to describe.
 
 ---
 
-The third thing was the one I had not expected. The losses were visible.
+One quiet weekend you go back through the year. The trades that paid, the ones you would take again, are mostly in the handful of names you started with. The new markets gave you a few good days and a great many tired ones. The tools gave you more alerts than decisions. What grew was not your trading. It was the territory you had to defend.
 
-In a large book a losing position hides. It sits in a crowd of others, some up, some down, and the total on the screen softens it. You can go a week without really looking at it. On a card of five there is nowhere to hide. Every morning the loser was one line in five, written in my own hand. *Let them take death seriously.* I took each one seriously, because I had to look it in the face. I did not carry a single position past its stop in those weeks. That is not because I was virtuous. It is because the village was too small to lose anything in.
+This is how most of us are taught to live. A bigger house, a second car, a longer list of things to keep running. More reach. Nobody counts what the reach costs to maintain, or what was given up to keep it all lit at night.
 
-Each morning the language model on my desk still read the news and still wrote its list of things it would try. It did not know the funnel was off. Most mornings it proposed new names: a company in the headlines, a market that had woken up overnight, an instrument a lot of people were suddenly excited about. Neighbouring countries, in sight across the way. I could hear their cocks and dogs. The model proposes; the rules decide. The proposals went into the ledger, as they always do, to be tested when the desk came back. None of them went onto the card.
-
----
-
-I kept a paper log for those weeks, because the electronic one was halfway through its move. One line a day. What I did, what the rule said, what I did that the rule did not say, if anything. It was the most complete log I have ever kept, for the simple reason that there was so little to put in it. *Let the people go back to knotting cords.* A record that fits on a line is a record you will keep.
-
-And at dinner I did not look at my phone. I noticed it on about the third evening, the way you notice a sound has stopped. There was nothing to check. I knew where all five were, and I knew where their stops were, and the stops would do what they were told without me.
+*Let them take death seriously and not travel far.* Every new country you entered was another border to guard, another way for something to go badly while you were looking elsewhere.
 
 ---
 
-When the move was done the funnel came back on, and the nightly runs went back to sorting their thousands. The systems that trade on frozen rules use that wide funnel still, and they should. A rule needs a large field to be tested fairly, and the field is not mine to shrink.
+So you make your country small again.
 
-But the card is still under the lamp. It still has five names on it. They have changed once or twice over the years, never on the day of a trade, and never because one of them was in the news. It is the only list I trade by hand, and on most days it gives me nothing to do.
+You close the second broker. You take the crypto app off your phone. You stop watching the Sunday futures. You leave the options account open, because there are days a defined-risk spread is the right shape for a view, but you no longer open it to look for something to do. On the platform you switch off every alert but a few. The features are still there. You do not use them. *Let them have tools for tens and hundreds and not use them.*
 
-*Let them find their food sweet, their homes at peace.* I used to think a small list was where you started, before you were good enough for a big one. I do not think that now. I think it is where you can see.
+You buy a small notebook. One line per trade, in pencil. You can read a month of it in a minute.
+
+The first week feels like a demotion. You keep reaching for the phone at night and finding nothing there. By the third week the evenings are your own again, and you notice you are less tired at the open.
+
+You go back to your handful of names and you find that you still know them, better than you remembered. You see the open the way you used to. A modest gain in one of them, taken cleanly, tastes better than a large one taken in a market you barely understood. *Let them find their food sweet.*
+
+The other markets do not go away. A friend tells you about a wild night in crypto. The headline says the foreign markets fell sharply. You hear the dogs barking across the way. It is interesting. You do not go over.
+
+---
+
+You were taught that bigger is better and that a good life reaches further every year. The old Chinese view looks at the small village with its unused boats and sees a people who have everything they need. In the market the same reversal holds. The trader who wants less territory has less to lose and more time to know the little he keeps.
+
+## Try This
+
+This week, write down every account, app, alert and market you are connected to. Pick the few you would keep if you could keep only a small country, and switch off or put away the rest for a month. Keep a pencil notebook of one line per trade. Watch what changes.
 
 ---
 

@@ -18,69 +18,69 @@ The way of heaven is to benefit and not to harm. The way of the sage is to act a
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. A true record of trading is not beautiful. It has flat months, cold stretches, orphan lines, costs. A beautiful record has been edited, by the market's luck or by someone's hand.
+The right method, learned properly, can set you free. You have seen it: the trader who quit his job, the steady screenshots, the laptop by the sea. Somewhere there is a course, a mentor, a system that explains it all clearly, and once you find it the hard part is over. A good teacher can defend his method against anyone and win the argument. The more methods you study, the closer you get. And what you learn, you keep. Any edge you share is an edge you lose, so the smart trader hoards what he knows and gives nothing away.
 
-2. Be most careful with the beautiful backtest: the smooth curve, the shallow drawdown, the rule that never sat idle. Each of those is usually a fitting you have not found yet.
+## The Other Way
 
-3. Be careful with the beautiful pitch. The more certain the voice, the less it has counted.
+1. *True words are not beautiful.* The true things about trading are dull: small size, small losses, long waits, most days nothing.
 
-4. Be careful with this book. It has been written to be read, and that is already a kind of beauty. Test what it says against your own log, not against how it sounds.
+2. *Beautiful words are not true.* The promise that sounds best, quit your job and trade from anywhere, is the one built to sell you something.
 
-5. That is why there are no performance numbers anywhere in these pages. A number here could not be checked by you, and a number that cannot be checked is only a beautiful word.
+3. Ask of every promise: who is paid if I believe this?
 
-6. The good do not argue. A rule that works does not need defending in a forum. Run it forward and let the log speak.
+4. *The good do not argue.* A trader who trades well has no need to win the thread. Let others be right online.
 
-7. Those who know are not widely learned. One method, known to the bottom, beats twenty known to the first page.
+5. *Those who argue are not good.* If you find yourself defending a position to strangers, you are usually defending it to yourself.
 
-8. The sage does not hoard. Write your rules down plainly enough that someone else could run them. The writing makes them clearer to you.
+6. *Those who know are not widely learned.* The trader who knows one thing in his hands, when to get out, knows more than the one who has read every method.
 
-9. Benefit and do not harm: size so the trade can be wrong without hurting anything you cannot replace.
+7. *The sage does not hoard.* The plain truths are not a secret edge. They cost nothing to give, and no one takes them from you by hearing them.
 
-10. Act and do not contend. Do the work the rule gives you, today, and do not fight the market for more than it offers.
+8. *The more he does for others, the more he has.* Say the plain thing to a newer trader. In saying it aloud, you hear it again yourself.
 
-11. Slow is fast. Not because it sounds wise. Because it is what is left when the beautiful words are taken out.
+9. *The way of heaven is to benefit and not to harm.* Trade in a way that does not harm you: not your account, not your sleep, not the people at home.
+
+10. *To act and not to contend.* Act, and do not fight the market, the crowd or yourself. Giving it away, you have more.
 
 ## The Story
 
-The first draft of my first book had a number in it.
+It is late, and you are scrolling. A video plays without being asked. A calm voice, a clean chart, a line of green trades down the side of the screen. The voice says that the method is simple once you see it, and that most traders fail because nobody ever showed them. It sounds true. It sounds, more than anything, beautiful.
 
-It was in the last chapter, and it was there because a friend who read the draft said the book needed it. He was not being cynical. He reads a great deal and he knows what readers want. *You spend two hundred pages telling people how you think,* he said. *At some point they will want to know whether it works.* He suggested a paragraph near the end: one forward test, one season, what it did. Nothing boastful. Just the fact.
+You have bought one of these before. Perhaps more than one. You remember the first week, how clear everything seemed, how the charts fell into place. You remember the third week, when the method stopped working the way the video had, and the fourth, when you began to add things to it. By the second month it had become one more folder on the desktop.
 
-It seemed fair. I sat down one evening to write the paragraph, and opened the ledger to choose the test.
-
----
-
-That is where it came apart, and it came apart on the word *choose*.
-
-The trial ledger on my desk holds every test I have run, the ones that passed and the far larger number that did not. A forward book in it is not one thing. There were several running, and several finished, each with its own fingerprint and its own season. To write one number I had to pick one of them. Which?
-
-The honest answer was: the one that looked best. Nobody writes the paragraph about the dull one. And picking the best of several, then showing only that one, is exactly the thing the whole desk is built to stop. It is what the ledger's count is for. It is why the gate takes out the best month and looks at what is left. I would be taking the best month of my whole ledger, putting it in a book, and leaving the rest in the drawer. In my own research I would have failed that test on the spot. In a book it would have looked like modesty.
-
-Then there was the control. Every forward book on my desk runs beside a random book filled by dice, so that a good season for the market is not mistaken for a good rule. A number from the frozen book without the number from the dice beside it means very little. With the dice beside it, it means a little more, and needs a page of explanation that no reader would read and no reader could check.
-
-That was the third thing, and the one that settled it. The reader could not check it. My log is complete, every line, every fill, every refusal. But a number printed in a book is not my log. It is a sentence. It cannot be rerun. It does not show its costs or its count or the tests that were not chosen. It just sits on the page and sounds true, and the more carefully I wrote it, the truer it would sound. *Beautiful words are not true.* Not because the number would have been false. Because it would have been beautiful, and the beauty would have been doing work that the arithmetic could not.
+*Beautiful words are not true.* Not because the voice was lying. Because a promise has to be beautiful to be sold, and the market is not.
 
 ---
 
-I closed the ledger and deleted the paragraph. Then I opened a new file and wrote one line in it, the line that has been at the front of every book I have written since: no performance claims. No returns, no win rates, no P&L, mine or anyone's, real or paper. Where a number appears, it is arithmetic the reader can check with a pencil.
+If you sat down tonight and wrote what you have really learned, it would not make a video. Trade smaller than you want to. Decide where you are wrong before you get in. Most days, do nothing. Take the small loss at once. Do not trade to get even. Keep a life outside the screen. None of it is new. None of it would get a click. All of it cost you something to learn.
 
-My friend was disappointed, and he was not wrong about readers. Some of them write to me. The letters are kind, and a good number of them end with the same question in different words: *but does it work?* I understand the question. I asked it myself, of every book I ever read, for years.
+These are the true words, and they are not beautiful. They do not argue with anyone. They do not need you to believe them. They are just there, the way the price is just there.
 
-I answer every one the same way, and it is not a dodge, though I know it can sound like one. I say: write the rule down. Freeze it, in whatever way you can, so that you cannot change it without knowing you changed it. Run it forward, on paper, for a season, beside something chosen at random. Count your costs on one line. Then you will know whether it works for you, and you will know it in a way no book could tell you, including mine.
-
-That is a slower answer than a number. It is also the only one I have that is true.
+Most of us were taught to look for the beautiful answer, in trading and everywhere else: the clever plan, the secret, the one book that explains it all. And once we have something, we were taught to hold on to it. The old Chinese view says the plain answer is the true one, and that what you give away is what you keep.
 
 ---
 
-*The good do not argue. Those who argue are not good.* I have noticed that the people who are most certain about trading are usually the ones with the most beautiful numbers, and that the numbers are usually the end of the conversation. A number is a way of not having to explain. I would rather explain, and leave you with nothing to believe except what you can count yourself.
+A few days later, someone newer to the market asks you how to start. You could tell him something impressive. You know enough words for that. You could also tell him nothing, the way traders are supposed to guard what they know.
 
-So this is the last chapter, and I will end it the way the Trader lines above began. Be careful with this book. It has been written slowly and with care, and that is exactly why you should be careful with it. Care makes things sound true. Laozi knew it: he wrote five thousand characters, and the last of his eighty-one chapters warns you against beautiful words. I have tried to keep mine plain. Where I failed, the log is the cure, not the book.
+Instead you tell him the plain things. Trade small. Write down where you are wrong before you enter. Expect most days to be dull. Take the loss when it comes. Do not believe anyone who makes it sound beautiful, including you.
 
-*The way of the sage is to act and not to contend.* Close the book. Open your log. Write tomorrow's rule before tomorrow comes, and then leave it alone.
+He looks a little disappointed. He wanted the secret. You give him the plain things anyway, because they are all you have.
 
-Slow is fast. You do not have to believe me. You can count it.
+You could have dressed them up. You could have given each one a name, drawn a chart around it, made it sound like a method. It would have been easier for him to hear. It would also have been a little less true.
+
+Over the next weeks you notice something. You are following them more closely yourself. Having said them aloud to someone else, you hear them each morning before the open. *The more he gives to others, the more he owns.* You gave away the only things you knew, and you hold them more firmly than before.
+
+---
+
+This book has been words too, eighty-one chapters of them. None of them will place a trade for you or take a loss for you. If any of them were beautiful, be careful of those ones. The plain ones are more likely to be true, and they are yours to keep and to give away.
+
+The market opens tomorrow at the usual time. You can be there, or not. Either way, it will still be there the day after.
+
+## Try This
+
+This week, write the three plainest true things you know about your own trading, one line each, with no adjectives. Keep the paper beside the screen. Before the week is out, give the same three lines to one trader newer than you, and watch what changes in how you follow them.
 
 ---
 
