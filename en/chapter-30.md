@@ -18,67 +18,65 @@ What grows too strong grows old. This is called not the way, and what is not the
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. A good result, then stop. The trade did what it was for. Let it be finished.
+Ride the hot hand. Every coach says it: when you are on a roll, keep shooting. Success builds confidence, and confidence builds more success. You saw it in sport, in sales, in any job where one good quarter opened the door to a bigger one. Trading is the same. When you are reading the market well, you know it, and that is the moment to step up: more size, more trades, while it lasts. Profits you have just made are a cushion, the market's money, so you can afford to swing a little harder with them. Cold streaks are for caution. Hot streaks are for pressing.
 
-2. Do not use a good result to seize strength: the larger size tomorrow, the second trade today, the stop loosened because you are "playing with the market's money." There is no such money. It is yours.
+## The Other Way
 
-3. Such things tend to come back. Force used on the market returns to you, and it chooses the moment.
+1. *The good one gets the result and stops.* A good week is a result. It is not an instruction to do more next week.
 
-4. Where an army has camped, thorns grow. After the big, pressing week the account carries its brambles: a habit of size, a higher bar for what counts as a good day.
+2. *He does not dare to use it to seize strength.* The size you choose the morning after a good run is chosen by the run, not by you.
 
-5. A result, without boasting, bragging or pride: not on the forum, not at dinner, not in your own head at night.
+3. *Such things tend to come back.* Force used on the market comes back to you, and it picks the day.
 
-6. A result, because there was no choice. You took the trade because the rule said so, not because you needed a win.
+4. Profits are not the market's money. The moment a trade closes, the money is yours, the same as every other dollar in the account.
 
-7. When the target fires, the trade is done. The screen will offer one more. It always does.
+5. *A result, without boasting.* The screenshot you post is a promise to the people who saw it, and you will try to keep it.
 
-8. What grows too strong grows old. The best day of a run is the first day of a different run.
+6. *A result, without pride.* Pride says you have figured the market out. The market has only agreed with you for a while.
 
-9. What is not the way ends early. The trader who presses every win does not lose the war in a day. He ends his own season early, one pressed win at a time.
+7. *A result, because there was no choice.* Take a trade because it is there, not because the streak needs feeding.
+
+8. *Where an army has camped, thorns and brambles grow.* After a big week, the account carries its brambles: a habit of larger size, a new idea of what a normal day should pay.
+
+9. *What grows too strong grows old.* The best day of a run is often the last good day of it. You never know which one it is while you are in it.
+
+10. *What is not the way ends early.* The trader who presses every streak does not lose it all in one day. He ends his own good season early.
 
 ## The Story
 
-The target was written on the card the evening before I entered, the way targets are written now: a price on a line, nothing underlined. The rule set it from the size of the market's recent swings. It was not a forecast. It was where the trade would be finished.
+It has been a week where everything works. Five sessions, five winning days on the calendar you keep in your head. You have read the open right three days in a row. A trade you nearly skipped on Wednesday turned into the best trade of your month. On Friday afternoon you look at the account and it is higher than it has ever been. You feel something you rarely feel at the desk: sure.
 
-It filled on a Thursday, a little after two in the afternoon. I was not watching. The executor sold at the price on the card, wrote one line to the log, and the position was gone from the board. I read the line after the close, with the small satisfaction of a thing done as written. *The good one gets the result and stops.* For an afternoon, that was easy.
-
----
-
-The difficulty started in the evening, and it did not look like difficulty. It looked like planning.
-
-I found myself at the kitchen table with a notebook, working out what I would do tomorrow. The name had kept rising after the sale. Of course it had; a target is not the top, and nobody sells the top on purpose. I told myself that the move had proved the idea. If the idea was right at the old price, and the market had now agreed, then surely it was right at the new price too, with more evidence behind it. A larger position would only be fair to the evidence.
-
-I wrote a size in the notebook. It was bigger than the first one. I did not notice that until later.
-
-*He does not dare to use it to seize strength.* This is what seizing strength looks like from the inside. Not greed. Arithmetic, done by someone who has just been right.
+That evening you post a screenshot. Just one, of the week. People react. Someone asks what you are seeing. You answer at length, and as you answer you notice that you sound like someone who knows.
 
 ---
 
-The next morning the name opened higher again, and the screen did what screens do. My broker's app had a strip across the top called something like *recently traded*, and the name was first in it, with a green number beside it and a button that said *buy*. It was offering me one more. The rule's own list for that morning, which the desk had produced at five o'clock, did not have the name on it. The rule had finished with it. The rule does not remember yesterday's winners, and it had not chosen this one again.
+On Monday you come in ready to press. You were taught this. You are hot, and hot is when you shoot. You double your usual size on the first trade, because the profits from last week are a cushion, and a cushion is meant to be used. The trade works a little, then stalls. Normally you would take what is there. This morning you give it room, because this week you are reading the market well. It comes back to your entry, then through it. You move the stop, once, because you know this one.
 
-So any order I placed would be mine, not the rule's.
+By eleven the first trade is a loss the size of Wednesday's win. You take a second one to get it back. It is larger still, because now you are behind on a day that was supposed to be the start of something. In the afternoon you notice you have not eaten.
 
-The desk has one path for orders, and I built it so that I could not forget that on a morning like this. Every order, including one I type by hand, starts as a card, and the first field on the card asks which rule it comes from. There is a choice for *none*. If you pick it, the card is accepted, but it goes to the refusal log instead of the executor, with the time and two words: *no rule*. I put that choice there on purpose, years before, so that the hand-typed trade would have somewhere honest to go.
-
-I filled in the card. I picked *none*. I watched the line arrive in the log, and I laughed, because it was the most accurate thing anyone said about my trading that week.
+By Friday you have given back most of the good week. That is not the worst of it. The worst is the size. It is now the size you think of as normal, and the old size feels timid. People are still asking what you are seeing. You do not post.
 
 ---
 
-That should have been the end, and for the trade it was. The brambles took longer.
+Now the same good week, and the same Monday.
 
-*Where an army has camped, thorns and brambles grow.* For a week afterwards I noticed the shape of my own thinking. An ordinary day felt faintly disappointing. A small loss felt like a step back from a place I had somehow come to think of as mine. The good Thursday had moved my idea of normal upward, and everything that was merely normal now looked like a fall. None of that was in the account. It was in me, and it would have been in my sizing if the sizing had been mine to set.
+On Friday afternoon you look at the account, feel the sureness, and recognise it. You close the screens. You do not post. You write one line in your notes: good week, nothing new learned that you can name.
 
-That is why I keep the size out of my hands. Not because I would be reckless. Because I would be reasonable, the morning after a good day, in exactly the wrong direction.
+On Monday you trade your usual size. It feels like walking with weights taken off and then put back on. The first trade works a little and stalls. You take what is there, as you would on any Monday. The second setup does not quite show up, and you leave it. The day ends roughly flat.
+
+Tuesday is a small loss. Wednesday is a small win. Nothing about the week matches the one before, and nothing about it damages you. The good week is still in the account. The size is still yours. Your idea of a normal day has not moved.
 
 ---
 
-There is a sentence people say about money made in the market: that it is the market's money, and so it is free to risk. Laozi lists the attitude beside boasting and bragging, among the things a result should come without. The money is not the market's. The moment the trade closed, it belonged to the account, which is to say to me, the same as every other unit in it.
+*The good one gets the result and stops.* We were taught to build on success: ride the streak, press while it is hot, use the win to reach for a bigger one. The old book sees it the other way round. A result is a thing to finish, not a thing to spend. *What grows too strong grows old*, and the moment you feel strongest is when the end of the run is nearest.
 
-I still have the notebook page with the larger size on it. I keep it because I did not follow it, and because I wrote it in such a calm hand. The day after a good result is not dangerous because it feels wild. It is dangerous because it feels like the obvious next step.
+The good week was a good week. That was all it was.
 
-*A result, without forcing.* The rule got its result and stopped. My job that morning was to stop with it.
+## Try This
+
+For the next month, after any week that is clearly better than your usual, trade the following week at your normal size, never larger, and do not show anyone the result. Before the first trade on Monday, write down the size you are tempted to use and the reason you would give for it. Leave the note there. At the end of the month, read those notes and look at what the reasons have in common.
 
 ---
 

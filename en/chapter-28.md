@@ -22,67 +22,63 @@ When the uncarved block is split, it becomes tools. The sage uses it and becomes
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Know the male, keep to the female. Know the upside, keep to the downside. Every trade has both, and only one of them can be written down in advance.
+The market rewards aggression. You were raised on it: the one who speaks first in the meeting, who asks for the raise, who goes after what he wants, is the one who gets it. On the screen it is the same. You hit the offer when the move starts, you do not wait to be filled at your price while the stock leaves. You take the trade, you press it, you defend it. Passive traders get run over. The money goes to the ones who act first and hardest, and you intend to be one of them.
 
-2. The maximum loss goes on the card first: before the target, before the reason. If you cannot write it, there is no trade.
+## The Other Way
 
-3. The upside is a hope with a shape. The downside is a number you choose. Spend your attention on the one you control.
+1. *Know the male.* This is not a chapter for the timid. You must know how to attack, and be able to.
 
-4. Be the ravine: the low ground, where water arrives on its own. The trader who keeps to the downside does not have to chase. When the flow comes, the account is still there to receive it.
+2. *Keep to the female.* Having the strength, you keep it in reserve. The force you do not spend is still yours.
 
-5. Know the white, keep to the black. Know the good case. Plan inside the bad one. A plan made only in daylight is a plan for a day that may not come.
+3. *Be the ravine of the world.* Water runs to the low place without being chased. Sit where the price comes to, not where it is running from.
 
-6. Know honour, keep to disgrace. Know how it would feel to be right. Keep to what you will do when you are wrong. The second sentence is the one that saves you.
+4. The aggressive trader takes the move. The receptive trader receives it. Most of the time the price comes back to the one who waited.
 
-7. Return to the infant: small, soft, and not afraid of being wrong, because being wrong costs little.
+5. A resting order at your price is not weakness. It is a ravine. Let the impatient ones fill it.
 
-8. Return to the uncarved block: the plain rule, before it is cut to fit last month.
+6. *Know the white, keep to the black.* Know the spotlight, the loud trade, the call everyone sees. Keep to the quiet side, where nobody is watching you.
 
-9. Split the block and it becomes tools. Every filter is a cut, and a tool fits one job. Carve a rule to the past and it fits the past.
+7. *Know honour, keep to disgrace.* Be willing to look slow and foolish. Missing a move in front of others is cheap. Chasing it to save face is not.
 
-10. The great cutting does not cut. The best rule is the one you never had to carve.
+8. *Return to being an infant.* An infant does not grip for what is out of reach. It takes what comes to its hand, and holds it.
+
+9. *The constant virtue is enough.* Receptive strength does not need to prove itself every morning.
+
+10. *The great cutting does not cut.* You do not split into an aggressive trader and a patient one. It is one block: the strength and the restraint are the same strength.
 
 ## The Story
 
-For a long time my trade cards were written in the order I thought about trades. The name at the top. Then the reason, which was usually the longest line. Then the target, because the target was what I was looking forward to. The stop came near the bottom, and the most the trade could lose was not on the card at all. I could have worked it out from the stop and the size. I never did, because nothing asked me to.
+The open is loud. A stock you know gaps up and keeps going. The chat fills with arrows. Someone you respect posts that he is in. The move is a dollar from where you wanted it, then two.
 
-That is the order most people think in. *Know the male*: the upside is the part with a shape, a line drawn up and to the right. It is what you see first.
+You know what to do, because you have been told all your life. You do not wait. You hit the offer. The fill comes in higher than the price you saw, because everyone else hit it too. For a moment you are right. Then the stock stops, the way stocks stop when the last eager buyer is in, and starts to come back.
 
----
-
-The card changed on an evening when I was clearing old cards into a folder, the way I did then, without reading them. One fell out face up and I read it by accident. It was a trade from some months before, an ordinary one, closed at its stop. The target line was neat and underlined. The reason ran to three sentences. The stop was in different ink. I had filled it in after the order went out.
-
-I sat with that for a while. The card said, in my own handwriting, that I had decided what I wanted from the trade, and why, and only then, once I was already in it, how much it could cost me. The one number I fully controlled was the last one I wrote, and I had written it as an owner, not as a buyer.
-
-So I turned the card upside down. The first line is now *maximum loss*: one number, in money, the most this trade can take from the account. Then the stop, and the size that follows from the two. Then the day I will leave if nothing happens. The reason comes after those. The target comes last, and it is the only line allowed to be vague.
+Now you are the one being tested, and you answer the way you were taught: you stand your ground. You do not run. You add, because strong traders defend their positions. The stock comes back to the price you originally wanted, and goes through it. You are holding twice your size at the top of the morning, and the strength you were proud of an hour ago is the reason you cannot leave.
 
 ---
 
-The first thing I learned was that the maximum loss and the stop are not the same number.
+Now the same open, a different trader.
 
-A stop is a price at which you intend to leave. The maximum loss is what happens if you cannot. A stop does nothing while the market is closed. A name can shut on Friday above your stop and open on Monday well below it, and the order you placed will fill at Monday's price, not at the one you wrote. So the honest number for the first line is not the size times the distance to the stop. It is the size times the worst distance you can imagine the price travelling while you cannot get out: overnight, over a weekend, through a report.
+He knows how to hit the offer. He has done it a thousand times, and on some days he still does. But this morning he watches the gap run and asks one question: where will the people chasing this have to sell, when they want out? He puts a resting order there, at a price that is not exciting, and he waits.
 
-Written that way, the first line grew, and the size shrank to keep it where I wanted it. That was the whole effect. Nothing about the entries changed. The trades simply got smaller wherever a gap could get through.
+The stock runs without him. The chat celebrates. A friend messages to ask whether he is in. He says no. It is a small humiliation, and he lets it be one.
 
----
+An hour later the eager buyers have bought everything they can buy. The stock comes back, as it so often does, and the people who chased it are selling into the low place where he has been sitting. His order fills. Not at the bottom, nobody knows the bottom, but at his price, with his size, with the point he would be wrong already decided. He did not take the move. It came down to him.
 
-The second thing I learned was that some trades cannot be written.
-
-A few weeks after the new card, I had a candidate I liked very much. It met the rule cleanly. It also had a decision due from a regulator inside the holding period, a single day on which the price could go almost anywhere. I sat down to fill in the first line and found that I could not write a number I believed. Anything I wrote was either a guess dressed as a figure, or a figure so large that the size it allowed was too small to bother with.
-
-I wanted to skip the line and come back to it. That was the old card's habit exactly, the stop in different ink. So I left the card unfinished, and an unfinished card is not a trade. I closed the ticket.
-
-What the name did afterwards does not matter here, and I am not going to tell you. The only fact that matters is that I could not say, before entering, what the trade could take from me. *If you cannot write it, there is no trade.* I had written that sentence weeks before, as a rule. That afternoon it became a habit.
+That is the ravine. Water does not run uphill to find it. Water arrives there because it is low.
 
 ---
 
-On the desk now the card is a form, and the form has an order that the code enforces. The maximum loss is filled in first, by plain arithmetic from the account's risk limit, before the reason field is even shown. If it is empty, or if it cannot be computed because a known event sits inside the holding period, the candidate is refused, and the refusal log says so in one line. I read those lines some mornings. They are the dullest lines in the log, and I trust them more than any others.
+The turn in this chapter is easy to misread. Laozi does not say be weak. He says *know* the male. The trader at the ravine is not the one who cannot attack. He is the one who could, and does not need to. His strength is real; it is simply not spent on the first loud thing of the day.
 
-The upside still gets its line. I am not against hope. I am against hope written first. *Know the male, keep to the female.* I know what a trade could do. I keep to what it could cost. The first I can only imagine. The second I can choose, and the choosing is easiest before the order, while the trade is still small and soft and nothing has been spent on it.
+The other half is harder still: *know honour, keep to disgrace.* Every trader carries a small public self, even alone at a desk, the one who wants to be seen in the move, to say *I'm in* before it is over. Keeping to disgrace means letting that self lose. You will miss moves. People will see you miss them. Sometimes the price will not come back to you at all, and you will have nothing to show for a whole morning of patience. That is the cost of sitting low, and it is smaller than it looks.
 
-*Be the ravine of the world.* I used to think that line asked for some kind of humility. I think now it is closer to a description of a card read from the top. The low line is the first line, and everything else runs down to it.
+This is not only true at the desk. We are taught that the loud one wins, that the one who pushes gets the most. But a great deal of what is worth having in a life comes to the one who stays low enough to receive it: the friend who listens, the parent who waits. The soft position is not the losing position. Often it is where everything ends up.
+
+## Try This
+
+For the next week, before any entry, ask one question: am I taking this, or receiving it? If you are reaching for a price that is running away, let it go and set your order where the price would have to come back to you. Each evening, note the moves you missed and how it felt, and watch what changes in you over the week.
 
 ---
 

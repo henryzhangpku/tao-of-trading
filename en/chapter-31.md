@@ -18,63 +18,67 @@ In good matters the left is honoured. In grim matters, the right. The lieutenant
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Leverage is a weapon. It is not evil. It is ill-omened: it brings forward whatever was going to happen, and the bad part does not wait until you are ready.
+You have to love it. Everyone who is great at something is in love with it: the musician who practises all night, the founder who sleeps at the office. Do what you love and you will never work a day. Trading is no exception. The traders who last are the ones who live for it, who feel the rush at the open, who cannot wait for the next session. Passion keeps you at the screen when others quit. If you ever stop feeling the thrill of a good trade, you should probably find something else to do.
 
-2. Whoever has the way does not dwell with it. Leverage is for a reason and a time. It is not a place to live.
+## The Other Way
 
-3. Use it only when the rule cannot do what it is meant to do without it, and never to do something the rule does not ask for.
+1. *Fine weapons are instruments of ill omen.* An order is a weapon. It can be used well. It is never a toy.
 
-4. Calm and plainness are best. If leverage excites you, the excitement is the signal to turn it down.
+2. *Whoever has the way does not dwell with them.* You pick up the tool, use it and put it down. You do not live in the trade.
 
-5. Turn it down, not up, when everything feels easy. Easy is when a size you would never choose in a hard week starts to look normal.
+3. *When he has no choice but to use them.* The best trades are taken because the plan called for them, not because you wanted to feel something.
 
-6. Win, and do not find it beautiful. A leveraged win is not proof of skill. It is proof that the bad tail did not arrive this time.
+4. *Calm and plainness are best.* If your pulse is up when you press the button, the pulse is choosing, not you.
 
-7. Whoever delights in it will not last. The trader who loves leverage will one day have all of it on at once.
+5. The rush comes from risk. A trader who chases the rush is chasing risk, whatever he tells himself.
 
-8. After a victory, keep the rites of mourning. Review a leveraged win as carefully as a loss: what could have happened, and at what size.
+6. *He wins and does not find it beautiful.* A beautiful win is the one you will try to repeat. That is its whole danger.
 
-9. The left for good things, the right for grim ones. Keep leverage on the grim side of the ledger, counted as a risk, never as a resource.
+7. *Whoever delights in killing will not have his way in the world.* Whoever needs the thrill will find the market happy to sell it, at a price.
+
+8. *At home the gentleman honours the left. At war he honours the right.* Keep two places. The desk is one. Your life is the other. Do not let the desk's mood follow you home.
+
+9. *After a victory, keep the rites of mourning.* After a big win, sit with it as you would sit with a loss. Ask what could have gone wrong, and how badly.
+
+10. Love the craft, if you like: the preparation, the patience, the record. Do not love the shot.
 
 ## The Story
 
-The sizing rule I use most is the one I described in the chapter on water. Each position is sized by how widely its market has been swinging, so that the same amount of risk buys less in a wild market and more in a calm one. I admire it. It takes my mood out of the size. I had never thought of it as a source of leverage, and for a long time it was not.
+It is the morning of a big announcement, the kind the whole market has waited a week for. You are at the desk early. You love these days. Coffee, three screens, the music you put on for days like this. Your hands are slightly cold. At half past eight the number drops, the futures jump, and something in your chest jumps with them.
 
-Then came a long quiet stretch, one of those seasons when markets drift up a little most days and the daily swings shrink week after week. The trades mostly worked, in the unremarkable way trades work when nothing is happening. The log was dull. Everything felt easy.
-
----
-
-I noticed it on a Sunday, reading the week's summary, in a line I rarely looked at. Near the bottom is the total value of everything held, divided by the account. The book was a paper one, but it is filled the way a real account would be, margin and all. For most of its life that line had sat comfortably below one: part of the account in positions, the rest in cash. That Sunday it was above one. The book was holding more than it owned. The difference was borrowed, quietly, from the broker, at the broker's rate, because the margin was there and the orders had asked for it.
-
-Nobody had decided that. I went back through the week's cards, and every one was correct. Each size was exactly what the formula asked for. The formula divides the risk by the recent swings; the swings had become small, so the sizes had become large. Each card was fine on its own. Added together, they had walked the account onto borrowed ground, one calm week at a time.
-
-*Fine weapons are instruments of ill omen.* Leverage had not arrived as a decision. It had arrived as a consequence of calm, which is the most dangerous way for it to arrive, because calm is when you are least inclined to look.
+You are in within ten seconds. You did not plan this trade exactly. You planned to trade, which is not the same thing. The move goes your way, fast, and for four minutes you are more alive than at any point this month. You sell into the spike and the profit is real and large. You stand up. You walk round the room. You replay the fill in your head, how quick you were, how clean.
 
 ---
 
-I want to be honest about what I felt, because it was not alarm. It was something close to pleasure. The quiet weeks had been good weeks, the borrowed part had made them a little better, and the book looked healthy and busy. A voice I recognised said that the formula was doing its job, that the market really was calmer, that risk was risk and the formula had measured it. If anything I should trust it more.
+The rest of the day is flat, and flat feels like nothing at all after the morning. You take two more trades that you cannot quite explain afterwards. They were not in your plan. They were the morning, asking for more. Both lose a little.
 
-That is the voice Laozi warns about in this chapter. *He wins and does not find it beautiful.* I had found it beautiful. I was admiring the weapon because it had not yet gone off.
+Over the next weeks something quiet happens. Ordinary days start to feel like waiting. You find yourself watching for news, for any move big enough to give you that four minutes again. On a dull Thursday you take a position in a name you barely know because it is jumping and the jump looks like the announcement morning. It is not. It is thin and it gaps against you, and you hold it too long, because selling would mean admitting the feeling was the reason.
 
-The trouble with a calm market is not that it is calm. It is that the formula reads calm as safety, and calm is only the absence, so far, of the day that is not calm. When that day comes, the swings widen all at once, and the positions are still the size the calm weeks gave them. The formula will shrink them, but only after the wider swings have shown up in the data, which is to say after the damage it is meant to measure.
-
----
-
-So I turned it down that Sunday, when nothing was wrong.
-
-Two lines went into a new version of the sizing rule. The first is a floor under the swing the formula may use: however calm a market has been, the rule assumes it can move at least that much, so a long quiet season can no longer shrink the denominator towards nothing and swell the size. The second is a ceiling on the whole book: the total held may not exceed what the account owns. No borrowing to reach the size a formula asks for. If the cards add up to more than the account, every one is scaled down together.
-
-Neither change was allowed to touch the book that was running. That book was frozen, and it stayed frozen, borrowed ground and all, until its season ended, so that its record would say what that rule had really done. The new version got its own fingerprint and its own clock in the ledger, and started at day one. It was slower to get going than I wanted. That is the right speed for a change made because something feels easy.
+The big win was a good trade. What it taught you to want was not.
 
 ---
 
-I would like to tell you that the calm ended the following week and the new rule was proved right. It did not, and I will not. The calm went on for a while. The new version held smaller positions than the old one every day of it, in a market that kept being kind. On paper the old rule looked cleverer for as long as the calm lasted. It is supposed to.
+Now the same announcement morning, and the same trader, with a plan.
 
-That is what turning leverage down costs: it costs most in exactly the weeks that make it look unnecessary. *When he has no choice but to use them, calm and plainness are best.* I read that line now as a description of the right mood for handling the weapon, and of the right time. Not in the hard week, when anyone would turn it down. In the easy one, when a size you would never choose in a hard week has started to look normal.
+You wrote it the night before. If the number does this, you will do that, at this size, with the exit here. If it does neither, you do nothing. You are at the desk early, with no music. When the number drops, your chest jumps anyway. You notice it, and you wait for your plan's condition, not for the feeling.
 
-Leverage is still in the toolkit; options carry it whether I like it or not. But it lives on the grim side of the ledger now, as a line I read every Sunday. I read it most carefully when it is the dullest line on the page.
+The condition comes. You take the trade at the size you wrote down, not the size the moment suggests. It works. You sell where the plan said. You feel the pleasure arrive and you let it pass through without standing up.
+
+Then you do something odd. You write the review you would write for a loss. What would have happened if the number had come the other way. How fast the futures moved, and how far your exit would have been from your fill in a move that size. It is a sober page. It does not match the mood of the morning, and it is not meant to.
+
+The afternoon is flat. You take nothing. At the close you shut the screens and go home, and at home you talk about something else.
+
+---
+
+*He wins and does not find it beautiful.* We were taught that passion is the secret: love what you do, feel the fire, live for it. The old book sees it the other way round. The weapon is used with calm, only when there is no choice, and the victory is kept like a funeral. The thrill is not your edge. It is the cost of the tool, showing up as pleasure.
+
+Some of your best days at the desk will feel like nothing much.
+
+## Try This
+
+For the next five sessions, before each order, write one word for how you feel. Not why you are taking the trade: how you feel. If the word is a thrill word, such as excited, buzzing or sure, wait ten minutes before sending, and send it only if the plan still calls for it. After any large win, write a one-paragraph review as if it had been a loss. At the end of the week, look at which words came before the trades you are glad you took.
 
 ---
 
