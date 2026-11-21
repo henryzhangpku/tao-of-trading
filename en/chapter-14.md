@@ -18,63 +18,67 @@ Hold to the way of old to manage what is here now. To know the ancient beginning
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. What you cannot see, hear or hold, you cannot trade. An idea with no clean data is not an edge. It is a mood with a vocabulary.
+Keep up or get left behind. You were taught that the world moves fast: new tools, new jobs, new rules, and whoever clings to the old way is the next to be replaced. The market is the fastest part of that world. Old patterns stop working, new players arrive, machines change the way prices move. What worked three years ago is a story people tell at conferences. A trader has to read the market he is in now and adapt to it, quickly. When the market changes character, you change with it. The trader who refuses is trading a market that no longer exists.
 
-2. Some ideas sound brilliant and have nothing under them to count. Write them down and set them aside. Being set aside is not being thrown away.
+## The Other Way
 
-3. Cannot be questioned to the end. If you cannot say what would prove the idea wrong, you do not yet have an idea.
+1. *Look for it and it cannot be seen.* The character of a market is not something you can look at. You see prices. "A new regime" is a name you give them afterwards.
 
-4. The edge that is real is faint, rare and subtle too. That is why it must be counted, not seen. The eye finds faces in clouds.
+2. *Meet it and you do not see its head.* A change never announces that it has started. By the time you are sure the market has changed, the change is old.
 
-5. Meet it and you do not see its head. You will not see an edge arrive. Follow it and you do not see its back. You will not see it leave. You will see it only in the count, later.
+3. *Follow it and you do not see its back.* Nor does it tell you when it is over. The trader who adapts to every new character arrives as each one is leaving.
 
-6. The shape without a shape: a regime, a mood, a narrative. They are names given afterwards. Do not size on a name.
+4. "The market has changed" is the most comforting sentence there is after a losing month. It makes the losses the market's fault and the cure something new.
 
-7. Hold to the way of old to manage what is here now. The old way is the plain one: size you can survive, a stop written before the entry, costs counted twice.
+5. *These three cannot be questioned to the end.* You will never fully explain what the market is doing now. Stop needing to, before you trust yourself to act.
 
-8. Know the ancient beginning. Before a new idea gets tested, ask what is the oldest, plainest version of it, and test that first.
+6. *Above, it is not bright. Below, it is not dark.* Most markets are neither clearly new nor clearly the same. They are the usual grey, and the grey is where you have always traded.
+
+7. What changes is the surface: the speed, the names, the tools, the talk. Underneath, people are still afraid and still greedy, and you are still one of them.
+
+8. *Hold to the way of old to manage what is here now.* The old way is not an old setup. It is the few plain things you do every day: how much you risk, when you stop, how long you wait.
+
+9. A trader who holds those still can let everything else be new. A trader who changes them whenever the market feels different has nothing left to stand on.
+
+10. *To know the ancient beginning is called the thread of the way.* The thread is what runs through every market you have traded. Find it in your own good stretches, and keep hold of it.
 
 ## The Story
 
-The idea arrived at dinner, which is where the best-sounding ideas usually arrive. A friend who works far from markets, whom I will call Lin, was describing the quarterly calls that public companies hold with analysts. He listens to some of them for his own work. You can hear it, he said, when the people running a company are worried. Longer pauses. Different words. A finance chief who usually jokes, and that day did not. Surely, he said, the market takes a while to hear what he hears in the first minute.
+It has been a hard month. The market you knew has gone strange. Moves that used to run now reverse by lunch. Ranges that used to hold break, and then the break fails. Everyone you read says the same thing: the regime has changed. Different players, different flows, a different market. The old playbook is dead.
 
-It was a lovely idea. I still think so. On the drive home I had half the rule written in my head: read the transcript of the call, score its tone, buy the confident and avoid the worried, hold for some weeks.
-
-The next morning I sat down to write it into the ledger, and could not.
+You believe it, because it explains your month. On Monday you start to adapt. You cut your holding time, because the moves do not last. You widen your stop, because the noise is bigger. You add a new kind of trade that you heard a younger trader describe, one built for this new market. By Wednesday you are trading three ways you were not trading a month ago.
 
 ---
 
-The ledger asks for the test before the test runs, and the first thing it asks for is the data: what, from where, over which years, known at what moment. That last part matters most and gets skipped most. A test is honest only if every number in it was knowable at the moment the rule would have acted on it.
+On Thursday the market goes back to running. A clean move starts at the open and carries on all day. You catch the start of it, and because you have just taught yourself that moves do not last, you sell inside the hour. The wider stop on your other position costs you twice what it used to. The new kind of trade does something you do not understand.
 
-I spent most of a week on that one line.
+The next week someone writes that the regime has changed again.
 
-The transcripts existed, but not cleanly. The older ones had been gathered by different sources with different habits, and for many of them I could not say when they had become available: the same afternoon, the next day, a week later after someone had tidied them up. A rule that reads a transcript a day before anyone could have read it is not a rule. It is a time machine, and backtests love time machines.
-
-Then there were the companies that were missing. The archives were fullest for companies still trading. The ones that had been bought, or had failed, or had quietly stopped holding calls, were thin or absent, and theirs were exactly the last calls I most needed to hear. A test run only on the survivors would be a test of whether survivors survived.
-
-And there was the tone itself. To score it I would have to choose how: which words count as worried, how long a pause is long. Each choice was a test. The ledger would count every one, and I could already see how many there would be, and how high they would push the bar. I would be tuning a way of listening on the same history I was testing it on, until it heard what I wanted.
+Look at what you did. You never saw the change begin, and you never saw it end. You saw a bad month and a story that explained it. *Meet it and you do not see its head. Follow it and you do not see its back.* You chased a shape you could not see, and to chase it you changed the only things you could have held still: your size, your stop, your patience.
 
 ---
 
-The ledger also has a line for what would prove the idea wrong. I left that one till last, and I could not fill it in. For every way the test might fail, the idea had an answer ready. If the confident companies did badly, the scoring was too crude. If the effect vanished in recent years, the market had learned. The idea was not wrong. It was worse than wrong. *These three cannot be questioned to the end.* It could not be questioned to the end, because at the end there was nothing solid enough to hit.
+Now the same hard month, the other way.
 
-*Look for it and it cannot be seen. Listen for it and it cannot be heard.* I had never read those lines as a description of a dataset. That week I did.
+The market has gone strange and the commentary says the regime has changed. Perhaps it has. You do not know, and you notice that nobody else knows either, though many of them sound sure.
+
+You take out the card you keep in the drawer. On it are the few things you did in your best stretches: the most you will risk on one idea, the number of losing trades after which you stop for the day, the habit of waiting for your level instead of going to the price. None of it is clever. It was written on a calm day.
+
+You keep those the same. What you let change is small: you take fewer trades, because fewer things are coming to your levels. You let the month be poor. You write down what you see, the reversals and the failed breaks, without deciding yet what they mean.
+
+On Thursday the market runs again. You are in it with your usual size and your usual stop, and you hold it the way you have always held these. It is not a great day. It is an ordinary one, and after a strange month, ordinary is what you were after.
 
 ---
 
-I did not throw the idea away. There is a file on the desk for ideas set aside, and it went in, with a note of what would have to exist before it could come back out: transcripts with honest timestamps, the dead companies included, scored by a method fixed before anyone looked at a single price afterwards. The file is not a graveyard. A few things in it have come back out. Most will not, and that is fine. Being set aside is not being thrown away.
+*Hold to the way of old to manage what is here now.* We are taught to keep up: to treat the old as out of date and to remake ourselves each time the world shifts. The old book sees it the other way round. The surface is always changing, and you cannot see the deeper shape of it either coming or going. What you can do is hold on to the few old things that were always true for you.
 
-Then I did what the last line of the chapter says. *Know the ancient beginning.* What is the oldest, plainest version of Lin's idea? It is not about tone at all. It is that news about a company is taken in slowly, and that in the days after a report the price tends to keep drifting in the direction of the surprise. That idea is old and has been written about for decades. Its data is plain: the report date, which is public, and the prices after it, which are clean. It can be proved wrong. I wrote it into the ledger that afternoon, with its count, and sent it to the gate like any other idea. What happened there is not the point of this story.
+The market will be called new again next year. The card will still be in the drawer.
 
-When I told Lin, months later, he was disappointed in a kind way. You've swapped my idea for a boring one, he said.
+## Try This
 
-For one I can count, I said. Yours is in a drawer, waiting for the data to catch up with it.
-
-He thought about that. Then he said that the finance chief who had stopped joking left the company the following year, and wasn't that something.
-
-It was something. It was one story. You cannot count one.
+Write a card of no more than four lines: the plain things you did in your best stretch of trading, such as how much you risked, when you stopped for the day and how you waited. Read it before every session for the next two weeks. When you feel the urge to change how you trade because "the market is different now", write the change on the back of the card instead of making it. At the end of the two weeks, read the back and see which changes still look necessary.
 
 ---
 

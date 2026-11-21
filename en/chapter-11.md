@@ -22,75 +22,71 @@ So what is there gives the benefit. What is not there gives the use.
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Thirty spokes meet at a hole. The wheel turns on the part that is not there.
+Keep the momentum going. You learned it in school sport and at every job since: when you are on a roll, do not stop, and when one thing ends, start the next one straight away. Breaks are for people who are tired, and the gap between tasks is where the day leaks away. At the desk this is how a good session feels. You close one trade and you are already scanning for the next. Your hand is warm, you are reading the tape well, and stepping away now would only break the rhythm. The market does not pause between your trades, so why should you? Rest is for the weekend.
 
-2. A rule is mostly refusals. The entry line is a spoke. The "no" is the hub.
+## The Other Way
 
-3. Anyone can write an entry. Two traders with the same entry differ in what each one declines.
+1. *Thirty spokes share one hub. Where the hub is empty, there is the use of the cart.* A day of trades is the spokes. What turns them into a wheel is the empty place where they meet.
 
-4. Clay makes the pot and the hollow holds the water. The trades you take are the clay. The ones you do not take are why there is room for them.
+2. The moment after a trade closes is the hub. Everything that happened in the trade has to pass through it. Fill it at once, and it has nowhere to go but into the next order.
 
-5. A room is made by cutting a door. Cut the exit before you move in. A position with no way out is four walls with you inside.
+3. Rhythm is real, and it is also how a good morning turns into a bad afternoon. The warmth after a win and the heat after a loss feel different. Both push the next order the same way: sooner.
 
-6. Cut windows too: hours with no position, days with no order. A day with no gap in it has no air.
+4. *Where the vessel is empty, there is the use of the vessel.* A pause holds what you cannot see while you are busy: that you are tired, that you are angry, that the market went quiet an hour ago.
 
-7. Every refusal needs a reason you can say in one line. A "no" without a reason is a mood.
+5. *Doors and windows are cut to make a room.* A session with no gaps is a room with no windows. You are inside it all day and never once see out.
 
-8. Write the refusals down and count them. If you never see them, you will think the rule is its entries, and you will loosen it there.
+6. The next trade is never in a hurry. The hurry is in you.
 
-9. When the board is empty, the urge is to fill the hub. A wheel with a solid hub is a disc. It does not go on an axle.
+7. The gap between trades is not lost time. It is the only part of the day where you are a trader instead of a set of reflexes.
 
-10. What is there gives the benefit: the gain comes through the trades. What is not there gives the use: the trades come through the gaps.
+8. *What is there gives the benefit.* The trades are what you can count and what you remember. *What is not there gives the use.* The pauses decide whether the trades were worth taking.
+
+9. A hub with no hole is a block of wood. A day with no gaps is a list of orders.
+
+10. Standing up from the screen will feel like leaving money behind. Sometimes it will be. Most of the time you come back to the same market as a different trader.
 
 ## The Story
 
-A friend once asked me what my signal was. I will call him Chen. He trades by eye and has done it for a long time. He had watched me build things for a year, and one evening over dinner he wanted to know what was in the middle of it all.
+It is a Thursday and the morning is going well. You bought the opening dip in a name you know, and it worked: up, and a clean exit at your level just after ten. The account shows a good number. Your hands feel quick. You are reading every print.
 
-So I told him. It took one sentence. I watched his face while I said it, and I saw the moment he recognised it, because it was something he already knew. It is in the first chapter of any book on the subject. "That's it?" he said. That was it.
+Within a minute you are scanning. A second name is moving the same way, a little later. You take it. It works too, smaller. Two for two before half past ten. You feel the thing traders call the zone, and you do not want to let go of it.
 
-I did not have a good answer for him that evening. I had one a few months later, on a Saturday morning, and it came from counting.
-
----
-
-The rule was in a forward test at the time: frozen, filled each day at that day's prices, nobody touching it. Each morning a funnel runs. Names go in at the top, and every name comes out with one line in a log. Either it was taken, or it was refused, and if it was refused the line says why. I built the reasons in from the start, because I do not trust anything that says no without saying why.
-
-I had never read those lines in bulk. A refusal log is one of the dullest documents a person can produce. It is thousands of lines saying the same five things.
-
-That Saturday I counted them. My motive was not a noble one. The book had been thin for weeks, and I wanted to know whether the funnel was too strict. I sorted the season's lines by reason and added them up.
-
-The entry condition, the sentence that had disappointed Chen, had been met far more often than I would have guessed. On most mornings a crowd met it. Then the crowd walked into the refusals. The market in the name was too thin. The spread was too wide. A report was due inside the holding period. The price was swinging too wildly to set a stop against. And the plainest refusal of all: the day's risk was already spoken for. Of the names that met the signal, the ones that became trades were a small minority. The list of trades fitted on one page. I never did scroll to the bottom of the list of refusals.
+The third trade comes at twenty to eleven. You are less sure of it, but your hand is warm and the first two were right. It fades. You stop out for a small loss, and in the same breath you see the price turn back up without you. You buy it again. That is a fourth trade nobody planned.
 
 ---
 
-Then I did one more thing, and I want to describe it carefully.
+By lunch half the morning's number is gone. Nothing dramatic happened. No single trade was a disaster. Each one followed the last so closely that there was never a moment to look at what you were doing. The first win poured into the second, the second into the third, the loss into the re-entry. You never once stood outside it.
 
-The desk can fill a paper book for any list of names, at the prices of the day, with the same exits. I had kept every refused list. So I built a shadow book: each name that met the entry and was refused, treated as if it had been taken.
+You did not notice that the market had gone quiet around eleven, the volume drying up, the moves getting shorter. You did not notice that you had stopped deciding in advance where you would get out. You did not notice that you were hungry. The session had no windows in it. *Where the room is empty, there is the use of the room.* Yours was packed to the ceiling.
 
-It is not a clean experiment. Some of those names could not really have been bought at the prices on the screen, which is exactly why they were refused, so the shadow book flatters itself. And one season is short. I will give no figures, here or anywhere in this book. I will say what it looked like next to the control, the book of the same size picked by dice. It looked like the dice. The signal alone, the sentence from the dinner table, was about as good as it had sounded to Chen.
-
-Whatever the frozen book was, and a season does not settle that, it was not the entry. I had thought of the refusals as the fence around the rule. They were the rule. The entry was a spoke, and I had spent a year polishing spokes.
+In the afternoon you keep trading, because stopping would mean the morning is finished as it is.
 
 ---
 
-Chinese children learn the last line of this chapter as a matched pair, 有之以为利，无之以为用, the way you learn any saying: by sound, long before sense. I had always taken the chapter as a general remark about emptiness. That Saturday it read like an engineering drawing. A hub is not a place where the wheel is missing. It is the part that is machined most carefully, because everything else turns on it.
+Now the other Thursday.
 
-It changed where my hours went. I had spent most of my research time on entries, because entries are what you can see. You can describe an entry at dinner. After the count, the hours moved to the refusals. Each one got a written reason, its own test, and its own line in the ledger, so that a refusal has to earn its place the way an entry does. When the model on the desk proposes a new entry now, the first thing I ask is not how often it fires. I ask what it will be refused for.
+Same open, same dip, same name. It works. You exit at your level just after ten. The number is good and your hands feel quick.
 
-Years ago I wrote a short book about not trading, and one chapter of it was about the invisible trades, the ones you do not make. I believed that chapter the way you believe a slogan. I had never counted anything. The slogan was true and it was vague: it said that doing less is good. The count said something narrower that I could use. It said which refusals, for which reasons, and how many.
+You take your hands off the keyboard. You stand up, go to the window and drink a glass of water. Five minutes. It feels wrong. Somewhere on the screen behind you a second name is moving, and you know it.
+
+When you sit back down, the second name has already gone. You let it go. You look at the market as a whole for the first time since the open. You notice your pulse is still up from the win. You notice that you want another trade more than you can see one. That is worth knowing.
+
+At twenty to eleven something does set up, and this time you look at it the way you looked at the first: where you are wrong, and what that costs. You take it smaller than you want to. It fades and stops out. You stand up again. When you come back the price has turned up, and you leave it alone. By eleven the tape is thin and you can see that it is thin, because you are looking at the tape and not at your last trade.
+
+You finish the day a little under the morning's best. You know what you did, and why, and you are not still chasing anything at two o'clock.
 
 ---
 
-There was a temptation in all this, and it is the one the verse is about. The book was thin, and a thin book makes you want more trades. The quickest way to get more trades is to loosen a refusal: let the spread be a little wider, let the market be a little thinner. While I thought of the hub as empty space, filling it looked like an improvement. Once I had seen it as the part doing the work, I could not look at it that way again.
+*So what is there gives the benefit. What is not there gives the use.* We are taught that momentum is everything: keep going, do not break the streak, fill every gap. The old book sees it the other way round. The space between things is what makes them useful. A wheel turns on its empty hub, and a trading day turns on the moments when you are not trading.
 
-I told Chen about the count some months later. He listened to the whole thing, and then he said, "So your signal is the things you don't buy."
+The pause will cost you a move now and then. You will watch it happen from the window.
 
-Roughly, I said.
+## Try This
 
-"That's not a signal."
-
-He is right. It is a hole in the middle of a wheel.
+For the next five sessions, after every trade you close, win or loss, take your hands off the keyboard and step away from the screen for five minutes before you place another order. No phone, no feed. When you sit back down, write one line: what you notice now that you did not notice during the trade. At the end of the week, read the lines, and look at which of the trades you skipped were ones you would have taken straight away.
 
 ---
 

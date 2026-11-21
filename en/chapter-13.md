@@ -22,71 +22,69 @@ So whoever values the world as his own body can be trusted with the world. Whoev
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. A big win is as dangerous as a big loss. Both are alarms. Answer both the same way: by going back to the rule.
+Take pride in your work. You were raised on it: your grades were yours, your reviews were yours, and a person who does not care about results does not get them. Put your name on what you do. In trading the scorecard is right there, updated by the second. A good month says you are good at this. A bad month says you are not, and you should feel it, because caring is what makes you better. The best traders take it personally. They love to win and hate to lose, and the whole of them is in every trade. That is what commitment looks like.
 
-2. Favour is the lower thing. A good week feels like a promotion. It is not. It is a week.
+## The Other Way
 
-3. After a good week, size wants to grow by itself. It does not ask. It just appears on the ticket a little larger than last time. Write the size down before the week starts, and check the ticket against it.
+1. *Favour and disgrace alike are alarming.* A great week and a terrible week are the same kind of event. Both shake the hand that places the next order.
 
-4. After a bad week, size wants to grow too, to win it back. The two alarms ring the same bell.
+2. *Favour is the lower thing.* The market's praise is not praise. It is a price that happened to go your way while you were holding.
 
-5. Gaining it is alarming. The trader who wins early learns the wrong lesson the fastest, because nobody argues with him.
+3. *Gaining it is alarming.* After the big win you size up a little, look at the account more often and start explaining the market to people. That is the alarm going off.
 
-6. Losing it is alarming. A run of losses is not a verdict on you. It is a run, and runs are in the arithmetic of every rule.
+4. *Losing it is alarming.* After the big loss you want it back by Friday, then by the close. The account has become your face.
 
-7. The great trouble is the self. A trade that has to prove something about you is no longer a trade. It is a test you will keep retaking at higher stakes.
+5. *The reason I have great trouble is that I have a self.* Most of the damage a trader does is done defending a self: the one who was right, the one who is good at this, the one who cannot have lost that much.
 
-8. If I had no self, what trouble could I have? Let the account be an account, not a scorecard of your worth. Each trade starts at zero.
+6. *If I had no self, what trouble could I have?* A trade with no "me" in it is a price, a size and an exit. It can be wrong without anyone being wrong.
 
-9. Whoever values the account as he values his own body can be trusted with it. Protect it the way you protect your hands: without thinking about it, every day, before anything else.
+7. "I lost" and "the trade lost" are different sentences. The first one wants revenge.
+
+8. Every good trader has bad months, and every poor trader has good ones. A month is too short to tell you who you are.
+
+9. *Whoever values the world as his own body can be trusted with the world.* Look after the account the way you look after your body: steadily, every day, without making a show of it. Looking after it is different from wearing it.
+
+10. Pride and shame pull the same lever. When you notice either, the next trade should be smaller, never bigger.
 
 ## The Story
 
-The week itself was not remarkable, which is the first thing to say about it. Nothing in the book was large. No single trade was memorable. The rules did what they do, and for five sessions in a row more of what they did went right than went wrong. On Friday evening I closed the screen in a good mood, the kind that makes you generous with the people at dinner.
+It is Friday, at the end of the best week you have had all year. Four winning days out of four, and one trade that ran further than anything you have held. You told a friend about it on Wednesday. On Thursday night you looked at the weekly number more than once, and it looked like proof. You are good at this. You always thought you might be.
 
-On Monday morning, before the open, I found myself looking at the sizing file.
+At half past nine you take your first trade at a size a little larger than usual. You did not decide to. Your hand just typed it, and it felt earned. The trade goes against you, and you hold it past where you would normally get out, because a trader having the week you are having does not get stopped out on the first trade on Friday.
 
----
-
-I want to describe how that happened, because I did not decide to do it. Nobody decides to do it. I was going through the morning checks in the usual order, and the file was open because one of the checks reads it. The line that sets the risk on each trade was there in front of me, a plain number, the same number it had been for months. And I thought, in a calm and reasonable voice: *it's been proving itself. Perhaps it has earned a little more.*
-
-It was not the thought of a gambler. It sounded like a review. That is what favour sounds like from the inside. It arrives dressed as an assessment.
-
-The size on the desk does not come from my mood. It comes from the file, the trade cards read it, and nothing I feel on a Monday changes a card. But the file is mine. I can edit it. That is the point where the rule ends and the person begins, and on that morning the person had a hand on it.
+It keeps going. You get out at twice your normal loss, and something in your stomach turns over.
 
 ---
 
-What stopped me was a second book I had not looked at since Friday.
+Now it is not about the trade. It is about the week. By a quarter past ten you are protecting a number, the weekly number you had in your head, the one you told your friend. You take a second trade to get the first one back. Then a third. Each is a little bigger than the last, and each one is about you: the trader you were on Thursday night, who cannot be the trader you are this morning.
 
-Every forward book on the desk runs beside a random control: the same number of names, the same size, the same exits, but the names picked by dice instead of by the rule. It exists for one purpose, which is to tell a good rule from a good market. I opened it.
+By the close you have given back most of the week. On Monday you will come in wanting it back, and you will trade like it.
 
-It had had a good week too.
-
-Not the same week, not exactly. But close enough that the honest description of the last five sessions was not *the rule proved itself*. It was *the market went up, and the rule was in it*. The dice had been in it as well. Whatever the rule knew, that week could not show it, because a week in which everything rises is a week in which everyone looks clever, including a pair of dice.
-
-*Favour is the lower thing.* I had read that line many times as a remark about courtiers. That morning it read like a description of the control book. The favour had not been given to me. It had been given to everything, and I had taken it personally.
-
-I closed the sizing file without changing it. The number went into my notebook instead, with the date and one sentence: *wanted to raise this on a Monday after a good week; the control book had a good week too.*
+Look at what happened. The good week did not make you careless by itself. It made you into someone, and then you had to defend him. *Gaining it is alarming, and losing it is alarming.* It was one alarm, ringing all week, and you only heard it on Friday.
 
 ---
 
-The second half of the chapter came months later, and I would not have recognised it without the first.
+Now the other Friday.
 
-It was a bad stretch, as ordinary as the good week had been. For a while more things went wrong than right. And one morning, going through the same checks with the same file open, I heard the same calm voice say something different. *It's down. Size up a little, and the next good run brings it back faster.*
+Same week, same four winning days, same trade that ran. On Thursday night you look at the number once. You notice the warm feeling and the small story that comes with it, that you are good at this. You do not argue with it. You also do not tell anyone.
 
-I knew the voice. That was the strange part. The words were the opposite of the Monday words, and the feeling under them was exactly the same: the sense that the account's recent past was a message addressed to me, and that I should answer it with the size. *Gaining it is alarming, and losing it is alarming.* Two alarms, and they ring the same bell. Up or down, the self wants the size to move, because the self has taken the week as a verdict.
+On Friday morning you open the size you always use. It feels too small, the way it always does after a good week. You use it anyway. The first trade goes against you, you get out where you said you would, and it costs what it was meant to cost.
 
-I opened the control book. It was having a bad stretch too.
+You write it down the way you write all of them: price in, price out, the reason. You leave out the word "I". The trade was stopped. It was a fair trade and it did not work.
+
+The second trade of the day is simply the next one on your list, at the same size. It works a little. The week closes slightly under Thursday's number. You notice you are disappointed, and you let that be true as well.
 
 ---
 
-Since then the procedure is plain, and I keep it because I do not trust myself to keep anything subtler. The risk per trade is changed only at the end of a season, never in the middle of one, and never on a Monday. A change goes into the ledger as a new trial with its own fingerprint, so that the book run at the new size is a new book and starts its count at one. And before anyone, meaning me, proposes a change, the first thing on the screen is the control book's record beside the rule's, for the same stretch.
+*Favour and disgrace alike are alarming.* We are taught to take pride in our results and to own them: to let success say who we are and to feel failure in our bones. The old book sees it the other way round. Praise and blame are the lower things, and the self that collects them is where the trouble starts. Look after the account the way you look after your body, and do not mistake it for your face.
 
-Most of the time that settles it. Over a few sessions, the rule's good weeks and the market's good weeks are hard to tell apart, and the control book says so without tact.
+The number on Friday is a number. You still have to trade on Monday.
 
-*If I had no self, what trouble could I have?* I do not think I will ever have no self on a Monday morning. But the size does not have to be where the self lives. The file is quiet, the number is old, and the dice are there to remind me that a good week is a week.
+## Try This
+
+For the next two weeks, write up every closed trade without the word "I": the trade was entered here, stopped there, for this reason. Write each day's result the same way. Then, after your best day and your worst day in those two weeks, look closely at the session that followed each: the size of its first trade, and how long you held its losers. Look at whether pride or shame came to work with you the next morning.
 
 ---
 
