@@ -4,13 +4,11 @@
 
 **Everything you think you know about trading, turned over by Laozi's eighty-one chapters, in his order: one verse, one belief, one other way, one story, one habit to try.**
 
-> **Status: rewritten, in review.** On 20 November 2026 the book turned from a quant-research frame to a mindset book. The prologue, all 81 chapters, the afterword, the glossary and the author note are now rewritten in that direction, in English and Chinese, and every chapter ends with a habit to try. Audio is paused until the text is final. The proposal the book was written from is in [PROPOSAL.md](PROPOSAL.md).
->
-> **Progress:** prologue, chapters 1–81, afterword, glossary, sources and about the author, in English and Chinese (mindset rewrite, 20–21 November 2026). The rewritten text is on the [Henry Zhang Books app](https://apps.apple.com/app/id6792229566), from the prologue to chapter 81, in both languages (21 November 2026); the app has no narration for it until the text is final.
+> **Status: complete, in Henry's final read.** The prologue, all 81 chapters, the afterword, the glossary and the author note are written in English and Chinese, and every chapter ends with a habit to try (21 November 2026). The text is also in the [Henry Zhang Books app](https://apps.apple.com/app/id6792229566), in both languages, without narration; the audio is recorded once the text is final. The first proposal, with a quant-research frame the book has since left behind, is kept in [PROPOSAL.md](PROPOSAL.md).
 
 Two and a half thousand years ago a keeper of archives wrote eighty-one short chapters on how to act without forcing. He wrote about water, which wins by yielding; about the empty bowl, useful because it is empty; about the uncarved block, plain before it is decorated; about the man on tiptoe who cannot stand; and about knowing when to stop, which he said is the end of danger.
 
-He was not writing about markets. Every trader will recognise him anyway. The trade that is forced is ruined. The position that is gripped is lost. The small size, the stop and the defined risk — the soft things — outlast every hard conviction. And the trader who hurries arrives back at the beginning. Fast is slow; slow is fast.
+He was not writing about markets. Every trader will recognise him anyway. We all learn to trade the way we are taught to live: work harder, want more, get there first, never back down. Laozi sees it the other way round. The trade that is forced is ruined. The position that is gripped is lost. The small size, the stop and the defined risk — the soft things — outlast every hard conviction. And the trader who hurries arrives back at the beginning. Fast is slow; slow is fast.
 
 Every chapter has five parts. **The Verse**: the Chinese original and an honest English translation. **What You Know**: the trader's common sense the verse overturns. **The Other Way**: a few numbered lines reading the verse for someone with an order ticket. **The Story**: a scene from the trading day that every trader has lived, told plainly. **Try This**: one habit to carry into the next session.
 
@@ -105,7 +103,7 @@ No forecasts, no signals, no performance claims.
 | 79 | [After a Great Grievance](en/chapter-79.md) | [和大怨](zh/chapter-79.md) |
 | 80 | [A Small Country](en/chapter-80.md) | [小国寡民](zh/chapter-80.md) |
 | 81 | [True Words Are Not Beautiful](en/chapter-81.md) | [信言不美](zh/chapter-81.md) |
-| Afterword | [Trading, Not Investing](en/afterword.md) | [后记：是交易，不是投资](zh/afterword.md) |
+| Afterword | [The Same Old Way](en/afterword.md) | [后记：老路](zh/afterword.md) |
 | Glossary | [Glossary](en/glossary.md) | [词汇表](zh/glossary.md) |
 | Sources | [Sources](en/sources.md) | [出处](zh/sources.md) |
 | The author | [About the Author](en/about-the-author.md) | [作者简介](zh/about-the-author.md) |
@@ -123,11 +121,11 @@ The order is Laozi's, and it is the argument: first see the market plainly, then
 
 ## Read one chapter a day
 
-Eighty-one chapters is a little under three months at one a day, about the shortest time in which you can learn anything true about a trading rule. Then read them again.
+Eighty-one chapters is a little under three months at one a day. Read the chapter before the open, take its Try This into that session, and see what changes. A habit takes about that long to settle. Then read them again.
 
 ## A note on what this is
 
-This book is education, not advice. It contains no recommendations for you personally, no signals, no forecasts and no promises. Nothing here is a performance claim; the stories say what was done and why, never what it earned. Trading can lose money, and leverage and options can lose it faster.
+This book is education, not advice. It contains no recommendations for you personally, no signals, no forecasts and no promises. Nothing here is a performance claim. The stories are scenes most traders have lived, told as "you"; where the author speaks of his own trading, he says what happened, never what it earned. The book aims to change your habits, and through them your trading; it promises no results. Trading can lose money, and leverage and options can lose it faster.
 
 The Chinese text of the *Tao Te Ching* is the received Wang Bi text. English translations are the author's own unless marked as James Legge's (1891), which is in the public domain.
 
