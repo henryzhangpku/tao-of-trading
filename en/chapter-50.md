@@ -14,63 +14,63 @@ I have heard that one who is good at keeping his life travels by land without me
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Some trades win and some lose. Accounts do not die there. They die in Laozi's third group: alive, and walking toward the place of death.
+Risk and reward are two sides of one coin. If you want to make real money, you have to take real risk. Small bets make small money; the traders who had the year that changed their lives swung hard when the moment came. Fortune favours the bold. You protect yourself with a stop, you size up when the setup is right, and you accept that big wins come with big swings. Playing it safe is how you stay ordinary, in trading and in everything else.
 
-2. Holding on to life too thickly. Too much size, too much borrowed money, too many positions on one idea. The wish to make more is what kills.
+## The Other Way
 
-3. No ground of death: no single position that, on its own, can end the account. Find that position before the market does.
+1. *We come out into life and go in to death.* Every trade is a short walk out and back. Most come back. The question is whether any of them can fail to.
 
-4. The tiger needs a place for its claws. A gap over the weekend, a halted market, an order book that empties at the open. Ask where on your book the claw would go.
+2. *Three in ten, three in ten, three in ten.* Some traders are built to last and some to fail. The third group could have lasted and walked themselves into the ground. That is the group to watch for in yourself.
 
-5. The rhinoceros needs a target for its horn. Five positions on the same story are one target.
+3. *Because they hold on to life too thickly.* They want the big year so much that they stand where one bad morning can end them.
 
-6. A stop is not armour. The price can jump straight past it. Size is the armour: small enough that a jump through the stop is still survivable.
+4. A stop is not armour. Prices gap through stops while you sleep, and halts do not ask your permission.
 
-7. Look for the ground of death on a calm day, once a week. The largest single position. The largest group that shares one cause. What a gap twice the usual would do to each.
+5. The first question is not how much you could make. It is whether any single morning can take the account.
 
-8. Walking without meeting tigers is not luck. It is choosing roads: no full size into a thin market, none into a day you know will be violent.
+6. *The ground of death* is a position where one move, one gap, one halt, ends you. It does not matter how unlikely it is. It only has to be possible.
 
-9. The one good at keeping his life does not fight better. He gives the danger nothing to hold.
+7. *The rhinoceros finds nowhere to drive its horn.* Size so that the worst open you can imagine is a bad day and not the last day.
+
+8. Defined risk is not timidity. A defined-risk spread is a trader who has decided in advance where the horn cannot reach.
+
+9. *There is no ground of death in him.* The trader who cannot be killed gets to see every opportunity that comes after, including the big ones.
 
 ## The Story
 
-Once a week, on a calm day, I go looking for the ground of death. I do it on Sunday afternoons, when nothing is open and nothing can be done about anything, which is exactly why it is the right time. The questions are always the same three. What is the largest single position on each book? What is the largest group of positions that would move for the same reason? And if every one of them opened tomorrow with a gap twice the size of an ordinary bad gap, straight through its stop, what would be left?
+There is a trade that could make your year. An event is coming, a report after the close, and you have a strong view about it. If you are right, the move will be large. You size it the way the bold size things: much bigger than usual, using most of what the account will let you use. You put a stop under it. You feel the fear and decide the fear is the price of the reward.
 
-For a long time the answers were boring, and I liked them boring. Then one Sunday the first question gave me an answer I did not understand.
+It works. The report comes out your way, the stock opens far in your direction, and in one morning you make more than in the previous three months. You tell yourself it was not luck. You had done the work, you had seen it, you had the nerve. And the lesson you take is the one everyone takes: when you are sure, swing.
 
----
-
-The position was on a paper book, a forward test of a rule that had been running for some weeks. It was frozen, like all of them, and filled each day at the day's prices. Nothing about the rule was unusual. What was unusual was the size. One name was carrying far more of the book than any other position on it, more than any position the rule had ever taken.
-
-I went looking for the mistake, assuming it was a bug. It was not a bug. It was the sizing rule doing exactly what I had written.
-
-The sizing rule was one I was proud of. It is the one every careful book recommends. Decide how much of the account you are willing to lose on a trade, and divide by the distance to the stop. A stop far away buys a small position; a stop close by buys a larger one. Either way, if the stop is hit, you lose the same planned amount. It is tidy. It makes every trade the same size of risk.
-
-This name had been very quiet for weeks before the rule bought it. Its daily range had shrunk to almost nothing, so the stop the rule placed was very close to the entry. A very close stop, divided into the same planned loss, gave a very large position. On paper, the risk was the same as every other trade. If the stop was hit, the book lost its usual amount.
-
-*If the stop was hit.* That was the whole problem, sitting in four words. The arithmetic assumed the price would walk down to the stop and be sold there. It did not ask what would happen if the price jumped. And the name had a scheduled report coming at the end of the week, after the close, which meant the next open could arrive anywhere at all.
+So you do it again, some months later, on another event. It works again, less spectacularly. The third time it does not work, but your stop holds and the loss is ordinary. That confirms it. You are bold, and you are protected.
 
 ---
 
-I did the third question by hand. A gap twice the size of an ordinary bad gap is not a dramatic assumption. Names do it after reports often enough that every trader has seen it. On most positions in that book, such a gap would have been a bad morning. On this one, because it was so large, it would have taken a piece out of the book several times bigger than any loss the rule was supposed to be able to take. Not the end of the account. But a long way past the edge of what I had written down as possible.
+Then there is a night when the news is worse than anyone expected. You are asleep. The stock does not trade through your stop. It opens far below it, as if the stop were never there, and the first price you can sell at is one you never planned for. By the time your order fills, the account is down by about half.
 
-*The tiger finds nowhere to set its claws.* The tiger had found a place. It was the place where my most careful rule met a quiet market, and the care itself had built the opening. The quieter the name, the closer the stop. The closer the stop, the larger the position. The larger the position, the more a single jump would do. The rule had been holding on to safety too thickly.
+Nothing about the trade was reckless by the usual standards. You had a view, a reason and a stop. What you also had, and never looked at, was a ground of death: a position large enough that a single gap could take most of what you had. It was there on the good mornings too. The good mornings only hid it.
 
----
-
-I could not touch the rule on that book. It was frozen, and its fingerprint pinned the sizing along with everything else. Editing it mid-season would have meant a new rule and a day count starting at one. And here is the thing I am glad of: I did not need to. It was paper. The report came and went. I am not going to tell you which way the name opened, because it does not matter. A gap that misses you has not proved that the ground was safe. The ground was not safe, whichever way it went. What mattered was that the hole was found on a book where the only thing at risk was a record, by a man looking for it on a quiet Sunday, instead of by the market on a Friday night.
-
-The change went where changes go. A new version of the sizing rule went into the ledger with its own fingerprint. It still divides the planned loss by the distance to the stop. But it also computes a second number: how large the position can be if the price jumps past the stop by a gap of the kind I had used that Sunday. The position is the smaller of the two. The tidy number survives in calm markets, and the gap number takes over in exactly the place where the tidy number becomes dangerous, in quiet names with close stops. Above both sits a plain cap that no single position can exceed, however good its arithmetic looks.
-
-I had written the lesson into this chapter before I understood it. The stop is not armour. I had believed that it was, for years, because the stop is the thing you can see on the screen. The armour is the size. A stop says where you mean to leave. The size says what happens if the market does not let you.
+We are taught that boldness is how anything big gets done. No risk, no reward. Laozi says the opposite in a strange way: the one who is good at keeping his life walks through tiger country and meets no tiger. Not because he is lucky, and not because he is armoured. Because there is nowhere in him for the claw to go.
 
 ---
 
-*Why is this? Because there is no ground of death in him.* The person good at keeping his life is not braver and does not fight better. He walks the roads where the claws have nowhere to go. I used to read that as a line about luck. It is not. It is a line about Sunday afternoons, and a list of three questions, asked when nothing is happening and no one is frightened.
+So there is another way to stand before the same report.
 
-I still do the check every week. Most weeks the answers are boring again. That is what it is for. The week it was not boring is the reason I keep doing it on the weeks it is.
+Before you size anything, you ask a different question. Not where your stop is, but what happens if it opens at the worst place you can imagine and the stop is useless. You put a number on that. If the number is the end of the account, or anything close, the position is too large, however sure you are. You cut it until the answer is a bad day you would recover from. If you want the leverage, you use a defined-risk spread, so the most you can lose is written down before you start.
+
+The trade is smaller. If you are right, you make a good month, not a great year. It is less exciting to tell anyone about. If you are wrong, even badly wrong, even on the night the news is worse than anyone expected, you wake up, look at the damage, and trade the next day.
+
+This is what *no ground of death* looks like on an order ticket. You can still take the trade. You still want it to work. There is simply no place in it where the horn can go all the way in.
+
+---
+
+The verse's arithmetic is uncomfortable. Three in ten move toward death because they love life too thickly. In trading, the ones who most want the life-changing year are the ones most likely to stand where it can end. The trader who wants a little less of it is often still trading when the real chances arrive.
+
+## Try This
+
+Before your next position, write down what you would lose if it opened at the worst price you can reasonably imagine, with your stop doing nothing. If that number would end your trading or come close, reduce the size until it would not. Do this for every position for a month, and notice how differently you sleep.
 
 ---
 

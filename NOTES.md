@@ -14,3 +14,6 @@ The book is about the trader's mindset. Each chapter takes something traders alr
 
 ### Chapter 2 (Long and Short Make Each Other)
 - The story is the generic "best day, then oversize the next morning" scene. Do you have your own version of it, or of a clean, planned loss you are proud of?
+
+### Chapter 50 (Coming Out to Live, Going In to Die)
+- Have you ever had an overnight gap go straight through a stop? A true account would beat the universal scene.

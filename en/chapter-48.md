@@ -14,81 +14,67 @@ The world is won by leaving it alone. Whoever must keep meddling is not fit to w
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Learning adds. Read the paper, study the indicator, collect the data. All of it is right, and none of it is trading.
+Getting better means adding. You learn a new setup and you add it. You notice a weakness and you add a check for it. Another time frame, another line on the chart, another condition before you enter. Each piece closes a gap. Over the years your way of trading grows thicker and more complete, and that is what experience looks like: a trader who knows more things to look at than he did last year. It is how you got better at everything else, too. You studied, you accumulated, you built.
 
-2. The rule goes the other way. Each season it should hold one thing fewer.
+## The Other Way
 
-3. Every filter is added for a reason, and the reason is usually a loss. A rule built that way is a list of scars.
+1. *In learning, something is added every day.* That part is right. You cannot let go of what you never learned.
 
-4. A filter has two costs. It fits the past a little better, which you can see. It leaves fewer trades to judge the rule by, which you cannot.
+2. *In the way, something is taken away every day.* After a point, getting better runs in the other direction.
 
-5. Take one condition out and test again. If nothing changes, it was decoration. If the rule improves, it was harm.
+3. Everything you added once answered a real problem. That is why it is so hard to take any of it away.
 
-6. Take away, and take away again, until the rule stops working. Then put the last one back. What is left is the rule.
+4. A way of trading with a dozen conditions is not a dozen times as careful. It is one that can find a reason for whatever you already wanted to do.
 
-7. What is left should fit on a card, and you should be able to say why each line is there without mentioning a date.
+5. *Take away, and take away again.* The first cut is easy. The third one hurts, because now you are cutting things you like.
 
-8. Not forcing is where the taking away ends: nothing left to adjust. A rule with no knobs cannot be tuned on the worst morning of the month.
+6. Take away the setup you trade least well, even if it is your favourite.
 
-9. Leave it alone and nothing is left undone. The rule that needs your hand every week is not fit to hold your money.
+7. Take away the hour of the day when you trade worst.
 
-10. Keep what you learn in the ledger. Keep the rule short.
+8. *Until you come to not forcing.* Subtract until the trade nearly takes itself, and most of your day is waiting.
+
+9. *Nothing is left undone.* The plain way misses some things. What it misses, you were not able to take well anyway.
+
+10. *Whoever must keep meddling is not fit to win.* This goes for the method, and for the positions. A trader who cannot leave either alone is always busy and rarely paid for it.
 
 ## The Story
 
-The rule in this story started as three lines. I still have the first version. It said what to look for, how much to buy, and when to leave. I could have written it on the back of my hand.
+Look at your screen as if a stranger were looking at it. A chart with three moving averages, two oscillators underneath, a band, a volume profile on the side. Two more time frames in smaller windows. A list taped to the bottom of the monitor: eight things to check before you enter.
 
-A couple of years later I printed it out on a Sunday afternoon, and it ran down most of a page. I counted fourteen conditions that had to be true before a single order could go out.
+Every one of them is there for a reason. You can tell the story of each. This line went on after a run of losses in a choppy month. That check went on after a trade you should never have taken. Taken together they are a record of every lesson you have learned, and you are proud of them, the way you are proud of a notebook you have filled.
 
----
-
-None of the fourteen was stupid. That is the first thing to understand about a carved rule: nobody adds a stupid filter. I keep a changelog for everything I build, so each condition had a date and a note beside it, and reading the notes in order was like reading a medical history. A bad week: a filter to keep out names with a report due. A trade that opened far below its stop: a filter on how the day before had closed. A run of small losses in a flat market: a filter asking the broad market to be above its own average first. Each note was sensible. Each one, I noticed that afternoon, had been written within a few days of a loss.
-
-I had been learning the whole time, and that was the trouble. Those were the years I read the most, and whatever I learned on Tuesday went into the rule on Wednesday. *In learning, something is added every day.* I had taken the first half of Laozi's sentence and applied it to the wrong object.
-
-Two things had happened to the rule while I was improving it.
-
-The first was that it had nearly stopped trading. Each filter removed some of the days on which the rule could act, and fourteen of them in a row removed most of them. A rule that rarely trades is hard to judge, because it takes a long time to collect enough trades to say anything. I had been making the test quieter and reading the quiet as quality.
-
-The second was arithmetic. Fourteen conditions, each either on or off, make two to the fourteenth power: 16,384 possible rules. I had not tested sixteen thousand rules. But I had walked a path through them one step at a time, and at every step I had turned toward whichever side made the history look better. Arriving somewhere pretty by that method proves very little. Anyone can walk downhill.
+A setup appears, the kind you came here for. Three of your things say yes. Two say not yet. One says no, but only on the smaller time frame. You wait for them to agree. They do not agree. The price leaves without you, and ten minutes later, when the last of them finally turns, you buy it much higher than you meant to. The trade is fine. It is not the trade you saw.
 
 ---
 
-So that Sunday I walked the other way.
+This happens often enough that you think about adding something to fix it: a rule for when the checks disagree. You almost do. That would be learning, adding another day's lesson.
 
-The method is dull. Take one condition out and leave everything else. Run the rule through the same gate every idea on my desk has to pass: after costs, after twice the costs, the first half of the history and the second half separately, the best month removed. Write the result in the ledger as a trial, whatever it is. Put the condition back. Take out the next one.
-
-It took the afternoon and most of the evening. When it was done, the fourteen conditions lay in three piles.
-
-The largest pile was decoration. I took the condition out and nothing happened that I could tell apart from noise. The rule traded a little more often and looked about the same. More than half of the fourteen were like this. They had each felt like progress on the day they were added.
-
-The second pile was harm. Without the condition, the rule was steadier across the two halves of the history. The filter had been fitted to one stretch and had been quietly costing something in the other. These were the ones I had been proudest of. They were the clever ones, the ones that came out of the reading.
-
-The third pile was a single condition. Take it out, and the rule failed at twice the costs. It was the least clever line on the page: refuse a name when its market is too thin to get in and out at a fair price. It was also the oldest. I had added it in the first month, before any loss, because it was obviously true. It was not an insight. It was a cost, written down as a rule.
+Laozi says the other road runs the other way. We are taught from childhood that growth is accumulation: more knowledge, more skills, more on the résumé. He agrees, up to a point. For learning, add. For the way, subtract, every day, until there is almost nothing left to do. It is less is more, said by someone who had tried more.
 
 ---
 
-*Take away, and take away again.* Laozi says it twice, and I think the repetition is the instruction. Taking one thing out is a test. Taking them all out is a decision.
+So one weekend you take one thing off. Only one: the oscillator you look at least. It feels like taking off a coat in the cold. On Monday you keep reaching for it with your eyes, and once or twice you nearly put it back.
 
-So I took out the first two piles together, thirteen conditions at once, and ran what was left. Then I held the page next to the first version from years before. It was the same three lines: what to look for, how much, when to leave. One of them was a little longer than it used to be, because it now refused thin markets. Two years of work had added half a sentence.
+The next weekend you take off another. Then a time frame. Then two lines from the list on the monitor. Each time it is harder, because now you are removing things you remember putting there for good reasons. You do it anyway, slowly, and you watch what happens to the way you see.
 
-I did not feel clever. I felt the way you feel after clearing out a garage, when you find the floor.
+After some weeks the chart shows price, volume and a level or two that you drew yourself. The list has three lines. The first morning it looks almost bare, like a room after the furniture has gone.
 
-There is a part of this that is easy to get wrong, so I will say it plainly. Taking filters away while looking at the past is still fitting to the past. It is fitting with fewer knobs, which is better, but my eyes had been on that history all day. So the three-line rule did not get to trade because it had survived my Sunday. It got a new fingerprint, a place in the forward test, and a day count that started at one. I am not going to tell you what it did there. What I can tell you is that when a bad week came, there was nothing on the card to reach for. Every line was one I could defend without naming a date.
+The setup comes. You see it sooner, because there is less in the way of seeing. You take it, or you do not, and either way the decision takes a moment instead of ten minutes. More surprising is the other thing you see sooner: the trade that is not there. With less to look at, there is less to talk yourself into.
+
+The meddling goes too. You notice that during the week you no longer fiddle with settings after a bad trade or move a stop on a whim. With fewer parts there is less to adjust, and you find you can sit with a position without touching it.
 
 ---
 
-The last change I made was not to the rule. It was to the desk.
+None of this means the things you learned were useless. You had to learn them to know which ones to put down. A trader who never learned has nothing to subtract. But somewhere along the way, adding stops being progress and starts being a way to avoid deciding.
 
-A language model reads the results each morning and is allowed to propose anything. I had not noticed, until that Sunday, the shape of what it proposes. It nearly always wants to add. That is its nature: it has read everything, and it would like to use it. It is the best student I have ever worked with, and a student adds daily.
+The verse puts it simply. Subtract, and subtract again, until you stop forcing. Then very little is left undone.
 
-So the desk asks it a second question now. For every condition it wants to put in, it has to name one it would take out, and the removal is run through the gate first. The model proposes; the rules decide. Most mornings, the removal is the more interesting test.
+## Try This
 
-I still read as much as I ever did. The difference is where it goes. What I learn goes into the ledger, which grows every day and is meant to. The rule sits beside it on a card, and when I pick the card up, I am looking for the line that can go.
-
-*Do not force, and nothing is left undone.*
+This weekend, take one thing off your screen or your checklist: the one you would miss least. Trade the week without it and do not add anything back. Next weekend, take off one more, and watch whether you see the market more slowly or more quickly.
 
 ---
 

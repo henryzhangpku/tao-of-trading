@@ -14,71 +14,63 @@ So the sage knows without going, names without seeing, and completes without doi
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. You no longer have to leave the door for the world to reach you. The headlines, the feeds and the chat come in through the window all day. Laozi's door is now the one you keep shut.
+The more you know, the better you trade. Everything is connected: rates, currencies, oil, the overnight session in another continent, the supplier on the far side of the world. A serious trader follows all of it. He reads before the open, listens on the drive, keeps a screen on markets he does not trade so that nothing surprises him. He goes to the conference, joins the rooms, hears how the big money thinks. The world rewards whoever has seen the most of it.
 
-2. Without going out of the door: the rule you have tested already holds what you know about the market. The news holds what you do not.
+## The Other Way
 
-3. The farther one goes, the less one knows. Ten more sources do not give you ten times the knowledge. They give you ten opinions, and half of them point the other way.
+1. *Without going out of the door, one knows the world.* The market you trade already has the world in it. It has been priced, by everyone who went out to fetch it.
 
-4. A forecast is a story about tomorrow. A rule is a decision about what you will do if. Only the second can be tested.
+2. *Without looking through the window.* Whatever is out there has already come in through the door. You are looking at it.
 
-5. Prepare the reaction, not the prediction. If the price does this, I do that. Write it the night before, in a quiet room.
+3. *The farther one goes, the less one knows.* Every market you add to your morning is one you understand less well than the one you trade.
 
-6. On a loud morning, ask one question: has anything the rule reads changed? If not, nothing has changed for you.
+4. Knowing a little about everything feels like knowing. Mostly it is carrying.
 
-7. By the time a headline reaches you, the price has usually moved on it. You are among the last to know and among the most tempted to act.
+5. The commentator on the other side of the world has a view on your stock. He knows it less well than you could, if you stayed home with it.
 
-8. Names without seeing. You do not have to watch every tick to know the stop is there. You put it there.
+6. Your own few names, watched for years, tell you things no report does: how they open, where they stall, what they do on a quiet Friday.
 
-9. Experts who forecast for a living are paid for being interesting, not for being right. You are paid for neither. You are paid, if at all, for doing the same sensible thing many times.
+7. *Knows without going.* You know because you have stayed, not because you have travelled.
 
-10. Completes without doing. A morning when the world shouted and the rule did nothing is not a missed morning. It is the rule saying it has nothing to say.
+8. *Names without seeing.* You can say what it is likely to do before you see the reason, because you have seen it do this a hundred times.
+
+9. *Completes without doing.* Much of the morning reading is not for the trade. It is for the feeling of being ready.
 
 ## The Story
 
-The news came on a Sunday night, and by the time I woke on Monday it had a name. Something had happened far away, the kind of event that has a map in every article and a word like *shock* in every headline. Before five, the futures were already marked down hard, and my phone had the look a phone gets on those mornings: every app with a number on it.
+It is Sunday evening and you are preparing for the week. You start with the Asian open, because it will be trading in a few hours. Then the currency that everyone has been talking about. Then a long podcast with a strategist who explains, very well, what the central bank will do next and why. Then three newsletters, a thread about oil, a chart of a bond yield somebody calls the most important chart in the world.
 
-I did what I had promised myself I would not do. I went out of the door.
+It is past eleven when you stop. You feel prepared. You have a view on rates, a view on the currency, a view on a country you have never been to. You go to bed with the world in your head.
 
-Not literally. I sat at the kitchen table with the coffee, and I read. I read the wire stories, then the analysis of the wire stories, then the people who analyse the analysis. I read a chat where friends who trade were swapping links. By seven I had read a dozen confident explanations of what would happen at the open, and when I tried to write them down in a list I found that they disagreed with each other on almost every point that mattered. Some said the fall would deepen all week. Some said it was already overdone. Two of them, by the same writer, said both.
-
-*The farther one goes, the less one knows.* I had gone a long way that morning, and I knew less than when I sat down, because before I sat down I at least knew that I did not know.
+On Monday morning you have twenty opinions, and you have not opened the chart of the two stocks you actually trade. At the open one of them does something you would have recognised in a moment if you had been looking at it, a slow, heavy start it often has on Mondays. You are not looking at it. You are watching the currency, because the strategist said it mattered, and you take a trade in your stock because of what the currency does. The stock does what it does on heavy Mondays. It does not care about the currency at all.
 
 ---
 
-At seven I did the thing the chapter tells you to do, and asked one question. Has anything the rule reads changed?
+Look at the shape of the evening. You went as far as you could from your own desk, and the further you went, the less you knew about the one thing in front of you. Everything you learned was true, more or less. None of it was yours. You knew it the way you know the weather in a city you are not visiting.
 
-The rule on that book reads very little. Prices, at the close and at the open. How much has traded. How wide the gap is between buyers and sellers, and how fresh the quotes are. It does not read news. It has never heard of the place on the map. It would learn about the event the way water learns about a slope, by the prices moving.
-
-So the honest answer at seven was: not yet. Nothing the rule reads had happened yet. Everything I had read was about something else.
-
-At the open, the rule read its things, and some of them had changed. Spreads were wide in the first minutes, the way they always are on a frightened morning, and quotes were jumping. The entry checks did what they do. Every new entry that morning was refused, because the markets were too thin to get into at a fair price. The refusal log had a longer page than usual, and every line on it was the same dull sentence about the spread. One position already on the book reached its planned exit day and left at the open, as written, at whatever price was there, because the exit is never blocked.
-
-That was all. Two kinds of nothing and one ordinary exit. The rule did not do less than it usually does. It did exactly what it usually does, on a morning when everyone else was doing more.
+We are taught that seeing more of the world makes you wiser. Travel, read widely, have a view on everything, never be caught not knowing. Laozi wrote the opposite and meant it plainly: *the farther one goes, the less one knows.* It sounds like a riddle until you have spent a Sunday night on four continents and missed what your own stock was saying on Monday morning.
 
 ---
 
-The part I want to tell you about came at the end of the week, and it came from the dullest object on my desk.
+So there is another Sunday.
 
-Every forward book I run has a twin that nobody looks at much: a random control. The same number of picks, chosen by dice, filled at the same prices on the same days. Its job is to stop a good market from looking like a good rule. It has no ideas. It is a book written by a coin.
+You open the two charts you trade and nothing else. You go back a few months and look at how they behave: how they open, where they tend to pause, what a quiet day looks like, what a heavy one looks like. You have seen most of this before. You look anyway, the way a farmer walks his own field before he plants it.
 
-On Friday I laid the week out with the frozen book on one side and its random twin on the other. I am not going to tell you how either did, and that is not the point. The point was the shape. On Monday they had moved together, the rule's book and the coin's book, the same way and by about the same distance. The headline had pushed everything, the chosen and the unchosen alike. On that day the rule's choices had told it nothing that dice did not know.
+If something big happened in the world over the weekend, you will know by the open; it will be in the price, and the price is in front of you. You do not need to have predicted it. You only need to know your field well enough to see when something has come into it.
 
-I sat with that for a while. The coin had not read a single article. I had read for three hours. On Monday morning, in the one sense that mattered, we knew the same amount. The coin was at least not tempted by what it knew.
-
-*Without looking through the window, one sees the way of heaven.* The rule does not look through the window, and that is not a weakness to be fixed with a news feed. A tested rule already holds everything I have been able to learn about the market by counting. The window holds what I have not been able to count. On a loud morning the window is very bright, and it is very easy to mistake brightness for light.
+On Monday the heavy start comes, and you recognise it before you can say why. You do not trade against it. Later in the morning it turns in the way it often turns, and you are there for it, because you never went anywhere else.
 
 ---
 
-I made two changes after that week, and neither was to the rule.
+*The sage knows without going, names without seeing, and completes without doing.* This is not a case for ignorance. It is a case for depth over distance. The world will reach your screen whether you go out to meet it or not. What will not reach you, unless you stay home with it, is the particular character of the few things you trade.
 
-The first was the question itself, written on a card by the screen: *Has anything the rule reads changed?* On a loud morning I read the card before I read anything else, and if the answer is no, I close the laptop until the open. I can still read the news later, the way you read the weather after the rain.
+Most of what the long Sunday gave you was the feeling of having done enough. The short one gives you a smaller world that you actually know.
 
-The second was a note in the ledger. The model on the desk reads everything, the way I read that Monday, and it offered, later that month, a filter that would pause all entries for a day after a large overnight shock. It is the kind of idea that sounds wise after a morning like that one. It went into the ledger as a trial, with its own fingerprint, its own forward test and its own random twin, so that whatever it turns out to know, it will have to know more than the dice.
+## Try This
 
-The world reached me through the window that Monday, the way it reaches everyone now. The rule did nothing. The sage, Laozi says, completes without doing. On Friday, when I put the two books side by side, I understood that the rule's nothing had been the most informed thing in the house.
+For one week, before the open, look only at the markets you will actually trade that day: no overnight sessions elsewhere, no newsletters, no strategist. Spend that time on your own charts, a few months back, just watching how they behave. At the end of the week, notice what you missed and whether it mattered.
 
 ---
 

@@ -2,8 +2,6 @@
 
 *Part II: The Virtue · 《名与身孰亲》*
 
-*Of the thirty-six stratagems, walking away is the best. — The Thirty-Six Stratagems, the last*
-
 ## The Verse
 
 名与身孰亲？身与货孰多？得与亡孰病？
@@ -20,71 +18,69 @@ Know what is enough and you will not be disgraced. Know when to stop and you wil
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Your name or your life. The name is being right. The life is the account. Only one of them can be lost for good.
+You trade to make money, and the account is the score. More is better than less. A bigger account means more freedom, more security, more choices for the people you love. Every hour at the screen is an investment in that, and the sacrifices now, the early mornings, the lunch at the desk, the weekend spent on charts, are simply what it costs. Everyone who has built anything worked like this first. The number will justify it. When you have enough, you will ease off.
 
-2. Your life or your goods. The goods are today's profit. The life is the ability to trade tomorrow.
+## The Other Way
 
-3. Gaining or losing: which does the harm? Often the gaining. A run of wins is what quietly raises the size.
+1. *Your name or your life: which is dearer?* The balance is a name, a number with your name on it. Your body is the one sitting in the chair.
 
-4. Great love brings great cost. The position you love is the one you will pay the most to keep.
+2. You know which is dearer. Most days you trade as if you did not.
 
-5. Know when to stop: the daily loss limit. A number written before the open, by someone who has not yet lost anything that day.
+3. *Your life or your goods: which is worth more?* Money lost can be made again. An evening missed cannot be traded back.
 
-6. The limit is not there for the money. It is there for the person who has just lost twice and is about to decide something.
+4. *Gaining or losing: which does the harm?* Gaining, often. A loss sends you home. A win keeps you at the desk.
 
-7. Let the code hold it. A limit you can lift by hand is a suggestion.
+5. *Great love brings great cost.* The cost of loving the number is rarely charged in the number. It is charged in sleep, in your back, in the people waiting for you to finish.
 
-8. When it fires, the day is over. Not paused: over. The next session begins at the next session.
+6. *Much hoarding brings heavy loss.* The bigger the pile, the more there is to guard. A larger account almost never lets you watch less.
 
-9. Of the thirty-six stratagems, walking away is listed last and used first. It keeps the army.
+7. "When I have enough" is a date that moves every time you come near it.
 
-10. Know enough, know when to stop, and you can last. Lasting is the only result that compounds.
+8. *Know what is enough.* Decide it before the open, while you are calm, not after the close, while you are counting.
+
+9. *Know when to stop.* Stopping is a skill: stop for the day, stop at a size, stop at a number of hours.
+
+10. *Then you can last.* Lasting is the whole game. The trader who keeps his body and his family is still at the desk, clear-headed, years after the one who spent them.
 
 ## The Story
 
-The limit is one line in a file. It says how much the account may lose in a single session, counting closed trades and open ones together, before the day ends. I wrote it on a quiet evening, in a calm frame of mind, which is the point. The person who sets the limit should be a different person from the one it is meant to stop.
+It is half past eleven and you are up on the day. Not a great day, a good one: two clean trades, both closed, a number you would have signed for at the open. Your child has something at school this afternoon. You said you might come.
 
-The executor reads the line every few seconds. If the day's loss reaches it, three things happen, in order: everything open is closed, every resting order is cancelled, and the executor stops accepting new orders until the next session opens. Then it writes one sentence to the log. I had read that sentence in tests many times. For a long while I had never seen it on a real morning.
+You do not get up. The market is open for another four hours, and you have the feeling that a good morning is information: you are seeing well today. It would be a waste to leave while you are seeing well. You tell yourself you will take one more trade, and if it works, you will go.
 
----
+It works, a little. You stay for the next one. That one gives back part of the morning, and now you cannot leave, because leaving on a give-back feels like a bad way to end. By the close you are about where you were at half past eleven. The thing at school ended an hour ago.
 
-It was a Tuesday in early spring. I was carrying two positions from the day before, and the rules had opened a third in the first minutes of the session. Three positions in three different names. On the card they looked like three separate decisions.
-
-At twenty to ten a number came out that the market had not expected. Within a few minutes all three names were moving the same way, against me, together. I had written in an earlier chapter that when positions are many and all depend on the same thing, they are one position wearing different names. I had written it. I had not checked it that morning.
-
-The first stop filled. Then the second. The third position was still open and still falling, and the open loss on it, added to the two closed ones, crept towards the line. At eight minutes to ten it reached it.
-
-The log said: *Daily loss limit reached. Flattening. New orders disabled until next session.* The board went grey. That is a design choice too. I made the screen look finished so that it would not invite me to keep trying.
+Nothing bad happened. That is what makes it hard to see. You did not lose money. You lost an afternoon, and the account has no line for it.
 
 ---
 
-The first thing I felt was relief, and I want to be honest about that, because the relief did not last. It is a peculiar comfort to have the decision taken away. Nothing else could go wrong that day. The loss was the size I had agreed to, months earlier, on a calm evening. It was not a disaster, and it was not meant to be one. The limit is set so that hitting it hurts and nothing more.
+Look at what the chair has been costing. You eat lunch at the desk most days without noticing what you eat. Your shoulders have been up near your ears since the spring. The phone sleeps by the bed because of the overnight futures. At dinner you check it once, and then once more, and the people at the table have learned to talk around you while you do. None of this is in the P&L. All of it is being paid.
 
-By eleven the market had turned. The number that had frightened everyone at twenty to ten had been read more carefully, and prices drifted back the way prices often do once the first fright has passed. By one o'clock a name on the watchlist had formed exactly the setup the rules look for. It met every condition. I could see it on the grey board, plainly, and I could do nothing about it.
+This is how most of us were taught to live, not only to trade. Work harder now, enjoy it later. Get the number first, then the life. The sacrifice proves you are serious. Laozi asks three short questions and the whole arrangement turns over. The name or the body? The body. The goods or the body? The body. Then why is the body the thing you keep spending to protect the goods?
 
-I want to describe the next hour carefully, because it is the reason the limit exists.
-
-I did not want money that afternoon. I told myself I did, but that was not it. I wanted not to have lost. I wanted the morning undone, and a good trade in the afternoon looked like the way to undo it. That is the name in Laozi's question, set against the life. 名与身孰亲. The name was the record of the day, the wish to have been right by the close. The life was the account, and the person running it, who had just lost twice in fifteen minutes and was now staring at a grey screen.
-
-I knew how to get round the limit. I built it. I could change the number in the file. But a change to that file carries a fingerprint and leaves a record, and I had arranged long before that a change takes effect at the next session, not the current one. I had locked the door in a way that would only open tomorrow, when I would no longer want it open. That arrangement was the most useful thing I did all year, and I did it on a day when nothing was happening.
+*Much hoarding brings heavy loss.* Every trader imagines that a larger account will let him relax. Watch what actually happens. At one size, enough is the next size. At the next size, enough is a cushion against losing what you have. There is always a reason the stopping is next year.
 
 ---
 
-So I walked away. Literally: I closed the laptop and went for a long walk, the kind with no destination. When I came back I wrote in the journal what had happened, in plain sentences: the three names, the one number that moved them, the fact that they were one position and that I had not checked. Then I wrote down what I had wanted in the afternoon, and the word I used was *revenge*. I did not like seeing it there. It was the right word.
+The other way does not start with a number. It starts with a stop. Not a price stop. A stop for you.
 
-I will not tell you what the afternoon setup did. It does not matter, and that is exactly the lesson. Suppose it worked. Then a person who had lost twice in fifteen minutes and was looking for revenge took a trade and was paid for it, and learned to do that again. Suppose it failed. Then the day's loss was larger than the size I had agreed to, by a decision made in the worst frame of mind available to me. Either way the account would have been in the hands of someone I would not hire.
+You decide before the open what a good day is, and what time you leave whether you have one or not. When the good morning comes at half past eleven, you close the trades, close the platform, and get in the car. The first few times it feels like leaving money on the table. It is leaving money on the table. That is what it costs to keep the rest.
 
-*Gaining or losing: which does the harm?* The afternoon trade could only have harmed me, whichever way it went.
+At the school the chairs are too small and the room is too warm. Somebody's child forgets a line and everyone laughs kindly. Nobody asks what you made today. For an hour you do not think about it either.
+
+The next morning you sit down rested. You have nothing to win back and nothing to prove, and you trade the open the way you would like to trade every open.
 
 ---
 
-The next morning the board came up in colour. The setup from the day before was gone, as setups always are. It was an ordinary day, and I traded it in the ordinary way, at the ordinary size. A day after the limit fires is not a day for making it back. It is a day like any other, which is the hardest thing to make it.
+*Know what is enough and you will not be disgraced. Know when to stop and you will not be in danger.* The disgrace Laozi means is not public. It is the private one: the afternoon you cannot get back, the body that makes you stop on its schedule instead of yours. The danger is the same one every trader knows, seen from further off. A trader who cannot stop for the day is the trader who cannot stop a losing day either.
 
-I made one change, through the slow door. The rules now look at how much of the day's risk depends on one thing, and refuse a new position when too much of it already does. That change went into the ledger as a test, with its own count, like any other idea. It came out of a loss, which is not a reason to trust it. It is only a reason to test it.
+The verse ends with *then you can last*. Fewer hours at the screen this week is how you are still at it in ten years.
 
-The last of the thirty-six stratagems is to walk away. It is listed last because it is what is left when the others have failed. It ought to be learned first, because the trader who knows the way off the field is the one who comes back to it. 知止不殆，可以长久. Stopping is not the opposite of trading. It is what lets the trading go on.
+## Try This
+
+Before tomorrow's open, write down two things: the result that would make it a good day, and the time you will stand up regardless. When either arrives, close the platform and leave the room. Do it for a week, and watch what changes in the hours after you leave and the mornings after that.
 
 ---
 

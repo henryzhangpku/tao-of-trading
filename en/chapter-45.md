@@ -18,71 +18,67 @@ Movement overcomes cold. Stillness overcomes heat. Clear and still, you can set 
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. The smooth equity curve is the suspicious one. Real edges come with dents.
+The edge is in the execution. The same idea makes twice the money if you get the entry right and sell near the top. Good traders are precise: they wait for their level, they work the order, they do not chase. Every evening you look at your fills and see how close you came to the best price of the move, and you hold yourself to it, because sloppy exits are money handed to someone else. Doing a thing well means doing it right, all the way, without leaving anything on the table.
 
-2. Great completion seems flawed. A rule that works loses, regularly and in plain sight. The losses are part of how it works.
+## The Other Way
 
-3. Before you admire a curve's shape, ask how it was drawn. A curve marked only on the days trades close can hide any loss that has not closed yet.
+1. *Great completion seems flawed.* A trade done well almost always looks wrong the next day. Every exit on tomorrow's chart is early or late.
 
-4. Mark it every day. The dents that appear are the ones the account would have felt.
+2. The top tick is only visible after it has printed and the price has left it.
 
-5. A curve with no bad months has usually found somewhere to put them: in a position held until it came back, in a filter fitted to the bad months, in a cost left out, in the names that are missing from the data.
+3. *Its use does not wear out.* The plain exit keeps working. The perfect one breaks the first time the market misses your level by a cent.
 
-6. Split the history in halves. A real edge shows up in both, and unevenly.
+4. *Great fullness seems empty.* A well-held position often looks half done: sold in pieces, some kept, some missed.
 
-7. Take out the best month. If what is left is flat, you have one month, not a rule.
+5. *Great straightness seems bent.* The straight path through a move zigzags: a partial exit, a pause, sometimes back in higher.
 
-8. Great skill seems clumsy. Beside the fitted rule, the honest one looks unfinished.
+6. *Great skill seems clumsy.* Paying a few cents up to be filled looks worse than waiting, and works better more often than you would like to admit.
 
-9. Great eloquence seems to stammer. Distrust the backtest that explains itself too well.
+7. Waiting for the perfect entry is the most common way to miss the trade and then chase it.
 
-10. Stillness overcomes heat. When a result excites you, that is the moment to go slowly.
+8. Someone sells the high and someone buys the low. Neither needs to be you.
+
+9. *Stillness overcomes heat.* The heat comes in the evening, when you measure the distance from your exit to the high. Meet it with stillness, not with a new rule.
+
+10. *Clear and still.* A trader who has made peace with the imperfect exit has a mind left over for the next trade.
 
 ## The Story
 
-An acquaintance I will call Daniel sent me a chart one evening with a short message: *Tell me what is wrong with this, because I can't find anything.*
+You sold at a good price. You know it was good because you planned it: the move reached the area you had marked the night before, the buying started to thin, and you sold most of the position into strength. It was the trade you had drawn up, done the way you drew it.
 
-It was the equity curve of a rule he had been building for months. I have looked at a great many curves, and this was the most beautiful I had seen. It rose from the lower left to the upper right almost as a ruled line. There were small pauses in it, no falls. He had marked it month by month, and there was not one losing month in the whole history.
+Then it kept going. Not a little. By the close it was another five percent higher, and the part you sold would have been worth a good deal more if you had held it to the end of the day.
 
-He wanted to trade it at a size that would matter. Before he did, he wanted someone else to try to break it.
-
----
-
-I ran it through the gate the way I run my own ideas. The gate asks the same plain questions every time. Does it still work after costs, and after twice the costs? In the first half of the history, and separately in the second? With its single best month removed? With its count of earlier attempts held against it?
-
-It passed all of them. The rule traded rarely, so doubling the costs barely touched it. Both halves rose. Taking out the best month made no visible difference, because no month was much better than another. Daniel had tried only a handful of versions, and he had written them down, which most people do not.
-
-I remember that passing everything made me more uneasy, not less. I have learned to fear one kind of result above the others, and it is not the one that fails. A rule that fails tells me something true. A rule that is perfect is usually telling me something about how it was measured.
+That evening you replay it. You find the moment where you could have known: a bar that, looking back, says clearly that buyers were not done. You tell yourself you will watch for that bar next time. You do not notice that you can only see it because you know what came after.
 
 ---
 
-So I stopped looking at the curve and started looking at how the curve was made.
+On the next trade, you remember. When it reaches your area, you do not sell. You wait for the sign that buyers are done, the one you saw so clearly last night. The price pauses, pushes a little higher, and you feel sure this is the run you missed last time. Then it turns. It falls back through your area, past your entry, and you sell most of it below where you could have sold it an hour before. You lost the good exit trying to make it perfect.
 
-It was drawn from closed trades. On the day a trade closed, its profit or loss was added to the line. On every other day, nothing was added. That is a common way to draw a curve, and an innocent one, as long as trades are short and every one has an exit that can be reached.
+Entries go the same way. You place your buy a few cents under the market at the level you like, because chasing is for amateurs. The price comes down to within two cents of your order, stops, and leaves without you. Twenty minutes later you buy it much higher, because now you are afraid of missing the whole thing. The perfect entry cost you a worse one.
 
-Daniel's rule bought a name after a pullback and sold it at a target. It had no stop and no time limit. If a position went against it, the rule held it until it came back to the target, however long that took.
-
-I redrew the curve marking every open position at its price every day, the way an account would feel it. The ruled line broke into a coastline. Most of the time it still rose. But there were long stretches where a position or two sat far under water, for weeks, once for most of a year, and the account carried that weight the whole time. None of it had shown, because none of it had closed. Every one of those positions had come back in the end. That was why there were no losing months: the rule had never taken a loss. It had only waited.
-
-Then I asked the last question, which I should have asked first. Where did the list of names come from? It came from the companies listed today. A name that had fallen and never come back had stopped trading years ago and was not in the data. The rule had been tested only on names that had survived. Of course they had all come back. Coming back was the condition for being in the test.
+Every trader has lived both of these weeks. Neither feels like a mistake while it is happening. Each feels like discipline.
 
 ---
 
-I wrote all of this to Daniel as plainly as I could. He was quiet for a day. Then he did the honest thing: he gave the rule a stop and a time limit, rebuilt the list of names to include the ones that had died, and ran it again.
+We are taught that excellence means no gaps. Full marks. The flawless presentation. A job not done perfectly is a job not finished. Laozi sees it the other way: the greatest completion has a gap in it, and that gap is why it keeps working. A bowl with no space inside is not a better bowl. It is a lump.
 
-The new curve was ragged. It had losing months, a good number of them, in plain sight. It still leaned upward, less steeply and less evenly, and whether it was worth trading was now a real question instead of an obvious answer. He sent it to me with one line: *It looks so much worse.*
+A finished trade is like that. The exit with a little left on the table is the one you can repeat, a hundred times, without needing to be lucky. The exit at the high is one you cannot plan, only remember. The trader who demands the perfect exit is grading this morning against a chart from this evening, and he will lose that comparison every day he trades.
 
-It looked like a trade. That was what I wrote back. The first curve described a rule that could not lose, and no such rule exists. The second described a rule that could, and said how much, and how often. Only the second could be sized. You cannot size against a loss you have hidden from yourself.
+*Great skill seems clumsy.* The skilled exit is a plain one. You sell some where you planned. You keep a piece and give it a loose reason to stay. You accept that the piece you sold will often have been worth more, and the piece you kept will often give some back. From the outside it looks like a trader who cannot quite make up his mind. From the inside it is a trader who has stopped trying to own the top and the bottom.
 
 ---
 
-大成若缺，其用不弊. I had read the line for years as a saying about modesty. That week I read it as a test. The thing that is truly complete looks as if something is missing from it, because it shows its losses. Its use does not wear out, because nothing in it is waiting to arrive all at once.
+The evening is where this changes. The chart is open, the high is there, and the old voice starts measuring the distance from your exit to it.
 
-My own forward books look nothing like Daniel's first chart. They pause, fall, recover, fall again. When I print one beside a curve like his, mine looks clumsy. *Great skill seems clumsy.* I used to be a little embarrassed by that. Now the dents are what I look for first. They are the evidence that the curve was drawn honestly, every day, with every name that was really there.
+*Movement overcomes cold. Stillness overcomes heat.* This is the heat. You do not answer it with a new rule about the bar you should have seen. You let it be still. You look at the trade and ask a smaller question: did it reach the area I marked, and did I sell there? It did, and you did.
 
-Afterwards I added a question to the gate, the one that had found the problem: draw the curve marking every open position every day, and look at the worst stretch. It is a dull question. It would not have been needed if I had kept the first line of this chapter in mind: when the curve is perfect, look for where the flaw went.
+The rest of the move belonged to somebody else. You took a large middle piece of a move you saw coming, and you are flat tonight with nothing to manage. You close the chart.
+
+## Try This
+
+For the next week, when you review a closed trade, do not mark the high or the low of the move on the chart. Mark only where you planned to act and where you did. If you catch yourself measuring the distance to the top, close the chart and come back to it tomorrow.
 
 ---
 

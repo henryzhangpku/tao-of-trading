@@ -14,69 +14,67 @@ There is no disaster greater than not knowing what is enough, and no fault great
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. The same horse can pull a plough or carry a soldier. The same account can work the field quietly, or be kept saddled at the gate for a fight.
+Hunger is the engine. The traders who make it are the ones who always want more. You set a target, you hit it, and you set a bigger one, because standing still is going backwards. Satisfaction is how a trader gets soft; the day you stop wanting more is the day someone hungrier takes your seat. A good month is not a finish line, it is the new floor. If you made it once, you can make more. Anyone who has climbed anything, in any field, climbed it this way.
 
-2. No disaster greater than not knowing what is enough. Most accounts that blow up were not wrong about the market. They were wrong about enough.
+## The Other Way
 
-3. Enough is a number. Write it before the entry, on the same line as the stop: the place where you take what was offered and leave.
+1. *The galloping horses are sent back to manure the fields.* In a trader who has the way, the speed and the nerve are put to dull, useful work.
 
-4. A target written after the entry is not a target. It moves with the price, and it only moves one way.
+2. *Warhorses are foaled at the edge of the city.* In a trader who has lost it, the war is bred at home. Every day in the account becomes a battle.
 
-5. No fault greater than wanting to get. Wanting is not the fault. Wanting more than you wrote down is.
+3. *No disaster greater than not knowing what is enough.* The disaster is not the loss. It is the target that moves.
 
-6. "Let it run" is a rule only if it was written as one, with how it runs and how it stops. Otherwise it is a mood.
+4. A target raised the moment you reach it was never a target. It is a leash, and someone else is holding it: the next number.
 
-7. Enough has a size as well as a price. The size you planned is enough; the size the good feeling suggests is a second trade you did not test.
+5. *No fault greater than wanting to get.* A trade taken to reach a number is a different trade from one taken because it is there, even when they look the same on the ticket.
 
-8. Enough for the day, too. A day that has done what the rule allows is finished, even at eleven in the morning.
+6. Comparing your month with someone else's is wanting to get, with a second account added that you do not even own.
 
-9. Discontent rarely sounds like greed. It sounds like a reason: the move is strong, the news is good, the target could come up a little.
+7. The hungry trader is never at peace. So he is never still, and a trader who is never still does not see well.
 
-10. The trade that reached its number and kept going without you is not a loss. It is the price of having a number at all. Pay it, and keep the number.
+8. Enough is not a sum you reach. It is something you know, and you can know it at any size.
 
-11. The enough of knowing enough is always enough. A target you keep is worth more than a better one you would move.
+9. *The enough of knowing enough is always enough.* It is enough on a losing week too. That is how you tell it is the real one.
 
 ## The Story
 
-For a long time my trade cards had the lines in the wrong order. Entry came first, because the entry was the exciting part. Then the size, then the stop. The target came last, and on most cards it was not there at all. Where the target should have been I had written *see how it goes*, or nothing, or a number in a different pen that had plainly been added a few days later.
+At the start of the month you set yourself a number. A sensible one, one you have reached before. You write it on a card by the screen.
 
-I did not think of this as a fault. I thought of it as leaving room. A good trade might run, and I did not want to cap it with a number I had invented before I knew how strong the move would be. That sounded like humility. It was the opposite. A trade without a written enough is a horse kept saddled at the gate. It is never sent back to the field, because there is always a chance of a fight.
+By the middle of the second week you are there. You feel it in your chest: a lightness that lasts most of an afternoon. Then, sometime that evening, a thought arrives that sounds like ambition. If you can make this in two weeks, the month should be worth double. You cross out the number on the card and write the new one.
 
----
-
-The change was small, and I made it on paper first. I reprinted the card with the lines turned upside down. The first line is now the target, and the stop sits beside it on the same line, so that I cannot write one without seeing the other. Then the size. The entry is at the bottom, and it is the last thing I am allowed to write.
-
-What you write first decides what you can write after. I had not understood how much until the first morning I used the new card.
-
-It was an ordinary Thursday. A name met the rule's conditions before the open, cleanly, the kind of setup I would once have entered and then thought about. Now I had to start at the top. Where is enough? Not where I hoped the price would go, but where the rule's own measure put it: the distance the rule expects a move of this kind to travel, nothing added for the good feeling. I wrote it down. Then the stop, where the rule puts the stop. Then I looked at the two lines together.
-
-They were too close. Not wrong, just close. The distance to enough was hardly larger than the distance to the stop, and once the costs of getting in and out were taken from the good side and added to the bad, I could see without a calculator that the trade needed to be right far more often than this kind of trade is right. The card had not even reached the size line, and the trade was already finished.
+The next morning you sit down behind. Yesterday you were ahead; today, with the same account, you are halfway short. The trades you take look the same as usual, but they are not quite. They are a little larger. They are taken a little sooner. A few of them you would not have taken last week, when you were not in a hurry to be anywhere.
 
 ---
 
-What happened next is the part this chapter is about.
+In the third week, a trader you follow posts a month that is twice yours. You did not want to look, and you looked. Now the new number feels small too.
 
-I wanted to move the target. I want to be honest about how quickly the wish arrived and how reasonable it sounded. The name was strong. There was good news in its industry. The market was in a generous mood. Surely, on a morning like this, enough could be a little further away. If I nudged the top line up, only a little, the two lines would sit at a comfortable distance, and the trade would pass.
+The war has started, and it is inside your own walls. The account is no longer a place you trade from. It is a front line. Every quiet day is a day lost. Every small win is not enough. You give back a little, then more, then you size up to win it back faster, because faster is the only speed a hungry trader knows. By the last day of the month you are below the first number, the sensible one, the one you had already reached and crossed out.
 
-*Discontent rarely sounds like greed. It sounds like a reason.* I had written that line in this chapter before I lived it again that morning. The target I wanted was not a description of the market. It was a number chosen to make the trade pass. I was not asking where enough was. I was asking how far away enough needed to be for me to get what I wanted, which is the question Laozi calls the greatest fault.
-
-I did not take the trade. The card went into the file with the entry line blank, which is how most of the cards in that file look now. A blank entry line is not a missed trade. It is a target that was told the truth.
+You did not lose because the market turned on you. You lost because you could not stand on the place you had already reached.
 
 ---
 
-On the desk, the same idea is written in code, where it is harder to argue with. In the forward books, the target is one of the lines the fingerprint pins. It is in the frozen file beside the entry condition and the stop, and it cannot be raised mid-trade any more than the entry can be changed after the fill. A rule that raised its own target on generous mornings would be a different rule, with a different fingerprint and a day count starting at one. I like that the machine cannot be talked into a better number. I could be, and was, for years.
+Everything in ordinary life tells you that wanting more is the right way to be. A raise is the floor for the next raise; a bigger house is the step before a bigger one. To say *this is enough* sounds like giving up. Laozi turns it round. He does not say the greatest disaster is losing. He says it is not knowing enough. A loss is something that happens to you. Not knowing enough is something you do to yourself, every day, and it turns your best month into your worst.
 
-The model on the desk reads the books each morning, and once it did suggest what I had wanted that Thursday: let the target rise when the move is strong. It is a reasonable idea. It went into the ledger as its own trial with its own clock, the way every proposal does, and the frozen books kept their numbers. I am not going to tell you how that trial is doing. It is enough that it was asked in the right place.
+So there is another month, and it starts the same way: a sensible number on a card.
+
+By the middle of the second week you reach it. You feel the lightness, and you let it last. You do not cross anything out. Instead you send the horses back to the fields. For the rest of the month you trade smaller. You take only the plainest setups, the ones you could do half asleep, and on some days you take nothing. The nerve and the speed you used in the first two weeks are still yours. They are just not at war.
+
+When the trader you follow posts his month, you read it the way you would read about someone's weather in another city. Then you close the page.
+
+At the end of the month you are a little above the card. Not double. Nothing on the card was ever about double.
 
 ---
 
-The cards changed my days more than my trades. A trade with a written enough ends, and a day made of trades that end can end too. One morning the only position on the book reached its top line before eleven and left, as written. The rule allowed nothing else that day. I had the whole afternoon, and I did something I had not done on a trading day for a long time. I went outside and dug the garden.
+*The enough of knowing enough is always enough.* This is not a promise that the content trader makes more. Some months he will make less than the hungry one. What he does not do is turn a good month into a bad one with his own hands, and in a trading life that alone is a great deal.
 
-*When the world has the way, the galloping horses are sent back to manure the fields.* I used to read that as a line about peace between kingdoms. Now I read it as a line about an account, and an afternoon. The horse is not less of a horse for pulling a plough. It is only not at war.
+The hunger does not go away. You will still want more, the same as everyone. What changes is who is holding the reins.
 
-The enough of knowing enough is always enough. The number at the top of the card is not the most the trade could give me. It is the most I agreed, in a quiet room, to want.
+## Try This
+
+At the start of next month, write one sensible number on a card and do not change it when you reach it. Once you are there, halve your size for the rest of the month and trade only what you would trade tired. Stop reading anyone else's results until the month is over, and watch what the last two weeks feel like.
 
 ---
 

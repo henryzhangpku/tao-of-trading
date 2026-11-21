@@ -18,69 +18,65 @@ The sage lives in the world drawn in and quiet, and for the world's sake he keep
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. No fixed mind. The trader who calls himself a bull has answered the question before the market asked it.
+A trader needs a view. You read the market, you decide where it is going, and you hold that view until the evidence truly changes. People who flip back and forth get chopped to pieces. The big money was made by traders who saw something early and stayed with it while everyone else wavered. When the market does something irrational, you recognise it for what it is; irrational moves correct, and your view gets paid. In life as in markets, people respect someone who knows what he thinks.
 
-2. Take the people's mind as your mind. Price is everyone else's vote, counted. You do not have to agree with it. You have to read it.
+## The Other Way
 
-3. The position belongs to the rule, not to you. You can close it without becoming someone else.
+1. *The sage has no fixed mind.* Not no mind. No mind that was set before the market opened.
 
-4. Before a new rule goes into a test, argue against it on paper as well as you can. If you cannot make the case against, you do not yet understand the case for.
+2. *He takes the mind of the people as his mind.* The market's mind is everyone in it, at once. It is the only mind that is priced.
 
-5. The good I treat as good, and the not good as well. Winning trades and losing trades go into the same ledger, in the same columns, with the same care.
+3. "Irrational" is the word for a move you did not expect. The market does not make irrational moves. It makes moves.
 
-6. The trustworthy I trust, and the untrustworthy as well. A source is not believed and not dismissed. It is logged: every call, the misses with the hits, until the count speaks.
+4. *The good I treat as good.* The move that pays you: accept it, without making it into proof.
 
-7. Keep the mind unsharpened. Certainty is an edge, and it cuts the hand that holds it.
+5. *The not good I also treat as good.* The move that hurts you: accept it the same way. It is information, not insult.
 
-8. A view is a hypothesis with a stop. When the stop is reached, the view leaves with the position.
+6. *The untrustworthy I also trust.* The squeeze, the gap, the rally on bad news. It traded there. Trust that before you trust your view of it.
 
-9. The crowd strains its eyes at every screen. It is neither your enemy nor your guide. Treat it kindly, and take no orders from it.
+7. A view you have said out loud is much harder to drop than one you kept to yourself. Every time you announce it, you fix it a little more.
 
-10. Opinions are free to have and expensive to hold. Have as many as you like. Hold none of them with size.
+8. *Drawn in and quiet.* Fewer declarations, fewer predictions, fewer threads about what must happen.
+
+9. *He keeps his mind unsharpened.* The sharp view is the brittle one. A blunt, mixed mind can take the market's shape.
+
+10. *The sage treats them all as children.* When people ask for your call, answer gently, and do not hand them a fixed mind of their own.
 
 ## The Story
 
-For about two years, if you had asked me at dinner what I thought of one particular corner of the market, I would have told you, with some warmth, that I was a bull on it. I had reasons. I had read about it for a long time, I understood the businesses, and the story made sense to me in the way stories do when you have told them to yourself often enough. It was not a position. It was closer to a part of my name.
+You have been bearish for months. It was a good view when you formed it. You can lay out the reasons in order, and people in the room you trade with know them, because you have laid them out many times. When someone posts a chart, they half expect your reply.
 
-So when I wrote a new rule that bought names in that corner when they broke out of a quiet range, I liked it before I had tested it. That should have been the first warning. I did not notice it, because liking a rule you agree with does not feel like bias. It feels like being right twice.
+The market goes up anyway. Not fast, but steadily, week after week. Each rally you call a rally on thin air. Each up day you mark down as irrational, a sign the end is nearer. You position for the fall in small, defined ways, and each one costs a little. The small costs add up to something you no longer like to look at.
 
----
-
-By then I already had the habit this chapter's outline asks for, at least on paper. Before any new rule goes into the ledger, it gets a page with a line down the middle. On the left, the case for it. On the right, the case against, argued as well as I can argue it, as if I were being paid by the other side. The page is filed with the trial, so that anyone reading the ledger later, including me, can see what I believed going in and what I was warned about.
-
-The left side of that page took ten minutes. The right side sat empty for most of an evening.
-
-I tried. I wrote that the rule might be hurt by costs, which is true of every rule and not an argument. I wrote that breakouts often fail, which is also true of every breakout rule, and which the stop was already there to handle. I could not find anything that felt like an argument against this particular rule, in this particular place. I took that, for about an hour, as evidence that the rule was good.
-
-*If you cannot make the case against, you do not yet understand the case for.* I had written that line myself, and I was failing it in front of myself.
+Someone in the room asks, *still bearish?* You say yes, more firmly than last time. You have to. You have said it so often that changing now would mean admitting that the months were wasted, and the people watching you would see it. So you say it louder, and the market keeps going up, and the gap between what you think and what is happening becomes the main thing in your trading day.
 
 ---
 
-So I asked someone else. The model on the desk is good at many things, and one of the things it is best at is arguing a side it has no stake in. It does not love the corner of the market I loved. It does not love anything. I gave it the rule and the left side of the page, and asked it to write the right side as if its job depended on stopping the trial.
+Look at where your mind has been. It has been fixed on a picture of the market that you painted months ago. Every new piece of information arrives and is sorted: this supports the picture, that is irrational. The market has been telling you something for weeks, very plainly, and you have been treating it as a child who does not understand.
 
-It came back with several objections. Most were the generic ones I had already written. One was not, and it was the one I had spent the evening not seeing.
-
-The rule only bought. It never sold short, and it only looked at one corner. Its history ran mostly through years in which that corner had risen. So a rule that bought breakouts there would look good in that history whether or not breakouts meant anything, simply because buying almost anything there had been rewarded. The rule, the model wrote, might not be a rule at all. It might be my view, wearing a rule's clothes.
-
-The trustworthy I trust; the untrustworthy I also trust. I did not want to trust that paragraph. I trusted it anyway, which in practice meant testing it rather than arguing with it.
+We are taught that having strong opinions is a strength. Know what you believe, defend it, do not let people push you around. Laozi turns it over: the sage has no fixed mind, and takes the mind of the people as his own. For a trader, the people are the market: everyone buying and selling, at once, at a price. That mind is not wise or foolish. It is simply the one that is true today.
 
 ---
 
-The test was plain. If breakouts in that corner carried information, the information should show up against the right comparison: not against nothing, but against the same corner bought at random. So the rule went into the ledger beside its random control, the same number of picks from the same corner chosen by dice, and the question became whether the rule could tell its days apart from the coin's. I also wrote the mirror of the rule, the same logic turned over to sell breakdowns, and gave it its own trial and fingerprint. Not because I wanted to trade it, but because a rule whose logic only works in the direction I already believe is a rule I have to be suspicious of.
+So there is another morning.
 
-I am not going to tell you how either trial came out. What I can tell you is what writing them changed.
+You sit down and, before anything else, you put your view on a shelf. You do not throw it away. You just set it where you can see it, outside yourself. Then you look at what the market is doing, as if you had no opinion. It is going up. It has been going up for a while. The dips are being bought. That is the market's mind this morning, and for the length of the session you borrow it.
 
-It changed the dinner sentence. I stopped calling myself a bull on that corner, or on anything. It is not modesty. It is that I had seen, on one page, the cost of the word. Once I was a bull, every bullish rule I wrote passed the first test, which is the test of whether I like it, and that test has no value at all. The identity was doing my research for me, and it was not a good researcher.
+You do not have to become a bull. You do not have to decide that your old reasons were wrong. You only have to stop arguing. Maybe you trade small in the direction it is going. Maybe you do not trade at all. What you do not do is spend another day treating the price as a mistake.
 
-And it changed the page. The right side is no longer something I fill in alone. Every new rule's case against is written twice, once by me and once by the model, and the trial cannot start until both are filed. The model proposes; the rules decide. Here the model's proposal is an objection, and the rules decide by adding the right control, not by taking a side.
+Someone in the room asks, *still bearish?* You write: *I don't know where it ends. Right now it's going up.* It is a dull answer, and a few people are disappointed. Nobody can build a fixed mind of their own on it, which is the point.
 
 ---
 
-*The sage has no fixed mind. He takes the mind of the people as his mind.* I read that, for years, as an instruction to be agreeable. I read it now as a description of what price is: everyone else's mind, counted, every day. The rule's job is to read that count. My view of the corner had been one more vote in it, and I had been treating my vote as the result.
+*The good I treat as good. The not good I also treat as good.* This is not indifference. It is a refusal to sort the market into what agrees with you and what does not. When you stop sorting, the day becomes simpler. The market goes where it goes, and you follow at whatever distance you choose.
 
-*For the world's sake he keeps his mind unsharpened.* I used to want a sharp view, the kind you can say in one sentence at a table. A sharp view is an edge, and it cuts the person who holds it. The page with a line down the middle is a way of keeping it blunt, one rule at a time.
+The view on the shelf may turn out right some day. If it does, you will see it in the price, because by then you will be watching the price.
+
+## Try This
+
+Before your next session, write your view of the market on a piece of paper and put it face down beside the screen. Trade the session from what the price is doing, and turn the paper over only after the close. For a week, do not post or say your view to anyone, and notice how much easier it is to change.
 
 ---
 
