@@ -22,59 +22,65 @@ The way in the world is like streams and valleys running to the rivers and the s
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Before a trade has a name, it is only a price and a rule: plain, small, and answerable to nothing but the rule.
+Know who you are. You were told that at school when you chose a subject, at work when you chose a career, and every time someone asked you to describe yourself in one line. People who know who they are get somewhere; people who try to be everything get nowhere. Trading is the same. Decide what kind of trader you are: a scalper, a swing trader, a trend follower, a value buyer, a contrarian. Pick a style that suits your temperament and commit to it. Say it out loud. Write it at the top of your plan. A trader with a clear identity knows which trades are his and which are not, and does not drift.
 
-2. The uncarved block cannot be made a servant. A plain rule does not serve your mood, the news, or your last loss.
+## The Other Way
 
-3. Sweet dew falls evenly, and no one orders it. Let risk fall the same way: the same share of the account on every trade, set by a formula, not by fondness.
+1. *The way is forever nameless.* The market does not know what kind of trader you are. It does not move differently for scalpers or for investors. It only moves.
 
-4. When the cutting begins, there are names. *My big idea. My core position. The one I have been right about.* Names make positions grow.
+2. *The uncarved block is small, yet nothing under heaven can make it a servant.* A trader with no title is plain and small. Nothing can order him about, not even his own story of himself.
 
-5. Once there are names, know when to stop. Once you have labelled a trade, know when to stop adding to it.
+3. A label is a master. "I am a long-term holder" will tell you to keep a broken trade. "I am a day trader" will tell you to throw away a good one at the close.
 
-6. Adding is a deliberate act: written, sized, made on one screen. Never a reflex at the moment the price moves.
+4. *When the cutting begins, there are names.* Every name is a cut in the block. It makes you a better fit for one kind of day and a worse fit for all the others.
 
-7. Knowing when to stop keeps you out of danger. The cap on any one position is written before the first unit is bought.
+5. Watch how a losing trade changes its name. It starts as a day trade, becomes a swing, then becomes an investment. The name changes so that you do not have to.
 
-8. Streams run to the sea because the sea lies lower. A good process does not pull trades in. It waits low, and the right ones arrive.
+6. *Once there are names, one must know when to stop.* You cannot trade without words. Stop at the point where the word begins to make the decision.
+
+7. *Knowing when to stop is how one stays out of danger.* The danger is not in having a name. It is in defending it. The trader who must be a contrarian buys every fall, because selling would mean he is someone else.
+
+8. *No one orders it, and it falls evenly on all.* Every trade gets the same plain treatment: where you got in, where you are wrong, when you will look again. What you called it on the way in changes none of that.
+
+9. Your record does not say who you are. It says what you did. Read it as a list of actions, and it will teach you. Read it as a verdict on your identity, and it will only hurt or flatter.
+
+10. *If lords and kings could hold to it, the ten thousand things would come to them as guests.* Stay uncarved, and each day's market can come to you as it is, instead of being turned away at the door for not matching your style.
 
 ## The Story
 
-The trade card gives every position a name, and the name is its ticker. Nothing else. I had not thought of that as a rule until the day I noticed I had broken it.
+You are a swing trader. You have said it for two years. It is in your bio on the forum and in the first line of your plan. On Friday you bought a stock breaking out of a range, and you wrote down that you would be out on a close back inside it.
 
-It was a position that worked. An ordinary trend rule had opened it at an ordinary size, and over some weeks it did what trend positions now and then do: it kept going. Nothing about it was remarkable at the start. That is how it usually is.
+Monday it opens below the range. Not by much. You look at it at nine thirty-five and feel the hand move toward the sell button, and then a sentence arrives: swing traders give their trades room. That is what you are. Day traders panic on the open. You take your hand away.
 
-I noticed the breaking in my own notebook. For the first week the position was written down by its ticker. Some time in the third week, without my deciding it, it became *the big one*. By the fifth it was *my core position*. I found the phrase on a Sunday, reading back, and it gave me a small cold feeling. *When the cutting begins, there are names.* Nobody had cut anything. But the block had a name now, and the name was mine.
+By Wednesday it is lower again. Now a new sentence arrives. It is a good company. You would be happy to own it for a year. At lunch you open the annual report, which you had never read, and you find reasons to like it. The trade has become an investment. You notice you feel calmer, and you take the calm as a sign that you are right.
 
----
+On Thursday morning something else happens. A name you follow drops hard into the open on nothing, and by ten it is turning, cleanly, the way you have seen a hundred times. It is a move for an hour or two, no more. You look at it and let it go, because that is a day trade, and you are not a day trader. It runs all morning without you.
 
-Names make positions grow. I knew that from the other direction, from the losing trade in an earlier chapter that I kept feeding all the way down. A winner grows the same way, only it feels better. Each day the price rose, I felt the pull to own a little more of something so obviously right, and the pull came with the price, minute by minute, not with any decision.
-
-The rule that opened the position does allow adding. It allows it in a particular way, written before the first unit was bought. An add is a fresh trade. It needs its own trigger, a new high beyond the last one by a set distance; its own card; its own stop; and the same share of the account at risk as any other trade, not more because I am fond of this one. *No one orders it, and it falls evenly on all.* Above all the adds there is a cap: the most the account may hold in any one name, written on the first card, in the first week, when the position had no name but its ticker.
-
-The add is deliberate in a physical sense too. It is made on one screen, the add screen, which shows the cap, what is already held, and the room that is left. It is not a button beside the price. I built it that way after watching myself, years earlier, add to things on my way to doing something else.
+Three weeks later you sell the investment at a price you would never have accepted on Monday. When you write it up, you write that you held it too long. That is not quite it. You held it as long as each of its names allowed, and you kept finding new names.
 
 ---
 
-The rule added twice over those weeks. Both adds were dull. The trigger came, a card was filled, the executor bought the stated size, and the stop for the new units went in at its own level. I approved each one on the add screen and went back to reading. That is what adding should feel like.
+Now the same week, with no title at the top of the plan.
 
-Then, on a strong morning, I wanted a third. The trigger had not come. The price was rising, but it was not yet past the level the rule asked for, and I did not much care about the level. My core position was moving and I wanted more of it.
+On Friday you buy the same breakout. The plan says: bought here, wrong on a close back inside the range, look again Monday. It does not say what kind of trade this is. There is nothing to defend except the price.
 
-I opened the add screen anyway, as if it might agree with me. It did not argue. It showed the cap, what was held, and the room left, and the room was small: the two adds had nearly filled it. Under that was the line I had put there for mornings like this one: *the cap is changed by writing a new rule; a change takes effect next session.*
+Monday it opens below the range. You feel the same pull to wait, and a sentence starts to form about giving it room. You notice the sentence. Room was not in the plan; the close inside the range was. You sell at the open. It is a small loss, and it is the one you agreed to on Friday.
 
-*Once there are names, one must know when to stop.* I had known when to stop five weeks earlier, on the first card. That morning I only had to read what I had known.
+Thursday the other name drops and turns. It is not your usual kind of trade, and you notice that thought too. Then you ask the plain questions. Is there a place where you are wrong? Yes, just under the morning low. Is the size small enough to be wrong there? Yes. You take it, small, and you are out by early afternoon because the move has done what it was doing. It might have failed. That was fine as well. You had a price for it.
 
-I closed the screen. I did not feel wise. I felt like someone going to the refrigerator for the third time in an evening and finding my own note taped to the door.
+At the end of the week you are not sure what kind of trader you were. You did what each trade asked for. You are not a swing trader or a day trader in your notes for that week. You are just someone who bought and sold at prices he wrote down.
 
 ---
 
-What happened to the position is not the story, and I am not going to tell it. It ended the way every position ends, at its exit, on its rule's terms.
+We are taught to find ourselves and then stay true to who we found: choose the subject, the career, the style, and never betray it. The old book sees it the other way round. *The way is forever nameless.* Names are useful for a while, and then they start to give orders. *Once there are names, one must know when to stop.*
 
-The story is the name. That Sunday I went back through the notebook and crossed out *the big one* and *my core position* wherever I found them, and wrote the ticker over each. It looked childish. It was the most useful hour of that month. A ticker is the block before the carving: plain, small, answerable to nothing but the rule. A name is a reason to keep going.
+The market never asked who you were. It only asked what you would do at the price.
 
-*The way in the world is like streams and valleys running to the rivers and the sea.* The water does not decide how much the sea should hold. The sea is simply lower. The cap sits low, the position runs to it, and there it stops.
+## Try This
+
+For the next five sessions, write the plan for every trade without a single label: no "swing", "core", "long-term", "scalp", "investment". Write only where you got in, the price that says you are wrong, and when you will look again. If you find yourself wanting to change the plan mid-trade, first write down the name you were about to give the trade. At the end of the week, look at which names turned up, and on which trades.
 
 ---
 

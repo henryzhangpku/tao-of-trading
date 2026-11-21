@@ -18,85 +18,63 @@ Whoever does not lose his place endures. Whoever dies and is not lost lives long
 
 *The Chinese is the received Wang Bi text. The translation is the author's own.*
 
-## The Trader
+## What You Know
 
-1. Knowing the other side is cleverness: what they hold, what they fear, where their stops sit. Knowing yourself is clear sight, and it is rarer.
+You find out how good you are by looking at everyone else. School ranked you from the first year. Work has reviews, bonuses and a list of who got promoted. At family dinners someone always asks how your cousin is doing. Trading is the same, only faster. You watch what other traders are making. You read the chat, the screenshots, the monthly returns. You check yourself against the index, because if the market is up three percent and you are up one, you are losing. Knowing what others hold and how they are doing keeps you sharp. The good ones are always measuring.
 
-2. Anyone can study the market. Only you can study you, and you are the part of the system that moves the most.
+## The Other Way
 
-3. The journal is the only honest mirror. Memory is a mirror that flatters.
+1. *Whoever knows others is clever. Whoever knows himself has clear sight.* You can know what the crowd holds to the last share. You still will not know why your own hand moved at fourteen minutes past ten.
 
-4. Write the note before the outcome is known. A note written afterwards is a story.
+2. Another trader's number tells you nothing you can use. You do not know his size, his risk, his worst day, or whether the screenshot is the whole account.
 
-5. Whoever overcomes others has force: beating the other side of one trade is a day's work. Whoever overcomes himself is strong: keeping the rule is every day's work.
+3. Comparison turns the market into a race. In a race, the one who is behind takes more risk to catch up, which is the worst moment to take more risk.
 
-6. Whoever knows what is enough is rich. Enough is a size, a target and a number of trades in a day, written down before the open.
+4. *Whoever overcomes others has force.* Beating the index this month, or the person in the chat, takes force. Force runs out.
 
-7. Whoever keeps going has purpose. The note on the dull day matters as much as the note on the wild one.
+5. *Whoever overcomes himself is strong.* The one opponent you can actually beat is the part of you that wants to catch up.
 
-8. Whoever does not lose his place endures. Your place is the plan. Leave it, and you are a visitor in your own account.
+6. *Whoever knows what is enough is rich.* Enough can only be measured against your own plan. Measured against other people, there is never enough. Someone always made more today.
 
-9. A closed trade dies, and in the journal it is not lost. That is the only place it can still teach you anything.
+7. Watch what a feed of other people's wins does to you. It does not change the market. It changes your size the next morning.
+
+8. *Whoever keeps going has purpose.* Your pace is set by your risk and your plan. Someone else's pace is set by his, and you cannot see either.
+
+9. *Whoever does not lose his place endures.* Your place is your own size, your own hours, your own kind of trade. Every comparison is an invitation to leave it and trade from someone else's seat.
+
+10. *Whoever dies and is not lost lives long.* The trader worth being is the one still at the desk years from now, not the one at the top of this month's list.
 
 ## The Story
 
-For years I spent my evenings studying other people. What the big funds were said to be holding. Where the crowd on the forums had their stops. What the person on the news was afraid of. It felt like work, and some of it was useful. *Whoever knows others is clever.* I was trying hard to be clever.
+It is Thursday afternoon, and the day went fine. Two small trades, both to plan, one up and one flat. You close the platform and open the chat.
 
-It did not occur to me for a long time that the one trader whose every decision I had a written record of was me.
+Someone has posted a screenshot. A stock you looked at on Monday and passed on has run nine percent, and he caught most of it. Below it, three people have posted their own gains for the day. Nobody has posted a loss. Then you look at the index. It is up three percent for the month. You are up a little over one.
 
----
+The good feeling about your day is gone. In its place is a feeling you know from school: you are behind. You look at your two small trades and they now look timid. That evening you go through charts until late, looking for the next one that will run nine percent.
 
-The record was there because of the card. Every trade I take has a few lines filled in before the order goes out: what the edge is supposed to be, the most it can lose, the stop, the day I will leave if nothing happens, and a short field called *why*. Over a year that is a lot of cards. I had been filling them in faithfully and almost never reading them. They went into a folder the way receipts go into a drawer.
+Friday morning you come in already behind. You do not say it in words, but it sits in your chest. You buy the stock from the chat, which has run another two percent overnight, at twice your normal size, because a normal size cannot close the gap. At ten it stalls. At half past ten it gives back half of yesterday's move. Your stop was going to be under the morning low, but now that seems too close for a trade this important, so you give it more. By lunch you are out, and the loss is bigger than any you have taken in a month.
 
-One December, in the dead week when markets are thin and the screen has nothing to say, I put a whole year of cards into one file and read it from the first line to the last. It took two evenings. I read it the way I would read someone else's: slowly, with a pencil, looking for patterns rather than for excuses.
-
-I was not reading for results. The results were somewhere else, and they were not what I wanted to know. I wanted to know what I was like.
+You check the chat. Nobody mentions the stock. Nobody ever posts this part. You are now behind the index by more than you were on Thursday, and you know exactly who you are behind, and you have no idea who any of them are.
 
 ---
 
-The first thing I noticed was the words.
+The same Thursday. Two small trades to plan. Before you open anything else, you write three lines about your own day. What you meant to do. What you did. The one moment your hand hesitated, and why.
 
-Most of the *why* fields were dull, which is how they should be. *Breakout of the range, rule conditions met. Size from the recent swings.* But here and there a different voice came through. *Obviously oversold. This has to turn. Finally the setup I have been waiting for. Can't go much lower.*
+Then you open the chat and see the screenshot. The pull comes, the same one. This time you notice it and write it down under your three lines: *saw the nine percent, felt behind, wanted to find one like it*. Then you write why you passed on Monday. It was a real reason. It still is.
 
-I searched the file for those words: obviously, has to, finally, can't. There were not many of them. That was what made them easy to see. And when I set the cards that contained them side by side, they had something else in common. Almost all of them were trades where I had stepped outside the plan in some way: entered on a name the rule had not chosen, sized up beyond the card, or put the stop where I wanted it rather than where it belonged.
+You do look at the index, once. Up three for the month, you up one. You write that down too, as a fact and not a grade. Your size is set for your account and your worst day, not for keeping up with a number that carries no risk of its own.
 
-The words of certainty were the words of forcing. I had never seen it, because each one, at the time, had felt like insight. You cannot hear your own voice change. You can only read it, later, next to the dull ones.
-
----
-
-The second thing was the calendar, and it surprised me more.
-
-I had always believed that my weakness was the loss. Revenge, the urge to win it back, the trade taken too quickly after a stop. I had rules against it already. I was proud of them.
-
-The cards said something else. When I marked the days on which I had broken a rule, they did not gather after bad days. They gathered after good ones. The morning after a strong session was when the size crept up, when an extra name appeared, when the *why* field got short and confident. My losses had made me careful. My wins had made me careless, and I had not known, because a careless trade that works does not feel like a mistake, and one that fails I had always blamed on the market.
-
-*Whoever knows himself has clear sight.* I had been guarding the wrong door for years. I had studied the crowd on the forums more closely than I had ever studied the man who wrote my own cards.
+Friday you come in at your normal size and trade your normal kind of setup. One trade, small, stopped out for an ordinary loss. The month ends with you behind the index. It feels bad for an evening. It does not change what you do on Monday.
 
 ---
 
-The third thing was what was missing.
+We are taught that we know ourselves by our rank: the grades, the list, the cousin, the neighbour. The old book sees it the other way round. *Whoever knows others is clever. Whoever knows himself has clear sight.* Knowing the others is easy now; they post it all day. Knowing what your own hand did, and why, is the part no one can post for you.
 
-There were days with trades and no cards. Not many. I went and found the trades in the account statements, and read them, and I knew without checking why the cards were not there. They were the days I had not wanted to look at while they were happening. A missing note is a note too. It says: here is where you stopped watching yourself.
+You only have to answer for one account.
 
----
+## Try This
 
-I made three changes, and none of them was clever.
-
-The card now looks at its own *why* field. If certain words appear in it, the order does not go out until I answer one more line: *what would make this wrong, and where?* It is not a ban. I can still take the trade. But it is very hard to write *obviously* and then write, on the next line, the exact price at which you are obviously wrong, without hearing yourself.
-
-The morning after a good day, the size is the size. Nothing grows by itself. If a size is going to change, it changes on a weekend, on paper, as a decision about the rule, never as a feeling about yesterday.
-
-And no card, no trade. A trade without a note is refused before it is sent. The days I least want to write about are the days the note is most needed.
-
----
-
-Then the habit that came out of it, which is the part I would keep if I could keep only one. Every quarter, in a dull week, I read the cards again, start to finish, with a pencil. Not the results. The cards.
-
-It is not pleasant. The person in the file is impatient in ways I would not have admitted, sure of himself in the wrong places, and lazy on exactly the days that mattered. He is also, slowly, getting better, and the file is the only place I can see that too. Memory keeps neither: not the mistakes, which it softens, nor the progress, which it takes for granted.
-
-*Whoever overcomes others has force. Whoever overcomes himself is strong.* The other side of a trade I meet once. The man who writes the cards I meet every morning, and he is the only opponent who knows all my habits.
-
-*Whoever dies and is not lost lives long.* A trade closes, and on the screen it is gone, as if it had never been. In the file it is still there, with its date and its reason and its one revealing word, waiting for a December evening when I am ready to read it. A trade closed and not written down dies twice.
+For the next five sessions, do not look at anyone else's results, not the chat, not a feed, not the index's return for the month, until you have written three lines about your own day: what you planned, what you did, and where you left the plan. When you do look, write one more line on what you felt and what you wanted to do next. At the end of the week, look at the mornings after you felt behind, and at your size on those mornings.
 
 ---
 
